@@ -909,6 +909,10 @@ SetResults Player::setProp(PlayerProp prop, SetBy setBy, PropertyBase* base)
 				SETPROP_RETURN_IGNORE;
 			if (level == nullptr || !level->isGmap())
 				SETPROP_RETURN_REVERT;
+			// Refuse a cell outside the gmap: it would be saved to the account (as an unsigned byte, so -1 becomes 255)
+			// and the next login would find no level to send.
+			if (!level->isValidMapPosition(MapPosition{numProp->value, account.character.mapY}))
+				SETPROP_RETURN_REVERT;
 
 			if (auto subLevel = level->getSubLevelAtPosition(getMapPosition()); subLevel != nullptr)
 				leaveSubLevel(subLevel);
@@ -941,6 +945,10 @@ SetResults Player::setProp(PlayerProp prop, SetBy setBy, PropertyBase* base)
 			if (numProp == nullptr || numProp->value == account.character.mapY)
 				SETPROP_RETURN_IGNORE;
 			if (level == nullptr || !level->isGmap())
+				SETPROP_RETURN_REVERT;
+			// Refuse a cell outside the gmap: it would be saved to the account (as an unsigned byte, so -1 becomes 255)
+			// and the next login would find no level to send.
+			if (!level->isValidMapPosition(MapPosition{account.character.mapX, numProp->value}))
 				SETPROP_RETURN_REVERT;
 
 			if (auto subLevel = level->getSubLevelAtPosition(getMapPosition()); subLevel != nullptr)
