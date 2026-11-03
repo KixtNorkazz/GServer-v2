@@ -469,6 +469,9 @@ SetResults Player::setProp(PlayerProp prop, SetBy setBy, PropertyBase* base)
 			if (coordProp == nullptr || coordProp->pixelCoordinate == account.character.localPixelX)
 				SETPROP_RETURN_IGNORE;
 
+			// A jump is not a step: a position sent before the client saw a warp arrives after it (the old level's Y next to the new level's)
+			// and looked like a walk across the whole level, so the link test sent the player straight back.
+			const bool walked = std::abs(coordProp->pixelCoordinate - account.character.localPixelX) <= 64;
 			auto movementDirection = static_cast<uint8_t>(2 + std::clamp(coordProp->pixelCoordinate - account.character.localPixelX, -1, 1));
 			account.character.localPixelX = coordProp->pixelCoordinate;
 			account.status &= (~PLSTATUS_PAUSED);
@@ -477,7 +480,8 @@ SetResults Player::setProp(PlayerProp prop, SetBy setBy, PropertyBase* base)
 			if (player != nullptr)
 			{
 				player->setLastMovementTime(m_server->getFrameStartTime());
-				player->testForTouch(result, movementDirection);
+				if (walked)
+					player->testForTouch(result, movementDirection);
 			}
 			break;
 		}
@@ -488,6 +492,9 @@ SetResults Player::setProp(PlayerProp prop, SetBy setBy, PropertyBase* base)
 			if (coordProp == nullptr || coordProp->pixelCoordinate == account.character.localPixelY)
 				SETPROP_RETURN_IGNORE;
 
+			// A jump is not a step: a position sent before the client saw a warp arrives after it (the old level's Y next to the new level's)
+			// and looked like a walk across the whole level, so the link test sent the player straight back.
+			const bool walked = std::abs(coordProp->pixelCoordinate - account.character.localPixelY) <= 64;
 			auto movementDirection = static_cast<uint8_t>(1 + std::clamp(coordProp->pixelCoordinate - account.character.localPixelY, -1, 1));
 			account.character.localPixelY = coordProp->pixelCoordinate;
 			account.status &= (~PLSTATUS_PAUSED);
@@ -496,7 +503,8 @@ SetResults Player::setProp(PlayerProp prop, SetBy setBy, PropertyBase* base)
 			if (player != nullptr)
 			{
 				player->setLastMovementTime(m_server->getFrameStartTime());
-				player->testForTouch(result, movementDirection);
+				if (walked)
+					player->testForTouch(result, movementDirection);
 			}
 			break;
 		}
@@ -1085,6 +1093,9 @@ SetResults Player::setProp(PlayerProp prop, SetBy setBy, PropertyBase* base)
 			if (pixelProp == nullptr || pixelProp->pixelCoordinate == account.character.localPixelX)
 				SETPROP_RETURN_IGNORE;
 
+			// A jump is not a step: a position sent before the client saw a warp arrives after it (the old level's Y next to the new level's)
+			// and looked like a walk across the whole level, so the link test sent the player straight back.
+			const bool walked = std::abs(pixelProp->pixelCoordinate - account.character.localPixelX) <= 64;
 			auto movementDirection = static_cast<uint8_t>(2 + std::clamp(pixelProp->pixelCoordinate - account.character.localPixelX, -1, 1));
 			account.character.localPixelX = pixelProp->pixelCoordinate;
 			account.status &= (~PLSTATUS_PAUSED);
@@ -1093,7 +1104,8 @@ SetResults Player::setProp(PlayerProp prop, SetBy setBy, PropertyBase* base)
 			if (player != nullptr)
 			{
 				player->setLastMovementTime(m_server->getFrameStartTime());
-				player->testForTouch(result, movementDirection);
+				if (walked)
+					player->testForTouch(result, movementDirection);
 			}
 			break;
 		}
@@ -1104,6 +1116,9 @@ SetResults Player::setProp(PlayerProp prop, SetBy setBy, PropertyBase* base)
 			if (pixelProp == nullptr || pixelProp->pixelCoordinate == account.character.localPixelY)
 				SETPROP_RETURN_IGNORE;
 
+			// A jump is not a step: a position sent before the client saw a warp arrives after it (the old level's Y next to the new level's)
+			// and looked like a walk across the whole level, so the link test sent the player straight back.
+			const bool walked = std::abs(pixelProp->pixelCoordinate - account.character.localPixelY) <= 64;
 			auto movementDirection = static_cast<uint8_t>(1 + std::clamp(pixelProp->pixelCoordinate - account.character.localPixelY, -1, 1));
 			account.character.localPixelY = pixelProp->pixelCoordinate;
 			account.status &= (~PLSTATUS_PAUSED);
@@ -1112,7 +1127,8 @@ SetResults Player::setProp(PlayerProp prop, SetBy setBy, PropertyBase* base)
 			if (player != nullptr)
 			{
 				player->setLastMovementTime(m_server->getFrameStartTime());
-				player->testForTouch(result, movementDirection);
+				if (walked)
+					player->testForTouch(result, movementDirection);
 			}
 			break;
 		}
