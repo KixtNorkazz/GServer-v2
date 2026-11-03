@@ -1,6 +1,6 @@
 [generation-range]
 
-classic = GNW13110           // 1.41r1
+//classic = GNW13110           // 1.41r1
 newmain = GNW03014:GNW28015  // 2.22 - 2.31
 modern = G3D14097:G3D0511C   // 5.12 - 6.037
 
