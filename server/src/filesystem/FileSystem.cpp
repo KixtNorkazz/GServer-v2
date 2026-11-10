@@ -274,7 +274,7 @@ void FileSystem::defaultWatchCallback(uint32_t id, const std::filesystem::path& 
 			std::error_code ec;
 			if (iter == m_files.end() && e.test(FileEvent::Added) && std::filesystem::is_regular_file(dir / file, ec))
 			{
-				// Never throw here: a file that is gone again by now used to abort the server.
+				// A new folder (or a file that is gone again) used to reach file_size() and abort the server.
 				auto entry = std::make_unique<FileData>();
 				entry->file = dir / file;
 				entry->file.make_preferred();
@@ -669,8 +669,11 @@ void FileSystem::addExisting(FileCategory category, const std::filesystem::path&
 	auto entry = std::make_unique<FileData>();
 	entry->file = fullFilePath;
 	entry->file.make_preferred();
-	entry->fileSize = std::filesystem::file_size(entry->file);
-	entry->modifiedTime = std::filesystem::last_write_time(entry->file);
+	std::error_code ec;
+	entry->fileSize = std::filesystem::file_size(entry->file, ec);
+	if (ec) return;
+	entry->modifiedTime = std::filesystem::last_write_time(entry->file, ec);
+	if (ec) return;
 	assignCategoriesToFileData(*entry);
 
 	m_files.insert(std::make_pair(fullFilePath.filename(), std::move(entry)));

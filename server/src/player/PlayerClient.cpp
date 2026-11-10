@@ -1259,6 +1259,17 @@ bool PlayerClient::warp(const std::shared_ptr<Level>& level, const PixelPosition
 		account.character.mapY = std::min(mapPosition.y(), static_cast<uint8_t>(level->getMap()->size.height() - 1));
 		this->modTime[PROPID(PlayerProp::GMAPLEVELX)] = m_server->getFrameStartTime();
 		this->modTime[PROPID(PlayerProp::GMAPLEVELY)] = m_server->getFrameStartTime();
+		// The client needs the .gmap file to know the names of the levels around it.
+                // A client that does not have it yet asks only after PLAYERWARP2, and the board/NPC packets of the level that follow arrive before it knows what they belong to.
+		// So send the map file first. files wait in the queue's low priority file buffer.
+		// Whatever was queued before goes out first, in order, then the map file. The warp is queued after it.
+
+		if (!hasSeenFile(level->levelName))
+		{
+			sendFile(std::filesystem::path{level->levelName});
+			for (int flushes = 0; flushes < 4096 && m_fileQueue.canSend(); ++flushes)
+				m_fileQueue.sendCompress(true);
+		}
 		sendPacket(CString() >> (char)PLO_PLAYERWARP2 << getProp<PlayerProp::X>().serialize() << getProp<PlayerProp::Y>().serialize() << getProp<PlayerProp::Z>().serialize() >> (char)mapPosition.x() >> (char)mapPosition.y() << level->levelName);
 	}
 	else

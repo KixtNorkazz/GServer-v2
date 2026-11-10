@@ -485,13 +485,20 @@ CString PropertyTileCoordinate::serialize() const
 {
 	CString result;
 
-	// Full range is -16 to 111.5, excluding -11 since it would break the packet flow.
-	auto clampedRange = std::clamp(pixelCoordinate, static_cast<int16_t>(-256), 1784_i16);
-	if (clampedRange == static_cast<int16_t>(BAD_BYTE_CAUSES_PACKET_CORRUPTION_SIGNED / 2) * 16)
-		clampedRange += 8;
+	// Full range is -16 to 111.5 tiles.
+	const auto clampedRange = std::clamp(pixelCoordinate, static_cast<int16_t>(-256), 1784_i16);
+	int halftileValue = clampedRange / 8;
+
+	// Two values cannot be Graal-packed: -22 (234 + 32 overflows to a newline, upstream) and -23 (233, which writeGCharUnsafe refuses with an exception).
+	// Kixt: the exception for -23 (x = -11.5 tiles) took the whole server down when such a player was saved and logged in again (ServerList::addPlayer).
+	// The check is on the half-tile value, not on the exact pixel, so every pixel in -184..-177 is covered too.
+	if (halftileValue == -22)
+		halftileValue = -21;
+	else if (halftileValue == -23)
+		halftileValue = -24;
 
 	// Write.
-	const auto halftile = static_cast<uint8_t>(clampedRange / 8);
+	const auto halftile = static_cast<uint8_t>(static_cast<int8_t>(halftileValue));
 	result.writeGCharUnsafe(halftile);
 	return result;
 }

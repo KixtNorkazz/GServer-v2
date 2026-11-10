@@ -491,15 +491,11 @@ SetResults Player::setProp(PlayerProp prop, SetBy setBy, PropertyBase* base)
 			auto coordProp = dynamic_cast<PropertyTileCoordinate*>(base);
 			if (coordProp == nullptr || coordProp->pixelCoordinate == account.character.localPixelY)
 				SETPROP_RETURN_IGNORE;
-
-			// A jump is not a step: a position sent before the client saw a warp arrives after it (the old level's Y next to the new level's)
-			// and looked like a walk across the whole level, so the link test sent the player straight back.
 			const bool walked = std::abs(coordProp->pixelCoordinate - account.character.localPixelY) <= 64;
 			auto movementDirection = static_cast<uint8_t>(1 + std::clamp(coordProp->pixelCoordinate - account.character.localPixelY, -1, 1));
 			account.character.localPixelY = coordProp->pixelCoordinate;
 			account.status &= (~PLSTATUS_PAUSED);
 			result.resultPropIds.push_back(PROPID(PlayerProp::Y2));
-
 			if (player != nullptr)
 			{
 				player->setLastMovementTime(m_server->getFrameStartTime());
