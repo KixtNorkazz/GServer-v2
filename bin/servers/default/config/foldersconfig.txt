@@ -32,3 +32,15 @@ head    global/heads/*
 body    global/bodies/*.png
 sword   global/swords/*
 shield  global/shields/*
+
+# Added from beta4 (the old server)
+file    bodies/*.png
+file    global/bodies/*.png
+file    global/heads/*.png
+file    global/shields/*.png
+file    heads/*.png
+file    levels/newworld/*.gmap
+file    levels/newworld/*.nw
+file    shields/*.png
+level   levels/newworld/*.gmap
+level   levels/newworld/*.nw
