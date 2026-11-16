@@ -59,6 +59,9 @@ static GS1ScriptValue makeGS1ScriptValue(T&& value)
 using MessageCodeHandleFunc = GS1ScriptValue (*)(const GS1Visitor*, std::string_view, const std::vector<GS1ScriptValue*>&);
 using MessageCodeHandleMap = std::unordered_map<size_t, MessageCodeHandleFunc>;
 
+// Set while setcharprop evaluates its message code: setcharprop #c,... writes to the NPC, a read of #c in a player's event reads the player.
+thread_local bool g_gs1WritingCharProp = false;
+
 static GS1ScriptValue mc_CharacterProperty(const GS1Visitor* visitor, const std::string_view messageCode, const std::vector<GS1ScriptValue*>& arguments);
 static GS1ScriptValue mc_6(const GS1Visitor* visitor, const std::string_view messageCode, const std::vector<GS1ScriptValue*>& arguments);
 static GS1ScriptValue mc_a(const GS1Visitor* visitor, const std::string_view messageCode, const std::vector<GS1ScriptValue*>& arguments);
@@ -284,6 +287,12 @@ GS1ScriptValue mc_CharacterProperty(const GS1Visitor* visitor, const std::string
 			currentSource = activePlayer.value();
 	}
 	// No index means we try to get the character from the current source, biasing to the initiator.
+	// (Kixt: in an event started by a player - playerchats - #c is that player's chat, as in Graal; without this it read the NPC's own
+	// chat, and "if (playerchats && strequals(#c,Open Gate))" never matched. setcharprop still writes to the NPC.)
+	else if (const auto activePlayer = visitor->findNearestScriptObjectSourceFromStack(ScriptObjectType::PLAYER); !g_gs1WritingCharProp && activePlayer.has_value())
+	{
+		currentSource = activePlayer.value();
+	}
 	else
 	{
 		currentSource = visitor->getCurrentSource(true);
@@ -500,7 +509,13 @@ GS1ScriptValue mc_g(const GS1Visitor* visitor, const std::string_view messageCod
 	if (arguments.size() == 1)
 		index = DoubleAsIntegralFloor<size_t>(GS1Visitor::getScriptValueAsCopy<double>(*arguments[0]).value_or(0.0));
 
-	if (const auto client = getPlayerClientFromSource(visitor->getCurrentSource(), index); client != nullptr)
+	// The player of the event (playerchats, playertouchsme...), not the NPC whose script is running: #g was always empty for the
+	// guild gates ("if (playerchats && strequals(#g,Road Wardens))"), the same way #a already looks for the player.
+	ScriptObject source = visitor->getCurrentSource();
+	if (const auto player = visitor->findNearestScriptObjectSourceFromStack(ScriptObjectType::PLAYER); player.has_value())
+		source = player.value();
+
+	if (const auto client = getPlayerClientFromSource(source, index); client != nullptr)
 		return makeGS1ScriptValue(client->getGuild().toString());
 
 	return makeGS1ScriptValue(std::string{});
@@ -515,7 +530,11 @@ GS1ScriptValue mc_G(const GS1Visitor* visitor, const std::string_view messageCod
 	if (arguments.size() == 1)
 		index = DoubleAsIntegralFloor<size_t>(GS1Visitor::getScriptValueAsCopy<double>(*arguments[0]).value_or(0.0));
 
-	if (const auto client = getPlayerClientFromSource(visitor->getCurrentSource(), index); client != nullptr)
+	ScriptObject source = visitor->getCurrentSource();
+	if (const auto player = visitor->findNearestScriptObjectSourceFromStack(ScriptObjectType::PLAYER); player.has_value())
+		source = player.value();
+
+	if (const auto client = getPlayerClientFromSource(source, index); client != nullptr)
 	{
 		if (client->isGuest())
 			return makeGS1ScriptValue("trial"s);

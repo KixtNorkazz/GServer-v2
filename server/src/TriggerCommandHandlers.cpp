@@ -555,7 +555,7 @@ void Server::createTriggerCommands(TriggerDispatcher::Builder builder)
 		const auto lower = [](std::string t) { std::ranges::transform(t, t.begin(), [](unsigned char c) { return static_cast<char>(std::tolower(c)); }); return t; };
 		const std::string wanted = lower(target);
 		bool allowed = false;
-		for (const auto& npcId : level->findNPCsInRangeByDistance(player->getGlobalPosition(), 20))
+		for (const auto& npcId : level->findNPCsInRangeByDistance(player->getGlobalPosition(), 20 * Level::pixelsPerTile().width()))
 		{
 			const auto npc = getNPC(npcId);
 			if (npc == nullptr) continue;

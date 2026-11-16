@@ -180,7 +180,11 @@ SetResults Player::setProp(PlayerProp prop, SetBy setBy, PropertyBase* base)
 		case PlayerProp::NICKNAME:
 		{
 			auto strProp = dynamic_cast<PropertyString*>(base);
-			if (strProp == nullptr || strProp->value == account.character.nickName)
+			if (strProp == nullptr)
+				SETPROP_RETURN_IGNORE;
+			// The same nick as the saved one is skipped, unless it carries a guild tag that is not verified yet: the guild
+			// (#g) is only set by setNick, so logging in with the nick of the last session left it empty (Kixt: guild gates).
+			if (strProp->value == account.character.nickName && (m_guild.length() != 0 || strProp->value.find('(') == std::string::npos))
 				SETPROP_RETURN_IGNORE;
 
 			// Word filter.

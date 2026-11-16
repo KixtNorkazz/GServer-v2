@@ -67,7 +67,7 @@ program
 	;
 
 block
-	: TOKEN_BRACE_LEFT statement* TOKEN_BRACE_RIGHT
+	: TOKEN_BRACE_LEFT (statement | block)* TOKEN_BRACE_RIGHT
 	| statement
 	;
 

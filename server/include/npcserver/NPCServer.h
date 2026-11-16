@@ -257,7 +257,8 @@ inline size_t NPCServer::addEventToLevelNPCsAtPosition(const ScriptEventType typ
 	{
 		if (auto npc = m_server->getNPC(id); npc != nullptr)
 		{
-			if (auto npcRect = toLocalPixelRectangleArea(npc->getEventBoundingBox()); positionInRectangle(pos, npcRect))
+			// pos is a global pixel position (the caller adds the sub-level origin): compare it with the global box, not a level-local one (gmap rows/columns > 0 never matched).
+			if (const auto npcRect = npc->getEventBoundingBox(); positionInRectangle(pos, npcRect))
 			{
 				++count;
 				npc->scripting.events.addEvent(type, source, arg1, args...);
@@ -282,7 +283,8 @@ inline size_t NPCServer::addEventToLevelNPCsAtPosition(const ScriptEventType typ
 	{
 		if (auto npc = m_server->getNPC(id); npc != nullptr)
 		{
-			if (auto npcRect = toLocalPixelRectangleArea(npc->getEventBoundingBox()); positionInRectangle(pos, npcRect))
+			// pos is a global pixel position (the caller adds the sub-level origin): compare it with the global box, not a level-local one (gmap rows/columns > 0 never matched).
+			if (const auto npcRect = npc->getEventBoundingBox(); positionInRectangle(pos, npcRect))
 			{
 				++count;
 				npc->scripting.events.addEvent(type, source, std::forward<decltype(range)>(range));

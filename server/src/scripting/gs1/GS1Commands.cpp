@@ -1607,6 +1607,17 @@ void fn_join(GS1Visitor* visitor, const std::vector<GS1ScriptValue*>& arguments)
 		throw std::invalid_argument("invalid arguments: join class");
 
 	auto class_ = GS1Visitor::getScriptValueAsCopy<std::string>(*arguments[0]).value_or(std::string{});
+
+	// The old worlds write the GS2 form join("class"); in server parts that run as GS1 here, where everything up to the `;` is the class name:
+	// ("class") never matched a class, so we strip the whitespace, parentheses and quotes around the name.
+	{
+		auto isJunk = [](const char c) { return c == '(' || c == ')' || c == '"' || c == '\'' || c == ' ' || c == '\t' || c == '\r' || c == '\n'; };
+		while (!class_.empty() && isJunk(class_.front()))
+			class_.erase(class_.begin());
+		while (!class_.empty() && isJunk(class_.back()))
+			class_.pop_back();
+	}
+
 	const auto server = BabyDI::Get<Server>();
 	visitor->scriptContext->joinedClasses.insert({class_, server->getNPCServer()->getClass(class_)});
 

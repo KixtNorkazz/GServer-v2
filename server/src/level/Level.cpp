@@ -651,7 +651,7 @@ Level::~Level()
 	m_items.clear();
 
 	// Delete sub level data.
-	for (const auto& subLevel : m_levelParts)
+	for (const auto& subLevel : m_levelParts | removeNulls)
 	{
 		subLevel->boardChanges.clear();
 		subLevel->instancedTileUpdates.reset();
@@ -734,7 +734,8 @@ void Level::doTimedEvents()
 	{
 		m_sleepTimeout1m.runOnceFor(1min);
 		const auto nowInSeconds = m_server->getFrameStartTime();
-		for (const auto& subLevel : m_levelParts)
+		// A gmap cell whose level file does not exist is a null entry, so we skip those, it crashed the server a minute after a player entered such a gmap.
+		for (const auto& subLevel : m_levelParts | removeNulls)
 		{
 			// If we are sleeping, skip it.
 			// If we have no recorded last used value, this sublevel will never get put to sleep.
@@ -2548,6 +2549,11 @@ std::optional<const LevelLink*> Level::getLink(const std::string_view levelPart,
 
 std::optional<const LevelLink*> Level::getLink(const TilePosition& position, const bool excludeOverworld) const noexcept
 {
+	// A plain level is one 64x64 board. A touch point outside it (the probe in front of a player at the east or south edge) used to be wrapped to the
+	// other side by the local conversion below and hit the links of the opposite edge (val_greendale_west: walking east sent you through the west link).
+	if (!isGmap() && (position.x() < 0.0f || position.y() < 0.0f || position.x() >= 64.0f || position.y() >= 64.0f))
+		return std::nullopt;
+
 	const auto part = getSubLevelAtPosition(position);
 	if (part == nullptr)
 		return std::nullopt;

@@ -88,7 +88,7 @@ static PacketHandleArray GeneratePacketHandlers()
 	handlers[PLI_PRIVATEMESSAGE] = &PlayerClient::msgPLI_PRIVATEMESSAGE;
 	handlers[PLI_NPCWEAPONDEL] = &PlayerClient::msgPLI_NPCWEAPONDEL;
 	handlers[PLI_LEVELWARPMOD] = &PlayerClient::msgPLI_LEVELWARP; // Shared with PLI_LEVELWARP
-	handlers[PLI_ITEMTAKE] = &PlayerClient::msgPLI_ITEMDEL;       // Shared with PLI_ITEMDEL
+	handlers[PLI_ITEMTAKE] = &PlayerClient::msgPLI_ITEMDEL; // Shared with PLI_ITEMDEL
 	handlers[PLI_WEAPONADD] = &PlayerClient::msgPLI_WEAPONADD;
 	handlers[PLI_UPDATEFILE] = &PlayerClient::msgPLI_UPDATEFILE;
 	handlers[PLI_ADJACENTLEVEL] = &PlayerClient::msgPLI_ADJACENTLEVEL;
@@ -1260,7 +1260,7 @@ bool PlayerClient::warp(const std::shared_ptr<Level>& level, const PixelPosition
 		this->modTime[PROPID(PlayerProp::GMAPLEVELX)] = m_server->getFrameStartTime();
 		this->modTime[PROPID(PlayerProp::GMAPLEVELY)] = m_server->getFrameStartTime();
 		// The client needs the .gmap file to know the names of the levels around it.
-                // A client that does not have it yet asks only after PLAYERWARP2, and the board/NPC packets of the level that follow arrive before it knows what they belong to.
+                // A client that does not have it yet asks only after PLAYERWARP2, and the board/NPC packets of the level that follow arrive.
 		// So send the map file first. files wait in the queue's low priority file buffer.
 		// Whatever was queued before goes out first, in order, then the map file. The warp is queued after it.
 

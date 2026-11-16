@@ -6,13 +6,13 @@ startx = 20
 starty = 30.5
 
 # Specifies where players go when they say "unstick me".
-unstickmelevel = portwolfe_b2.nw
-unstickmex = 30
-unstickmey = 30.5
-unstickmetime = 30
+unstickmelevel = dragonsmeet_a1.nw
+unstickmex = 60
+unstickmey = 58
+unstickmetime = 10
 
 # List of weapon names (comma separated) that will be given to the player each time they connect.
-protectedweapons = -TileDefs,-TileDefs2,-TileDefs3,-TileDefs4,-TileDefs5,-TileDefs6,-TileDefs7,-KeyProbe,-Chat,-Menu,-Outfit,-Players,-Guilds,-Map
+protectedweapons = -TileDefs,-TileDefs2,-TileDefs3,-TileDefs4,-TileDefs5,-TileDefs6,-TileDefs7,-KeyProbe,-Chat,-Menu,-Outfit,-Players,-Guilds,-Map,-Time,-OutfitCmd,-OutfitData0,-OutfitData1,-OutfitData2,-OutfitData3,-OutfitData4,-OutfitData5,-OutfitData6,-OutfitData7,-OutfitData8,-OutfitData9,-OutfitData10,-OutfitData11,-OutfitData12,-OutfitData13,-OutfitData14,-OutfitData15,-OutfitData16,-OutfitData17,-OutfitData18,-OutfitData19,-OutfitData20
 
 # Players in these levels can`t warp out nor can they PM other players.
 jaillevels = police2.graal,police4.graal
@@ -165,7 +165,7 @@ projectilesstoponwall = true
 maps =
 
 # List of gmaps to be used by the server.
-gmaps =portwolfe.gmap, esthrashightown.gmap,  worldmapkharlia.gmap, esthrashightown.gmap, wts1985_lucca.gmap, ironcaps.gmap, bridgeton.gmap, selnic.gmap, val-new-city_windulspir.gmap, suiriku.gmap, northpoint.gmap, new-lucca.gmap, imperialcapitol.gmap, val-new-city.gmap, greendale.gmap, crossroads.gmap, marseilles.gmap, helshire.gmap, portseriah.gmap, dwarvenfortress_test.gmap, ascense.gmap, val-new-city_fort.gmap, ganelon.gmap, worldmap.gmap, echobase.gmap, bartlett.gmap, opalescentharbor.gmap,
+gmaps = portwolfe.gmap, oldmine-entrance.gmap, riverbridge.gmap, val_steerback.gmap, sunstolevale.gmap, aundrilsol.gmap, marquisestate.gmap, darkrefuge.gmap, koscheim_int-august.gmap, koscheim_court.gmap, boneyard.gmap, boneyardint_cryptchurch.gmap, dragonsmeet.gmap, newgreendalefairgrounds.gmap, greendalemarket.gmap, greendaleresidental.gmap, greendalemainstreet.gmap, greendalemainstreetwest.gmap, greendalemainstreeteast.gmap, greendalegate.gmap, greendalefactory.gmap, val_greendale_scrapyard.gmap, val_laboo.gmap, landsendwaterfall.gmap, whitespring.gmap, newmournglade.gmap, newgreendale.gmap, newbrookhurst.gmap, newoakburn.gmap, staghornnew.gmap, staghornwest.gmap, lionnesestate.gmap, NewLerhyn.gmap, ruins.gmap, pastruinssand.gmap, presentruinssand.gmap, presentruinssand2.gmap, lerhyn.gmap, val_ortgeard.gmap, aerowdwell.gmap, newganelonport.gmap, newganelonfarm.gmap, newganelon-enterance.gmap, newganelon.gmap, wheatholm_townsquare.gmap, wheatholm_docks.gmap, val_galewind.gmap, thistletop.gmap, elkinwoods.gmap, elkinfalls.gmap, elkin-north.gmap, worldmapfull.gmap, val_cumberlundbarn.gmap, val_greendale_scrapyard.gmap, val_monolith_middeck.gmap, val_ortgeard.gmap, val_troivah.gmap, val_wispshell.gmap, hellsreach.gmap, hightownmansion.gmap, kingsplains_cavern.gmap, redrockmountains.gmap, redrocks_north.gmap, relentlessdawn.gmap, springsunderdark2.gmap, underdark_arena.gmap, brookhurst.gmap, bullskeep.gmap, vermaakshire.gmap, port_vermaakshire.gmap, osengrad.gmap, val_bullscall.gmap, worldmapkharlia.gmap, opalescentharbor.gmap, esthrashightown.gmap, wts1985_lucca.gmap, ironcaps.gmap, bridgeton.gmap, selnic.gmap, val-new-city_windulspir.gmap, suiriku.gmap, northpoint.gmap, new-lucca.gmap, imperialcapitol.gmap, val-new-city.gmap, greendale.gmap, crossroads.gmap, marseilles.gmap, helshire.gmap, portseriah.gmap, dwarvenfortress_test.gmap, ascense.gmap, val-new-city_fort.gmap, ganelon.gmap, worldmap.gmap, echobase.gmap, bartlett.gmap, opalescentharbor.gmap, highharbor.gmap, eonosbridge.gmap, reddawngraveyard.gmap,
 
 # List of levels where you don`t see other players.
 # GR: Comma-delimited list of level names in glob format.
@@ -211,7 +211,7 @@ newtilesetlevels = ironcaps_, esthras_, ironcaptunnel, poorknights_, tileset2tes
 # --------------------------------------------------------------------------------------
 
 # If true, moved push/pull blocks aren`t sent to other players.
-clientsidepushpull = true
+clientsidepushpull = false
 
 # List of group instanced maps used by the server.
 # Comma-delimited list of level names in glob format.
@@ -274,7 +274,7 @@ generation = modern
 # servermode = normal
 
 # The NPC-Server nickname.
-nickname = 
+nickname = WORLD-DOMINATOR
 
 # The information of the computer hosting the gserver.  This gets sent to people wanting to connect.
 # If myip is set to AUTO, it uses the IP address exposed to the list server.
@@ -285,7 +285,7 @@ serverinterface = 0.0.0.0
 # The local IP address of the computer.  Helps you connect to your server if your router can`t route on
 # its WAN-side IP address.  Leave it as AUTO unless you know what you are doing.
 localip = AUTO
-upnp = true
+upnp = false
 
 # Sets the server into localhost mode, which does not communicate with the list server.
 # All logins will be allowed with no verification.
@@ -335,18 +335,18 @@ clientsidelinks = false
 clientsidejoins = false
 
 # Enables triggeraction hacks.
-triggerhack_weapons = false		# gr.addweapon, gr.deleteweapon
-triggerhack_guilds = false		# gr.addguildmember, gr.removeguildmember, gr.removeguild, gr.setguild
-triggerhack_groups = true		# gr.setgroup, gr.setlevelgroup
-triggerhack_files = false		# gr.appendfile, gr.writefile
-triggerhack_rc = false			# gr.rcchat
-triggerhack_execscript = false	# gr.es_clear, gr.es_set, gr.es_append, gr.es
-triggerhack_props = false		# gr.attr1-gr.attr30
-triggerhack_levels = false		# gr.updatelevel
+triggerhack_weapons = false# gr.addweapon, gr.deleteweapon
+triggerhack_guilds = false# gr.addguildmember, gr.removeguildmember, gr.removeguild, gr.setguild
+triggerhack_groups = true# gr.setgroup, gr.setlevelgroup
+triggerhack_files = false# gr.appendfile, gr.writefile
+triggerhack_rc = false# gr.rcchat
+triggerhack_execscript = false# gr.es_clear, gr.es_set, gr.es_append, gr.es
+triggerhack_props = false# gr.attr1-gr.attr30
+triggerhack_levels = false# gr.updatelevel
 
 # Enables flag hacks.
-flaghack_movement = true		# -gr_movement weapon.
-flaghack_ip = false				# gr.ip
+flaghack_movement = true# -gr_movement weapon.
+flaghack_ip = false# gr.ip
 
 # If true, the server will process all script events, even if the NPC doesn`t check for the event flag.
 runallscriptevents = false
@@ -360,9 +360,10 @@ default_scriptengine_client = gs2
 
 # Diagnostics
 # warnonmissingfiles = false
+warnonmissingfiles = true
 # warnonlargefiles = false
 # warnonfilesystemissues = true
-# warnoninvalidlevelsections = false	# Invalid NW file sections
+# warnoninvalidlevelsections = false# Invalid NW file sections
 # logcorruptpackets = false
 
 # --------------------------------------------------------------------------------------
@@ -526,7 +527,7 @@ default_scriptengine_client = gs2
 
 
 # Added from beta4 (the old server)
-dropitemsdead = true
+dropitemsdead = false
 tiledroprate = 50
 cropflags = true
 oldcreated = true

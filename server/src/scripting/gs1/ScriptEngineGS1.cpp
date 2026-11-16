@@ -5,6 +5,7 @@
 #include <iterator>
 #include <memory>
 #include <optional>
+#include <regex>
 #include <stdexcept>
 #include <string>
 #include <string_view>
@@ -174,8 +175,16 @@ GS1ScriptWrapper::GS1ScriptWrapper(const std::string_view who, const std::string
 	errorListenerParser = std::make_shared<GS1ErrorListener>("parsing", who);
 
 	// Load the script (lenient UTF-8 parsing).
+	// Old client-side GS1 that the server grammar does not take (Kixt: guild commands moved to server-side):
+	// 'elseif' -> 'else if', and '#P(1)' -> '#P1'.
+	std::string source{script};
+	if (source.find("elseif") != std::string::npos)
+		source = std::regex_replace(source, std::regex{R"(\belseif\b)"}, "else if");
+	if (source.find("#P(") != std::string::npos)
+		source = std::regex_replace(source, std::regex{R"(#P\(([0-9])\))"}, "#P$1");
+
 	input = std::make_shared<antlr4::ANTLRInputStream>();
-	input->load(script.data(), script.length(), true);
+	input->load(source.data(), source.length(), true);
 
 	// Create the lexer.
 	// We don't need to keep this around.

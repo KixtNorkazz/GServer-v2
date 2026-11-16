@@ -1031,6 +1031,8 @@ std::any GS1Visitor::visitStatementUserFunctionCall(GS1Parser::StatementUserFunc
 	return {};
 }
 
+extern thread_local bool g_gs1WritingCharProp;
+
 std::any GS1Visitor::visitStatementBuiltInCommand(GS1Parser::StatementBuiltInCommandContext* context)
 {
 	// Get the command.
@@ -1040,6 +1042,7 @@ std::any GS1Visitor::visitStatementBuiltInCommand(GS1Parser::StatementBuiltInCom
 	try
 	{
 		// Process the built-in command.
+		SetAndRestore writing{g_gs1WritingCharProp, command == "setcharprop" || g_gs1WritingCharProp};
 		processBuiltInCommand(this, context, command);
 	}
 	catch (const sleep_exception&)
