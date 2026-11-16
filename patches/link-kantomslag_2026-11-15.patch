@@ -1,0 +1,14 @@
+--- /home/Kixt/.claude/jobs/aceba9d7/tmp/Level.cpp.orig2	2026-11-15 16:39:52.140677084 +0100
++++ server/src/level/Level.cpp	2026-11-15 16:39:52.149755151 +0100
+@@ -2549,6 +2549,11 @@
+ 
+ std::optional<const LevelLink*> Level::getLink(const TilePosition& position, const bool excludeOverworld) const noexcept
+ {
++	// A plain level is one 64x64 board. A touch point outside it (the probe in front of a player at the east or south edge) used to be wrapped to the
++	// other side by the local conversion below and hit the links of the opposite edge (val_greendale_west: walking east sent you through the west link).
++	if (!isGmap() && (position.x() < 0.0f || position.y() < 0.0f || position.x() >= 64.0f || position.y() >= 64.0f))
++		return std::nullopt;
++
+ 	const auto part = getSubLevelAtPosition(position);
+ 	if (part == nullptr)
+ 		return std::nullopt;

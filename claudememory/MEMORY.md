@@ -1,0 +1,15 @@
+- [Custom Graal client project](project_custom_graal_client.md) — RE of Graal_222/231 for a custom client; protocol notes in client_re/, test setup tips
+- [Server gmap bounds patch](server_gmap_bounds_patch.md) — local gs2emu fix for MAPX 255 lockout; re-check on every new gserver version
+- [Server saves account on logout](server_saves_account_on_logout.md) — delete ZzTest accounts only after the session has closed, then re-check
+- [Valikorlia 2017 backup](reference_valikorlia_2017_backup.md) — GS2/v6-style backup in val_backup2/valbackups.rar; unpack with unrar, not 7z
+- [Login server prototype](project_login_server_prototype.md) — GServer-Python on port 9094: serverside=true, upnp=false, two gs2emu bugs patched
+- [v6 server bin (v7)](project_v6_server_bin.md) — port 9093 modern server, GS2 weapons, GS1->GS2 cache, pitfalls
+- [v6 is server-centric](feedback_v6_server_centric.md) — work in beta4/bin; image-only NPCs are normal, not failures
+- [Client freeze on first load](project_client_freeze_first_load.md) — big areas freeze 1st time, 2nd ok; server src untouched; notes in NOTAT_klient-frys…md
+- [Animated weapons template](project_v6_animated_weapons.md) — gani weapons in v6: per-tick frame ganis, keys, template in beta4/templates
+- [Mobile v6 client](project_mobile_v6_client.md) — graal_android 4.10: bytecode VM, v6 protocol, tests, server patch + data traps (//#SERVERSIDE, gs2cache)
+- [beta4-ny upstream trial](project_beta4_ny_upstream_trial.md) — fresh upstream + beta4 changes; GLauncher-tested on port 9096; tiledef regression from +-1 NPC range
+- [v6 client on Linux](reference_v6_client_on_linux.md) — GLauncher runs in docker 32-bit Wine 8 (not Wine 11); gdb packet logger in client_rev6/tools
+- [Server GS1 guild commands](project_server_gs1_guild_commands.md) — guild chat NPCs moved server-side; nick/#g, {{, elseif engine fixes; test pitfalls
+- [De-graalify the server](feedback_degraalify_server.md) — user removes stock Graal assets themselves; never add headN/bodyN/etc. back
+- [Graal_222 gmap findings](project_graal222_gmap_findings.md) — v2 on install: 4 fixes applied 12 Nov; protectedweapons needs no spaces

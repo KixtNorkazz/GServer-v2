@@ -1,0 +1,54 @@
+--- a/server/src/scripting/gs1/grammar/GS1Parser.g4
++++ b/server/src/scripting/gs1/grammar/GS1Parser.g4
+@@ -67,7 +67,7 @@
+ 	;
+ 
+ block
+-	: TOKEN_BRACE_LEFT statement* TOKEN_BRACE_RIGHT
++	: TOKEN_BRACE_LEFT (statement | block)* TOKEN_BRACE_RIGHT
+ 	| statement
+ 	;
+ 
+--- a/server/src/scripting/gs1/ScriptEngineGS1.cpp
++++ b/server/src/scripting/gs1/ScriptEngineGS1.cpp
+@@ -5,6 +5,7 @@
+ #include <iterator>
+ #include <memory>
+ #include <optional>
++#include <regex>
+ #include <stdexcept>
+ #include <string>
+ #include <string_view>
+@@ -174,8 +175,16 @@
+ 	errorListenerParser = std::make_shared<GS1ErrorListener>("parsing", who);
+ 
+ 	// Load the script (lenient UTF-8 parsing).
++	// Old client-side GS1 that the server grammar does not take (Kixt: guild commands moved to server-side):
++	// 'elseif' -> 'else if', and '#P(1)' -> '#P1'.
++	std::string source{script};
++	if (source.find("elseif") != std::string::npos)
++		source = std::regex_replace(source, std::regex{R"(\belseif\b)"}, "else if");
++	if (source.find("#P(") != std::string::npos)
++		source = std::regex_replace(source, std::regex{R"(#P\(([0-9])\))"}, "#P$1");
++
+ 	input = std::make_shared<antlr4::ANTLRInputStream>();
+-	input->load(script.data(), script.length(), true);
++	input->load(source.data(), source.length(), true);
+ 
+ 	// Create the lexer.
+ 	// We don't need to keep this around.
+--- a/server/src/player/PlayerProps.cpp
++++ b/server/src/player/PlayerProps.cpp
+@@ -180,7 +180,11 @@
+ 		case PlayerProp::NICKNAME:
+ 		{
+ 			auto strProp = dynamic_cast<PropertyString*>(base);
+-			if (strProp == nullptr || strProp->value == account.character.nickName)
++			if (strProp == nullptr)
++				SETPROP_RETURN_IGNORE;
++			// The same nick as the saved one is skipped, unless it carries a guild tag that is not verified yet: the guild
++			// (#g) is only set by setNick, so logging in with the nick of the last session left it empty (Kixt: guild gates).
++			if (strProp->value == account.character.nickName && (m_guild.length() != 0 || strProp->value.find('(') == std::string::npos))
+ 				SETPROP_RETURN_IGNORE;
+ 
+ 			// Word filter.
