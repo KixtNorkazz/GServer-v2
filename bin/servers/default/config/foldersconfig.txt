@@ -67,6 +67,8 @@ file    levels/newworld/dardier/*.gmap
 file    levels/newworld/rustborough/*.gmap
 file    levels/newworld/westforest/*.gmap
 file    levels/newworld/kanoshire/*.gmap
+file    levels/newworld/ignis/*.gmap
+file    levels/newworld/durandal/*.gmap
 level   levels/newworld/*.nw
 level   levels/newworld/opal/*.nw
 level   levels/newworld/opal/*.gmap
@@ -148,6 +150,10 @@ level   levels/newworld/westforest/*.nw
 level   levels/newworld/westforest/*.gmap
 level   levels/newworld/kanoshire/*.nw
 level   levels/newworld/kanoshire/*.gmap
+level   levels/newworld/ignis/*.nw
+level   levels/newworld/ignis/*.gmap
+level   levels/newworld/durandal/*.nw
+level   levels/newworld/durandal/*.gmap
 file    global/*
 head    global/heads/*
 body    global/bodies/*.png

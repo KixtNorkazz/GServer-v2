@@ -1,0 +1,21 @@
+--- a/server/src/TriggerCommandHandlers.cpp
++++ b/server/src/TriggerCommandHandlers.cpp
+@@ -544,7 +544,7 @@
+ 		return true;
+ 	});
+ 
+-	//   gr.warp,<level>,<x>,<y>         -> warps the player, but only when an NPC within 20 tiles has a setlevel2 for that level in its script (the "sail to ..." NPCs)
++	//   gr.warp,<level>,<x>,<y>         -> warps the player, but only when an NPC within 20 tiles has a setlevel2 (or joins akiltest1) for that level in its script
+ 	builder.registerCommand("gr.warp", [&](Player* player, const std::vector<std::string>& triggerData)
+ 	{
+ 		if (player == nullptr || triggerData.size() < 4) return true;
+@@ -560,7 +560,8 @@
+ 			const auto npc = getNPC(npcId);
+ 			if (npc == nullptr) continue;
+ 			const std::string source = lower(npc->getScript().getOriginalSource());
+-			if (source.find("setlevel2") != std::string::npos && source.find(wanted) != std::string::npos) { allowed = true; break; }
++			// A setlevel2 NPC ("sail to ...") or a world map entrance (class akiltest1: "Press A to enter") that names the level.
++			if ((source.find("setlevel2") != std::string::npos || source.find("akiltest1") != std::string::npos) && source.find(wanted) != std::string::npos) { allowed = true; break; }
+ 		}
+ 		if (!allowed)
+ 		{

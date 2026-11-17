@@ -30,6 +30,7 @@
 #include <utilities/Extents.h>
 #include <utilities/Log.h>
 #include <utilities/PropertySerializers.h>
+#include <utilities/StringUtils.h>
 #include <utilities/std/inplace_vector.h>
 
 using namespace preagonal::props;
@@ -449,6 +450,27 @@ SetResults Player::setProp(PlayerProp prop, SetBy setBy, PropertyBase* base)
 
 					if ((found & FILTER_ACTION_REPLACE) || (found & FILTER_ACTION_WARN))
 						result.resultFlags.set(props::SetResults::sendToSource);
+
+					// Chat history of the v6 client (-Chat weapon): send the line to the players near the speaker, as
+					// clientside,-Chat,chat,<account>,<nick>,<text>. Reading the other players' chat in the client never worked in v6
+					// (Kixt, 17 Nov 2026: only your own lines showed up). Commands ("/...") and the empty chat are not sent.
+					const std::string& said = account.character.chatMessage;
+					if (!said.empty() && said[0] != '/')
+					{
+						const auto myLevel = getLevel();
+						const auto myPos = getGlobalPosition();
+						constexpr int64_t range = 40 * 16;
+						const std::vector<std::string> fields{"clientside", "-Chat", "chat", account.name, account.character.nickName, said};
+						const auto line = string::toCSV(fields);
+						for (auto& [pid, other] : m_server->getPlayerList())
+						{
+							if (other == nullptr || other.get() == this || !other->isClient() || myLevel == nullptr || other->getLevel() != myLevel) continue;
+							const auto pos = other->getGlobalPosition();
+							const int64_t dx = pos.x() - myPos.x(), dy = pos.y() - myPos.y();
+							if (dx * dx + dy * dy > range * range) continue;
+							other->sendPacket(CString() >> (char)PLO_TRIGGERACTION >> (short)0 >> (int)0 >> (char)0 >> (char)0 << line);
+						}
+					}
 				}
 			}
 			break;
