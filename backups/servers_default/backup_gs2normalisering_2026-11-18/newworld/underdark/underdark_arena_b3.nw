@@ -1,0 +1,226 @@
+GLEVNW01
+BOARD 0 0 64 0 bpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbobpbo
+BOARD 0 1 64 0 b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4b5b4
+BOARD 0 2 64 0 nbncbpbobpbobpnanbnbncbobpbobpbonancbpbobpbobpnancbobpbobpbonanbnbncbpbobpbobpnancbobpbobpbonancbpbobpbobpnanbnbncbobpbobpbonanb
+BOARD 0 3 64 0 n7n8b5b4b5b4b5n6n7n7n8b4b5b4b5b4n6n8b5b4b5b4b5n6n8b4b5b4b5b4n6n7n7n8b5b4b5b4b5n6n8b4b5b4b5b4n6n8b5b4b5b4b5n6n7n7n8b4b5b4b5b4n6n7
+BOARD 0 4 64 0 3G3lnanbnbnbnc3h3G3G3lnanbnbnbnc3h3lnanbnbnbnc3h3lnanbnbnbnc3h3G3G3lnanbnbnbnc3h3lnanbnbnbnc3h3lnanbnbnbnc3h3G3G3lnanbnbnbnc3h3G
+BOARD 0 5 64 0 3o9Tn6n7n7n7n89S3o3o9Tn6n7n7n7n89S9Tn6n7n7n7n89S9Tn6n7n7n7n89S3o3o9Tn6n7n7n7n89S9Tn6n7n7n7n89S9Tn6n7n7n7n89S3o3o9Tn6n7n7n7n89S3o
+BOARD 0 6 64 0 3F3S3T3T3T3T3T3U3F3F3S3T3T3T3T3T3U3S3T3T3T3T3T3U3S3T3T3T3T3T3U3F3F3S3T3T3T3T3T3U3S3T3T3T3T3T3U3S3T3T3T3T3T3U3F3F3S3T3T3T3T3T3U3F
+BOARD 0 7 64 0 3o9X2i2k8F2h2j9W3o3o9X2i2k8F2h2j9W9X2i2k8F2h2j9W9X2i2k8F2h2j9W3o3o9X2i2k8F2h2j9W9X2i2k8F2h2j9W9X2i2k8F2h2j9W3o3o9X2i2k8F2h2j9W3o
+BOARD 0 8 64 0 3o2x2y2z212y2z203o3o2x2y2z212y2z202x2y2z212y2z202x2y2z212y2z203o3o2x2y2z212y2z202x2y2z212y2z202x2y2z212y2z203o3o2x2y2z212y2z203o
+BOARD 0 9 64 0 3G3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3i3j3j3j3j3j3k3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3i3j3j3j3j3j3k3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3G
+BOARD 0 10 64 0 3o9D/U/U1R/U/U9C3o3o9D8U8U1R8U8U9C9D/U/U1R/U/U9C9D8U8U1R8U8U9C3o3o9D8U8U1R8U8U9C9D/U/U1R/U/U9C9D8U8U1R8U8U9C3o3o9D/U/U1R/U/U9C3o
+BOARD 0 11 64 0 3o9D/U/U1R/U/U9C3o3o9D/V/V1R/V/V9C9D/U/U1R/U/U9C9D/V/V1R/V/V9C3o3o9D/V/V1R/V/V9C9D/U/U1R/U/U9C9D/V/V1R/V/V9C3o3o9D/U/U1R/U/U9C3o
+BOARD 0 12 64 0 3o9D/U/U1R/U/U9C3o3o9D/V/V1R/V/V9C9D/U/U1R/U/U9C9D/V/V1R/V/V9C3o3o9D/V/V1R/V/V9C9D/U/U1R/U/U9C9D/V/V1R/V/V9C3o3o9D/U/U1R/U/U9C3o
+BOARD 0 13 64 0 3o9D/U/U1h/U/U9C3o3o9D8E8E1h8E8E9C9D/U/U1h/U/U9C9D8E8E1h8E8E9C3o3o9D8E8E1h8E8E9C9D/U/U1h/U/U9C9D8E8E1h8E8E9C3o3o9D/U/U1h/U/U9C3o
+BOARD 0 14 64 0 3G3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3i3j3j3j3j3j3k3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3i3j3j3j3j3j3k3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3G
+BOARD 0 15 64 0 3o9X8k/T8F/S8l9W3o3o9X8k/T8F/S8l9W9X8k/T8F/S8l9W9X8k/T8F/S8l9W3o3o9X8k/T8F/S8l9W9X8k/T8F/S8l9W9X8k/T8F/S8l9W3o3o9X8k/T8F/S8l9W3o
+BOARD 0 16 64 0 3o/W80818V8081/X3o3o/W80818V8081/X/W80818V8081/X/W80818V8081/X3o3o/W80818V8081/X/W80818V8081/X/W80818V8081/X3o3o/W80818V8081/X3o
+BOARD 0 17 64 0 3o8z/V/V1B/V/V8y3o3o8z/V/V1B/V/V8y8z/V/V1B/V/V8y8z/V/V1B/V/V8y3o3o8z/V/V1B/V/V8y8z/V/V1B/V/V8y8z/V/V1B/V/V8y3o3o8z/V/V1B/V/V8y3o
+BOARD 0 18 64 0 3o9D/V/V1R/V/V9C3o3o9D/V/V1R/V/V9C9D/V/V1R/V/V9C9D/V/V1R/V/V9C3o3o9D/V/V1R/V/V9C9D/V/V1R/V/V9C9D/V/V1R/V/V9C3o3o9D/V/V1R/V/V9C3o
+BOARD 0 19 64 0 3o9T8E8E1h8E8E9S3o3o9T8E8E1h8E8E9S9T8E8E1h8E8E9S9T8E8E1h8E8E9S3o3o9T8E8E1h8E8E9S9T8E8E1h8E8E9S9T8E8E1h8E8E9S3o3o9T8E8E1h8E8E9S3o
+BOARD 0 20 64 0 3G3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3i3j3j3j3j3j3k3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3i3j3j3j3j3j3k3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3G
+BOARD 0 21 64 0 didRdgdgdgdgdgdhdididRdgdgdgdgdgdhdRdgdgdgdgdgdhdRdgdgdgdgdgdxdSdTdwdgdgdgdgdgdhdRdgdgdgdgdgdhdRdgdgdgdgdgdhdididRdgdgdgdgdgdhdi
+BOARD 0 22 64 0 3F3S3T3T3T3T3T3U3F3F3S3T3T3T3T3T3U3S3T3T3T3T3T3U3S3T3T3T3T3T3T3U3S3T3T3T3T3T3T3U3S3T3T3T3T3T3U3S3T3T3T3T3T3U3F3F3S3T3T3T3T3T3U3F
+BOARD 0 23 64 0 3o9X3x3y8F3z309W3o3o9X8k/T8F/S8l9W9X8k/T8F/S8l9W9X3x3y8F3z30XPfAfBfC3x3y8F3z309W9X8k/T8F/S8l9W9X8k/T8F/S8l9W3o3o9X3x3y8F3z309W3o
+BOARD 0 24 64 0 3o/W312l8V312l/X3o3o/W80818V8081/X/W80818V8081/X/W312l8V312l31/U/U2l312l8V312l/X/W80818V8081/X/W80818V8081/X3o3o/W312l8V312l/X3o
+BOARD 0 25 64 0 3o8z/U/U1B/U/U8y3o3o8z/V/V1B/V/V8y8z/V/V1B/V/V8y8z/U/U1B/U/U/U/U/U/U/U/U1B/U/U8y8z/V/V1B/V/V8y8z/V/V1B/V/V8y3o3o8z/U/U1B/U/U8y3o
+BOARD 0 26 64 0 3o9D/U/U1R/U/U9C3o3o9D/V/V1R/V/V9C9D/V/V1R/V/V9C9D/U/U1R/U/U/U/U/U/U/U/U1R/U/U9C9D/V/V1R/V/V9C9D/V/V1R/V/V9C3o3o9D/U/U1R/U/U9C3o
+BOARD 0 27 64 0 3o9T/U/U1h/U/U9S3o3o9T8E8E1h8E8E9S9T8E8E1h8E8E9S9n/U/U1R/U/U/U/U/U/U/U/U1R/U/U9S9T8E8E1h8E8E9S9T8E8E1h8E8E9S3o3o9T/U/U1h/U/U9S3o
+BOARD 0 28 64 0 3G3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3i3j3j3j3j3j3k3l/U/U1R/U/U/U/U/U/U/U/U1R/U/U3h3i3j3j3j3j3j3k3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3G
+BOARD 0 29 64 0 didRdgdgdgdgdgdhdididRdgdgdgdgdgdhdRdgdgdgdgdxdSdTdwdxdCdwdgdgdgdgdgdgdxdCdwdxdSdTdwdgdgdgdgdhdRdgdgdgdgdgdhdididRdgdgdgdgdgdhdi
+BOARD 0 30 64 0 3F3S3T3T3T3T3T3U3F3F3S3T3T3T3T3T3U3S3T3T3T3T3T3U3S3T3T3U3F3F3F3F3F3F3F3F3S3T3T3U3S3T3T3T3T3T3U3S3T3T3T3T3T3U3F3F3S3T3T3T3T3T3U3F
+BOARD 0 31 64 0 3o9X8k/T8F/S8l9W3o3o9X8k/T8F/S8l9W9X8k/T8F/S8l9W9D3o3o9Dn+vwvwvwvwvwvwn/9C3o3o9C9X8k/T8F/S8l9W9X8k/T8F/S8l9W3o3o9X8k/T8F/S8l9W3o
+BOARD 0 32 64 0 3o/W80818V8081/X3o3o/W80818V8081/X/W80818V8081/X9D3o3o9Dduduemeneoepdudu9C3o3o9C/W80818V8081/X/W80818V8081/X3o3o/W80818V8081/X3o
+BOARD 0 33 64 0 3o8z/V/V1B/V/V8y3o3o8z/V/V1B/V/V8y8z/V/V1B/V/V8y9D3o3o9Deres3/3/3/3/eteu9C3o3o9C8z/V/V1B/V/V8y8z/V/V1B/V/V8y3o3o8z/V/V1B/V/V8y3o
+BOARD 0 34 64 0 3o9D/V/V1R/V/V9C3o3o9D/V/V1R/V/V9C9D/V/V1R/V/V9C9D3o3o9ne7fdfdfcfdfcfde+9S3o3o9C9D/V/V1R/V/V9C9D/V/V1R/V/V9C3o3o9D/V/V1R/V/V9C3o
+BOARD 0 35 64 0 3o9T8E8E1h8E8E9S3o3o9T8E8E1h8E8E9S9T8E8E1h8E8E9S9n3G3G3lfLfdfdfcfdfcfdfO3h3G3G9S9T8E8E1h8E8E9S9T8E8E1h8E8E9S3o3o9T8E8E1h8E8E9S3o
+BOARD 0 36 64 0 3G3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3i3j3j3j3j3j3k3l3o3o9nfLfdfdfcfdfcfdfO9S3o3o3h3i3j3j3j3j3j3k3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3G
+BOARD 0 37 64 0 3o9X2i2k8F2h2j9W3o3o9X2i2k8F2h2j9W9X2i2k8F2h2j9W9n3G3G3lfbfcfdfcfdfcfdfe3h3G3G9S9X2i2k8F2h2j9W9X2i2k8F2h2j9W3o3o9X2i2k8F2h2j9W3o
+BOARD 0 38 64 0 3G3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3i3j3j3j3j3j3k3ldSdidTcwcQcQcQcQcQcQcxdSdidT3h3i3j3j3j3j3j3k3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3G
+BOARD 0 39 64 0 dT0u0v8g0v8g0v8hdSdT0u0v8g0v8g0v8g0v8g0v8g0v8hdSdT3G3G3GcwcQcQcQcQcQcQcx3G3G3GdSdT0u0v8g0v8g0v8g0v8g0v8g0v8hdSdT0u0v8g0v8g0v8hdS
+BOARD 0 40 64 0 3G3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3j3j3j3j3j3j3k3G3GUPcQcQcQcQcQcQcQcQcQcQcQcQUv3G3G3i3j3j3j3j3j3j3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3G
+BOARD 0 41 64 0 U4cQcQcQcQcQcQcQU4U4cQcQcQcQcQcQcQcQcQcQcQcQcQU4U4cxzazbzczbzczbzczbzczbzczdcwU4U4cQcQcQcQcQcQcQcQcQcQcQcQcQU4U4cQcQcQcQcQcQcQU4
+BOARD 0 42 64 0 TTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUzqzrzszrzszrzszrzszrzsztTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTU
+BOARD 0 43 64 0 TjTkTjTkTjTkTjTkTjTkTjTkTjTkTjTkTjTkTjTkTjTkTjTkTjTkzazbzczbzczbzczbzczbzczdTjTkTjTkTjTkTjTkTjTkTjTkTjTkTjTkTjTkTjTkTjTkTjTkTjTk
+BOARD 0 44 64 0 zMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzszrzszrzszrzszrzszrzszrzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzL
+BOARD 0 45 64 0 zczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczb
+BOARD 0 46 64 0 zszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszr
+BOARD 0 47 64 0 z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7
+BOARD 0 48 64 0 7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf
+BOARD 0 49 64 0 7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv
+BOARD 0 50 64 0 7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf
+BOARD 0 51 64 0 7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv
+BOARD 0 52 64 0 7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf
+BOARD 0 53 64 0 7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv
+BOARD 0 54 64 0 7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf
+BOARD 0 55 64 0 7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv
+BOARD 0 56 64 0 7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf7Qzf
+BOARD 0 57 64 0 7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv7gzv
+BOARD 0 58 64 0 zMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzLzMzL
+BOARD 0 59 64 0 zbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzczbzcnanbnbnbnbnbnbnbnbnbnbnczczb
+BOARD 0 60 64 0 zrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzszrzsn6n7n7n7n7n7n7n7n7n7n7n8zszr
+BOARD 0 61 64 0 z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8z7z8zbzczbzcnanbnbnbnbnbnbnbnbnbnbnb3R3S3T3T3T3T3T3T3T3T3U3Vnbnb
+BOARD 0 62 64 0 TTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTU170F0F16TTTUTTTUTTTUTTTUQWQXzqzrzszdn6n7n7n7n7n7n7n7n7n7n7n7nanbnbnbnbnbnbnbnbnbnbncn7n7
+BOARD 0 63 64 0 TjTkTjTkTjTkTjTkTjTkTjTkTjblTjTkTjTkTj2E2L1Y1Y2K2FTkTjTkTjTkTjQHQmQnzazbzczt3R3S3T3T3T3T3T3T3T3T3T3Tnqnrnrnrnrnrnrnrnrnrnrns3T3T
+LINK underdark_arena_int_04.nw 29 37 6 1 30.5 43
+NPC val_valcastle-torch.png 25 32
+//#CLIENTSIDE
+function onCreated() {
+
+  emit();
+}
+function emit(){
+ with (findimg(200)) {
+    // Shadow
+
+    // Emitter attributes
+    layer = 1;
+    emitter.delaymin = 0.05;
+    emitter.delaymax = 0.05;
+    emitter.nrofparticles = 2;
+    emitter.firstinfront = false;
+    emitter.emissionoffset = {0.1, -.25, 0.3};
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 0.4;
+    emitter.particle.image = "g4_animation_fire.gif";
+
+    // Color
+    emitter.particle.alpha = 0.3;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 2; // subtract
+
+    // Movement
+    emitter.particle.angle = pi / 2;
+    emitter.particle.speed = 4;
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.1, 0.1);
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -0.15, 0.15);
+    emitter.addlocalmodifier("range", 0, 0.6, "alpha", "replace", 0.3, 0);
+    emitter.addlocalmodifier("range", 0, 0.2, "zoom", "replace", .2, .5);
+    emitter.addlocalmodifier("range", 0.2, 0.4, "zoom", "replace", 1, .5);
+    emitter.addlocalmodifier("range", 0, 0.6, "speed", "replace", 4, 8);
+  }
+
+  with (findimg(201)) {
+    // Fire
+
+    // Emitter attributes
+    layer = 2;
+    emitter.delaymin = 0.05;
+    emitter.delaymax = 0.05;
+    emitter.nrofparticles = 4;
+    emitter.firstinfront = false;
+    emitter.emissionoffset = {0.1, -.25, 0};
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 0.4;
+    emitter.particle.image = "g4_animation_fire.gif";
+
+    // Color
+    emitter.particle.red = 1;
+    emitter.particle.green = 0.5;
+    emitter.particle.blue = 0.5;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.zoom = .15;
+    emitter.particle.mode = 0; // add like a light
+
+    // Movement
+    emitter.particle.angle = pi / 2;
+    emitter.particle.speed = 4;
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.1, 0.1);
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -.1, .25);
+    emitter.addlocalmodifier("range", 0, 0.4, "alpha", "replace", 0.4, 0);
+    emitter.addlocalmodifier("range", 0, 0.2, "zoom", "replace", .35, .85);
+    emitter.addlocalmodifier("range", 0.2, 0.4, "zoom", "replace", .15, .5);
+    emitter.addlocalmodifier("range", 0, 0.4, "speed", "replace", 4, 8);
+  }
+}
+if (timeout || playerenters) {
+  showimg 1,light2.png,x-3.1,y-3;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.6;
+  changeimgzoom 1,random(1.3,1.5);
+  timeout=.1;
+}
+NPCEND
+NPC val_valcastle-torch.png 37 32
+//#CLIENTSIDE
+function onCreated() {
+
+  emit();
+}
+function emit(){
+ with (findimg(200)) {
+    // Shadow
+
+    // Emitter attributes
+    layer = 1;
+    emitter.delaymin = 0.05;
+    emitter.delaymax = 0.05;
+    emitter.nrofparticles = 2;
+    emitter.firstinfront = false;
+    emitter.emissionoffset = {0.1, -.25, 0.3};
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 0.4;
+    emitter.particle.image = "g4_animation_fire.gif";
+
+    // Color
+    emitter.particle.alpha = 0.3;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 2; // subtract
+
+    // Movement
+    emitter.particle.angle = pi / 2;
+    emitter.particle.speed = 4;
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.1, 0.1);
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -0.15, 0.15);
+    emitter.addlocalmodifier("range", 0, 0.6, "alpha", "replace", 0.3, 0);
+    emitter.addlocalmodifier("range", 0, 0.2, "zoom", "replace", .2, .5);
+    emitter.addlocalmodifier("range", 0.2, 0.4, "zoom", "replace", 1, .5);
+    emitter.addlocalmodifier("range", 0, 0.6, "speed", "replace", 4, 8);
+  }
+
+  with (findimg(201)) {
+    // Fire
+
+    // Emitter attributes
+    layer = 2;
+    emitter.delaymin = 0.05;
+    emitter.delaymax = 0.05;
+    emitter.nrofparticles = 4;
+    emitter.firstinfront = false;
+    emitter.emissionoffset = {0.1, -.25, 0};
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 0.4;
+    emitter.particle.image = "g4_animation_fire.gif";
+
+    // Color
+    emitter.particle.red = 1;
+    emitter.particle.green = 0.5;
+    emitter.particle.blue = 0.5;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.zoom = .15;
+    emitter.particle.mode = 0; // add like a light
+
+    // Movement
+    emitter.particle.angle = pi / 2;
+    emitter.particle.speed = 4;
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.1, 0.1);
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -.1, .25);
+    emitter.addlocalmodifier("range", 0, 0.4, "alpha", "replace", 0.4, 0);
+    emitter.addlocalmodifier("range", 0, 0.2, "zoom", "replace", .35, .85);
+    emitter.addlocalmodifier("range", 0.2, 0.4, "zoom", "replace", .15, .5);
+    emitter.addlocalmodifier("range", 0, 0.4, "speed", "replace", 4, 8);
+  }
+}
+if (timeout || playerenters) {
+  showimg 1,light2.png,x-3.1,y-3;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.6;
+  changeimgzoom 1,random(1.3,1.5);
+  timeout=.1;
+}
+NPCEND

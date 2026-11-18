@@ -1,0 +1,17 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "head7.png";
+  this.body = "arwind-smeewnedit-body100.png";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  this.nick = "Dead Bridgar";
+  setcharani("0", NULL);
+  setcharani("dead2", NULL);
+  this.dir = 0;
+  this.ap = 100;
+}

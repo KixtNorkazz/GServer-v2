@@ -1,0 +1,21 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "head5.png";
+  this.body = "drakdark-body.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("val-thought", this.val-this.thought);
+  this.dir = 2;
+  this.ap = 100;
+  this.nick = "Clockwork Apprentice";
+}
+
+function onPlayerTouchsMe() {
+  say2("::he looks deep in thought::");
+}

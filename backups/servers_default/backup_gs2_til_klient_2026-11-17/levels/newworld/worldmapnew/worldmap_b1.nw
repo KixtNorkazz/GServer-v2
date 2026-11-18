@@ -1,0 +1,1431 @@
+GLEVNW01
+BOARD 0 0 64 0 lGkXkYlFlGlFlGlFlGkXkYlFlGlFlGlFgvjdjcgIgJiyizhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 1 64 0 lFlGlFlGlFlGkXkYlFlGlFlGlFlGlFlGlFgvjcjdgIgJiyhmhnizhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 2 64 0 kYlFlGlFlGlFlGl6l7l8l9l+l/kXkYlFlGlFgvgugvgIgJh2h3iyizhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 3 64 0 kFlGkXkYlFlGlFmKmLmMmNmOmPknkXkYlFlGlFlGlFgvgIgHgIgJiyizhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 4 64 0 kVlFlGlFkCkDkEmambmcmdmemflFlGlFlGlFlGlFlGlFgvjdjcgIgJiyhmhnizhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 5 64 0 kllGlFlGkSkTkUmqmrmsmtmumvkCkDkEkXkYlFlGlFlGlFgvgugvgIgJh2h3iyhmhnizhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 6 64 0 k1kXkYlFkikjkkm6m7m8m9m+m/kSkTkUkVlFlGlFlGlFkCkDkEkFgvgIgHgIgJh2h3iyhmhnizhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 7 64 0 lFlGlFlGkykzk0k1lFlGlFlGlFkikjkkkllGkXkYkDkEkFkTkUkVlFgvjcjcgIgHgIgJh2h3iyizhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 8 64 0 kYkXkYlFlGkXkYlFlGlFlGlFlGkykzkXkYlFlGkSkTkUkVkjkkkllGlFgvjcjchNhMgIgHgIgJiyizhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 9 64 0 kDkEkFlGlFlGlFlGlFlGlFlGlFlGlFlGlFlGlFkikjkkklkzk0k1lFlGlFgvjcrBhaiuhMjdgIgJiyhmhnizhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 10 64 0 kTkUkVlFlGlFlGkXkYlFlGlFlGkXkYlFlGkXkYkykzk0k1kXkYlFlGlFlGkxiuivhbnJnIivhMgIgJh2h3iyizhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 11 64 0 kjkkkllGlFlGlFlGlF3W3XlGlFlGkXkYlFlGlFlGlFlGlFlGlFlGlFlGkxi+i/nZnYnZnYnZhaiwiXiWiXixiyhmhnizhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 12 64 0 kzk0k1lFlGlFlGkx3l3m3n3okwlFlGlFlGlFlGlFlGlFlGlFlGlFlGkxnIjOjPnJnIsUsVnJnInJnInJnIiwixh2h3iyhmhnhmhnizhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 13 64 0 lFlGlFlGlFlGkxnZnY323334nYkwlFlGlFlGlFlGkxkwkxkwkxkwkxsUsVlIlJlKlLskslnZnYnZnYnZnYnZiwiGiHixh2h3h2h3iyhmhnizhzhzhzhzhzhzhzhzhzhz
+BOARD 0 14 64 0 lGlFlGlFlGkxicidnIywyxnmm2nnkwkxkwlFlGkxnInJnInJnInJnIsksllYlZlalbnJnInJnInJnInJnInJnIsSnIiwiGiHiGiHixh2h3iyizhzhzhzhzhzhzhzhzhz
+BOARD 0 15 64 0 lFlGlFlGkxnZisitnYzAzBn2nonpnnnZnYkwkxnZnYnZnYnZnYnZnYlIlJnZmJmImJlKlLnZnInJnmm2m2nnnYsisRsTnYnZnYsTiwiGiHixiyhmhnizhzhzhzhzhzhz
+BOARD 0 16 64 0 lGkxkwkxnInJnIsSnIsRnInJmmn5n3nJnInJnInJnInJnInJnInJnIlYm1l4l5l4l5lalbnJnmm2n5npn5n3nInJshsjnIsRsSsjnInJnIiwixh2h3iyhmhnizhzhzhz
+BOARD 0 17 64 0 kxnZnYnZnYnZnYsinYshywyxn2n3nYyQyRnJnIyQpapayRnJnInJnYnEnFmImJmImJmompnZn2non5n5n3nJnYnZnYnZnYshsinZnYnZnYnZiwiGiHixh2h3iyizhzhz
+BOARD 0 18 64 0 nInJnInJnInJnInJnInJqKqLpapapsyByAqLpsqPqPqPqPxxyRnZnIlIlJl4l5l4l5m4m5sSnZn2m3n3nJnInInJnInJnInJnInJnInJyQpapapayRiwiGiHixiyizhz
+BOARD 0 19 64 0 lpnZnYlolplKlLnZnYnZnYqbpqpqyhnZpbqPqPqPqPqPqPqPqPyxnYlYlZmImJmImJlKlLsinYnZnYnZnZyQpapapapapapapapayRxQyDqPqPqPyCxRyQyRiwixiyiz
+BOARD 0 20 64 0 l5mom4m0m1lalbnJnInJnInJnIlYlZlapbqPxyxhxgxzqPqPqPpcnIm0m1mimjmymzlalbnJnInJnInZxQqPqPqPqPqPqPqPqPqPqPqPqPqPqPqPqPyCqPyCxRi0i1i2
+BOARD 0 21 64 0 mwm4m5nEnFmimjlKlLnZnYnZnYmimjminDqPyCxRxQyDqPqPqPpcnYnEnFmymzmimjmwmxlKlLnZnYywqPqNpqpqpqpqpqpqpqpqyhxgxzqPqPqPxyxzqPxyxhjEjFjG
+BOARD 0 22 64 0 milKlcldlJl5mzlalbnJnInJnImymzmynTqqqPyCyDqPqPqPqPpcqQqRnInAmzmymzmgmhlalbnJnIpbqPpcnInJnInJnIsSnIsRnInJxgxzqPqPxhygpqyhgxiDhghw
+BOARD 0 23 64 0 mylalsltm0mJmhmimjlolpmimjmImJmomppbqPqPqPqPqPqPqPpcqgqhnYmgmhmgmhmwmxmompnZnYpbqPpcnYnZnYnZnYsisRshnYgxgwygpqyhnJgxhhhiiDiThwhz
+BOARD 0 24 64 0 mgmhmimjl4l5mxmymzl4l5mymzmYmZm4m5psqPqPqPqPqPqPqNnJnInJnImwmxmwmxmYmZm4m5nJnIpbqPpcnmm2nnnJnInJshnJgxiDiAhhhihhhiiDhxhyiThwhzhz
+BOARD 0 25 64 0 mwmxmymzmImJmjmgmhmimjmolKpapapaxwqPqPqPqPqPqPqPzBlIlJmgmhmimjmompnZnYsRnYnZnYpbqPpcn2nonpnnnYnZnYgxiDiTiQhxhyhxhyiTiBiChwhzhzhz
+BOARD 0 26 64 0 mimjmgmhl4l5l4l5mxmymzmylapqpqpqyAqPqPqPqPqPqPxhnIlYlZmwmxmymzm4m5icidshnInJnIpbqPpcnJmmn5npnnnJgxiDiThwh1iBiCiBiChwhzhzhzhzhzhz
+BOARD 0 27 64 0 mymzmwmxmImJmImJmjmompm0m1milplKnYyAqPqNpqpqyhnZnYmgmhmimjmompnZsTisitnZnYnZnYpbqPpcsRn2non5n3nZi0i1i2hzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 28 64 0 mgmhmimjl4l5l4l5mzm4m5nEnFmymzlanIpbqPpcnInJnInJnImwmxmymzm4m5nJsjnJsSnJnInJnIpbqPpcshnJn2n3nInJjEjFjGhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 29 64 0 mwmxmymzmImJmImJnDnZnYnZnYm0m1momppbqPpcnYnZnYm0m1mgmhmompnZnYnZnYsRsinZnYnZnYpbqPpcnYnYnYnZnJgxiDiThwhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 30 64 0 l4l5l4l5mimjmImJnTnJnIsSnInEnFm4m5pbqPpcnInJnInEnFmYmZm4m5nZsRnJnIshnYnJnInJnIpbqPpcnInJnYnZnZi0i1i2hzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 31 64 0 mImJmImJmymzmYmZm4nZnYsinYk8lcldsRpbqPpcnYnZnYnZnYnZnYnZnYnJshnZnYnZnYnZnYnZnYpbqPpcnYnZnYnZnJjEjFjGhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 32 64 0 mgmhmimjmompnInJicidnInJnIlMlsltshpbqPqLpapapapapapapapapapapapapapapapapapapapsqPptnInJnInJgxiDiThwhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 33 64 0 mwmxmymzm4m5lcldisitnYnZnYnZnmm2nnpbqPqPqPqPqPqPqPqPqPqPqPqPqPqPqPqPqPqPqPqPqPqPxhnJnYk8k+k+i0i1i2hzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 34 64 0 mImJmompkqkrlsltjsjtsRnJnInJn2m3n3pbqPqNpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqp8nInZnIlMjsjtjXjFjGhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 35 64 0 mYmZm4m5k6k7nmnnj8j9shk+nYnZnYnZnYpbqPpcnYnZnYnZnYnZnYnZnYnZnYnZnYnZnYnZnYnZnYnZnYnZnYnZj8j9jni1i2hzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 36 64 0 nIk8k+k+k+k9n2n3nZyQpapapapapapapapsqPpcnInJnInJnInJnInJnInJnInJnInJnInJnInJnInJnInJnIk9nInYjEjFjGhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 37 64 0 k8lMnYnZnYlNsTnZxQqPqPqPqPqPqPqPqPqPxhptnYnZnYnZnYnZnYnZnYnZnYnZnYnZnYnZnYnZnYnZnYnZnYlNk+gxiDiThwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 38 64 0 lMicidnJnInJsjpbqPqNpqpqpqpqpqpqpqp8nInJnInJnInJnInJnIywyxnJnInJnInJnInJnInJnInZnYnJnInZgxiDiThwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 39 64 0 nYisitsTnYsSnYpbqPpcnYnZsRk8kqkrnYnIk+k+nYnZnYnZnYnZnYqKqLnZnYnZnYnZnYnZnYnZnYnJnIsSnYnZi0i1i2hzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 40 64 0 nInJnIsjnIsinIpbqPpcnInJshlMk6k7nIjsjtnInJnJnInJnInJnInJqqqrnInJnInJnInJnInJnInZsRsinInJjEjFjGhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 41 64 0 papapapapapapapsqPptnYsSicidnYnZnYj8j9nYnZnZnYnZnYnZnYnZpbpcnYnZnYnZnYk+k+k9nYnJshnInJgxiDiThwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 42 64 0 qPqPqPqPqPqPqPqPxhnJnIsiisitnInJnInJnInJnInJk8k+k+nJnInJpbpcnInJnInYnZnYnIlNnInJnInJgxiDiThwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 43 64 0 pqpqpqpqpqpqpqp8nInZnYnZnYnZnYnZnYnZnYnZnYk8lMkqkrlcldnZzAzBnmm2m2nnnYnZnYnZnYicidnZi0i1i2hzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 44 64 0 nInJsTnJnJnJnInJnInJnInJnInJnInJnInJk+k+nIlMnIk6k7lsltnmm2m2n0n1nXnpnnlOlPj+j/isitnJjEjFjGhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 45 64 0 sTnZsjsRnYk8kMkNnYk+k+k9nYnZnYnZnYnZnYnZnYnZnYnYnmm2m2n5n4n5n0n1n1nXmnlelfkOkPnZnYgxiDiThwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 46 64 0 sjnJnIshnZlMkckdnInJnIlNnInJnInJnInJjsjtnIkMkNnmn0n1n1n1nXnpnon0n1nXmnlulvnJnInJnIi0i1i2hzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 47 64 0 nYnZnYnZnmnnksktjsjtnYnZnYnZnYnZnYnZj8j9nYkckdn2n4n0n1n1n1n1nXn5n4n5n3k8k+nZnYnZnYjEjFjGhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 48 64 0 nIicidnmnon3nInJj8j9nInJnInJnInJnInJnInmnnksktnJn2npnom3m3npn0n1nXn3k8lMnInJnInJgxiDiThwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 49 64 0 qaisitn2n3lcldnZnYicidnZnYnZnYnZnYnYnYmmn4m2m2nnnYn2n3nInYn2m3m3n3nZlMnZnYnZnYgxiDiThwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 50 64 0 qqqrlKnJnIlsltnJnIisitnJnInJnInJnInJnIn2nonom3n3nIk+k+nYnInJnInJnInJgxhhhihhhiiDiThwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 51 64 0 nYnZlalbnYnZnYkgkhnZnYnZnYnZnYsRnYnYnYnYnYn3nYnZnYnZnYnZnYgxhhhihhhiiDhxhyhxhyiThwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 52 64 0 m0m1mompkgkhkgkBkAkhkgkhnInJnIshnIhKieifhLnJnInJgxhhhihhhiiDhxhyhxhyiTiBiCiBiChwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 53 64 0 nEnFm4m5kQkRkQkRkQkRkQkRkhnZnJnZnYrAjcjdrBgxhhhiiDhxhyhxhyiTiBiCiBiChwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 54 64 0 kgkhkgjAjBjCjDkBkAkBkAkBkAkhnZnYrAjdg9gigjiDhxhyiTiBiCiBiChwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 55 64 0 kQkRkQjQjRjSjTkRkQkRkQkRkQg/ifrAjcg9gZhxhyiTiBiChwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 56 64 0 kAjAjBjgogohjjkBkAjAjBjCjDgvjdjdg9gZgpiBiChwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 57 64 0 kwjQjRjSjToxjzkRkQjQjRjSjTg/jdjdgVi1i2hzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 58 64 0 kgjgjhjijjkBkAkBkAjgjhjijjgvjdjdgIgJiyizhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 59 64 0 kQjwjxjyjzkRkQkRkQjwjxjyjzg/jdjdjdgVi1i2hzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 60 64 0 kRkQkRjAjBjCjDkQkRkBkRkQkRgvjdjdjdgljFjGhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 61 64 0 kQkRkQjQjRjSjTkRkQkRkQkRkQkRgvjdg9goiThwhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 62 64 0 kRkQkRjgjhjijjkQkRkQkRkQkRkQkRgvgljFjGhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+BOARD 0 63 64 0 kQkRkQjwjxjyjzkRkQkRkQkRkQkRgvg/gIgJiyizhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhz
+LINK worldmap_b2.nw 0 63 64 1 playerx 0
+LINK worldmap_a1.nw 0 0 1 64 61 playery
+LINK eastocean_aa06.nw 50 19 1 3 1.5 14
+LINK newgreendale_b3.nw 17 31 3 1 31.5 59
+LINK thistletop_b2.nw 30 49 3 2 21.5 56
+LINK easternkanoshire_d2.nw 24 31 1 11 60 12
+LINK easternkanoshire_a3.nw 9 34 1 2 0 25
+LINK easternkanoshire_a3.nw 9 36 1 3 0 60
+LINK easternkanoshire_a4.nw 10 39 1 3 0 31
+LINK val_vandertrain.nw 13 52 1 2 31 56
+LINK val_vandrakehouse.nw 31 11 1 2 38.5 60
+LINK newgreendale_forestpath1.nw 17 18 2 2 3 32
+NPC val_worldmap-valcastle.png 15 28
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+setimgpart val_worldmap-valcastle.png,80,128,4,64;
+x=x+.8;
+
+drawunderplayer;
+
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-forest1.png 13 19
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_worldmap-forest1.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_worldmap-forest1.png 0 18
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_worldmap-forest1.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_worldmap-forest1.png 13 25
+// NPC made by Wyand (LAT Chief)
+//#CLIENTSIDE
+if (created) {x=x-.5;
+  setimgpart val_worldmap-forest1.png,70,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-forest1.png 15 27
+// NPC made by Wyand (LAT Chief)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_worldmap-forest1.png,70,0,32,32;
+  drawunderplayer;
+  x=x+.4;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-forest1.png 28 14
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_worldmap-forest1.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_worldmap-forest1.png 27 23
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_worldmap-forest1.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_worldmap-valcastle.png 19 7
+//#CLIENTSIDE
+// NPC made by The Stone Dwarf
+if (created) {
+setzoomeffect .75;
+drawunderplayer;
+x=x+.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-valcastle.png 16 28
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+setimgpart val_worldmap-valcastle.png,16,128,80,64;
+
+drawunderplayer;
+
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-valcastle.png 21 28
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+setimgpart val_worldmap-valcastle.png,32,128,18,54;
+
+drawunderplayer;
+
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-pine1.png 29 12
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,16,0,16,32;
+  x=x-.5;y=y-.8;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 23 30
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,32,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-valcastle.png 22 28
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+setimgpart val_worldmap-valcastle.png,16,128,16,64;
+y=y+.5;
+x=x+.15;
+
+drawunderplayer;
+
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-pine1.png 16 31
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,16,0,16,32;
+  x=x-.5;y=y-.8;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-forest1.png 23 27
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_worldmap-forest1.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_worldmap-forest1.png 11 21
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_worldmap-forest1.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_worldmap-forest1.png 5 19
+// NPC made by Wyand (LAT Chief)
+//#CLIENTSIDE
+if (created) {x=x+.4;
+  setimgpart val_worldmap-forest1.png,70,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-mountain3.png 3 53
+// NPC made by Wyand (LAT Chief)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-forest1.png 0 50
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_worldmap-forest1.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_worldmap-pine1.png 15 32
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,48,0,16,32;
+  x=x-.5;y=y-.5;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-town1.png 21 21
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-town1.png,128,0,48,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-town1.png 23 20
+if (created)
+  {
+  join "worldmap_house1";
+  y=y-.5;
+}
+NPCEND
+NPC val_worldmap-town1.png 21 23
+join "worldmap_house2";
+drawoverplayer;
+NPCEND
+NPC val_worldmap-edit-town1.png 21 16
+join "worldmap_house10";
+NPCEND
+NPC val_worldmap-town1.png 16 21
+join "worldmap_house3";
+drawunderplayer;
+NPCEND
+NPC val_worldmap-town1.png 22 17
+join "worldmap_house1";
+NPCEND
+NPC val_worldmap-town1.png 23 22
+join "worldmap_house3";
+NPCEND
+NPC val_worldmap-town1.png 23 24
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {x=x-.4;
+setimgpart val_worldmap-town1.png,128,0,48,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-town1.png 18 23
+join "worldmap_house2";
+NPCEND
+NPC val_worldmap-town1.png 17 19
+join "worldmap_house2";
+drawunderplayer;
+NPCEND
+NPC val_worldmap-town1.png 25 17
+if (created)
+  {
+  join "worldmap_house2";
+  x=x-.5;
+}
+NPCEND
+NPC val_worldmap-edit-town1.png 54 18
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {x=x-.5;drawunderplayer;
+setimgpart val_worldmap-edit-town1.png,123,0,28,35;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-forest1.png 15 19
+// NPC made by Wyand (LAT Chief)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_worldmap-forest1.png,70,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 13 45
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,0,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 10 32
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,32,0,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 5 17
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,32,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-forest1.png 2 18
+// NPC made by Wyand (LAT Chief)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_worldmap-forest1.png,70,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 16 42
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,32,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 18 50
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,48,0,16,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 6 19
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,32,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 6 17
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,48,0,16,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 10 21
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,48,0,16,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 16 38
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;dontblock;
+setimgpart val_worldmap-samrivertiles.gif,48,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 10 31
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,48,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 13 46
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,32,0,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 9 21
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,32,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 7 19
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,0,0,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 8 19
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,16,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 9 19
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,48,0,16,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 10 33
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,32,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 13 33
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,48,0,16,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 10 30
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,32,0,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 17 50
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,32,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 16 36
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;dontblock;
+setimgpart val_worldmap-samrivertiles.gif,48,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 16 39
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,32,0,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 10 29
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,48,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 14 35
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,0,0,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 15 35
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,16,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 16 41
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,32,0,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 13 35
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,32,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 11 33
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,0,0,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 12 33
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,16,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 16 35
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,48,0,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 15 45
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,0,0,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 14 45
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,16,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 14 47
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,48,0,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 13 47
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,32,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 16 48
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,0,0,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 15 48
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,16,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 17 42
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,48,0,16,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 17 44
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,48,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 17 48
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+dontblock;
+setimgpart val_worldmap-samrivertiles.gif,48,0,16,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 16 40
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,48,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 14 48
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,32,16,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-bigbridge.gif 14 35
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, Knight of (Valikorlia)
+if (created) {dontblock;drawunderplayer;y=y+.1;x=x-.05;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-samrivertiles.gif 16 45
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-samrivertiles.gif,0,0,32,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap_riverforest.gif 9 22
+//#CLIENTSIDE
+// NPC made by Alexander Knowlton, the Warrior
+if (created) {drawunderplayer; dontblock;y=y-.1;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap_riversource2.gif 2 12
+//#CLIENTSIDE
+// NPC made by Alexander Knowlton, the Warrior
+if (created) {drawunderplayer; dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-town1.png 16 24
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {x=x+.4;drawunderplayer;
+setimgpart val_worldmap-town1.png,128,0,48,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-edit-town1.png 18 16
+join "worldmap_house10";
+NPCEND
+NPC val_worldmap-edit-town1.png 20 17
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {x=x-.5;drawunderplayer;
+setimgpart val_worldmap-edit-town1.png,123,0,28,35;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-edit-town1.png 55 22
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {drawunderplayer;
+setimgpart val_worldmap-edit-town1.png,123,0,28,35;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-edit-town1.png 57 20
+join "worldmap_house10";
+NPCEND
+NPC val_worldmap-edit-town1.png 52 17
+join "worldmap_house10";
+NPCEND
+NPC val_worldmap-edit-town1.png 56 18
+join "worldmap_house9";
+NPCEND
+NPC val_worldmap-edit-town1.png 50 20
+join "worldmap_house10";
+NPCEND
+NPC val_worldmap-edit-town1.png 50 16
+if (created)
+{
+join "worldmap_house8";
+y=y+.5;
+}
+NPCEND
+NPC val_worldmap-edit-town1.png 51 21
+if (created)
+{
+join "worldmap_house9";
+x=x+.5;
+}
+NPCEND
+NPC - 35 44
+join "worldmap_house4";
+NPCEND
+NPC - 23 43
+join "worldmap_house5";
+NPCEND
+NPC - 18 46
+join "worldmap_house6";
+NPCEND
+NPC - 37 44
+join "worldmap_house7";
+NPCEND
+NPC val_worldmap_rivermouth2.gif 17 51
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+x=x+.5;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmaplabel_greendale.png 17 20
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmaplabel_hebron.png 12 47
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+dontblock;
+drawunderplayer;
+y=y+.5;
+x=x+.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmaplabel_lanothanun.png 3 57
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmaplabel_lucca.png 51 18
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmaplabel_staghorncastle.png 23 11
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_worldmap-pine1.png 24 39
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,16,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 23 38
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,48,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 23 40
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,16,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 24 40
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,32,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 22 39
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,48,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 10 42
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,16,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 11 41
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,48,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 11 43
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,32,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 12 44
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,16,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 12 42
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,48,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 9 43
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,48,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 10 45
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,48,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 9 32
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,48,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 8 33
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,48,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC - 24 32
+function onCreated()
+{
+  join("worldmap_icon");
+}
+//#CLIENTSIDE
+function onCreated()
+{
+  this.titleimg = "Eastern Kanoshire";
+}
+NPCEND
+NPC - 31 51
+function onCreated()
+{
+  join("worldmap_icon");
+}
+//#CLIENTSIDE
+function onCreated()
+{
+  this.titleimg = "Wayward's Rest";
+}
+NPCEND
+NPC val_worldmap-pine1.png 22 34
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,16,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 20 37
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,32,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 21 40
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters)
+{
+  setimgpart val_worldmap-pine1.png,16,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 19 40
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,48,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 20 41
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,48,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 19 42
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,48,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 22 37
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,48,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 14 43
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,48,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 20 40
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,32,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 19 40
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,32,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 19 42
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,16,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 15 41
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,32,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 11 47
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,32,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 10 49
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,16,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 11 49
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,32,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 7 49
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,32,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 12 51
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,16,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 13 50
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,32,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 2 48
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,32,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC val_worldmap-pine1.png 26 41
+if (created)
+  setshape 1,1*16,2*16;
+
+//#CLIENTSIDE
+if (playerenters) {
+  setimgpart val_worldmap-pine1.png,16,0,16,32;
+  setshape2 1,2,{
+    0,
+      22
+        };
+}
+NPCEND
+NPC overworldhill1.gif 31 41
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill1.gif 33 37
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill1.gif 36 40
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill1.gif 40 35
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill1.gif 39 38
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 32 46
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 25 47
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 28 45
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 20 50
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill1.gif 38 47
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 30 48
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC lanothanun1.gif 0 57
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-wayward.gif 27 50
+
+dontblock;
+drawunderplayer;
+NPCEND

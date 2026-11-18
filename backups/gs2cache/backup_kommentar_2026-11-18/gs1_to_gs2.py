@@ -1,0 +1,932 @@
+"""GS1 client script -> GS2 (for Graal v6, which can only run GS2).
+
+    python3 gs1_to_gs2.py <scripts.json> <outdir>       # whole world: {sha1: {"src":...}} -> outdir/<sha1>.gs2 + report.txt
+    python3 gs1_to_gs2.py -                              # stdin -> stdout
+
+The server (gs2emu "modern") looks the hash of an NPC's client script up in the output folder, so every unique script is
+translated once, offline. The translator covers the subset that the Valikorlia world really uses (events created /
+playerenters / playertouchsme / timeout / playerchats ..., commands setimgpart, drawoverplayer, setshape2, showimg ...).
+What it cannot translate is left out as a `// GS1:` comment and counted in the report, never guessed.
+
+transpile(src) -> (gs2 text or None, [notes])   None = nothing runnable came out.
+"""
+import json
+import os
+import re
+import sys
+
+# ---------------------------------------------------------------- events
+EVENTS = {
+    "created": "onCreated", "playerenters": "onPlayerEnters", "playerleaves": "onPlayerLeaves",
+    "playertouchsme": "onPlayerTouchsMe", "playertouchesme": "onPlayerTouchsMe", "timeout": "onTimeOut",
+    "playerchats": "onPlayerChats", "weaponfired": "onWeaponFired", "movementfinished": "onMovementFinished",
+    "playerattached": "onPlayerAttached",
+}
+
+# ---------------------------------------------------------------- bare words -> GS2 expressions
+WORDS = {
+    "playerx": "player.x", "playery": "player.y", "playerdir": "player.dir", "playerid": "player.id",
+    "playerchat": "player.chat", "playernick": "player.nick", "playerhearts": "player.hearts",
+    "playerrupees": "player.rupees", "playerdarts": "player.darts", "playerbombs": "player.bombs",
+    "playerfullhearts": "player.fullhearts", "playerap": "player.ap", "playerlevel": "player.level",
+    "x": "this.x", "y": "this.y", "dir": "this.dir", "lighteffectsenabled": "lighteffectsenabled", "playerscount": "playerscount",
+    "mousescreenx": "mousescreenx", "mousescreeny": "mousescreeny",
+    "leftmousebutton": "leftmousebutton", "rightmousebutton": "rightmousebutton",
+    "true": "true", "false": "false", "null": "null",
+}
+HASHVARS = {"a": "player.account", "c": "player.chat", "g": "player.guild", "n": "player.nick", "L": "level.name", "m": "level.name"}
+FUNCS_PASS = {"abs", "int", "sin", "cos", "random", "onwall", "onwall2", "keydown", "mousescreenx", "mousescreeny", "vectordist",
+              "min", "max", "getdir", "isonmap", "format", "sqrt", "round", "floor", "ceil", "sleep", "strlen", "playerismale",
+              "playerisfemale", "isweapon"}
+
+# ---------------------------------------------------------------- commands
+# kinds: n = number/expression, s = text (quoted when it is raw GS1 text), . = array/expression, ? rest of line as expressions
+CMDS = {
+    # no arguments
+    "dontblock": ("dontblock", ""), "blockagain": ("blockagain", ""), "drawoverplayer": ("drawoverplayer", ""),
+    "drawunderplayer": ("drawunderplayer", ""), "drawaslight": ("drawaslight", ""), "hide": ("hide", ""), "show": ("show", ""),
+    "showcharacter": ("showcharacter", ""), "timereverywhere": ("timereverywhere", ""), "detachplayer": ("detachplayer", ""), "freezeplayer": ("freezeplayer", "n"),
+    "removetiledefs": ("removetiledefs", "0"),
+    # image / shape
+    "setimg": ("setimg", "s"), "setgif": ("setimg", "s"), "setimgpart": ("setimgpart", "snnnn"), "setgifpart": ("setimgpart", "snnnn"),
+    "setshape": ("setshape", "nnn"), "setshape2": ("setshape2", "nn."),
+    "setzoomeffect": ("setzoomeffect", "n"), "setcoloreffect": ("setcoloreffect", "nnnn"), "seteffectmode": ("seteffectmode", "n"),
+    "seteffect": ("seteffect", "nnnn"),
+    "showimg": ("showimg", "nsnn"), "changeimgcolors": ("changeimgcolors", "nnnnn"), "changeimgzoom": ("changeimgzoom", "nn"),
+    "changeimgvis": ("changeimgvis", "nn"), "changeimgpart": ("changeimgpart", "nnnnn"), "hideimg": ("hideimg", "n"),
+    "hideimgs": ("hideimgs", "nn"), "showtext": ("showtext", "nnssss"),
+    "setcharani": ("setcharani", "s?"), "setani": ("setani", "s?"),
+    "addtiledef": ("addtiledef", "ssn"), "addtiledef2": ("addtiledef2", "ssnn"),
+    # misc
+    "say2": ("say2", "s"), "message": ("message", "s"), "sleep": ("sleep", "n"), "play": ("play", "s"), "playlooped": ("playlooped", "s"),
+    "stopmidi": ("stopmidi", ""), "loadmap": ("loadmap", "s"),  "move": ("move", "nnnn"), "canbepushed": ("canbepushed", ""),
+    "canbepulled": ("canbepulled", ""), "canbecarried": ("canbecarried", ""), "join": ("join", "s"), "sign": None,
+    "triggeraction": ("triggeraction", "nns?"), "puthorse": None, "attachplayertoobj": ("attachplayertoobj", "n?"),
+    "setsleevecolor": None, "setbeltcolor": None, "setcoatcolor": None, "setshoecolor": None, "setskincolor": None,
+    "setcharprop": None, "setplayerprop": None, "wraptext2": None, "showpoly": ("showpoly", "n."),
+}
+ALIASES = {"donblock": "dontblock", "Drawunderplayer": "drawunderplayer", "Created": "created"}
+
+
+DEBUG_CLASSES = False      # echo from the event functions of merged classes (the ladders): the first look at what v6 does with them
+DEBUG_TILEDEFS = True      # echo the level name whenever a script sets tile definitions (read it in game_console.log)
+
+
+class Unsupported(Exception):
+    pass
+
+
+class Joined(Exception):
+    pass
+
+
+CLASS_DIR = None      # folder with the class scripts (servers/default/scripts); `join name;` merges the client part of that class
+
+
+# ---------------------------------------------------------------- scanning helpers
+def strip_comments(s):
+    out, i, n, q = [], 0, len(s), False
+    while i < n:
+        c = s[i]
+        if q:
+            out.append(c)
+            if c == '"':
+                q = False
+            i += 1
+        elif c == '"':
+            q = True
+            out.append(c)
+            i += 1
+        elif s.startswith("//", i):
+            while i < n and s[i] != "\n":
+                i += 1
+        elif s.startswith("/*", i):
+            j = s.find("*/", i + 2)
+            i = n if j < 0 else j + 2
+            out.append(" ")
+        else:
+            out.append(c)
+            i += 1
+    return "".join(out)
+
+
+def match(s, i, open_c, close_c):
+    """index of the bracket matching s[i]==open_c (quotes skipped)"""
+    depth, q = 0, False
+    while i < len(s):
+        c = s[i]
+        if c == '"':
+            q = not q
+        elif not q:
+            if c == open_c:
+                depth += 1
+            elif c == close_c:
+                depth -= 1
+                if depth == 0:
+                    return i
+        i += 1
+    raise Unsupported("unbalanced " + open_c)
+
+
+def split_top(s, sep=","):
+    """split at top level (outside (), {}, [] and quotes)"""
+    out, depth, q, cur = [], 0, False, []
+    for c in s:
+        if c == '"':
+            q = not q
+        if not q:
+            if c in "({[":
+                depth += 1
+            elif c in ")}]":
+                depth -= 1
+            elif c == sep and depth == 0:
+                out.append("".join(cur))
+                cur = []
+                continue
+        cur.append(c)
+    out.append("".join(cur))
+    return out
+
+
+# ---------------------------------------------------------------- expressions
+_ident = re.compile(r"[A-Za-z_][A-Za-z_0-9]*")
+
+
+def tx(e):
+    """GS1 expression -> GS2 expression"""
+    e = e.strip().replace("=<", "<=").replace("=>", ">=")
+    out, i, n = [], 0, len(e)
+    while i < n:
+        c = e[i]
+        if c == '"':
+            j = i + 1
+            while j < n and e[j] != '"':
+                j += 1
+            out.append(e[i:j + 1])
+            i = j + 1
+            continue
+        m = _ident.match(e, i)
+        if m:
+            w = m.group(0)
+            prev = e[i - 1] if i else ""
+            nxt = e[m.end():].lstrip()[:1]
+            if (prev and prev in ".#") or prev.isdigit():
+                out.append(w)
+            elif nxt == "(":
+                out.append(_call(e, w, m.end()))
+                i = _skip_call(e, m.end())
+                continue
+            elif w in WORDS:
+                out.append(WORDS[w])
+            elif w in ("this", "temp", "client", "clientr", "server", "serverr", "player", "players", "level", "thiso", "null"):
+                out.append(w)
+            elif w in ("not", "NOT"):
+                out.append("!")
+            elif w in ("in", "true", "false", "null"):
+                out.append(w)
+            else:
+                out.append(w if w[0].isdigit() else "this." + w)
+            i = m.end()
+            continue
+        if c == "(" and not (out and re.search(r"[\w.\])]$", "".join(out).rstrip())):
+            try:
+                k = match(e, i, "(", ")")
+            except Unsupported:
+                k = -1
+            if k > 0 and len(split_top(e[i + 1:k])) > 1 and "(" not in e[i + 1:k]:     # (a,b) is not an expression: GS1 scripts have typos like (#a,name)
+                out.append("false")
+                i = k + 1
+                continue
+        if c == "#":
+            m2 = re.match(r"#([vs])\(", e[i:])
+            if m2:
+                k = match(e, i + 2, "(", ")")
+                out.append("(" + tx(e[i + 3:k]) + ")")
+                i = k + 1
+                continue
+            if i + 1 < n and e[i + 1] in HASHVARS and not (i + 2 < n and e[i + 2].isalnum()):
+                out.append(HASHVARS[e[i + 1]])
+                i += 2
+                continue
+            raise Unsupported("# in expression")
+        out.append(c)
+        i += 1
+    return "".join(out)
+
+
+def _skip_call(e, i):
+    j = e.index("(", i)
+    return match(e, j, "(", ")") + 1
+
+
+def _call(e, name, i):
+    j = e.index("(", i)
+    k = match(e, j, "(", ")")
+    args = [a for a in split_top(e[j + 1:k])] if e[j + 1:k].strip() else []
+    ln = name.lower()
+    if ln in ("strequals", "strcontains", "startswith", "endswith"):
+        t = [sexpr(a) for a in args]
+    else:
+        t = [tx(a) for a in args]
+    if ln == "strequals" and len(t) == 2:
+        return "(%s == %s)" % (t[0], t[1])
+    if ln == "strcontains" and len(t) == 2:
+        return "(%s.pos(%s) > -1)" % (t[0], t[1])
+    if ln == "startswith" and len(t) == 2:
+        return "%s.starts(%s)" % (t[0], t[1])
+    if ln == "strtofloat" and len(t) == 1:
+        return "float(%s)" % t[0]
+    if ln == "strlen" and len(t) == 1:
+        return "%s.length()" % t[0]
+    if ln == "random" and len(t) == 2:
+        return "random(%s, %s)" % (t[0], t[1])
+    if ln in FUNCS_PASS or name in ("this", "temp"):
+        return "%s(%s)" % (name, ", ".join(t))
+    if ln in ("strcontains", "strequals", "startswith", "strtofloat", "strlen"):
+        raise Unsupported("bad arity of " + name)
+    return "%s(%s)" % (name, ", ".join(t))   # user function of the same script
+
+
+def sexpr(a):
+    """argument of strequals() and friends: raw text, or a #-variable"""
+    a = a.strip()
+    if re.fullmatch(r"#[a-zA-Z]", a) and a[1] in HASHVARS:
+        return HASHVARS[a[1]]
+    if re.fullmatch(r"#[vs]\(.*\)", a, re.S):
+        return tx(a)
+    if re.fullmatch(r"this\.\w+|client\.\w+|clientr\.\w+|serverr\.\w+|temp\.\w+|player\.\w+", a):
+        return a
+    return qstr(a)
+
+
+def cond(c):
+    """a GS1 condition: a single = compares"""
+    c = tx(c.replace(";", ""))
+    out, q = [], False
+    for i, ch in enumerate(c):
+        if ch == '"':
+            q = not q
+        if ch == "=" and not q:
+            prev = c[i - 1] if i else ""
+            nxt = c[i + 1] if i + 1 < len(c) else ""
+            if prev not in "=!<>+-*/" and nxt != "=":
+                out.append("==")
+                continue
+        out.append(ch)
+    return "".join(out)
+
+
+def qstr(raw):
+    """raw GS1 text argument -> GS2 string expression ( #v(x) -> concatenation )"""
+    raw = raw.strip()
+    if len(raw) >= 2 and raw[0] == raw[-1] == '"' and '"' not in raw[1:-1]:
+        return raw
+    parts, i = [], 0
+    for m in re.finditer(r"#v\(([^()]*)\)|#s\(([^()]*)\)|#([acnLm])(?![A-Za-z0-9_(])", raw):
+        if m.start() > i:
+            parts.append('"' + raw[i:m.start()].replace("\\", "\\\\").replace('"', '\\"') + '"')
+        parts.append(HASHVARS[m.group(3)] if m.group(3) else "(" + tx(m.group(1) or m.group(2)) + ")")
+        i = m.end()
+    if i < len(raw) or not parts:
+        parts.append('"' + raw[i:].replace("\\", "\\\\").replace('"', '\\"') + '"')
+    return " @ ".join(parts)
+
+
+# ---------------------------------------------------------------- statements
+_assign = re.compile(r"^([A-Za-z_][\w.\[\]]*(?:\.\([^)]*\))?[\w.\[\]]*)\s*(\+=|-=|\*=|/=|=)(?!=)\s*(.*)$", re.S)
+_incr = re.compile(r"^([A-Za-z_][\w.\[\]]*)\s*(\+\+|--)$")
+
+
+def lhs(v):
+    v = v.strip()
+    w = v.split(".")[0].split("[")[0]
+    if w in ("this", "temp", "client", "clientr", "server", "serverr", "player", "level", "thiso"):
+        return v
+    if w in WORDS:
+        return WORDS[w] + v[len(w):]
+    return "this." + v
+
+
+_STRVAR = re.compile(r"(?:this|thiso|temp|client|clientr|server|serverr)\.(?!(?:png|gif|mng|gani|wav|mp3|mid|txt|nw|gmap)$)[A-Za-z_]\w*(?:\[[^\]]*\])?")
+
+
+def command(stmt, notes):
+    m = re.match(r"^([A-Za-z_]\w*)\s*(.*)$", stmt, re.S)
+    if not m:
+        raise Unsupported("statement " + stmt[:30])
+    name, rest = m.group(1), m.group(2).strip()
+    name = ALIASES.get(name, name)
+    ln = name.lower()
+    if ln == "timeout" and rest.startswith("="):
+        return "setTimer(%s);" % tx(rest[1:])
+    if ln == "setstring":
+        a = split_top(rest)
+        if len(a) >= 2:
+            return "%s = %s;" % (lhs(a[0]), qstr(",".join(a[1:])))
+        raise Unsupported("setstring")
+    if ln in ("set", "unset") and rest:
+        v = lhs(rest)
+        return "%s = %s;" % (v, "1" if ln == "set" else "0")
+    if ln in ("setcharprop", "setplayerprop"):
+        a = split_top(rest)
+        if len(a) < 2:
+            raise Unsupported(ln)
+        code = a[0].strip()
+        target = "this" if ln == "setcharprop" else "player"
+        m2 = re.fullmatch(r"#([CP])(\d)", code)
+        if m2:
+            n = int(m2.group(2))
+            if m2.group(1) == "C" and n <= 4:
+                dest = "%s.colors[%d]" % (target, n)
+            elif m2.group(1) == "P" and 1 <= n <= 9:
+                dest = "%s.attr[%d]" % (target, n)
+            else:
+                raise Unsupported(ln + " " + code)
+        else:
+            if code == "#m" and ln == "setcharprop":          # the old setani: #m,idle.gani plays an animation on the NPC character
+                v = ",".join(a[1:]).strip()
+                if v == "" or re.fullmatch(r"-?\d+(\.\d+)?", v):       # "#m,0" (a mode number, not an animation): the client asked for 0.gani
+                    return "// setcharprop #m,%s" % v
+                if v.lower().endswith(".gani"):
+                    v = v[:-5]
+                return "setcharani(%s, NULL);" % qstr(v)
+            dest = {"#1": "%s.sword", "#2": "%s.shield", "#3": "%s.head", "#8": "%s.body",
+                    "#n": "%s.nick", "#c": "%s.chat"}.get(code)
+            if dest is None:
+                raise Unsupported(ln + " " + code)
+            dest = dest % target
+        return "%s = %s;" % (dest, qstr(",".join(a[1:])))
+    if ln == "join" and rest:
+        raise Joined(rest.strip().strip('"()'))
+    if ln in ("setlevel2", "setlevel"):             # a client cannot warp itself in v6: the server does it (gr.warp checks the NPC around the player)
+        a = split_top(rest)
+        if len(a) < 3:
+            raise Unsupported(ln)
+        return 'triggeraction(0, 0, "gr.warp", %s, %s, %s);' % (qstr(a[0]), tx(a[1]), tx(a[2]))
+    if ln == "return":
+        return "return %s;" % tx(rest) if rest else "return;"
+    if ln == "break":
+        return "break;"
+    spec = CMDS.get(ln, "?")
+    if spec == "?" or spec is None:
+        raise Unsupported(ln)
+    gname, kinds = spec
+    if kinds == "0":
+        return "%s(0);" % gname
+    if rest.startswith("(") and match(rest, 0, "(", ")") == len(rest) - 1:     # already call style
+        rest = rest[1:-1]
+    args = split_top(rest) if rest else []
+    if ln == "setshape2" and len(args) > 3:       # GS1 also allows the tiles as separate arguments
+        args = args[:2] + ["{" + ",".join(args[2:]) + "}"]
+    while args and not args[-1].strip() and len(args) > 1:     # GS1 allows a dangling comma
+        args.pop()
+    out = []
+    k = 0
+    for a in args:
+        if not a.strip():                      # empty argument in the middle
+            out.append("NULL" if ln in ("setcharani", "setani", "triggeraction") else "0")
+            k += 1
+            continue
+        kind = kinds[k] if k < len(kinds) else (kinds[-1] if kinds.endswith("?") else "")
+        if kinds.endswith("?") and k >= len(kinds) - 1:
+            kind = "n"
+        if kind == "s":
+            if _STRVAR.fullmatch(a.strip()):       # GS2-style variable as a text argument (showimg(1,this.img,x,y)): pass the value, not the text "this.img"
+                out.append(tx(a))
+                k += 1
+                continue
+            if k == len(kinds) - 1 and ln in ("say2", "message", "showtext"):
+                a = ",".join(args[k:])
+                out.append(qstr(a))
+                break
+            out.append(qstr(a))
+        elif kind in ("n", "."):
+            out.append(tx(a))
+        elif kind == "":
+            raise Unsupported("extra argument of " + ln)
+        k += 1
+    if ln in ("setcharani", "setani") and len(out) == 1:
+        out.append("NULL")
+    return "%s(%s);" % (gname, ", ".join(out))
+
+
+class P:
+    def __init__(self, s):
+        self.s = s
+        self.i = 0
+
+    def ws(self):
+        s = self.s
+        while self.i < len(s) and s[self.i] in " \t\r\n":
+            self.i += 1
+
+    def peek(self, w):
+        self.ws()
+        return self.s.startswith(w, self.i) and not (w[-1].isalnum() and self.s[self.i + len(w):self.i + len(w) + 1].isalnum())
+
+    def statements(self, until_brace):
+        out = []
+        while True:
+            self.ws()
+            if self.i >= len(self.s):
+                if until_brace:
+                    raise Unsupported("missing }")
+                return out
+            if self.s[self.i] == "}":
+                if not until_brace:
+                    raise Unsupported("stray }")
+                self.i += 1
+                return out
+            out.append(self.statement())
+
+    def statement(self):
+        self.ws()
+        s = self.s
+        if s[self.i] == "{":
+            self.i += 1
+            return ("block", self.statements(True))
+        if s[self.i] == ";":
+            self.i += 1
+            return ("empty",)
+        if self.peek("if"):
+            self.i += 2
+            self.ws()
+            j = match(s, self.i, "(", ")")
+            cond = s[self.i + 1:j]
+            self.i = j + 1
+            body = self.statement()
+            els = None
+            if self.peek("elseif"):                     # GS1 also writes elseif
+                self.i += 4
+                els = self.statement()
+            elif self.peek("else"):
+                self.i += 4
+                els = self.statement()
+            return ("if", cond, body, els)
+        if self.peek("while"):
+            self.i += 5
+            self.ws()
+            j = match(s, self.i, "(", ")")
+            cond = s[self.i + 1:j]
+            self.i = j + 1
+            return ("while", cond, self.statement())
+        if self.peek("for"):
+            self.i += 3
+            self.ws()
+            j = match(s, self.i, "(", ")")
+            head = s[self.i + 1:j]
+            self.i = j + 1
+            return ("for", head, self.statement())
+        if self.peek("function"):
+            self.i += 8
+            self.ws()
+            m = re.match(r"([A-Za-z_]\w*)\s*(\(([^)]*)\))?", s[self.i:])
+            if not m:
+                raise Unsupported("function header")
+            self.i += m.end()
+            self.ws()
+            if s[self.i] != "{":
+                raise Unsupported("function body")
+            self.i += 1
+            return ("function", m.group(1), (m.group(3) or "").strip(), self.statements(True))
+        # simple statement: up to ; or an unmatched }
+        j, depth, q, arr = self.i, 0, False, False
+        while j < len(s):
+            c = s[j]
+            if c == '"':
+                q = not q
+            elif not q:
+                if c in "({[":
+                    depth += 1
+                elif c in ")]":
+                    depth -= 1
+                elif c == "}":
+                    if depth == 0:
+                        break
+                    depth -= 1
+                    if depth == 0:                       # an array literal closed: the command ends here when nothing continues it
+                        k = j + 1
+                        while k < len(s) and s[k] in " \t\r\n":
+                            k += 1
+                        if k >= len(s) or s[k] not in ",;)}":
+                            j += 1
+                            text = s[self.i:j].strip()
+                            self.i = j
+                            return ("simple", re.sub(r";(?=[^{}]*\})", ",", text))
+                elif c == ";" and depth == 0:
+                    break
+            j += 1
+        text = s[self.i:j].strip()
+        self.i = j + 1 if j < len(s) and s[j] == ";" else j
+        return ("simple", text)
+
+
+# ---------------------------------------------------------------- emit
+class Emitter:
+    def __init__(self):
+        self.notes = []
+        self.joins = []
+        self.functions = []     # user functions (GS1 `function name() {...}`)
+
+    def simple(self, text):
+        if not text:
+            return None
+        m = _incr.match(text)
+        if m:
+            return "%s%s;" % (lhs(m.group(1)), m.group(2))
+        m = _assign.match(text)
+        if m and not re.match(r"^(set|setstring|timeout)\b", text):
+            name = m.group(1)
+            if name.lower() == "timeout":
+                return "setTimer(%s);" % tx(m.group(3))
+            return "%s %s %s;" % (lhs(name), m.group(2), tx(m.group(3)))
+        if re.match(r"^timeout\s*=", text):
+            return command(text, self.notes)
+        # user function call
+        m = re.match(r"^([A-Za-z_]\w*)\s*\((.*)\)$", text, re.S)
+        if m and m.group(1).lower() not in CMDS and m.group(1).lower() not in ("sleep", "play"):
+            return "%s(%s);" % (m.group(1), ", ".join(tx(a) for a in split_top(m.group(2))) if m.group(2).strip() else "")
+        return command(text, self.notes)
+
+    def stmt(self, st, ind):
+        pad = "  " * ind
+        k = st[0]
+        if k == "empty":
+            return []
+        if k == "simple":
+            try:
+                r = self.simple(st[1])
+            except Joined as j:
+                self.joins.append(str(j))
+                return []
+            except Unsupported as e:
+                self.notes.append(str(e))     # no comment in the output: the server compiles it with its line breaks turned into a marker character, so a // comment would swallow the rest
+                return []
+            return [pad + r] if r else []
+        if k == "block":
+            out = []
+            for s in st[1]:
+                out += self.stmt(s, ind)
+            return out
+        if k == "if":
+            out = [pad + "if (%s) {" % cond(st[1])]
+            out += self.stmt(self.as_block(st[2]), ind + 1)
+            if st[3] is not None:
+                if st[3][0] == "if":
+                    sub = self.stmt(st[3], ind)
+                    sub[0] = pad + "} else " + sub[0].lstrip()
+                    return out + sub
+                out.append(pad + "} else {")
+                out += self.stmt(self.as_block(st[3]), ind + 1)
+            out.append(pad + "}")
+            return out
+        if k == "while":
+            return [pad + "while (%s) {" % cond(st[1])] + self.stmt(self.as_block(st[2]), ind + 1) + [pad + "}"]
+        if k == "for":
+            parts = split_top(st[1], ";")
+            if len(parts) == 4 and not parts[3].strip():
+                parts = parts[:3]
+            if len(parts) != 3:
+                raise Unsupported("for header")
+            init = self.simple(parts[0].strip()).rstrip(";") if parts[0].strip() else ""
+            step = self.simple(parts[2].strip()).rstrip(";") if parts[2].strip() else ""
+            return ([pad + "for (%s; %s; %s) {" % (init, tx(parts[1]) if parts[1].strip() else "", step)]
+                    + self.stmt(self.as_block(st[2]), ind + 1) + [pad + "}"])
+        if k == "function":
+            body = []
+            for s in st[3]:
+                body += self.stmt(s, 1)
+            self.functions.append(["function %s(%s) {" % (st[1], st[2])] + body + ["}"])
+            return []
+        raise Unsupported(k)
+
+    @staticmethod
+    def as_block(st):
+        return st if st[0] == "block" else ("block", [st])
+
+
+def split_cond(c):
+    """top-level split by || and && -> ('or'|'and', [parts])"""
+    for op in ("||", "&&"):
+        parts, depth, q, cur, i = [], 0, False, [], 0
+        while i < len(c):
+            ch = c[i]
+            if ch == '"':
+                q = not q
+            if not q:
+                if ch in "([{":
+                    depth += 1
+                elif ch in ")]}":
+                    depth -= 1
+                elif c.startswith(op, i) and depth == 0:
+                    parts.append("".join(cur))
+                    cur = []
+                    i += 2
+                    continue
+            cur.append(ch)
+            i += 1
+        parts.append("".join(cur))
+        if len(parts) > 1:
+            return op, parts
+    return None, [c]
+
+
+def event_of(cond):
+    w = cond.strip().strip("()").strip().lower()
+    return EVENTS.get(ALIASES.get(w, w).lower()) if re.fullmatch(r"[A-Za-z_]\w*", w) else None
+
+
+def client_part(src):
+    """drop //#SERVERSIDE sections (the extraction took everything after //#CLIENTSIDE)"""
+    out, skip = [], False
+    for ln in src.split("\n"):
+        t = ln.strip()
+        if t.startswith("//#SERVERSIDE"):
+            skip = True
+        elif t.startswith("//#CLIENTSIDE"):
+            skip = False
+        elif not skip:
+            out.append(ln)
+    return "\n".join(out)
+
+
+
+_STD_EVENTS = {"oncreated": "onCreated", "ontimeout": "onTimeOut", "onplayertouchsme": "onPlayerTouchsMe", "onplayerenters": "onPlayerEnters",
+               "onplayerleaves": "onPlayerLeaves", "onplayerchats": "onPlayerChats", "onweaponfired": "onWeaponFired",
+               "onmovementfinished": "onMovementFinished", "onplayertouchesme": "onPlayerTouchsMe"}
+
+
+def class_client_part(name):
+    """The client side of a class script of the server (scripts/<name>.txt), comments taken out. None when there is none."""
+    if not CLASS_DIR:
+        return None
+    want = {name.lower(), name.lower().replace("_", "-"), name.lower().replace("-", "_")}
+    for f in os.listdir(CLASS_DIR):
+        base, ext = os.path.splitext(f)
+        if base.lower() in want and ext.lower() in (".txt", ".code"):
+            text = open(os.path.join(CLASS_DIR, f), encoding="latin1").read().replace("\r", "")
+            m = re.search(r"^//#CLIENTSIDE[ \t]*$", text, re.M)
+            return strip_comments(text[m.end():]) if m else None
+    return None
+
+
+def gs2_functions(code):
+    """[(name, params, [body lines])] of the top-level functions of a GS2 text"""
+    out, i = [], 0
+    for m in re.finditer(r"(?m)^[ \t]*(?:public[ \t]+)?function[ \t]+([A-Za-z_]\w*)[ \t]*\(([^)]*)\)[ \t]*\{", code):
+        if m.start() < i:
+            continue
+        try:
+            end = match(code, m.end() - 1, "{", "}")
+        except Unsupported:
+            continue
+        body = [l.rstrip() for l in code[m.end():end].split("\n") if l.strip()]
+        out.append((m.group(1), m.group(2).strip(), body))
+        i = end
+    return out
+
+
+def fix_bare_vars(code):
+    """GS2 class code written for the NPC itself uses bare x, y and id; a v6 client script wants this.x, this.y and this.id.
+    NOT inside `with (object) { ... }`: there a bare x or y belongs to the object (`with (findimg(1)) { x = thiso.x - 3; }` places the picture,
+    it does not move the NPC - the street lamps of echobase were moved by 3 and 2 tiles before this was left alone)."""
+    out, i, n = [], 0, len(code)
+    depth, with_blocks, pending_with = 0, [], False
+    while i < n:
+        c = code[i]
+        if c == '"':
+            j = i + 1
+            while j < n and code[j] != '"':
+                j += 1
+            out.append(code[i:j + 1])
+            i = j + 1
+            continue
+        if c == "{":
+            depth += 1
+            if pending_with: with_blocks.append(depth); pending_with = False
+            out.append(c); i += 1; continue
+        if c == "}":
+            if with_blocks and with_blocks[-1] == depth: with_blocks.pop()
+            depth -= 1
+            out.append(c); i += 1; continue
+        m = _ident.match(code, i)
+        if m:
+            w = m.group(0)
+            prev = code[i - 1] if i else ""
+            nxt = code[m.end():m.end() + 1]
+            if w == "with" and not (prev == "." or prev.isalnum() or prev == "_"):
+                rest = code[m.end():].lstrip()
+                if rest.startswith("("):
+                    try:
+                        close = match(code, code.index("(", m.end()), "(", ")")
+                        if code[close + 1:].lstrip().startswith("{"): pending_with = True
+                    except (Unsupported, ValueError): pass
+                out.append(w)
+            elif w == "playerattached" and not (prev == "." or prev.isalnum() or prev == "_") and nxt not in ("(", "."):
+                out.append("(player.attachid == this.id)")
+            elif w in ("x", "y", "id") and not with_blocks and not (prev == "." or prev.isalnum() or prev == "_") and nxt not in ("(", "."):
+                out.append("this." + w)
+            else:
+                out.append(w)
+            i = m.end()
+            continue
+        out.append(c)
+        i += 1
+    return "".join(out)
+
+
+def merge_class(name, handlers, emitter, seen=()):
+    """Put the client side of a joined class into the NPC: its event functions are added to ours, the other functions are copied."""
+    if name.lower() in seen:
+        return
+    part = class_client_part(name)
+    if not part or not part.strip():
+        return
+    if re.search(r"function\s+on[A-Za-z]+\s*\(|public\s+function|new\s+Gui", part):           # already GS2
+        code = fix_bare_vars(part)
+    elif re.search(r"\bfunction\b", part):                                 # GS1 with functions of its own: not translated
+        return
+    else:
+        code, _ = transpile(part, _inner=True)
+        if not code:
+            return
+    for fname, params, body in gs2_functions(code):
+        std = _STD_EVENTS.get(fname.lower())
+        if std:
+            if DEBUG_CLASSES and std != "onTimeOut":
+                body = ['  echo("[class %s] %s on " @ this.id @ " at " @ this.x @ "," @ this.y);' % (name, std), '  player.chat = "%s %s";' % (name, std)] + body
+            elif DEBUG_CLASSES and "player.attachid" in "\n".join(body):
+                body = ['  if (player.attachid == this.id) {', '    echo("[class %s] attached, player at " @ player.x @ "," @ player.y @ " keys " @ keydown(0) @ keydown(2) @ keydown(38) @ keydown(40));' % name, '    player.chat = "att k" @ keydown(0) @ keydown(2) @ keydown(38) @ keydown(40);', '  }'] + body
+            handlers.setdefault(std, []).extend(body)
+        elif not any(fname.lower() == f[0].split("(")[0][9:].strip().lower() for f in emitter.functions):
+            emitter.functions.append(["function %s(%s) {" % (fname, params)] + body + ["}"])
+
+
+def brace_deficit(text):
+    """How many `}` a script lacks at its end: `{` minus `}` outside "string literals" (0 when balanced or when there are too many `}`)."""
+    depth = 0; in_str = False; i = 0
+    while i < len(text):
+        c = text[i]
+        if in_str:
+            if c == "\\": i += 1
+            elif c == '"': in_str = False
+        elif c == '"': in_str = True
+        elif c == "{": depth += 1
+        elif c == "}": depth -= 1
+        i += 1
+    return max(0, depth)
+
+
+def transpile(src, _inner=False):
+    src = client_part(src)
+    emitter = Emitter()
+    cleaned = strip_comments(src)
+    try:
+        tree = P(cleaned).statements(False)
+    except (Unsupported, ValueError, IndexError) as e:
+        # The GS1 engine closes a block that is still open at the end of the script (the levels have `if (created) {dontblock;` with no `}`); the parser
+        # does not: without this such an NPC got no translation at all (gs2cache/<key>.none) and showed its whole picture on every client.
+        missing = brace_deficit(cleaned)
+        if missing <= 0: return None, ["parse: %s" % e]
+        try:
+            tree = P(cleaned + "\n" + "}" * missing).statements(False)
+        except (Unsupported, ValueError, IndexError):
+            return None, ["parse: %s" % e]
+    handlers = {}      # function name -> [lines]
+    loose = []         # statements outside any event
+    skipped_events = 0
+
+    def add(evt, lines):
+        handlers.setdefault(evt, []).extend(lines)
+
+    def event_block(st, residual=None):
+        body = emitter.stmt(Emitter.as_block(st[2]), 1)
+        if residual:
+            body = ["  if (%s) {" % cond(residual)] + ["  " + l for l in body] + ["  }"]
+        return body
+
+    for st in tree:
+        try:
+            if st[0] == "if":
+                lead = re.match(r"^\s*([A-Za-z_]\w*)\s*&&(.*)$", st[1], re.S)
+                if lead and event_of(lead.group(1)):          # event && (a || b || c): the rest belongs together
+                    add(event_of(lead.group(1)), event_block(st, lead.group(2)))
+                    continue
+                op, parts = split_cond(st[1])
+                evs = [(event_of(p), p) for p in parts]
+                if op == "||" and all(e for e, _ in evs):
+                    for e, _ in evs:
+                        add(e, event_block(st))
+                    continue
+                if op == "&&" and evs[0][0]:
+                    add(evs[0][0], event_block(st, "&&".join(parts[1:])))
+                    continue
+                if op is None and evs[0][0]:
+                    add(evs[0][0], event_block(st))
+                    continue
+                if re.fullmatch(r"\s*[A-Za-z_]\w*\s*", st[1]) and st[1].strip().lower() in ("actionclientside", "playershootssword", "keydown",
+                                                                                      "playerattached", "weaponfired"):
+                    skipped_events += 1
+                    emitter.notes.append("event " + st[1].strip())
+                    continue
+            loose += emitter.stmt(st, 1)
+        except Unsupported as e:
+            emitter.notes.append(str(e))
+    for cls in emitter.joins:
+        merge_class(cls, handlers, emitter)
+    body_text = "\n".join("\n".join(v) for v in handlers.values()) + "\n".join("\n".join(f) for f in emitter.functions)
+    if re.search(r"\bthis\.(head|body|colors\[)", body_text) and "showcharacter(" not in body_text and "setimg" not in body_text:
+        handlers.setdefault("onCreated", []).insert(0, "  showcharacter();")
+    out = []
+    if loose:
+        # GS1 runs statements outside any `if (event)` on every event: a helper that every handler calls first
+        if any("setTimer(" in l for l in loose) and "onTimeOut" not in handlers:
+            handlers["onTimeOut"] = []
+        handlers.setdefault("onCreated", [])
+        for evt in handlers:
+            handlers[evt][0:0] = ["  gs1_always();"]
+        emitter.functions.insert(0, ["function gs1_always() {"] + loose + ["}"])
+    for evt in sorted(handlers, key=lambda x: (x != "onCreated", x)):
+        out.append("function %s() {" % evt)
+        if DEBUG_TILEDEFS and any("addtiledef" in l for l in handlers[evt]):
+            out.append('  echo("tiledefs %s in " @ level.name);' % evt)
+        out += handlers[evt]
+        out.append("}")
+        out.append("")
+    for f in emitter.functions:
+        out += f + [""]
+    if not out:
+        return None, emitter.notes
+    return "//#CLIENTSIDE\n" + "\n".join(out).rstrip() + "\n", emitter.notes
+
+
+# ---------------------------------------------------------------- cache key (the same as gs1CacheKey() in the server)
+def cache_key(src):
+    """FNV-1a 64 of the script with the ends trimmed, 16 hex digits"""
+    data = src.strip(" \t\r\n").encode("latin1", "replace")
+    h = 1469598103934665603
+    for b in data:
+        h = ((h ^ b) * 1099511628211) & 0xFFFFFFFFFFFFFFFF
+    return "%016x" % h
+
+
+# ---------------------------------------------------------------- command line
+def main():
+    if "--classes" in sys.argv and sys.argv[1] == "-":
+        i = sys.argv.index("--classes"); globals()["CLASS_DIR"] = sys.argv[i + 1]
+    if sys.argv[1] == "--one":
+        i = sys.argv.index("--classes") if "--classes" in sys.argv else -1
+        if i > 0:
+            globals()["CLASS_DIR"] = sys.argv[i + 1]
+        text, notes = transpile(open(sys.argv[2], encoding="latin1").read())
+        sys.stdout.write(text or "")
+        return
+    if sys.argv[1] == "-":
+        text, notes = transpile(sys.stdin.read())
+        print(text or "// nothing")
+        print("// notes:", notes, file=sys.stderr)
+        return
+    global CLASS_DIR
+    args = sys.argv[1:]
+    if "--classes" in args:
+        i = args.index("--classes"); CLASS_DIR = args[i + 1]; del args[i:i + 2]
+    src_json, outdir = args[0], args[1]
+    extra = []
+    if "," in src_json:                                    # several input files: scripts.json,nomarker.json
+        src_json, *extra = src_json.split(",")
+    data = json.load(open(src_json))
+    for more in extra:
+        for k, v in json.load(open(more)).items():
+            data.setdefault("nomarker_" + k, v)
+    os.makedirs(outdir, exist_ok=True)
+    done = partial = failed = 0
+    weighted = {"done": 0, "partial": 0, "failed": 0}
+    lost = {}
+    for h, u in data.items():
+        text, notes = transpile(u["src"])
+        n = u.get("n", 1)
+        if text is None:
+            failed += 1
+            weighted["failed"] += n
+            for x in notes:
+                lost[x] = lost.get(x, 0) + n
+            continue
+        open(os.path.join(outdir, cache_key(u["src"]) + ".gs2"), "w", encoding="latin1").write(text)
+        if notes:
+            partial += 1
+            weighted["partial"] += n
+            for x in set(notes):
+                lost[x] = lost.get(x, 0) + n
+        else:
+            done += 1
+            weighted["done"] += n
+    with open(os.path.join(outdir, "report.txt"), "w") as f:
+        f.write("scripts: complete %d, partial %d, failed %d\n" % (done, partial, failed))
+        f.write("NPCs:    complete %(done)d, partial %(partial)d, failed %(failed)d\n" % weighted)
+        for k, v in sorted(lost.items(), key=lambda kv: -kv[1])[:60]:
+            f.write("%7d  %s\n" % (v, k))
+    print(open(os.path.join(outdir, "report.txt")).read())
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,58 @@
+/* Name: Ladder
+Type: Class
+Usage: Getting up them pesky walls
+Scripted By: Mido */
+
+/*
+if (created) {
+  this.var=1;
+  setshape 1,32,64;
+}
+*/
+function onCreated() {
+  this.var = 1;
+  setshape(1, 32, 64);
+}
+//#CLIENTSIDE
+/*
+if (created) {
+  setshape 1,32,64;
+  drawunderplayer;
+}
+if (playertouchsme) attachplayertoobj 0,id;
+
+if (playerattached) {
+  playerx=x-.5;
+  playerdir=0;
+  if (playery=<y-2&&keydown(0)||playery=>y+2&&keydown(2)) detachplayer;
+  freezeplayer .05;
+  if (keydown(0)) {
+    playery-=.2;
+
+  }
+  if (keydown(2)) playery+=.2;
+}
+timeout=0.05;
+*/
+function onCreated() {
+  setshape(1, 32, 64);
+  drawunderplayer();
+  setTimer(0.05);
+}
+function onPlayerTouchsMe() {
+  attachplayertoobj(0, id);
+}
+function onTimeout() {
+  if (playerattached) {
+    player.x = x - .5;
+    player.dir = 0;
+    if ((player.y <= y-2 && keydown(0)) || (player.y >= y+2 && keydown(2)))
+      detachplayer();
+    freezeplayer(0.05);
+    if (keydown(0))
+      player.y -= 0.2;
+    else if (keydown(2))
+      player.y += 0.2;
+  }
+  setTimer(0.05);
+}

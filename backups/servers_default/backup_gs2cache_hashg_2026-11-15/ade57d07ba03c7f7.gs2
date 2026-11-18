@@ -1,0 +1,43 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.head = "val-nadrion-valikorliansoldier.png";
+  this.colors[0] = "orange";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "brown";
+  this.colors[4] = "black";
+  this.nick = "";
+  this.sword = "sword1.png";
+  this.swordpower = 1;
+  this.shield = "ryo250-woodenspearshield.gif";
+  this.shieldpower = 1;
+  this.body = "smeewn-muscle-body1.gif";
+  this.dir = 2;
+  setcharani("idle", NULL);
+  this.hearts = 0;
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "The Valikorlian Empire")) {
+    if ((player.nick.pos("Empress") > -1)) {
+      message("::Kneels:: Your Grace.");
+      sleep(3);
+      message();
+    }
+    if ((player.nick.pos("Lord") > -1)) {
+      message("My lord. *Nod*");
+      sleep(3);
+      message();
+    }
+    if ((player.nick.pos("Sir") > -1)) {
+      message("Hail, Valikorlian Knight.");
+      sleep(3);
+      message();
+    } else {
+      message("-Sigh- This job can get pretty boring after you've spent half your life battling skeletal warriors.");
+      sleep(3);
+      message();
+    }
+  }
+}

@@ -1,0 +1,585 @@
+ROWS=13; LINES=8
+def label(n,x,y,w,t,prof="ChatTextProfile"): return f'new GuiTextCtrl("{n}") {{\nprofile = {prof};\nx = {x};\ny = {y};\nwidth = {w};\nheight = 18;\ntext = "{t}";\n}}\n'
+def button(n,x,y,w,t,h=24): return f'new GuiButtonCtrl("{n}") {{\nx = {x};\ny = {y};\nwidth = {w};\nheight = {h};\ntext = "{t}";\n}}\n'
+def edit(n,x,y,w): return f'new GuiTextEditCtrl("{n}") {{\nx = {x};\ny = {y};\nwidth = {w};\nheight = 22;\n}}\n'
+def window(name,title,ext,body,outside=True): return f'''if (isObject("{name}"))
+{name}.destroy();
+new GuiWindowCtrl("{name}") {{
+clientrelative = true;
+clientextent = "{ext}";
+canclose = true;
+canmaximize = false;
+canminimize = false;
+canmove = true;
+canresize = false;
+closequery = false;
+destroyonhide = false;
+externalwindow = "";
+isexternal = {'(client.winext != "off")' if outside else 'false'};
+text = "{title}";
+{body}}}
+{name}.hide();
+'''
+# ---- players window
+pb=label("Pl_Head",10,8,100,"")+button("Pl_Mass",112,4,96,"Mass message")+button("Pl_Guild",212,4,96,"Guild message")+button("Pl_Pop",312,4,76,"Dock/Pop")
+for i in range(ROWS): pb+=label(f"Pl_Tx{i}",10,38+i*24,266,"")+button(f"Pl_Open{i}",280,36+i*24,60,"Msg",20)
+pb+=button("Pl_Up",348,38,40,"^")+button("Pl_Down",348,66,40,"v")
+y=38+ROWS*24+8
+pb+=label("Pl_Msg",10,y,380,"")
+PEXT=f"400,{y+60}"
+# ---- message window
+mb=""
+for i in range(LINES): mb+=label(f"Mg_L{i}",8,6+i*18,360,"")
+my=6+LINES*18+8
+mb+=edit("Mg_Text",8,my,296)+button("Mg_Send",310,my-1,60,"Send")
+MEXT=f"380,{my+60}"
+unroll="".join(f"Pl_Tx{i}.text = this.rowText({i});\nPl_Tx{i}.profile = this.rowProfile({i});\n" for i in range(ROWS))
+vis="".join(f"if (this.rowText({i}) == \"\") {{\nPl_Tx{i}.hide();\n}} else {{\nPl_Tx{i}.show();\n}}\nif (this.showButton({i})) {{\nPl_Open{i}.show();\n}} else {{\nPl_Open{i}.hide();\n}}\n" for i in range(ROWS))
+rowh="".join(f"function Pl_Open{i}.onAction() {{\nopenRow({i});\n}}\n\n" for i in range(ROWS))
+lineset="".join(f"Mg_L{i}.text = temp.disp[temp.disp.size() - {LINES - i}];\n" for i in range(LINES))
+src=f'''GRAWP001
+REALNAME -Players
+IMAGE 
+SCRIPT
+//#CLIENTSIDE
+function onCreated() {{
+echo("-Players: onCreated");
+this.pa = {{}};
+this.pn = {{}};
+this.pg = {{}};
+this.pk = {{}};
+this.pl = {{}};
+this.dt = {{}};
+this.di = {{}};
+this.da = {{}};
+this.ua = {{}};
+this.uk = {{}};
+this.ck = {{}};
+this.cl = {{}};
+this.top = 0;
+this.msg = "";
+this.mkey = "";
+this.tick = 0;
+this.phase = 0;
+this.extgen = int(client.winextgen);
+this.build();
+setTimer(0.2);
+}}
+
+function build() {{
+if (!isObject("ChatTextProfile")) {{
+new GuiTextProfile("ChatTextProfile") {{
+fontcolor = {{0, 0, 0}};
+}}
+}}
+if (!isObject("PlYellowProfile")) {{
+new GuiTextProfile("PlYellowProfile") {{
+fontcolor = {{255, 220, 0}};
+}}
+new GuiTextProfile("PlBlueProfile") {{
+fontcolor = {{0, 60, 255}};
+}}
+new GuiTextProfile("PlGreenProfile") {{
+fontcolor = {{0, 150, 0}};
+}}
+}}
+{window("Players_Window","Players",PEXT,pb)}}}
+
+function buildMsg() {{
+{window("Msg_Window","Message",MEXT,mb)}this.catchevent("Mg_Text", "onKeyDown", "onInputKeyDown");
+}}
+
+function msgOpen() {{
+if (!isObject("Msg_Window")) {{
+return false;
+}}
+return Msg_Window.visible;
+}}
+
+function onInputKeyDown(objn, key, code, keycode) {{
+if (code == 13 || keycode == 28) {{
+this.sendMsg();
+}}
+}}
+
+function toggle() {{
+if (Players_Window.visible) {{
+Players_Window.hide();
+}} else {{
+this.showPlayers();
+}}
+}}
+
+function showPlayers() {{
+if (client.winext == "off") {{
+Players_Window.position = {{int((screenwidth - 416) / 2), int((screenheight - 420) / 2)}};
+client.openwindow = "menuhide";
+}}
+Players_Window.show();
+this.ask();
+this.refresh();
+}}
+
+function checkWinExt() {{
+if (int(client.winextgen) != this.extgen) {{
+this.extgen = int(client.winextgen);
+temp.was = Players_Window.visible;
+this.build();
+if (temp.was) {{
+this.showPlayers();
+}}
+}}
+}}
+
+function toggleExternal() {{
+if (client.winext == "off") {{
+client.winext = "on";
+}} else {{
+client.winext = "off";
+}}
+client.winextgen = int(client.winextgen) + 1;
+echo("-Players: windows outside the game screen = " @ client.winext);
+}}
+
+function ask() {{
+triggeraction(0, 0, "gr.players");
+}}
+
+function onKeyPressed(code, key) {{
+if (code == 118) {{
+this.toggle();
+}}
+}}
+
+function splitCsv(text) {{
+temp.res = {{}};
+temp.cur = "";
+temp.len = text.length();
+for (temp.ci = 0; temp.ci < temp.len; temp.ci++) {{
+temp.ch = text.substring(temp.ci, 1);
+if (temp.ch == ",") {{
+temp.res.add(temp.cur);
+temp.cur = "";
+}} else {{
+temp.cur = temp.cur @ temp.ch;
+}}
+}}
+temp.res.add(temp.cur);
+return temp.res;
+}}
+
+function joinFrom(pr, start) {{
+temp.o = "";
+for (temp.i = start; temp.i < pr.size(); temp.i++) {{
+if (temp.o != "") {{
+temp.o = temp.o @ ",";
+}}
+temp.o = temp.o @ pr[temp.i];
+}}
+return temp.o;
+}}
+
+function onActionClientSide(dataname) {{
+temp.pr = params;
+if (params.size() <= 1) {{
+temp.pr = this.splitCsv(params[0]);
+}}
+temp.k = temp.pr[0];
+if (temp.k == "list") {{
+this.parseList(temp.pr);
+}} else if (temp.k == "message") {{
+this.gotAnswer(this.joinFrom(temp.pr, 1));
+}} else if (temp.k == "pm") {{
+this.gotMessage(temp.pr[1], temp.pr[2], temp.pr[3], temp.pr[4], this.joinFrom(temp.pr, 5));
+}} else if (temp.k == "gm") {{
+this.gotGuild(temp.pr[1], temp.pr[2], temp.pr[3], this.joinFrom(temp.pr, 4));
+}}
+}}
+
+function who(account, nick) {{
+if (nick != "" && nick != account) {{
+return account @ " (" @ nick @ ")";
+}}
+return account;
+}}
+
+function gotMessage(account, nick, senderKind, msgKind, text) {{
+temp.from = this.who(account, nick);
+if (senderKind == "rc") {{
+temp.from = temp.from @ " [RC]";
+}}
+if (msgKind == "mass") {{
+this.addEntry("*mass", temp.from @ ": " @ text);
+this.markUnread(account, "mass");
+client.pmline = "Mass " @ temp.from @ ": " @ text;
+}} else {{
+this.addEntry(account, temp.from @ ": " @ text);
+this.markUnread(account, "pm");
+client.pmline = temp.from @ ": " @ text;
+}}
+this.refresh();
+}}
+
+function gotGuild(guild, account, nick, text) {{
+temp.from = this.who(account, nick);
+this.addEntry("*guild", "[" @ guild @ "] " @ temp.from @ ": " @ text);
+this.markUnread(account, "gm");
+client.pmline = "[" @ guild @ "] " @ temp.from @ ": " @ text;
+this.refresh();
+}}
+
+function gotAnswer(text) {{
+if (this.msgOpen() && this.mkey != "") {{
+this.addEntry(this.mkey, text);
+this.showLines();
+}} else {{
+this.msg = text;
+this.refresh();
+}}
+}}
+
+function addEntry(key, line) {{
+this.ck.add(key);
+this.cl.add(line);
+while (this.cl.size() > 300) {{
+this.ck.delete(0);
+this.cl.delete(0);
+}}
+if (this.msgOpen() && this.mkey == key) {{
+this.showLines();
+}}
+}}
+
+function rank(kind) {{
+if (kind == "pm") {{
+return 3;
+}}
+if (kind == "gm") {{
+return 2;
+}}
+if (kind == "mass") {{
+return 1;
+}}
+return 0;
+}}
+
+function markUnread(account, kind) {{
+if (this.msgOpen() && (this.mkey == account || (this.mkey == "*mass" && kind == "mass") || (this.mkey == "*guild" && kind == "gm"))) {{
+return;
+}}
+for (temp.i = 0; temp.i < this.ua.size(); temp.i++) {{
+if (this.ua[temp.i] == account) {{
+if (this.rank(kind) > this.rank(this.uk[temp.i])) {{
+this.uk[temp.i] = kind;
+}}
+return;
+}}
+}}
+this.ua.add(account);
+this.uk.add(kind);
+}}
+
+function unreadKind(account) {{
+for (temp.i = 0; temp.i < this.ua.size(); temp.i++) {{
+if (this.ua[temp.i] == account) {{
+return this.uk[temp.i];
+}}
+}}
+return "";
+}}
+
+function clearUnread(key) {{
+temp.na = {{}};
+temp.nk = {{}};
+for (temp.i = 0; temp.i < this.ua.size(); temp.i++) {{
+temp.drop = false;
+if (this.ua[temp.i] == key) {{
+temp.drop = true;
+}}
+if (key == "*mass" && this.uk[temp.i] == "mass") {{
+temp.drop = true;
+}}
+if (key == "*guild" && this.uk[temp.i] == "gm") {{
+temp.drop = true;
+}}
+if (!temp.drop) {{
+temp.na.add(this.ua[temp.i]);
+temp.nk.add(this.uk[temp.i]);
+}}
+}}
+this.ua = temp.na;
+this.uk = temp.nk;
+}}
+
+function parseList(pr) {{
+this.pa = {{}};
+this.pn = {{}};
+this.pg = {{}};
+this.pk = {{}};
+this.pl = {{}};
+temp.n = int(pr[1]);
+for (temp.pass = 0; temp.pass < 2; temp.pass++) {{
+for (temp.g = 0; temp.g < temp.n; temp.g++) {{
+temp.at = 2 + temp.g * 5;
+temp.isrc = 0;
+if (pr[temp.at + 3] == "rc") {{
+temp.isrc = 1;
+}}
+if (temp.isrc == 1 - temp.pass) {{
+this.pa.add(pr[temp.at]);
+this.pn.add(pr[temp.at + 1]);
+this.pg.add(pr[temp.at + 2]);
+this.pk.add(pr[temp.at + 3]);
+this.pl.add(pr[temp.at + 4]);
+}}
+}}
+}}
+this.buildView();
+this.refresh();
+}}
+
+function groupOf(i) {{
+temp.kd = this.pk[i];
+if (temp.kd == "npc" || temp.kd == "rc" || temp.kd == "staff") {{
+return 0;
+}}
+if (player.guild != "" && this.pg[i] == player.guild) {{
+return 1;
+}}
+return 2;
+}}
+
+function addPlayerRow(i) {{
+temp.t = this.who(this.pa[i], this.pn[i]);
+if (this.pk[i] == "rc") {{
+temp.t = temp.t @ "   RC";
+}} else if (this.pk[i] == "staff") {{
+temp.t = temp.t @ "   Staff";
+}} else if (this.pl[i] != "") {{
+temp.t = temp.t @ "   " @ this.pl[i];
+}}
+this.dt.add(temp.t);
+this.di.add(i);
+this.da.add(this.pa[i]);
+}}
+
+function addHeader(title) {{
+this.dt.add("------------  " @ title @ "  ------------");
+this.di.add(-1);
+this.da.add("");
+}}
+
+function buildView() {{
+this.dt = {{}};
+this.di = {{}};
+this.da = {{}};
+for (temp.g = 0; temp.g < 3; temp.g++) {{
+temp.count = 0;
+for (temp.i = 0; temp.i < this.pa.size(); temp.i++) {{
+if (this.groupOf(temp.i) == temp.g) {{
+temp.count = temp.count + 1;
+}}
+}}
+if (temp.count > 0) {{
+if (temp.g == 0) {{
+this.addHeader("Staff");
+}} else if (temp.g == 1) {{
+this.addHeader("Nation: " @ player.guild);
+}} else {{
+this.addHeader("Players");
+}}
+for (temp.order = 0; temp.order < 3; temp.order++) {{
+for (temp.i = 0; temp.i < this.pa.size(); temp.i++) {{
+if (this.groupOf(temp.i) == temp.g) {{
+temp.rk = 0;
+if (temp.g == 0) {{
+if (this.pk[temp.i] == "rc") {{
+temp.rk = 1;
+}} else if (this.pk[temp.i] == "staff") {{
+temp.rk = 2;
+}}
+}}
+if (temp.rk == temp.order) {{
+this.addPlayerRow(temp.i);
+}}
+}}
+}}
+}}
+}}
+}}
+}}
+
+function rowText(i) {{
+temp.k = this.top + i;
+if (temp.k >= this.dt.size()) {{
+return "";
+}}
+return this.dt[temp.k];
+}}
+
+function rowProfile(i) {{
+temp.k = this.top + i;
+if (temp.k >= this.dt.size() || this.phase == 0 || this.da[temp.k] == "") {{
+return ChatTextProfile;
+}}
+temp.u = this.unreadKind(this.da[temp.k]);
+if (temp.u == "pm") {{
+return PlYellowProfile;
+}}
+if (temp.u == "gm") {{
+return PlGreenProfile;
+}}
+if (temp.u == "mass") {{
+return PlBlueProfile;
+}}
+return ChatTextProfile;
+}}
+
+function showButton(i) {{
+temp.k = this.top + i;
+if (temp.k >= this.dt.size() || this.di[temp.k] < 0) {{
+return false;
+}}
+if (this.pk[this.di[temp.k]] == "npc") {{
+return false;
+}}
+return true;
+}}
+
+function refresh() {{
+Pl_Head.text = this.pa.size() @ " online";
+{unroll}{vis}Pl_Msg.text = this.msg;
+}}
+
+function openRow(i) {{
+temp.k = this.top + i;
+if (temp.k >= this.dt.size() || this.di[temp.k] < 0) {{
+return;
+}}
+this.openMsg(this.pa[this.di[temp.k]]);
+}}
+
+function openMsg(key) {{
+this.mkey = key;
+this.clearUnread(key);
+temp.title = "Message to " @ key;
+if (key == "*mass") {{
+temp.title = "Mass message to everybody";
+}} else if (key == "*guild") {{
+temp.title = "Message to your guild";
+}} else {{
+for (temp.i = 0; temp.i < this.pa.size(); temp.i++) {{
+if (this.pa[temp.i] == key) {{
+temp.title = "Message to " @ this.who(key, this.pn[temp.i]);
+}}
+}}
+}}
+this.buildMsg();
+Msg_Window.text = temp.title;
+if (client.winext == "off") {{
+Msg_Window.position = {{int((screenwidth - 380) / 2) + 40, int((screenheight - 300) / 2) + 30}};
+}}
+Msg_Window.show();
+this.showLines();
+this.refresh();
+}}
+
+function showLines() {{
+temp.disp = {{}};
+for (temp.i = 0; temp.i < this.cl.size(); temp.i++) {{
+if (this.ck[temp.i] == this.mkey) {{
+temp.s = this.cl[temp.i];
+temp.n = temp.s.length();
+temp.p = 0;
+while (temp.p < temp.n) {{
+temp.disp.add(temp.s.substring(temp.p, 52));
+temp.p = temp.p + 52;
+}}
+}}
+}}
+while (temp.disp.size() < {LINES}) {{
+temp.disp.add("");
+}}
+{lineset}}}
+
+function sendMsg() {{
+temp.t = Mg_Text.text;
+if (temp.t == "" || this.mkey == "") {{
+return;
+}}
+if (this.mkey == "*mass") {{
+triggeraction(0, 0, "gr.mass", temp.t);
+}} else if (this.mkey == "*guild") {{
+triggeraction(0, 0, "gr.guildmsg", "", temp.t);
+}} else {{
+triggeraction(0, 0, "gr.pm", this.mkey, temp.t);
+}}
+Mg_Text.text = "";
+}}
+
+function scrollRows(d) {{
+temp.m = this.dt.size() - {ROWS};
+if (temp.m < 0) {{
+temp.m = 0;
+}}
+this.top = this.top + d;
+if (this.top > temp.m) {{
+this.top = temp.m;
+}}
+if (this.top < 0) {{
+this.top = 0;
+}}
+this.refresh();
+}}
+
+function Pl_Pop.onAction() {{
+toggleExternal();
+}}
+
+function Pl_Up.onAction() {{
+scrollRows(-1);
+}}
+
+function Pl_Down.onAction() {{
+scrollRows(1);
+}}
+
+function Pl_Mass.onAction() {{
+openMsg("*mass");
+}}
+
+function Pl_Guild.onAction() {{
+openMsg("*guild");
+}}
+
+function Mg_Send.onAction() {{
+sendMsg();
+}}
+
+{rowh}function onTimeOut() {{
+if (client.openwindow == "players") {{
+client.openwindow = "";
+this.toggle();
+}}
+this.checkWinExt();
+this.tick = this.tick + 1;
+if (this.tick % 2 == 0) {{
+if (this.phase == 0) {{
+this.phase = 1;
+}} else {{
+this.phase = 0;
+}}
+if (Players_Window.visible && this.ua.size() > 0) {{
+this.refresh();
+}}
+}}
+if (Players_Window.visible && this.tick % 25 == 0) {{
+this.ask();
+}}
+setTimer(0.2);
+}}
+SCRIPTEND
+'''
+import re as _re
+src=_re.sub(r"\n//(?!#)[^\n]*","",src)
+open("weapon%045Players.txt","w").write(src); print(len(src.encode()))

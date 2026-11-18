@@ -1,0 +1,1448 @@
+GLEVNW01
+BOARD 0 0 64 0 QyGoGpQDVpQBQCQDQAV5QiiTRiRjTTTUTTTUTTTUS1TURBRRQAQBGgGhQAQBQCQDQAQzQCQDiCQBQzQDQAQBQTQDGoGpQCWJQAGiGjQDV5hwZRQDQAQBQCV5QAQBQCQx
+BOARD 0 1 64 0 QCG4G5QTV5QRQSQTQQV3QyRiRyRzTjTkTjTkTjTkTjRBRRQTQQGgGwGxQQVpQShyQQQDQSQTQQQRQDQTQQQRQjQTG4G5QSQTQQGyGzHBV5QRQSQTQQQRQSWJQQQRVpQB
+BOARD 0 2 64 0 iCQhQiQjV5QhQiQjQgQhRiRjTTTUTTTURARBSgShSiRRZ0QjQgGwGxGxRiV5STSSSTRhQiQjQgQhQiSYQgQhQzQjQgQhQiQjQgQhHQHBWJHBQiQjQgQhQiQjQgQhV5QR
+BOARD 0 3 64 0 QwQxQyQzV3QxQyQzRiSSRyRzTjTkTjTkRQRRQDQARiSSSCSDRhQgZ0RiRjV5TjTkTjRgRhGoGpQxQyS2QwQxQDQzQwQxQyQzHAHBHAHBHAHRQTQzQwQxQyQzQwQxV5Qh
+BOARD 0 4 64 0 QAVpQCQDQAiTRhRiRjTUS1TUTTTUTTTURgRhRiSSRyupuqTkRxSSSTRyRzV3TTS0TTRwRxG4G5QBS2QDQAQBQCQDQAQBQCQDHQHRHQHRHQHRQjQDQAWQQCQDWQQBWJWQ
+BOARD 0 5 64 0 QQV5QSRiSSSCSDRjTUTkTjTkTjTkTjTkS1RxRyRzupu5u6uqTUTTupuqTjTkTjTkTjTkTjRxSSSSSSSSSSSTSSSnZRSYQSQTRiSSSSSTSSRhQzZ0RiWyebebWyebebWy
+BOARD 0 6 64 0 QgV5RiRjupuqTUTTeMeNTTTUTTTUeMeNTTup0A0Au50S0ju60A0Au5u60A0A0A0B0B0B0BuqTTTUTTup0A0AuqRgRhaPQiRiRjTUTTTUS1RgQDRiRjWQVoVoVoVoVoWQ
+BOARD 0 7 64 0 SCV3Rjupu5u6uqTUWyeL6G6H6I6JeaWyupu50Q0R0S0S0j0j0Q0R0S0j0Q0RWQ0101WQ01u6WQ0A0Au50Q0Ru6uqRxSSSTRyRzTkUwTkTjRwRxRyupWiV4V4V4V4V4Wi
+BOARD 0 8 64 0 TUTUupu50S0ju60AuqeL6W6X6Y6Zeaupu50S0g0h0S0i0j0j0g0h0S0j0g0hWyebebWyebebWy0Q0R0S0g0h0ju60AuqTTTUTTTUTTTUTTTUTTupu5WQWIWIWQWIWIWQ
+BOARD 0 9 64 0 0A0Au50S0S0j0j0Ru6eL6m6n6o6peau50S0S0Q0R0i0n0o0j0Q0R0i0j0Q0RWQVoVoVoVoVoWQ0g0h0S0Q0R0j0j0Qu6W4W4W4W4W4W4W4W4W4W40SWiebebWSebebWi
+BOARD 0 10 64 0 0Q0R0S0S0i0j0j0h0jeL6m6n6o6pea0S0S0isOsP0nVnTT0osOsP0n0osOsPWiV4V4V4V4V4Wi0Q0R0isOsP0j0j0gW4WlWlWlWlWlWlWlWlWlWlW4WCtRtXWStXtWWC
+BOARD 0 11 64 0 0g0h0S0i0n0o0j0R0jeL6m6n6o6pea0S0i0nTjTkTjV3TjTkVnTkTjVnTjTkWQWIWIWQWIWIWQsOsP0nVnTj0o0j0QWlWlWlWlWlWlWlWlWlWQebWQWSthtiWStltmWS
+BOARD 0 12 64 0 0Q0R0i0nVnTU0osP0jeL6W6X6Y6Zea0i0nTUTTTkTTTUVnTUV3VnTTV3TTS1WiebebWSebebWiTjVnTjV3VnTj0osOWlWlWlWlWlWlWlWlWleafIeLWStxtyWSt1t2WS
+BOARD 0 13 64 0 sOsP0nTkV3TkTjTk0oeL6m6n6o6pea0nTjVnTjVnTjTkV3TkTjV3VnTkVnTkWCtRtXWCtXtWWCVnV3WQTjV3WQTjW4WlWlWlWlWlWlWlWlWlWQebWQWSuGuCWiuFuGWS
+BOARD 0 14 64 0 VnTTTTTjV3S1VnTTVneL6W6X6Y6ZeaVnTTV3VnV3TTVnTTTUVnTUV3TUV3TUWSthtiWStltmWSebebWyebebWyebWlWlWlWlWlWlWlWlWlWlWyW1WiWiW1WzW0W0W1Wi
+BOARD 0 15 64 0 V3VnTTVnTTVnV3TjV3eL6m6n6o6peaV3TjTkV3TkTjV3TjTkV3TkTjVnTjTkWStxtyWSt1t2WSWFWGWHWFWGWHWFWlWlWlWlWlWlWlWlWlWlWlWlWyWCtRtXWStXtWWC
+BOARD 0 16 64 0 WQV3TTWQTTV3WQTUTTWQ62636465WQTUS1WQTTTUWQTUTTWQTTTUWQV3W4WQWiuGuCWiuFuGWiWHWFWGWHWFWGWHWlWlWlWlWlWlWlWlWlWlWlWlWlWSthtiWStlWQWS
+BOARD 0 17 64 0 WyebebWyebebWyebebWyebebebebWyebebWyebebWyebebWyebebWyebWlWSWCtRtXWCtXtWWCWFWGWHWFWGWHVoVJWlWlWlWlWlWlWlWlWlWlWlWlWStxtyWSt1t2WS
+BOARD 0 18 64 0 WFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHVoWlWQWSthtiWStltmWSWHWFWGWHWFWGV4WCWlWlWlWlWlWlWlWlWlWlWlWlWSuGuCWiuFuGWS
+BOARD 0 19 64 0 WGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHVoV4WlWSWStxtyWSt1t2WSWFWGWHWFWGWHV4WSWlVJVJVJVJVJVJVJVJVJVJWlWiW1WzW0W0W1Wi
+BOARD 0 20 64 0 WHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHVoV4WIVJWQWCuGuCWiuFuGWCWHWFWGWHWFWGV4WCVJVDWNWNWNWNWNWNWNWNVEVJWCtRtXWStXtWWC
+BOARD 0 21 64 0 WFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHTbTcTdWFWGWHVoV4WIWFWCWSWyW0W0W0W0W0WyWFWGWHWFWGWHWIWyVDWNWNWNWNWNWNWNWNWNWNVEWSthtiWStltmWS
+BOARD 0 22 64 0 WQWFWGWQWHWFWQWFWGWQWFWGWHWFWQWGWHWQWGWHWQWHWFWQV4WIVoWFWSWQWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFVJVDWNWNWNWNWNWNWNWNVEVJWStxtyWSt1t2WS
+BOARD 0 23 64 0 WSebebWyebebWyebebWyebebebebWyebebWyebebWyebebWiWIVoV4WFWCWSWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGVDWNWNWNWNWNWNWNWNWNWNVEWSuGuCWiuFuGWS
+BOARD 0 24 64 0 WCVJVJVJVJVJVJVJVJVJVJVJVJVJVJVJVJVJVJVJVJVJVJWQVoV4WIWFWyWQWGWHWQWGWHWQWGWHWQWGWHWQWGWHWQVJVDWQWNWNWQWNWNWQWNVEWQWiW1WzW0W0W1Wi
+BOARD 0 25 64 0 WSWMWNWLWMWNWLWMVEWQWzW0W0WzWQWMWMWNWLWMWNWLVEWiV4WIVoV4VoWSebebWyebebWyebebWyebebWCebebWCebebWyebebWyebebWyebebWCWCtRtXWStXtWWC
+BOARD 0 26 64 0 WSVJWMWLWMWNWLVEVJWCfHfIfIfHWCVJWMWNWLWMWNVEVJWQWIVoV4WIV4WCsJsKsLsMsNsJsJsKsLsMsNWSsMsLWSsKsLsMsNsJsJsKsLsMsNsJWSWSthtiWStltmWS
+BOARD 0 27 64 0 WSWMWNWLWMWNWLWMVEWSfHfIfIfHWSWMWMWNWLWMWNWLVEWiVoV4WIVoWIWSsZsasbscsdsesZsasbscsdWSthtmWSsasbscsdsesZsasbscsdseWSWStxtyWSt1t2WS
+BOARD 0 28 64 0 WCVJWMWLWMWNWLVEVJWCTcTdTbTcWCVJWMWNWLWMWNVEVJWQV4WIVoV4VoWSspsqsrsrstsuspsqsrsrstWStltiWSsqsrsrstsuspsqsrsrstsuWSWSuGuCWiuFuGWS
+BOARD 0 29 64 0 WyWMWNWLWMWNWLWMVEWyTbTcTcTdWyWMWMWNWLWMWLWNVEWiWIVoV4WIWIWSs5s6tntntns+s5s6tntntnWit1tyWis6tntntns+s5s6tntntns+WQWiW1WzW0W0W1Wi
+BOARD 0 30 64 0 QgQhRCTjTjTkRBSgRCRDRaRbRcRdTjaZTUTsTtTuTrTsTTWQebebWQebebWQebebWQW0W0W0W1W1W1WzW0W0W0W0W1W1W1W1W1WzW0W1W1WzW0W1WSWCtRtXWStXtWWC
+BOARD 0 31 64 0 QwQxRSSjSiSjRRQRRSRTRqQ4Q5RtTjaqTkT8T9T+T7T8TjWCsJsJWSsMsLWSsJsJWSWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWQWSthtiWStltmWS
+BOARD 0 32 64 0 QAQBQCSYQAhyQCQDRiRjR6QpQoQpRda3TUTsTtTuTrTsTTWSsYsZWSthtmWSsesYWQWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWSWStxtyWSt1t2WS
+BOARD 0 33 64 0 QQQRQSQTQQQRQSRiRyRzRqQ5Q4Q5RtaZTTT8T9T+T7aYTjWSsospWStltiWSsusvWiWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWFWGWHWQebebWQWSuGuCWiuFuGWS
+BOARD 0 34 64 0 QgQhQiQjQgQhQiSATTTUR6QpQoQpR9aoTTT7T7WQW1W1TTWCs4s5WCt1tyWCs+s/WQebebebebebebWQebebebebebebWQebebebebebebWCtXtWWCWyW1WzW0W0W1Wy
+BOARD 0 35 64 0 QwQxQyafQwQxQySQTjTkR6R7Q4Q5RtaoV3aqaYWyaoaqV3WytItIWyW0W0WytItIWCsJsJsKsNsJsJWCuSuSuSuSuSuSWCsJsJsKsNsJsJWStltmWSRQSgShSgShSiSj
+BOARD 0 36 64 0 QAQBQCQDQAQBQCSQTTTUSKRsQoQpR9TUTURBShSiSjSjSgShSiSjRCTUTTTUTTS1WSsYsZsasdsesYWSWSWSuitqWSWSWSsYsZsasdsesYWSt1t2WSSBQCQDQAZuQCQD
+BOARD 0 37 64 0 QQQRGiGjRSRSQSRSRSRTTjSKRsQoR7RdRwRgRhQTQQQRQSQTQQRiRjTkTjRQRCRDWSsospsqstsusvWSWSuxuyt6t7WSWSsospsqstsusvWSuFuGWCSRhyQTQQQRQSQT
+BOARD 0 38 64 0 Qg0vGyGz0v0vQiQjQgRSRTTjSKRsQoR7RdS1RxRhQgQhRiSSSTRyRzTUTTSBRSRTWCs4s5s6tns+s/WCvAvBvCuKuLuMWCs4s5s6tns+s/WCW0W1WySBQiQjQgQhQiQj
+BOARD 0 39 64 0 0u0v8g0v8g0v8gQzZ0QxRSRTTjSKRsQoR7RdRwRxSSSTRyTkTjRaRbRcRdSBQSSAWyW1W1W1W1W1W1WyW1W1W1W1W1W1WyW1W1W1W1W1W1WyTjS1TjRgRhQzQwQxQyQz
+BOARD 0 40 64 0 0+0/8w0/8w0/8wQDQAQBQCRSRTTjSKRsQoR7RcRbRcRbRcRbRcRqQoQpRtSRQSSQTkTjRBSgShSiSjRCTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUSBQDQAQGQCQD
+BOARD 0 41 64 0 QQQRQSQTRERFQSQTQQQRQSQTRSRTTjRqQ4Q5QoQpQoQpQoQpQoQpQ4Q5R9RgRhRSSiSjRRQRQSQTRiRjTjTkTjTkTjTkTjTkTjWQW1W1W1WQW1W1W1WQSRQTQQQRQSZR
+BOARD 0 42 64 0 QgQhREQlGgGhQkREQgQhQiQjQgSQTTR6Q5Q5Q4Q5Q4Q5Q4Q5Q4RrSMSMSNRwRxSTSSSTSCSDSSSTRyRzTTTUasatTTTUTTTUTTWyTTTUTTWyTTTUTTWySBQjQgQhQiQj
+BOARD 0 43 64 0 QwQFGgGhGwGxGgGhQEQxQyQzQwRSRTRsSLQoQpQoQpQoQpQoQpR9TjTkTjTkTjTkTjTkTjTkTjTkTjTkTjasacacacatTjTkTjTkTjTkTjTkTjTkTjTkSRQzQwQxQyQz
+BOARD 0 44 64 0 QAQFGwGxGgGhGwGxQEQBQCQDQAQBSQSKRsQ4Q5Q4Q5Q4Q5QpSMSNTTTUTTTUTTTUTTTUTTTUTTTUTTTUasacacacacacatTUTTTUTTTUTTTUTTTURBSjRRQDQAQBQCQD
+BOARD 0 45 64 0 QQQFGgGhGwGxQUQ1QQQRQSQTQQQRRSRCSKRsQoQpQoQpQpRrSNRBSgShSiSjRCRDTjS1TjTkTjTkTjasacacacacaca8a9TkTjTkTjTkTjTkTjRBRRQRQSQTQQQRSYQT
+BOARD 0 46 64 0 QgQFGwGxQUQ1QiQjQCSYQiQjQgQhQiRSRCSKRsQ5Q4Q5SMRtRQRRQiVfVPdAdBdAdBdQTTTUTTTUTTa8acacacaca9RATTTUTTTURBSiSjSiSjRRQgQhQiQjQgQhQiQj
+BOARD 0 47 64 0 QwQxQ0Q1QwQxQyQzQSQTQyQzQwQxQyRiRjTTSKRsQpQoQpR9RgRhRiVOWGWHWFWGWHVOTjTkRARBRCRDasaca8a9TjRQSgShSiSjRRQzQwQxQyQzQwQxQyQzQwQxQyQz
+BOARD 0 48 64 0 QAQBQCQDQAQBQCQDQAQBQCQDQAQBQCSQTTTUS0SKSLQ4Q5RtTTRgRhVeWHWFWGWHWFVeTTTURQRRRSRTa8a9TTRARBRRQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 49 64 0 QQWTWTWUWUQRQSQTQQQRQSQTQQQRQSRSShRCTjTkSKSLSMSNTjTkRgVuWFWGWHWFWGVuSgShRRRiSTRjTjTkTjRQRRQRQSQTQQQRQSQTQQiSQSZ0QQQRQSQTQQQRQSQT
+BOARD 0 50 64 0 QgWTWTWUWUSCSDSCSCSDSSSTSSSTRhQjQgSATTTUTTTkTjTUTTTUTTWQTbTcWQdBdBdQQiQjRiRyTTTURQSgShRRQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 51 64 0 QwWTWjWkWUacasatasatasatasatRxQzQwSQTjTkTjTUTTTkTjTkTjWyTbTcWyQAG4WJQyRiRjTkTjTkSRQxQyQzQwQxQyQzGoGpQyQzQwQxQyQzQwQxaPQzQwQxQyQz
+BOARD 0 52 64 0 QAWTWUWTWUasacacacacacacacacatQDQARSShRCRDTjTTTUTTTUTTRgRhQBQCQDQARSRiRyRzTUTTRQRRQBQCQDQAQBQCQDG4G5QCQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 53 64 0 RFWjWkWjWkasacacacacacacacacacRhQQQRQSRSRTRDTjTkTjTkTjRwRxSCSDRhQQRiRjTkTjS0TjSBQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQT
+BOARD 0 54 64 0 GhWjWkWjWka8acacacacacacacacacSBQgQhQiQjRSRTRDTUTTTUTTTUTTTURwRxSSRyRzTUTTTURXSnQgQhQiQjQgQhQiQjQgQhQiQjQgQhQgQhQgQhQiS5QgQhQiQj
+BOARD 0 55 64 0 GxQkQyQzSAasacacacacacacacacacSRQwQxQyQzQwRSRTRDTjTkTjTkTjTkTjTkTjTkTjTkTjRARBRRQwQxQyQzQwQxQyQzRERFQyQzQwQxQwQxQwQxQyQzQwQxQyQz
+BOARD 0 56 64 0 GgGhQEQDSQa8acacacacacacacacacSBQAQBQCQDQAQBRSRTTTTUTTTUTTTUTTTUTTTUTTTUTTRQRRQDQAQBQCS5QAQBREQlGgGhQkREREQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 57 64 0 GwGxQkQTWQasacacacacacacacacWQSRiSQRQSQTZRQRQSRSShRCTjTkTjTkTjTkTjTkRARBSgRRQSQTQQQRQSS2QQQlGgGhGwGxGgGhGhQkREQTQQQRQSQTQQQRQSQT
+BOARD 0 58 64 0 GhGgGhQEWCa8acacacacacacacacWCSRQgQhQiQjQgQhQiQjQgSATTTUTTTUTTTUTTTURQRRQgQhQiafQgQhQiQjQlGgGwGxGgGhGwGxGxQUQVQkQgQhQiQjQgQhQiQj
+BOARD 0 59 64 0 GxGwGxQkWSasacacacacacacacacWSSBQwQxQyQzQwQxQyQzQwSQTjTkTjTkTjS0TjTkSRQzQwQxQyQzQwQxQyQzQVGwGgGhGwGxQUQ1Q1QxQyQVQkQxQyQzQwQxQyQz
+BOARD 0 60 64 0 GgGhGgGhWia8acacacacacacacacWiSRQAQBQCQDQAQBQCQDQARSRCRDTTTUTTTUTTTURgRhQAQBQCQDQAGiGjQDQAQVGwGxQUQ1QCQDQAQBQCQDQ1QBQCQDQAQBiQQD
+BOARD 0 61 64 0 GwGxGwGxWyaca8a9acacacacacacWySRQQQRQSGoGpQRQSQTQQQRRSShShRCRDTkTjTkTjRgRhQRQSQTQQGyGzQTQQQRQ0Q1QQQRQSQTQQSYQSQTQQQRQSQTQQQRQSQT
+BOARD 0 62 64 0 GgGhGgGhQEShShShShShShShShShShQjQgQhQiG4G5QhQiQjQgQhQiQjQgRSRCRDTTTUTTTURgRhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 63 64 0 GwGxGwGxQEQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxRSRCRDTkTjTkTjRgRhQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQz
+LINK southern-outpost_a1.nw 0 0 64 1 playerx 61
+LINK southern-outpost_a3.nw 0 63 64 1 playerx 0
+LINK southern-outpost_a2.nw 10 27 4 1 10.5 12
+LINK southern-outpost_a2.nw 10 16 4 1 10.5 28
+NPC val_doordark.gif 25 32
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {x=x+.5;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdark.gif 34 35
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdark.gif 48 35
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdarkopen.gif 31 26
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdarkopen.gif 45 26
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdarkopen.gif 51 26
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdark.gif 49 20
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdark.gif 37 26
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdarkopen.gif 31 13
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {x=x+.5;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdarkopen.gif 58 15
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {x=x+.5;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdarkopen.gif 58 25
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {x=x+.5;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdarkopen.gif 37 26
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdark.gif 31 26
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdark.gif 45 26
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdark.gif 51 26
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_doordark.gif 40 27
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {x=x+.5;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lever2.gif 14 16
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bbs-locked.gif 32 36
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 3 43
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 46 57
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 48 55
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 50 56
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 6 42
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 63 55
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 1 60
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_osenoverhang.gif 16 24
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {dontblock;drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-log2.png 20 34
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-flag1.gif 56 1
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-worktable2.gif 16 30
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-workrack1.gif 17 31
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_skeleton1.gif 18 11
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_tatteredcloth.gif 46 35
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valikorlia-bones.gif 22 14
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-anvil.gif 16 33
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC shovelboard.gif 15 32
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {x=x+.5;dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-hammer.gif 17 33
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {y=y-.5;dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 38 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC rw-manacles3.gif 19 34
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 37 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 36 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 35 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 34 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 33 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 40 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 39 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 41 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 42 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 43 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 44 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 45 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 46 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 47 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 48 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 49 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 49 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 50 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 51 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 52 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail1.gif 32 31
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail1.gif 32 30
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail1.gif 32 29
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail1.gif 32 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail1.gif 53 32
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 54 31
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail1.gif 53 31
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 55 31
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail1.gif 56 31
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail1.gif 56 30
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail1.gif 56 29
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail1.gif 56 28
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail1.gif 32 28
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 31 28
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail2.gif 30 28
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mutaira_rail1.gif 29 28
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_emptystand.gif 5 51
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bow-quiver.gif 2 16
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bow-quiver.gif 8 16
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bow-quiver.gif 19 16
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bow-quiver.gif 25 16
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-log2.png 11 57
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-log2.png 11 56
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-log2.png 11 55
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-log2.png 11 53
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-log2.png 11 54
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-log2.png 11 52
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-log2.png 11 51
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-log2.png 11 50
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-log2.png 11 58
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_otachmerchantcart2singledir.gif 55 36
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rock_pile.gif 7 59
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {drawunderplayer;}
+
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp_rack2.gif 35 39
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 12 59
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-tent-shut.gif 54 55
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-tent.png 44 42
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-tent-shut.gif 43 56
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-buxtonflag3.gif 15 0
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-buxtonflag3.gif 37 33
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC woodboard2.gif 6 47
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC woodboard2.gif 6 48
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC woodboard2.gif 6 50
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC woodboard2.gif 6 49
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC woodboard2.gif 6 49
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {drawoverplayer;;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC archforge-bucket.gif 17 35
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC barnabytable.gif 9 46
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC boltcrate.gif 15 58
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC boltcrate.gif 15 56
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC kenderbonepile.gif 40 0
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-hugecrate.gif 5 45
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-pitchfork.gif 16 33
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-metalcrate.gif 17 55
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-metalcrate.gif 17 54
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-metalcrate.gif 15 54
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-metalcrate.gif 15 55
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-metalcrate.gif 16 53
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-metalcrate.gif 13 50
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-hugecrate.gif 2 63
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-hugecrate.gif 10 62
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-ammo.gif 8 62
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-ammo.gif 6 62
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-ammo.gif 7 63
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-ammo.gif 9 53
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-gunpowder.gif 2 54
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-gunpowder.gif 3 55
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-gunpowder.gif 4 62
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC midas-workbenchv.gif 17 61
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC noose.gif 28 43
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC stragen-boilingoil.gif 10 16
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-clocktower-girder.gif 5 54
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-clocktower-metalcrate.gif 14 51
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-clocktower-metalcrate.gif 13 61
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-clocktower-metalcrate.gif 14 62
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-moto-woodendummy.gif 0 44
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kanoshire-well.gif 54 52
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-tent.png 56 40
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-tent-shut.gif 59 49
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kanoshire-clothesline.gif 51 48
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-gallows2.gif 28 42
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_coffinempty.gif 19 63
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cellardoor.gif 30 35
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {x=x+.5;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-dalmararbalest.gif 58 3
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {x=x+.7;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-dalmararbalest.gif 31 6
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {x=x+.7;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rock_pile.gif 6 59
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {drawunderplayer;}
+
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rock_pile.gif 6 57
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {drawunderplayer;}
+
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rock_pile.gif 8 55
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {drawunderplayer;}
+
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rock_pile.gif 8 58
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {drawunderplayer;}
+
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rock_pile.gif 6 55
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {drawunderplayer;}
+
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 49 1
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 0 18
+// Created by racil
+function onCreated() {
+  showcharacter();
+  this.head = "val_exhamsoldiery_head100.gif";
+  this.body = "val_exhamsoldiery_body100.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  this.dir = 4;
+  this.x += 0.5;
+  setcharani("valikorlia_mabbow-ready-idle",NULL);
+}
+NPCEND
+NPC - 6 18
+// Created by racil
+function onCreated() {
+  showcharacter();
+  this.head = "val_exhamsoldiery_head100.gif";
+  this.body = "val_exhamsoldiery_body100.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  this.dir = 4;
+  this.x += 0.5;
+  setcharani("valikorlia_mabbow-ready-idle",NULL);
+}
+NPCEND
+NPC - 17 18
+// Created by racil
+function onCreated() {
+  showcharacter();
+  this.head = "val_exhamsoldiery_head100.gif";
+  this.body = "val_exhamsoldiery_body100.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  this.dir = 4;
+  this.x += 0.5;
+  setcharani("valikorlia_mabbow-ready-idle",NULL);
+}
+NPCEND
+NPC - 23 18
+// Created by racil
+function onCreated() {
+  showcharacter();
+  this.head = "val_exhamsoldiery_head100.gif";
+  this.body = "val_exhamsoldiery_body100.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  this.dir = 4;
+  this.x += 0.5;
+  setcharani("valikorlia_mabbow-ready-idle",NULL);
+}
+NPCEND
+NPC - 39 15
+// Created by racil
+function onCreated() {
+  showcharacter();
+  this.head = "val_exhamsoldiery_head100.gif";
+  this.body = "val_exhamsoldiery_body100.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  this.dir = 4;
+  this.x += 0.5;
+  setcharani("valikorlia_mabbow-ready-idle",NULL);
+}
+NPCEND
+NPC - 5 39
+// Created by racil
+function onCreated() {
+  showcharacter();
+  this.head = "val_exhamsoldiery_head100.gif";
+  this.body = "val_exhamsoldiery_body100.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  this.dir = 3;
+  this.x += 0.5;
+
+}
+NPCEND
+NPC - 32 21
+// Created by racil
+function onCreated() {
+  showcharacter();
+  this.head = "val_exhamsoldiery_head100.gif";
+  this.body = "val_exhamsoldiery_body100.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  this.dir = 2;
+  this.x += 0.5;
+
+}
+NPCEND
+NPC - 46 38
+// Created by racil
+function onCreated() {
+  showcharacter();
+  this.head = "val_exhamsoldiery_head100.gif";
+  this.body = "val_exhamsoldiery_body100.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  this.dir = 2;
+  this.x += 0.5;
+
+}
+NPCEND
+NPC - 41 51
+// Created by racil
+function onCreated() {
+  showcharacter();
+  this.head = "val_exhamsoldiery_head100.gif";
+  this.body = "val_exhamsoldiery_body100.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  this.dir = 2;
+  this.x += 0.5;
+
+}
+NPCEND
+NPC - 19 31
+// Created by racil
+function onCreated() {
+  showcharacter();
+  this.head = "val_exhamsoldiery_head100.gif";
+  this.body = "val_exhamsoldiery_body100.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  this.dir = 1;
+  this.x += 0.5;
+
+}
+NPCEND
+NPC bridgeton-porticullis.gif 10 26
+//#SERVERSIDE
+if (created) {drawunderplayer;
+  setimgpart bridgeton-porticullis.gif,0,46,200,200;
+}
+if (playerchats&&strequals(#g,The Vanguard of Steel)){
+  if (strequals(#c,Close Gate)){
+    sleep 0.5;
+    setcharprop #c,*clink clink clink*;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,32,200,200;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,16,200,200;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,0,200,200;
+    blockagain;
+    drawunderplayer;
+    sleep 0.2;
+    setcharprop #c, *boom*;
+    sleep 2;
+    setcharprop #c,;
+}
+}
+
+if (playerchats&&strequals(#g,The Vanguard of Steel)){
+  if (strequals(#c,Open Gate)){
+    sleep 0.5;
+    setcharprop #c,*clink clink clink*;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,16,200,200;
+    dontblock;
+    drawoverplayer;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,32,200,200;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,46,200,200;
+    sleep 0.2;
+    setcharprop #c, *ka-chak*;
+    sleep 1;
+    setcharprop #c,;
+}
+}
+NPCEND
+NPC val_rp-flag6.gif 54 5
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {dontblock;drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-flag6.gif 27 8
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {dontblock;drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND

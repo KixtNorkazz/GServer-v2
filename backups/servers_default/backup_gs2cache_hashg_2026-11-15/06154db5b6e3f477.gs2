@@ -1,0 +1,37 @@
+//#CLIENTSIDE
+function onCreated() {
+  hide();
+  setshape(1, 32, 64);
+  drawunderplayer();
+  setTimer(0.05);
+}
+
+function onPlayerChats() {
+  if (("#g" == "Hammerforge")) {
+    if ((player.chat == "raise2")) {
+      hide();
+    }
+    if ((player.chat == "lower2")) {
+      show();
+    }
+  }
+}
+
+function onPlayerTouchsMe() {
+  attachplayertoobj(0, this.id);
+}
+
+function onTimeOut() {
+  if ((player.attachid == this.id)) {
+    player.x = this.x - .5;
+    player.dir = 0;
+    if ((player.y <= this.y-2 && keydown(0)) || (player.y >= this.y+2 && keydown(2)))
+      detachplayer();
+    freezeplayer(0.05);
+    if (keydown(0))
+      player.y -= 0.2;
+    else if (keydown(2))
+      player.y += 0.2;
+  }
+  setTimer(0.05);
+}

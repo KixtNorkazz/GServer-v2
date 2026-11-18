@@ -1,0 +1,6 @@
+//#CLIENTSIDE
+function onPlayerTouchsMe() {
+  if ((("#g" == "Hammerforge"))) {
+    dontblock();
+  }
+}

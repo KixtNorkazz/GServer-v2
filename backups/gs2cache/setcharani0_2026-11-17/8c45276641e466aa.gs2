@@ -1,0 +1,26 @@
+//#CLIENTSIDE
+function onCreated() {
+  drawoverplayer();
+  showcharacter();
+  this.shield = "bow-shield2.gif";
+  this.head = "head1.png";
+  this.body = "val-pegason-body110.gif";
+  this.attr[1] = "hat1-celdin-helm.gif";
+  this.colors[0] = "red";
+  this.colors[1] = "orange";
+  this.colors[2] = "darkred";
+  this.colors[3] = "gray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  this.nick = "Earl Wyatt, Sentry of (Lucca)";
+  this.ap = 100;
+  setcharani("idle", NULL);
+  this.dir = 1;
+}
+
+function onPlayerChats() {
+  if ((player.chat == "detlefairship")) {
+    player.dir = 2;
+    triggeraction(0, 0, "gr.warp", "helkate-clockworkairship.nw", 30, 30);
+  }
+}

@@ -1,0 +1,25 @@
+// The default pinetree for Valikorlia. To be used
+// for forests and the like.
+// 0 = no-block
+// 22 = block
+
+function onCreated() {
+  setshape(1,80,112);
+}
+
+//#CLIENTSIDE
+function onCreated() {
+  if (client.worldtype in {1, 2}) // snowy
+    setimg("val_pinetree-single_snow.gif");
+  else
+    setimg("val_pinetree-single.gif");
+  setshape2(5, 7,{
+    0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0,
+    0, 0,22, 0, 0,
+    0, 0, 0, 0, 0
+   });
+}

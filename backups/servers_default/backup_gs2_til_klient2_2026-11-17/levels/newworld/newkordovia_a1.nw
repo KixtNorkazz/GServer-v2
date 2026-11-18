@@ -1,0 +1,1230 @@
+GLEVNW01
+BOARD 0 0 64 0 f/CJCKCLCMCNCOK1K2ZvF2F3f/3D3k3W3S3S3S3S3S3V3k3mf/BoBpBqBrBsBtBuBpBqBrBsBtBuBpBqBrBsBtBuBpBqBrBsBtBuBvK4AoApAqArAsAtAuAvBoBpBqBr
+BOARD 0 1 64 0 0RARCaCbCcCdAAABF2FmGGGHmK3D3k3m3G3S3S3S3F3D3k3muCB4B5B6B7B8B9B+B5B6B7B8B9ZWZXB6B7B8B9B+3V3V3k3m3mB+B/K3A4A5A6A7A8A9A+A/B4B5B6B7
+BOARD 0 2 64 0 ARAhKnKlKmOL3B3C3C3C3C3CmK3D3k3I3C3C3C3C3C3H3k3muCvLvMCKCLCMCNCOCJCKCLCMCNZmZnCKCLCMCN3V3V3V3k3m3m2D2EABBIBJBKBLBMBNBOBPf/CJCKCL
+BOARD 0 3 64 0 AhARZvK1K2K33R3S3S3S3S3TmK3D3k3W3S3S3S3S3S3V3k3muCvbvcCaCbCcCdKn0RCaCbCcCdEcEdCaCbCc3V3V3V3V3k3m3m2T2UAQBYBZBaBbBcBdBeBff/f/CaCb
+BOARD 0 4 64 0 f/AhAAABF2F33R3S3S3S3S3TmK3Dls3m3G3S3S3S3F3Dls3muCvrvsF3ACADKlKm0g0hZvAAABf/AwAxOL3D3D3V3V3V3k3m3m2j2k3mBoBpBqBrBsBtBuBvf/AAABf/
+BOARD 0 5 64 0 F3f/OLF2GGGH3h3i3i3i3i3jmKmLluuB3W3S3S3S3FmLluuBuCv7v8FpASATK1K20w0xAQK4AwAxAAABmK3D3D3D3D3Dls3m3m3m3m3muCB5B6B7B8B9B+B/K3K4AQF2
+BOARD 0 6 64 0 GHFmF3GnEtCrhAhBhBhBhBhCmambmeuRuS3h3i3jmambmeuRuSlFhCF2F3ZvK4K3KoAAABKnf/AwAxK3mK3D3D3D3Dltlulv3m3m3m3muCCJCKCLCMCNCOf/AAABF2GG
+BOARD 0 7 64 0 CrFo/pGGEtFohQhRiBiBhRhShAj9j+j/hBlFlGlHlJhBj6j7hClVhSGGGHF3AAABAQZvKoAwAxAAABKnmK3D3l3llul9l+l/lu3m3m3muCABCaCbCcCdF2F3ZvKnGnEt
+BOARD 0 8 64 0 EtGHGGCqFoFphghhIdIdhhhihQkNkOkPhRlVlWlXlZhRkKkLhSllhiEtFoFpf/F2FmF3F2F3f/AwAxOLmK3l3lltlumNmOmPlulv3m3muCOLAAABF2FnGGGHF3KoGIGJ
+BOARD 0 9 64 0 CqCqEtCrGHF3hwhxIdIdhxhyhgkdkekfhhlllmlnlphhkakbhil1hyEtGHFnF3GnCrGHGGGXF2FnF3K4mK3ll8l9l+mdmemfl+l/tw3muCF2F3f/GIGJCrEtGXF2FmGG
+BOARD 0 10 64 0 EtCqCqEtEtGHiAiBItItiBARhwktkukvhxl1l2l3l5hxkqkrhymFiCCqEtCqGHGGEtCqEtGHGGFoFpKnmKmLmMmNmOmNmOmPmOmPuAuBuCGGGHF3F2GGEtCqGHGGEtCq
+BOARD 0 11 64 0 CrEtCrEtCrFoFpGnGHFmF3AhARk9k+k/iBmFmGmHmJiBk6k7iCGJCrEtFoGJCrEtCrEtCrEtCrGHFnF3mambmcmdmemdmemfmemfuQuRuSEtFoFpGnEtCrEtCrEtCrEt
+BOARD 0 12 64 0 EtCqEtCqEtGHF3GIGJFoFpf/ARf/f/f/f/AwAxf/K3K4AAABARGIGJFoFpGIF4GJEtCqEtCqEtCqEtGHhAlFlGlHlIlJhBlFlGlHlIlJhCCqGHFnGGCqEtCqEtCqEtCq
+BOARD 0 13 64 0 CrEtCrEtCrEtGHFmGGGXF2F3AhARf/KnAAABf/f/f/f/f/f/AgKnGIFpF2F3F2GGCrEtCrEtEtCrCqARhQlVlWlXlYlZhRlVlWlXlYlZhSEtCrEtCrEtCrEtCrEtCrEt
+BOARD 0 14 64 0 EtCq3V3V3k3m3D3k3m3mGGGHf/AhARBgARKoAwAxARBgARBgARAAABF2GGGHGGCqEtCqEtCqFoGJARAhhglllmlnlolphhlllmlnlolphiCqEtCqEtCqEtCqEtCqEtCq
+BOARD 0 15 64 0 Cr2F2G3V3k3m3D3k3m3m3mEtGXf/AhBwAhF3f/f/AhBwAhBwAhABK3GIGJEtCrEtCrEtCrFoFpGIARKnhwl1l2l3l4l5hxl1l2l3l4l5hyCqEtCqEtCqEtFoF4GJEtCq
+BOARD 0 16 64 0 mK2V2W3D3k3m3D3k3m3m3muC/pFnF3f/GnGHFnF3F2FnGGGHFnFmF3F2GGCqEtFoGJCqEtGHF3f/AhAAiAmFmGmHmImJiBmFmGmHmImJiCEtCrEtCrFoF4Fpf/GnCrEt
+BOARD 0 17 64 0 mK2l2m3D3k3m3D3k3m3m3muCGnEtGHFnGGCqFoFpGnAPCqAIFoGJGHGGCqEtFoFpGnEtCrAPGXF2F3ARAAABK3f/AwAxf/F2F3OLF2/5GJCqEtFoF4Fpf/f/f/GnEtCq
+BOARD 0 18 64 0 mK213l3lls3m3Dls3m3m3muCGIGJCqEtCrEtGHFmGGFoF4GJGH/5GJCqFoF4FpF2GGEtFoGJGHGGGXAhARKoAwAxf/F2FmGGGXF2GGGHGGEtFoFpaiahahahajGIF4GJ
+BOARD 0 19 64 0 mK3l3lltlulvltlulv3m3muCF3GnEtCqEtCqEtEtFoFpOLGIF4FpGIF4FpAAABGIF4GJGXGIGJEtGHF3AhF2F3F2FmGGEtCrGHGGCrEtCrCqGXARbCaxaxaxbDaiajGn
+BOARD 0 20 64 0 mK3ll8l9l+l/l9l+l/tw3muCGHGGAIEtCrEtEtFo2F2G3H3B3C3B3C3C3Iuhuiujuguh/pFmGGCqEtGHFnGGGXGIGJEtCqEtEtFoGJCqEtEtGXAgbSbBbBbBbTayazGI
+BOARD 0 21 64 0 mKmLmMmNmOmPmNmOmPuAuBuCEtCqEtCqEtCqEtGH2V2Wvf3S3S3S3S3S3Q3EuyuzuwuxGIF4GJFoGJEtCrFoFpF2GGCqFoGJCrGXGIF4GJFoFpARf/f/f/f/f/bCbDf/
+BOARD 0 22 64 0 mambmcmdmemfmdmemfuQuRuSCrEtCrEtCrEtCqEt2l2m3S3S3S3S3S3S3S3A3EvDvAvBAAABGIFpGnCqEtGHFmGGEtFoFpGIF4Fpf/f/GIFpARsLsMsLsMsLsMbSbTai
+BOARD 0 23 64 0 hAlFlGlHlIlJhBlGlHlIlJhCF4GJEtCqEtCqFomK21vf3S3S3S3S3S3S3S3Q3EuC3B3C3C3C3C3CGIGJCrEtCrEtCrGXf/aiahahahajf/ARsLsMsLsMsLsMsLsMf/ay
+BOARD 0 24 64 0 hQlVlWlXlYlZhRlWlXlYlZhSF2GGCrFoGJEtGXmKvP3S3S3S3S3S3S3S3S3S3AuC3R3S3S3S3S3TF3GnEtCqFoGJFoFpf/bCaxaxaxbDARsLsMsLsMsLsMsLsMsLsMbC
+BOARD 0 25 64 0 hglll2l3l4lZhhlmlnlolphiGnFoF4FpGnFoFpmKvf3S3S3S3S3S3S3S3S3S3QuC3R3S3S3S3S3TGHGGCrEtGH/5Fpf/f/bSbBbBbBbTAhsMsLsMsLsMsLsMsLsMsLbS
+BOARD 0 26 64 0 hwl1f/f/f/l5hxl2l3l4l5hyGIFpvCvDGIFpAQ2g3S3S3S3S3S3S3S3S3S3S3S3A3h3i3i3i3i3jCqCqEtCqEtGHF3aiajvDvAvBvCvDAQsLsMsLsMsLsMsLsMsLsMAQ
+BOARD 0 27 64 0 iAmFuiAwAxmJiBmGmHmImJiCvQAwAxvTvQAAAB2w3i3i3i3i3i3i3i3i3i3i3i3QhAhBhBhBhBhCCqEtCrEtCrEtGXayazvTvQvRvSvTAQsMsLsMsLiBiBsMsLsMsLAQ
+BOARD 0 28 64 0 ARuhuiAwAxuhuiujuguhuiujuguhuiujAAABKnhAlwkkhBlFlGlHlIlJhBlwkkhChQhRiBiBhRhSEtCqEtCqEtFoFpayazujuguhuiujAQhAsMsLsMsLsMsLsMsLhCAQ
+BOARD 0 29 64 0 ARf/uyuzuwAwAxuzAwAxuyuzuwAwAxuzK3KlKmhQmAk0hRlVlWlXlYlZhRmAk0hShghhIdIdhhhiCqEtCrFoF4Fpf/ayazuzuwuxuyuzAQiAhAsMsLsMsLsMsLhCiCAQ
+BOARD 0 30 64 0 ARf/f/vDvAvBAwAxvAvBAwAxvAvBvCARK4K1K2hglBmThhlllmlnlolphhlBmThihwhxIdIdhxhyEtCqEtGHF3f/f/ayazvDvAvBvCvDvAAQiAhAhBhBhBhBhCiCAQvD
+BOARD 0 31 64 0 AhARf/AJAKALAMANAOvRvSvTvQvRvSAhOLKoAQhwlRmjhxl1l2l3l4l5hxlRmjhyiAiBItItiBiCF4GJCqEtGHFnF3ayazvTvQvRvSvTvQvRAQiAiBiBiBiBiCAQvSvT
+BOARD 0 32 64 0 ARAhAYAZAaAbAcAdAeAfARujuguhuiujARZvAAiAlhmziBmFmGmHmImJiBlhmziCuguhuiujcKcLf/GIF4GJEtCqGXbCbDujuguhuiujIAIBuiAQAQAQAQAQAQuhuiuj
+BOARD 0 33 64 0 AhuxAoApAqArAsAtAuAvAhARuwARBgARAhf/0ROLAAABuyuzuwuxuyuzuwuxuyuzuwuxuyuzcacbcqcrF2/5GJEtGXbSbTuzuwuxuyuzIQIRuyuzuwuxuyuzuwuxuyuz
+BOARD 0 34 64 0 vAvBA4A5A6A7A8A9A+A/f/AhARAhBwAhKlKmK3K4Ko0RvCvDvAvBvCvDvAvBvCvDvAvBF2F3f/f/c6c7GnGHGGCqGHF3vCvDvAvBvCvDvAvBvCF2FmFnFmFnFmFnFmFn
+BOARD 0 35 64 0 vQvRBIBJBKBLBMBNBOBPKlKmAhKnACADK1K2KnAAABAQvSvTvQvRvSF2F3vRvSvTvQvRGGGXf/cqcrf/GIGJCqCqCrGXvSvTvQvRvSvTvQF2FmGGCrEtCrEtCrEtCrEt
+BOARD 0 36 64 0 uguhBYBZBaBbBcBdBeBfK1K2AAABASATf/0Rf/K3K4AAABujugF2FmGGGHFnFmF3ugGnCqGHF3c6c7F2FmGGEtCqFoFpuiujF2FnFmFnFmGGEtCqEtCqEtCqEtCqEtCq
+BOARD 0 37 64 0 AJAKALAMDCDDDADBALAMANAOAJAKALAMANAOAAABFKFLZvF2FmGGCrEtFoGJCrGHFmF3GJCqGXf/f/GnFoGJCqCqGHF3F2FmGGEtCrEtCrEtCrEtCrEtCrEtCrEtCrEt
+BOARD 0 38 64 0 AZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAfKoFaFbK3GIGJFoF5F5FpGIF5F4GJGHGGCqGHF3F2/5/pGGEtCqEtGHGGCqFoGJEtCqEtCqEtCqEtCqEtCqEtCqEtCq
+BOARD 0 39 64 0 ApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuAvFKFLAQAAABGIFpYHYIYIYIYIYJGnEtCrCqFoFpGnGHGGEtCrEtCrEtCrEtGH/5F4GJCrEtFoF4GJEtCrEtFoGJCrFo
+BOARD 0 40 64 0 A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A/FaFbK3K4AAABKnYKYcYcYcYcYLGIGJEtCqGHFmGGAPEtCqEtEtFoF4GJFoF4Fpf/GIF5GJGHF3GIF5GJCqGXGIF4Fp
+BOARD 0 41 64 0 BJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBPf/OLKoYHYIYIYJYv/n/n/n/nNqAQGnCrCqCqCqCrEtCrEtEtCqGHF3GIFpf/f/f/f/f/GIF4FpuwuxGIF5Fpuxuyuz
+BOARD 0 42 64 0 BZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBfAAABf/YKYcYcYLY//3/3/3/3Y/F3GIGJCqEtCqEtCqEtCqFoGJFoFpBoBpBqBrBsBtBuBvvCvDvAvBvCvDvAvBvCvD
+BOARD 0 43 64 0 BpBqBrBsBtBuBpBqBrBssLsMsLsMsLsMBtBuBvZvF2FmYv/n/nYvEta6a5EtCqa7/pF3GnEtCrEtCrEtCrEtGH/5/pF3B4B5B6B7B8B9B+B/vSvTBoBpBqBrBsBtBuBv
+BOARD 0 44 64 0 B5B6B7B8B9B+B5B6sMsLsMsLsMsLsMsLsMsLB/K4GIa7Y//3/3Y/apEtapa7a7FpGnGHGGEtEtCqEtCqEtCqCqGHGGGHF3CJCKCLCMCNCOuhuiujB4B5B6B7B8B9B+B/
+BOARD 0 45 64 0 CJCKCLCMCNCOCJCKsLsMsLsMsLsMsLsMsLsM0RAQOLa7a5Cra5APCqCra7GXK3KnGIGJAICqCrEtCrEtCrEtEtCrCrFoFpuzCaCbCcCduwuxuyuzuwCJCKCLCMCNCOuz
+BOARD 0 46 64 0 f/CaCbCcCdf/f/CasMsLsMsLsMsLsMsLsMsLKmKnKoF2a7aqEta7apAICqa7F3AAABGnFoGJEtCqEtCqEtCqCqEtFoFpvCvDvAvBvCvDvAvBvCvDvAvBCaCbCcCdvCvD
+BOARD 0 47 64 0 f/f/f/f/f/f/f/f/sLsMsLsMsLsMsLsMsLsMK20RAAGIF5a7a7F5a7a7AIa7GXAQOLGIFpGnCrEtCrEtCrEtEtCrGHF3vSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvT
+BOARD 0 48 64 0 f/f/f/Yff/Yff/YfsMsLsMsLsMsLsMsLsMsLf/Yff/Yff/Yff/YfGIYfa7YfFpYfK4YfF2/5GJCqEtCqEtCqAPEtCqGXuiujYfuhYfujYfuhYfujYfuhYfujYfuhYfuj
+BOARD 0 49 64 0 f/f/f/YvBgYvBgYvhTj6sLsMsLsMsLsMj+hTBgYvBgYvBgYvBgYvBgYvBgYvBgYvBgYvGnGHGGEtCrEtCrEtEtCrFoFpuyuzYvBgYvBgYvBgYvBgYvBgYvBgYvBgYvBg
+BOARD 0 50 64 0 f/Yff/Yvf/Yvf/YvhjkKhDsLsMsLsMhDkOhjf/Yvf/Yvf/Yvf/Yvf/Yvf/Yvf/Yvf/YvGIF5GJCqEtCqEtCqCqFo/pFnF3vDYvf/Yvf/Yvf/Yvf/Yvf/Yvf/Yvf/Yvf/
+BOARD 0 51 64 0 f/YvBgYvBgYvBgYvhzkahTkgkhkikjhTkehzBgYvBgYvBgYvBgYvBgYvBgYvBgYvBgYvf/F2GGEtCrEtCrEtEtGHGGFoFpvTYvBgYvBgYvBgYvBgYvBgYvBgYvBgYvBg
+BOARD 0 52 64 0 f/Yvf/YvBwY/BwY/hTkqhjkwkxkykzhjkuhTBwY/BwY/BwY/BwY/BwY/BwYHYIYIYJY/F2GGEtCqEtCqEtCqCqEtFoFpuiujY/BwY/BwY/BwY/BwY/BwY/BwY/BwY/Bw
+BOARD 0 53 64 0 BgYvBgYvAQ0RKlKmhjk6hzlAlBlClDhzk+hjACADKlKm0RAAABAQKlKmKoYKYcYcYLf/GnFoGJEtCrEtCrEtEtCrGXF2F3uzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuz
+BOARD 0 54 64 0 f/YvBwY/AAABK1K2hzj/hTlQlRlSlThTj6hzASATK1K2AAAB0QZvK1K2K4Yv/n/nYvf/GIFpGIGJEtCqEtCqCqEtGHGGGXvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvD
+BOARD 0 55 64 0 BgYvK3AAABKnAAABhTkPhjlglhliljhjkKhTKlKmKnK3K4OLF2FmF3AAABY//3/3Y/f/f/F2FmGGCrEtCrEtEtCrEtFoFpvTF2FnFmFnF3vRvSvTvQvRvSvTvQvRvSvT
+BOARD 0 56 64 0 BwY/AQZvAAABAQ0RhjkfhzlwlxlylzhzkahjK1K2AAABKof/GIGJGHF3AQf/f/F2FmF3F2GGEtCqEtCqEtCqCqEtCqGHFnF3GnEtCqCrGXuhuiujugF2F3ujuguhuiuj
+BOARD 0 57 64 0 f/f/f/OLK3K4AAABhzkvhTmAmBmCmDhTkqhz0RAQF2F3Zvf/F2GGCqGXF2FnF3GnCqGHGGCqCrEtCrEtCrEtEtCrEtCrFoFpGIF5GJEtGXF2FmFnFmGGGHF3uwuxuyuz
+BOARD 0 58 64 0 FmF3F2FmF3AAABKniDk/hjmQmRmSmThjk6iDF2F3GnGHFmF3GnAIEtGHGGEtGHGGCqCqCqCqEtCqEtCqEtCqCqEtCqEtGHFmFmFnGGCqGHGGCrCqEtCqEtGHFmFnFmFn
+BOARD 0 59 64 0 CrGHGGFoFpKoF2F3f/f/hzmgmhmimjhzf/f/GnGHGGEtCrGHGGEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEt
+BOARD 0 60 64 0 EtCqEtGHFnF3GnGHFmF3iDmFmGmHmJiDF3f/GIGJEtCqEtCqEtCqEtCqEtFoF5GJEtCqFoGJEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCq
+BOARD 0 61 64 0 CrEtCrEtCrGHGGEtCrGHFmF3F2Fm/5GJGXF2FmGGCrEtCrEtCrEtCrEtFo/pF3GIF4GJGXGIF4GJCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEt
+BOARD 0 62 64 0 EtCqEtCqEtCqEtCqEtCqFo/pGGCqGHGGGHGGEtCqEtCqEtCqEtCqEtCqGHGGGHF3vAGIFpvDF2GGEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCq
+BOARD 0 63 64 0 CrEtCrEtCrEtCrEtCrEtGHGGCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrFoF4FpvQvRvSvTGIF5F4F5GJEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEt
+LINK worldmapfull_e03.nw 0 57 1 7 39 4.5
+LINK newkordoviaint_guardtower-main.nw 11 60 4 1 30 40
+LINK newkordoviaint_guardtower-main.nw 11 43 4 1 30 12
+LINK newkordoviaint_house1-main.nw 2 25 3 1 28.5 38
+NPC sign2.png 29 41
+if (playertouchsme) {
+say2 Public Bulletins:#b
+#s(serverr.KFeedback2)#b
+(To post a bulletin, just type#b
+/sign2 followed by your message#b
+in quotes.  To assure it doesn't#b
+overflow, every 30 characters or#b
+so, add a break with a code break.#b
+[That's a # and a b together.]#b
+Also, your accounts are logged and#b
+any inappropriate tampering will#b
+result in jail time, no questions.);
+}
+if (playerchats) {
+  if (startswith(/sign2,#c)) {
+    tokenize #c;
+    setstring serverr.KFeedback2,#t(1)#b-#n#b#s(serverr.KFeedback2);
+    say2 Posted!;
+  }
+}
+  if (strequals(#c,/check2)) {
+say2 Public Bulletins:#b
+#s(serverr.KFeedback2)#b
+(To post a bulletin, just type#b
+/sign2 followed by your message#b
+in quotes.  To assure it doesn't#b
+overflow, every 30 characters or#b
+so, add a break with a code break.#b
+[That's a # and a b together.]#b
+Also, your accounts are logged and#b
+any inappropriate tampering will#b
+result in jail time, no questions.);
+  }
+  if (strequals(#c,/clear2) && strcontains(#a,EvilZero)) {
+    setstring serverr.KFeedback2,;
+    say2 Sheet has been cleared!;
+  }
+NPCEND
+NPC sign2.png 27 41
+if (playertouchsme) {
+say2 Ganelon News:#b
+#s(serverr.GFeedback1);
+}
+if (playerchats) {
+  if (startswith(/sign1,#c) && strcontains(#a,EvilZero)) {
+    tokenize #c;
+    setstring serverr.GFeedback1,#t(1)#b#s(serverr.GFeedback1);
+    say2 Posted!;
+  }
+}
+  if (strequals(#c,/check1)) {
+say2 Ganelon News:#b
+#s(serverr.GFeedback1);
+  }
+  if (strequals(#c,/clear1) && strcontains(#a,EvilZero)) {
+    setstring serverr.GFeedback1,;
+    say2 Sheet has been cleared!;
+  }
+NPCEND
+NPC - 16 8
+join world_lamp;
+NPCEND
+NPC - 46 13
+join world_lamp;
+NPCEND
+NPC - 31 40
+join world_lamp;
+NPCEND
+NPC - 52 32
+//#CLIENTSIDE
+if (created) {
+setshape2 2,2,{
+  22,22,
+  22,22,
+    };
+}
+if (playertouchsme) {
+  say2 *A faded sign post reads:#b"The Staff of ..." and it seems#bthe rest is covered in moss.*;
+}
+NPCEND
+NPC sign2.png 30 54
+//#CLIENTSIDE
+if (playertouchsme) {
+  say2 Welcome to Kordovia!;
+}
+NPCEND
+NPC - 10 56
+join world_lamp;
+NPCEND
+NPC - 10 45
+join world_lamp;
+NPCEND
+NPC - 14 45
+join world_lamp;
+NPCEND
+NPC - 29 54
+join world_lamp;
+NPCEND
+NPC - 32 54
+join world_lamp;
+NPCEND
+NPC - 26 40
+join world_lamp;
+NPCEND
+NPC sign2.png 23 43
+//#CLIENTSIDE
+if (playertouchsme) {
+  say2 ::It is a list of the town's exports.#bThe biggest ones are wheat,#bpumpkins, and potatoes.::;
+}
+NPCEND
+NPC - 22 43
+join world_lamp;
+NPCEND
+NPC val_ganelon_housetop2.gif 2 11
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_ganelon_housetop2.gif,0,0,64,64;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_ganelon_housetop2.gif 6 11
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_ganelon_housetop2.gif,16,0,64,64;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 10 14
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 11 15
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 0 15
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 1 14
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_door.png 1 24
+//Script written by Chris
+
+function onPlayerChats() {
+if (player.account == "giok87") {
+if (player.chat == "/unlock") {this.locked = false;}
+if (player.chat == "/lock") {this.locked = true;}}}
+
+function onPlayerTouchsme() {
+if (this.locked) {blockagain();}
+else if (!this.locked) {dontblock();}}
+
+//#CLIENTSIDE
+
+function onCreated() {drawunderplayer();}
+
+function onPlayerTouchsme() {
+if (player.account == "giok87") {dontblock();}}
+
+
+
+/*
+if (playerchats){
+  if (strequals(#c,/unlock)){
+    if (strequals(#a,giok87)){
+      this.locked = false;
+    }
+  }
+}
+if (playerchats){
+  if (strequals(#c,/lock)){
+    if (strequals(#a,giok87)){
+      this.locked = true;
+    }
+  }
+}
+if(playertouchsme) {
+  if(strequals(#a,giok87)) {
+    dontblock;
+  }
+  else if(this.locked) {
+    blockagain;
+  }
+  else if(!this.locked) {
+    dontblock;
+  }
+}
+//#CLIENTSIDE
+if(created) {
+  drawunderplayer;
+}
+*/
+NPCEND
+NPC seg_window.png 7 24
+// NPC made by Glaecyn
+//#CLIENTSIDE
+NPCEND
+NPC val_ganelon-balcony.png 9 41
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,64,0,16,64;
+setshape2 1,4,{
+  0,
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 10 40
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,64,0,16,64;
+setshape2 1,4,{
+  0,
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 11 48
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,48;
+setshape2 1,3,{
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 11 40
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,48;
+setshape2 1,3,{
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 10 47
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,16,0,16,64;
+setshape2 1,4,{
+  0,
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 9 46
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,16,0,16,64;
+setshape2 1,4,{
+  0,
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 8 42
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,32,48,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 8 46
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,0,0,16,48;
+setshape2 1,3,{
+  22,
+  22,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 8 44
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,0,64,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 8 45
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,0,64,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 8 43
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,0,64,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 17 46
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,16,0,16,48;
+setshape2 1,3,{
+  22,
+  22,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 17 42
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,48,48,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 17 43
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,16,64,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 17 44
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,16,64,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 17 45
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,16,64,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony.png 12 48
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,48;
+setshape2 1,3,{
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 13 48
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,48;
+setshape2 1,3,{
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 14 48
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,48;
+setshape2 1,3,{
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 12 40
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,48;
+setshape2 1,3,{
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 13 40
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,48;
+setshape2 1,3,{
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 14 40
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,48;
+setshape2 1,3,{
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 15 40
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,16,0,16,64;
+setshape2 1,4,{
+  0,
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 16 41
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,16,0,16,64;
+setshape2 1,4,{
+  0,
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 15 47
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,64,0,16,64;
+setshape2 1,4,{
+  0,
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 16 46
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,64,0,16,64;
+setshape2 1,4,{
+  0,
+  0,
+  0,
+  22,
+    };
+}
+NPCEND
+NPC seg_door.png 10 57
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x+=.5;
+  drawunderplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_window.png 11 52
+// NPC made by Glaecyn
+//#CLIENTSIDE
+NPCEND
+NPC seg_door.png 16 8
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x+=.5;
+  drawunderplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_window.png 12 8
+// NPC made by Glaecyn
+if (created) {
+x = x + 0.5;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 12 -1
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 24 0
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC asca-door.gif 8 8
+//#CLIENTSIDE
+
+if (playertouchsme) {
+  hide;
+  play val_dragaeris-dooropen.wav;
+  sleep 1;
+  show;
+  play val_dragaeris-doorclose.wav;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 29 20
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 30 21
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 31 22
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 19 22
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_door.png 23 29
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  drawunderplayer;
+  dontblock;
+}
+NPCEND
+NPC - 19 19
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC - 0 14
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC - 24 1
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC seg_window.png 19 29
+// NPC made by Glaecyn
+//#CLIENTSIDE
+NPCEND
+NPC seg_window.png 28 29
+// NPC made by Glaecyn
+//#CLIENTSIDE
+NPCEND
+NPC val_ganelon_housetop.gif 52 4
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 51 3
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 49 1
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_kordovia-housefix2.png 44 5
+// NPC made by Santa Claus, Demon-King of the (North Pole)
+NPCEND
+NPC seg_door.png 47 13
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  drawunderplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_window.png 41 13
+// NPC made by Glaecyn
+if (created) {
+  x = x + 0.5;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 40 4
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 41 3
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 42 2
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 43 1
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC - 48 1
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val-gaztreetop1.gif 46 36
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 56 37
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val_ganelon-balcony.png 59 29
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 55 29
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,0,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 56 29
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 57 29
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 58 29
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 54 28
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,0,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 53 27
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,0,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 55 28
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,80,48,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 54 27
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,80,48,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 53 25
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,0,64,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 53 26
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,0,64,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 53 24
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,32,48,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 54 23
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,32,48,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 55 22
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,32,48,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 54 24
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,16,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 55 23
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,16,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 56 22
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 57 22
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 58 22
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony.png 59 22
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony.png,0,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 60 22
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,48,48,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 61 23
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,48,48,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 62 24
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,48,48,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 60 23
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,0,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 61 24
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,0,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 62 25
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,16,64,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 62 26
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,16,64,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 62 27
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,16,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 60 29
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,16,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 61 28
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,16,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 61 27
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,32,48,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 60 28
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,32,48,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 57 26
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,0,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 58 26
+//#CLIENTSIDE
+if (created) {
+setimgpart val_ganelon-balcony2.png,16,0,16,16;
+setshape2 1,1,{
+  22,
+    };
+}
+NPCEND
+NPC val_ganelon-balcony2.png 57 25
+//#CLIENTSIDE
+if (created) {
+drawunderplayer;
+setimgpart val_ganelon-balcony2.png,32,48,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon-balcony2.png 58 25
+//#CLIENTSIDE
+if (created) {
+drawunderplayer;
+setimgpart val_ganelon-balcony2.png,48,48,16,16;}
+if (playertouchsme) {
+}
+NPCEND
+NPC lesser-tinwe.png 58 24
+// NPC made by Santa Claus, Demon-King of the (North Pole)
+if (created) {
+  x = x - 0.025;
+}
+//#CLIENTSIDE
+if (created) {
+setimgpart lesser-tinwe.png,80,0,16,32;
+}
+NPCEND
+NPC asca-door.gif 34 29
+//#CLIENTSIDE
+
+if (playertouchsme) {
+  hide;
+  play val_dragaeris-dooropen.wav;
+  sleep 1;
+  show;
+  play val_dragaeris-doorclose.wav;
+}
+NPCEND
+NPC - 22 54
+join("world_wagonman");
+NPCEND
+NPC valnmd-trapdoor.gif 11 43
+// NPC made by Zero (LAT Captain)
+if (created) {
+x = x + 0.5;
+}
+//#CLIENTSIDE
+if (created) {
+dontblock;
+drawunderplayer;
+}
+NPCEND
+NPC val_cloud-lightbeam2.gif 59 11
+//#CLIENTSIDE
+ setcoloreffect .3,.3,.3,.7;
+dontblock;
+setzoomeffect 3;
+drawoverplayer;
+NPCEND
+NPC val_undyingcourt_sarcophagus.gif 56 59
+// NPC made by Thadius Brant, Commander of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND

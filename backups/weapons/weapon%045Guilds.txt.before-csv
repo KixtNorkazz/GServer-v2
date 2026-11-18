@@ -1,0 +1,709 @@
+GRAWP001
+REALNAME -Guilds
+IMAGE 
+SCRIPT
+//#CLIENTSIDE
+function onCreated() {
+echo("-Guilds: onCreated");
+this.gnames = {};
+this.granks = {};
+this.gmembers = {};
+this.cur = 0;
+this.top = 0;
+this.sel = -1;
+this.msg = "";
+this.tick = 0;
+this.extgen = int(client.winextgen);
+this.build();
+setTimer(0.2);
+}
+
+function build() {
+if (!isObject("ChatTextProfile")) {
+new GuiTextProfile("ChatTextProfile") {
+fontcolor = {0, 0, 0};
+}
+}
+if (isObject("Guild_Window"))
+Guild_Window.destroy();
+new GuiWindowCtrl("Guild_Window") {
+clientrelative = true;
+clientextent = "376,432";
+canclose = true;
+canmaximize = false;
+canminimize = false;
+canmove = true;
+canresize = false;
+closequery = false;
+destroyonhide = false;
+externalwindow = "";
+isexternal = (client.winext != "off");
+text = "Guild";
+new GuiTextCtrl("Gu_Name") {
+profile = ChatTextProfile;
+x = 10;
+y = 8;
+width = 240;
+height = 18;
+text = "";
+}
+new GuiButtonCtrl("Gu_Prev") {
+x = 252;
+y = 4;
+width = 48;
+height = 24;
+text = "<";
+}
+new GuiButtonCtrl("Gu_Next") {
+x = 304;
+y = 4;
+width = 48;
+height = 24;
+text = ">";
+}
+new GuiButtonCtrl("Gu_R0") {
+x = 10;
+y = 34;
+width = 296;
+height = 20;
+text = "";
+}
+new GuiButtonCtrl("Gu_R1") {
+x = 10;
+y = 56;
+width = 296;
+height = 20;
+text = "";
+}
+new GuiButtonCtrl("Gu_R2") {
+x = 10;
+y = 78;
+width = 296;
+height = 20;
+text = "";
+}
+new GuiButtonCtrl("Gu_R3") {
+x = 10;
+y = 100;
+width = 296;
+height = 20;
+text = "";
+}
+new GuiButtonCtrl("Gu_R4") {
+x = 10;
+y = 122;
+width = 296;
+height = 20;
+text = "";
+}
+new GuiButtonCtrl("Gu_R5") {
+x = 10;
+y = 144;
+width = 296;
+height = 20;
+text = "";
+}
+new GuiButtonCtrl("Gu_R6") {
+x = 10;
+y = 166;
+width = 296;
+height = 20;
+text = "";
+}
+new GuiButtonCtrl("Gu_R7") {
+x = 10;
+y = 188;
+width = 296;
+height = 20;
+text = "";
+}
+new GuiButtonCtrl("Gu_Up") {
+x = 312;
+y = 34;
+width = 40;
+height = 24;
+text = "^";
+}
+new GuiButtonCtrl("Gu_Down") {
+x = 312;
+y = 62;
+width = 40;
+height = 24;
+text = "v";
+}
+new GuiTextCtrl("Gu_Msg") {
+profile = ChatTextProfile;
+x = 10;
+y = 216;
+width = 342;
+height = 18;
+text = "";
+}
+new GuiTextCtrl("Gu_AcctL") {
+profile = ChatTextProfile;
+x = 10;
+y = 246;
+width = 56;
+height = 18;
+text = "Account";
+}
+new GuiTextEditCtrl("Gu_Acct") {
+x = 70;
+y = 244;
+width = 110;
+height = 22;
+}
+new GuiTextCtrl("Gu_NickL") {
+profile = ChatTextProfile;
+x = 190;
+y = 246;
+width = 40;
+height = 18;
+text = "Name";
+}
+new GuiTextEditCtrl("Gu_Nick") {
+x = 232;
+y = 244;
+width = 120;
+height = 22;
+}
+new GuiButtonCtrl("Gu_Add") {
+x = 10;
+y = 276;
+width = 60;
+height = 24;
+text = "Add";
+}
+new GuiButtonCtrl("Gu_Remove") {
+x = 74;
+y = 276;
+width = 70;
+height = 24;
+text = "Remove";
+}
+new GuiButtonCtrl("Gu_Rank") {
+x = 148;
+y = 276;
+width = 66;
+height = 24;
+text = "Rank";
+}
+new GuiButtonCtrl("Gu_SetNick") {
+x = 218;
+y = 276;
+width = 70;
+height = 24;
+text = "Set name";
+}
+new GuiButtonCtrl("Gu_Leave") {
+x = 292;
+y = 276;
+width = 60;
+height = 24;
+text = "Leave";
+}
+new GuiTextCtrl("Gu_NewL") {
+profile = ChatTextProfile;
+x = 10;
+y = 312;
+width = 66;
+height = 18;
+text = "New guild";
+}
+new GuiTextEditCtrl("Gu_New") {
+x = 80;
+y = 310;
+width = 170;
+height = 22;
+}
+new GuiButtonCtrl("Gu_Create") {
+x = 256;
+y = 309;
+width = 96;
+height = 24;
+text = "Create (staff)";
+}
+new GuiButtonCtrl("Gu_Wear") {
+x = 10;
+y = 344;
+width = 170;
+height = 24;
+text = "Wear tag";
+}
+new GuiButtonCtrl("Gu_Unwear") {
+x = 186;
+y = 344;
+width = 166;
+height = 24;
+text = "Tag off";
+}
+}
+Guild_Window.hide();
+}
+
+function toggle() {
+if (Guild_Window.visible) {
+Guild_Window.hide();
+} else {
+if (client.winext == "off") {
+Guild_Window.position = {int((screenwidth - 380) / 2), int((screenheight - 420) / 2)};
+client.openwindow = "menuhide";
+}
+Guild_Window.show();
+this.ask();
+this.refresh();
+}
+}
+
+function ask() {
+triggeraction(0, 0, "gr.guild", "info");
+}
+
+function onKeyPressed(code, key) {
+if (code == 71) {
+this.toggle();
+}
+}
+
+function rankName(r) {
+if (r >= 2) {
+return "leader";
+}
+if (r == 1) {
+return "officer";
+}
+return "member";
+}
+
+function isOnline(account) {
+if (account == player.account) {
+return true;
+}
+for (temp.p: players) {
+if (temp.p.account == account) {
+return true;
+}
+}
+return false;
+}
+
+function memberList() {
+if (this.cur >= this.gmembers.size()) {
+temp.empty = {};
+return temp.empty;
+}
+return this.gmembers[this.cur];
+}
+
+function rowText(i) {
+temp.m = this.memberList();
+temp.k = (this.top + i) * 3;
+if (temp.k + 2 >= temp.m.size()) {
+return "";
+}
+temp.t = temp.m[temp.k];
+if (temp.m[temp.k + 2] != "") {
+temp.t = temp.t @ " (" @ temp.m[temp.k + 2] @ ")";
+}
+temp.t = temp.t @ "   " @ this.rankName(temp.m[temp.k + 1]);
+if (this.isOnline(temp.m[temp.k])) {
+temp.t = temp.t @ "   online";
+}
+if (this.top + i == this.sel) {
+temp.t = "> " @ temp.t;
+}
+return temp.t;
+}
+
+function myRank() {
+if (this.cur < this.granks.size()) {
+return this.granks[this.cur];
+}
+return -1;
+}
+
+function refresh() {
+if (this.gnames.size() == 0) {
+Gu_Name.text = "You are not in a guild";
+} else {
+Gu_Name.text = this.gnames[this.cur] @ " - you are " @ this.rankName(this.myRank());
+}
+Gu_R0.text = this.rowText(0);
+Gu_R1.text = this.rowText(1);
+Gu_R2.text = this.rowText(2);
+Gu_R3.text = this.rowText(3);
+Gu_R4.text = this.rowText(4);
+Gu_R5.text = this.rowText(5);
+Gu_R6.text = this.rowText(6);
+Gu_R7.text = this.rowText(7);
+if (this.rowText(0) == "") {
+Gu_R0.hide();
+} else {
+Gu_R0.show();
+}
+if (this.rowText(1) == "") {
+Gu_R1.hide();
+} else {
+Gu_R1.show();
+}
+if (this.rowText(2) == "") {
+Gu_R2.hide();
+} else {
+Gu_R2.show();
+}
+if (this.rowText(3) == "") {
+Gu_R3.hide();
+} else {
+Gu_R3.show();
+}
+if (this.rowText(4) == "") {
+Gu_R4.hide();
+} else {
+Gu_R4.show();
+}
+if (this.rowText(5) == "") {
+Gu_R5.hide();
+} else {
+Gu_R5.show();
+}
+if (this.rowText(6) == "") {
+Gu_R6.hide();
+} else {
+Gu_R6.show();
+}
+if (this.rowText(7) == "") {
+Gu_R7.hide();
+} else {
+Gu_R7.show();
+}
+Gu_Msg.text = this.msg;
+}
+
+function pickRow(i) {
+temp.m = this.memberList();
+temp.k = (this.top + i) * 3;
+if (temp.k + 2 >= temp.m.size()) {
+return;
+}
+this.sel = this.top + i;
+Gu_Acct.text = temp.m[temp.k];
+Gu_Nick.text = temp.m[temp.k + 2];
+this.refresh();
+}
+
+function selAccount() {
+temp.a = Gu_Acct.text;
+return temp.a;
+}
+
+function scrollRows(d) {
+temp.n = int(this.memberList().size() / 3) - 8;
+if (temp.n < 0) {
+temp.n = 0;
+}
+this.top = this.top + d;
+if (this.top > temp.n) {
+this.top = temp.n;
+}
+if (this.top < 0) {
+this.top = 0;
+}
+this.refresh();
+}
+
+function nextGuild(d) {
+if (this.gnames.size() == 0) {
+return;
+}
+this.cur = this.cur + d;
+if (this.cur >= this.gnames.size()) {
+this.cur = 0;
+}
+if (this.cur < 0) {
+this.cur = this.gnames.size() - 1;
+}
+this.top = 0;
+this.sel = -1;
+this.refresh();
+}
+
+function guildName() {
+if (this.gnames.size() == 0) {
+return "";
+}
+return this.gnames[this.cur];
+}
+
+function doAdd() {
+if (this.guildName() == "" || this.selAccount() == "") {
+this.msg = "Type the account to add first.";
+this.refresh();
+return;
+}
+triggeraction(0, 0, "gr.guild", "add", this.guildName(), this.selAccount(), Gu_Nick.text);
+}
+
+function doRemove() {
+if (this.guildName() == "" || this.selAccount() == "") {
+this.msg = "Pick a member first.";
+this.refresh();
+return;
+}
+triggeraction(0, 0, "gr.guild", "remove", this.guildName(), this.selAccount());
+}
+
+function doCreate() {
+temp.n = Gu_New.text;
+if (temp.n == "") {
+this.msg = "Type the name of the new guild first.";
+this.refresh();
+return;
+}
+triggeraction(0, 0, "gr.guild", "create", temp.n);
+Gu_New.text = "";
+}
+
+function doWear() {
+if (this.guildName() == "") {
+return;
+}
+triggeraction(0, 0, "gr.guild", "wear", this.guildName());
+}
+
+function doUnwear() {
+if (this.guildName() == "") {
+return;
+}
+triggeraction(0, 0, "gr.guild", "unwear", this.guildName());
+}
+
+function doLeave() {
+if (this.guildName() == "") {
+return;
+}
+triggeraction(0, 0, "gr.guild", "leave", this.guildName());
+}
+
+function doNick() {
+if (this.guildName() == "" || this.selAccount() == "") {
+this.msg = "Pick a member first.";
+this.refresh();
+return;
+}
+triggeraction(0, 0, "gr.guild", "nick", this.guildName(), this.selAccount(), Gu_Nick.text);
+}
+
+function doRank() {
+temp.a = this.selAccount();
+temp.m = this.memberList();
+temp.r = -1;
+temp.k = 0;
+while (temp.k + 2 < temp.m.size()) {
+if (temp.m[temp.k] == temp.a) {
+temp.r = temp.m[temp.k + 1];
+}
+temp.k = temp.k + 3;
+}
+if (this.guildName() == "" || temp.r < 0) {
+this.msg = "Pick a member first.";
+this.refresh();
+return;
+}
+temp.nr = "officer";
+if (temp.r == 1) {
+temp.nr = "leader";
+} else if (temp.r >= 2) {
+temp.nr = "member";
+}
+triggeraction(0, 0, "gr.guild", "rank", this.guildName(), temp.a, temp.nr);
+}
+
+function splitCsv(text) {
+temp.res = {};
+temp.cur = "";
+temp.len = text.length();
+for (temp.ci = 0; temp.ci < temp.len; temp.ci++) {
+temp.ch = text.substring(temp.ci, 1);
+if (temp.ch == ",") {
+temp.res.add(temp.cur);
+temp.cur = "";
+} else {
+temp.cur = temp.cur @ temp.ch;
+}
+}
+temp.res.add(temp.cur);
+return temp.res;
+}
+
+function onActionClientSide(dataname) {
+echo("-Guilds: action received, " @ params.size() @ " param(s)");
+temp.pr = params;
+if (params.size() <= 1) {
+temp.pr = this.splitCsv(params[0]);
+}
+temp.base = -1;
+for (temp.i = 0; temp.i < temp.pr.size(); temp.i++) {
+if (temp.pr[temp.i] == "info" || temp.pr[temp.i] == "message") {
+temp.base = temp.i;
+break;
+}
+}
+if (temp.base < 0) {
+echo("-Guilds: unknown reply " @ params[0]);
+return;
+}
+if (temp.pr[temp.base] == "message") {
+temp.m = "";
+for (temp.i = temp.base + 1; temp.i < temp.pr.size(); temp.i++) {
+if (temp.m != "") {
+temp.m = temp.m @ ", ";
+}
+temp.m = temp.m @ temp.pr[temp.i];
+}
+this.msg = temp.m;
+this.refresh();
+return;
+}
+this.parseInfo(temp.pr, temp.base);
+}
+
+function parseInfo(pr, base) {
+this.gnames = {};
+this.granks = {};
+this.gmembers = {};
+temp.n = int(pr[base + 1]);
+temp.i = base + 2;
+for (temp.g = 0; temp.g < temp.n; temp.g++) {
+temp.gname = pr[temp.i];
+temp.rk = int(pr[temp.i + 1]);
+temp.cnt = int(pr[temp.i + 2]);
+temp.i = temp.i + 3;
+temp.flat = {};
+for (temp.pass = 2; temp.pass >= 0; temp.pass--) {
+for (temp.k = 0; temp.k < temp.cnt; temp.k++) {
+temp.at = temp.i + temp.k * 3;
+if (int(pr[temp.at + 1]) == temp.pass) {
+temp.flat.add(pr[temp.at]);
+temp.flat.add(int(pr[temp.at + 1]));
+temp.flat.add(pr[temp.at + 2]);
+}
+}
+}
+temp.i = temp.i + temp.cnt * 3;
+this.gnames.add(temp.gname);
+this.granks.add(temp.rk);
+this.gmembers.add(temp.flat);
+}
+if (this.cur >= this.gnames.size()) {
+this.cur = 0;
+}
+this.refresh();
+}
+
+function Gu_Prev.onAction() {
+nextGuild(-1);
+}
+
+function Gu_Next.onAction() {
+nextGuild(1);
+}
+
+function Gu_Up.onAction() {
+scrollRows(-1);
+}
+
+function Gu_Down.onAction() {
+scrollRows(1);
+}
+
+function Gu_Add.onAction() {
+doAdd();
+}
+
+function Gu_Remove.onAction() {
+doRemove();
+}
+
+function Gu_Rank.onAction() {
+doRank();
+}
+
+function Gu_SetNick.onAction() {
+doNick();
+}
+
+function Gu_Wear.onAction() {
+doWear();
+}
+
+function Gu_Unwear.onAction() {
+doUnwear();
+}
+
+function Gu_Create.onAction() {
+doCreate();
+}
+
+function Gu_Leave.onAction() {
+doLeave();
+}
+
+function Gu_R0.onAction() {
+pickRow(0);
+}
+
+function Gu_R1.onAction() {
+pickRow(1);
+}
+
+function Gu_R2.onAction() {
+pickRow(2);
+}
+
+function Gu_R3.onAction() {
+pickRow(3);
+}
+
+function Gu_R4.onAction() {
+pickRow(4);
+}
+
+function Gu_R5.onAction() {
+pickRow(5);
+}
+
+function Gu_R6.onAction() {
+pickRow(6);
+}
+
+function Gu_R7.onAction() {
+pickRow(7);
+}
+
+function checkWinExt() {
+if (int(client.winextgen) != this.extgen) {
+this.extgen = int(client.winextgen);
+temp.was = Guild_Window.visible;
+this.build();
+if (temp.was) {
+this.toggle();
+}
+}
+}
+
+function onTimeOut() {
+this.checkWinExt();
+if (client.openwindow == "guild") {
+client.openwindow = "";
+this.toggle();
+}
+if (Guild_Window.visible) {
+this.tick = this.tick + 1;
+if (this.tick >= 50) {
+this.tick = 0;
+this.ask();
+}
+}
+setTimer(0.2);
+}
+SCRIPTEND

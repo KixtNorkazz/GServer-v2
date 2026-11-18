@@ -1,0 +1,15 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "ryo250-woodenspearshield.gif";
+  this.head = "theblindone-asian-head.gif";
+  this.body = "arwind-racoonbody2.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("val-weapon-crossbow_idle", NULL);
+  this.dir = 0;
+}

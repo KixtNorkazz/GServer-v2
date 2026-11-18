@@ -1,0 +1,33 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  showtext(1, this.x+1.78, "y+.55", "Comic Sans MS", "bc", "Heavy Guard");
+  changeimgzoom(1, .75);
+  changeimgvis(2, 2);
+}
+
+function onPlayerChats() {
+  gs1_always();
+  if ((player.chat == "Heavy Guard")) {
+    player.body = "zangus-newval-body203.gif";
+    player.attr[1] = "hat-valnation-nadrion-knightpaudrons.png";
+    player.head = "val-nadrion-valikorliansoldier.png";
+    player.shield = "valikorlia-shield.gif";
+  }
+}
+
+function gs1_always() {
+  showcharacter();
+  this.attr[1] = "hat-valnation-nadrion-knightpaudrons.png";
+  this.shield = "valikorlia-shield.gif";
+  this.head = "val-nadrion-valikorliansoldier.png";
+  this.body = "zangus-newval-body203.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "lightgray";
+  this.colors[2] = "blue";
+  this.colors[3] = "darkblue";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 2;
+}

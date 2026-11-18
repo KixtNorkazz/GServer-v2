@@ -1,0 +1,19 @@
+//#CLIENTSIDE
+function onPlayerChats() {
+  if (("#g" == "Hammerforge")) {
+    if ((player.chat == "unlock stairs")) {
+      hide();
+    }
+  }
+  if (("#g" == "Hammerforge")) {
+    if ((player.chat == "lock stairs")) {
+      show();
+    }
+  }
+}
+
+function onPlayerTouchsMe() {
+  if ((("#g" == "Hammerforge"))) {
+    dontblock();
+  }
+}

@@ -1,0 +1,24 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "head7.png";
+  this.body = "theblindone-alex-body100.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  this.nick = "Off-Duty Guard";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 3;
+  this.ap = 100;
+}
+
+function onPlayerTouchsMe() {
+  this.dir = 0;
+  say2("Hang on a sec', I'm telling a#bgreat story.");
+  sleep(2);
+  this.dir = 3;
+}

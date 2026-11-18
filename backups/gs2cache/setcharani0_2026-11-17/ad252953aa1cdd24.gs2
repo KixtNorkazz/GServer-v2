@@ -1,0 +1,25 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "head1.png";
+  this.body = "arwind-racoonbody2.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  this.nick = "Off-Duty Guard";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 0;
+  this.ap = 100;
+  this.x = this.x-.5;
+}
+
+function onPlayerTouchsMe() {
+  this.dir = 2;
+  say2("I kind of liked these old uniforms #bbetter.");
+  sleep(2);
+  this.dir = 0;
+}

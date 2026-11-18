@@ -1,0 +1,829 @@
+GLEVNW01
+BOARD 0 0 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 1 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 2 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 3 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 4 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 5 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 6 64 0 1Y1Y1Y1Y1Y1Y1YVlVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVm1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 7 64 0 1Y1Y1Y1Y1Y1Y1YVGWqWqWqWqWqWqWqWqWqWqWqsGsHWqWqWqWqWqWqWqWqWqWqsGsHWqWqWqWqWqWqWqWqWqWqsGsHWqWqWqWqWqWqWqWqWqWqWqVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 8 64 0 1Y1Y1Y1Y1Y1Y1YVGWVWVWVWVWVWVWVWVWVWVWVsGsHWVWVWVWVWVWVWVWVWVWVsGsHWVWVWVWVWVWVWVWVWVWVsGsHWVWVWVWVWVWVWVWVWVWVWVVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 9 64 0 1Y1Y1Y1Y1Y1Y1YVGWVWVWVWVWVWVWVWVWVWVWVsWsXWVWVWVWVWVWVWVWVWVWVsWsXWVWVWVWVWVWVWVWVWVWVsWsXWVVgVgVgWVWVVgVgVgWVWVVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 10 64 0 1Y1Y1Y1Y1Y1Y1YVGWVWVVgVgVgWVWVVgVgVgWVsWsXWVVgVgVgWVWVVgVgVgWVsWsXWVWVWVWVWVWVWVWVWVWVsWsXWVWVWVWVWVWVWVWVWVWVWVVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 11 64 0 1Y1Y1Y1Y1Y1Y1YVGWVWVWVWVWVWVWVWVWVWVWVsWsXWVWVWVWVWVWVWVWVWVWVsWsXWVWVWVWVbPbOWVWVWVWVsWsXWVWVWVWVWVWVWVWVWVWVWVVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 12 64 0 1Y1Y1Y1Y1Y1Y1YVGWVWVWVWVWVWVWVWVWVWVWVsWsXWVWVWVWVWVWVWVWVWVWVsWsXWVWVWVWVbfbeWVWVWVWVsWsXWVWVWVWVWVWVWVWVWVWVWVVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 13 64 0 1Y1Y1Y1Y1Y1Y1YVGawaxS/awawaxS/awawaxS/smsnaxS/awawaxS/awawaxS/smsnaxS/awawaxS/awawaxWVsWsXWVWVWVWVWVWVWVWVWVWVWVVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 14 64 0 1Y1Y1Y1Y1Y1Y1YVGbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBWVsWsXWVWVWVWVWVWVWVWVWVWVWVVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 15 64 0 1Y1Y1Y1Y1Y1Y1YVGbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBWVsWsXWVWVWVWVWVWVWVWVWVWVWVVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 16 64 0 1Y1Y1Y1Y1Y1Y1YVGbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBWVsWsXWVWVWVWVWVWVWVWVWVWVWVVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 17 64 0 1Y1Y1Y1Y1Y1Y1YVGVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWWVsWsXWVWVbPbOWVWVVgVgVgWVWVVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 18 64 0 1Y1Y1Y1Y1Y1Y1YVGv/v/v/v+3wv/v/v/v/v/v/v/v+3wv/v/v/v/v/v/v/v+3wv/v/v/v/v/v/v/v+3wv/3wWVsWsXWVWVbfbeWVWVWVWVWVWVWVVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 19 64 0 1Y1Y1Y1Y1Y1Y1YVGbObPbObPbObPbObPbObPbOsmsnbPbObPbObPbObPbObPbOsmsnbPbObPbObPbObPbObPbOsmsnbPbObPbObPbObPbObPbObPVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 20 64 0 1Y1Y1Y1Y1Y1Y1YVGbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 21 64 0 1Y1Y1Y1Y1Y1Y1YVGbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 22 64 0 1Y1Y1Y1Y1Y1Y1YVGbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 23 64 0 1Y1Y1Y1Y1Y1Y1YVGbObPbOf/nxbPbObPbObPbObPf/nxbObPbObPbObPbOf/nxbPbObPbObPbObPf/nxbObPbObPbObPbObPbObPbObPbObPbObPVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 24 64 0 1Y1Y1Y1Y1Y1Y1YVGbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 25 64 0 1Y1Y1Y1Y1Y1Y1YVGbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPvSvTvTvUbObPVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 26 64 0 1Y1Y1Y1Y1Y1Y1YVGbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfvivjvjvkbebfVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 27 64 0 1Y1Y1Y1Y1Y1Y1YVGbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPS/VgawVgnqnrnrnsbObPVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 28 64 0 1Y1Y1Y1Y1Y1Y1YVGvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUvUbebfbebfTfbQbQVgn6n7n7n8bebfVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 29 64 0 1Y1Y1Y1Y1Y1Y1YVGvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkbObPbObPS/awawawawawawaxbObPVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 30 64 0 1Y1Y1Y1Y1Y1Y1YVGvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkbebfbebfTPbAbAbAbAbAbAbBbebfVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 31 64 0 1Y1Y1Y1Y1Y1Y1YVGvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkbObPbObPTPbAbAbAbAbAbAbBbObPVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 32 64 0 1Y1Y1Y1Y1Y1Y1YVGvTvTvUvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkvkbebfbebfTPbAbAbAbAbAbAbBbebfVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 33 64 0 1Y1Y1Y1Y1Y1Y1YVGvzvzv0vTvUv0v0v0v0v0v0v0v0v0v0v0v0v0v0v0v0v0v0v0v0v0v0v0v0v0v0v0v0v0bObPbObPTPbAbAbAbAbAbAbBbObPVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 34 64 0 1Y1Y1Y1Y1Y1Y1YVGnrnrnsvzv0snVgsmsnVgsmsnVgsmsnVgsmsnVgsmsnVgsmsnVgsmsnVgsmsnVgsmsnVgbebfbebfTfbQbQbQbQbQbQbRbebfVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 35 64 0 1Y1Y1Y1Y1Y1Y1YVGnrnrnrnrnsbPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPaCaDaDaEaCaDaDaEbObPVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 36 64 0 1Y1Y1Y1Y1Y1Y1YVGn7n7n7n7n8bfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfaiajajakaiajajakbebfVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 37 64 0 1Y1Y1Y1Y1Y1Y1YVGbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 38 64 0 1Y1Y1Y1Y1Y1Y1YVGbebfbebfS/awawawawaxbebfbebfbebfS/awawawawaxbebfbebfbebfS/awawawawaxbebfbebfbebfbebfbebfbebfbebfVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 39 64 0 1Y1Y1Y1Y1Y1Y1YVGbObPbObPTPbAbAbAbAbBbObPbObPbObPTPbAbAbAbAbBbObPbObPbObPTPbAbAbAbAbBbObPbObPbObPbObPbObPbObPbObPVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 40 64 0 1Y1Y1Y1Y1Y1Y1YVGbebfbebfTPbAbAbAbAbBbebfbebfbebfTPbAbAbAbAbBbebfbebfbebfTPbAbAbAbAbBbebfbebfbebfbebfbebfbebfbebfVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 41 64 0 1Y1Y1Y1Y1Y1Y1YVGbObPbObPTfbQbQbQbQbRbObPbObPbObPTfbQbQbQbQbRbObPbObPbObPTfbQbQbQbQbRbObPbObPbObPbObPbObPbObPbObPVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 42 64 0 1Y1Y1Y1Y1Y1Y1YVGbebfbebfsmsnn7n7smsnbebfbebfbebfsmsnn7n7smsnbebfbebfbebfsmsnn7n7smsnbebfbebfbebfbebfbebfbebfbebfVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 43 64 0 1Y1Y1Y1Y1Y1Y1YVGbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 44 64 0 1Y1Y1Y1Y1Y1Y1YVGbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfbebfVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 45 64 0 1Y1Y1Y1Y1Y1Y1YVGbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPbObPVV1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 46 64 0 1Y1Y1Y1Y1Y1Y1YV1VFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFV21Y1Y1Y1Y1Y1Y1Y
+BOARD 0 47 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 48 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 49 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 50 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 51 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 52 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 53 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 54 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 55 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 56 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 57 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 58 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 59 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 60 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 61 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 62 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 63 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+LINK val_int_greendale_factory_a03.nw 46 17 4 1 36.5 31
+LINK val_int_greendale_factory_a03.nw 36 11 4 1 26.5 25
+NPC dalmar-steelgirder.gif 18 7
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.38;
+drawaslight();
+dontblock();
+this.mode=1;
+this.alpha = 0.50;
+}
+NPCEND
+NPC dalmar-steelgirder.gif 42 7
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.38;
+drawaslight();
+dontblock();
+this.mode=1;
+this.alpha = 0.50;
+}
+NPCEND
+NPC durandal-steelpillar.gif 38 19
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+}
+NPCEND
+NPC durandal-steelpillar.gif 29 19
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+}
+NPCEND
+NPC durandal-steelpillar.gif 20 19
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+}
+NPCEND
+NPC durandal-steelpillar.gif 11 19
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+}
+NPCEND
+NPC val-durandal-door.gif 46 14
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawunderplayer();
+}
+NPCEND
+NPC val-durandal-door.gif 36 8
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawunderplayer();
+}
+NPCEND
+NPC dalmar-steelgirder.gif 42 26
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.38;
+this.y += 0.45;
+drawaslight();
+dontblock();
+this.mode=1;
+this.alpha = 0.50;
+}
+NPCEND
+NPC dalmar-steelgirder.gif 18 26
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.38;
+this.y += 0.45;
+drawaslight();
+dontblock();
+this.mode=1;
+this.alpha = 0.50;
+}
+NPCEND
+NPC - 39 34
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_gearspin-steel.gif",0,0,32,16);
+this.red = 0.6;
+this.blue=0.7;
+this.green=0.65;
+}
+NPCEND
+NPC ky-hugecrate.gif 50 29
+//#CLIENTSIDE
+function onCreated() {
+this.red = 0.8;
+this.blue=0.75;
+this.green=0.8;
+}
+NPCEND
+NPC ky-hugecrate.gif 46 30
+//#CLIENTSIDE
+function onCreated() {
+this.red = 0.8;
+this.blue=0.75;
+this.green=0.8;
+}
+NPCEND
+NPC val_valcastle-balconyironlong.gif 46 27
+NPCEND
+NPC val_valve.gif 52 17
+NPCEND
+NPC val_durandal-piping.gif 51 14
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,64,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 51 12
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,64,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 51 10
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,64,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 54 19
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,112,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 51 13
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,80,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 51 15
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,80,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 51 11
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,80,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 51 16
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,64,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 52 16
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,64,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 52 15
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,80,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 52 13
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,80,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 52 11
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,80,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 52 10
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,64,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 52 12
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,64,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 52 14
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,64,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 54 17
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,16,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 54 18
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,80,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 49 27
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,0,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 49 26
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,0,0,16,16;
+dontblock();
+}
+NPCEND
+NPC val_durandal-piping.gif 13 35
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,112,0,16,16;
+drawunderplayer();
+}
+NPCEND
+NPC val-lever2.gif 47 25
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+}
+NPCEND
+NPC - 33 34
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_gearspin-steel.gif",0,0,32,16);
+this.red = 0.6;
+this.blue=0.7;
+this.green=0.65;
+}
+NPCEND
+NPC - 27 34
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_gearspin-steel.gif",0,0,32,16);
+this.red = 0.6;
+this.blue=0.7;
+this.green=0.65;
+}
+NPCEND
+NPC - 21 34
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_gearspin-steel.gif",0,0,32,16);
+this.red = 0.6;
+this.blue=0.7;
+this.green=0.65;
+}
+NPCEND
+NPC - 15 34
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_gearspin-steel.gif",0,0,32,16);
+this.red = 0.6;
+this.blue=0.7;
+this.green=0.65;
+}
+NPCEND
+NPC val-hellsinging-panalanimation1.gif 8 34
+NPCEND
+NPC val-hellsinging-panalanimation1.gif 33 9
+NPCEND
+NPC val_valve.gif 11 35
+NPCEND
+NPC val_durandal-piping.gif 13 34
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,16,0,16,16;
+dontblock();
+}
+NPCEND
+NPC val_durandal-piping.gif 49 27
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,112,0,16,16;
+drawunderplayer();
+}
+NPCEND
+NPC val_durandal-piping.gif 13 35
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,16,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 13 36
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,112,0,16,16;
+}
+NPCEND
+NPC val_valcastle-balconyironlong.gif 33 15
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_durandal-piping.gif 49 28
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,112,0,16,16;
+}
+NPCEND
+NPC val_valcastle-balconyironlong.gif 46 32
+NPCEND
+NPC val_durandal-bigchainfadehook2.png 12 15
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.38;
+this.y += 0.45;
+drawoverplayer();
+dontblock();
+this.mode=1;
+this.alpha = 0.50;
+}
+NPCEND
+NPC val_durandal-bigchainfadehook.png 25 15
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.38;
+this.y += 0.45;
+drawoverplayer();
+dontblock();
+this.mode=1;
+this.alpha = 0.50;
+}
+NPCEND
+NPC val_durandal-bigchainfadehook2.png 37 15
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.38;
+this.y += 0.45;
+drawoverplayer();
+dontblock();
+this.mode=1;
+this.alpha = 0.50;
+}
+NPCEND
+NPC val-hellsinging-panalanimation1.gif 8 34
+NPCEND
+NPC val_durandal-piping.gif 33 8
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,64,0,16,16;
+}
+NPCEND
+NPC val_durandal-piping.gif 33 7
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,80,0,16,16;
+}
+NPCEND
+NPC val-durandal-ladder.gif 41 12
+//#CLIENTSIDE
+drawunderplayer();
+NPCEND
+NPC val-durandal-ladder.gif 41 7
+dontblock();
+NPCEND
+NPC durandal-steelbarrel.gif 8 19
+}
+NPCEND
+NPC durandal-steelbarrel.gif 10 19
+}
+NPCEND
+NPC durandal-steelbarrel.gif 9 20
+}
+NPCEND
+NPC durandal-steelbarrel.gif 8 21
+}
+NPCEND
+NPC draack_steamemitter3.gif 12 34
+//#CLIENTSIDE
+function onCreated()
+  {this.x -=0.5;this.y -=0.5;
+  with(findimg(10))
+    {
+    x=x-1.9;
+    y=y-1.9;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.4;
+    emitter.maxparticles=40;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(125);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(125),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC dalmar-laboratorylamp.gif 48 9
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.7,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.35;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1
+NPCEND
+NPC doorlight.png 50 45
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("doorlight.png",0,0,96,16);
+this.alpha = 0.6;
+this.green = 0.7;
+this.red = 0.9;
+this.blue = 0.5;
+drawaslight();
+dontblock();
+}
+NPCEND
+NPC doorlight.png 44 45
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("doorlight.png",0,0,96,16);
+this.alpha = 0.6;
+this.green = 0.7;
+this.red = 0.9;
+this.blue = 0.5;
+drawaslight();
+dontblock();
+}
+NPCEND
+NPC doorlight.png 41 45
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("doorlight.png",0,0,96,16);
+this.alpha = 0.6;
+this.green = 0.7;
+this.red = 0.9;
+this.blue = 0.5;
+drawaslight();
+dontblock();
+}
+NPCEND
+NPC doorlight.png 35 45
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("doorlight.png",0,0,96,16);
+this.alpha = 0.6;
+this.green = 0.7;
+this.red = 0.9;
+this.blue = 0.5;
+drawaslight();
+dontblock();
+}
+NPCEND
+NPC doorlight.png 32 45
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("doorlight.png",0,0,96,16);
+this.alpha = 0.6;
+this.green = 0.7;
+this.red = 0.9;
+this.blue = 0.5;
+drawaslight();
+dontblock();
+}
+NPCEND
+NPC doorlight.png 29 45
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("doorlight.png",0,0,96,16);
+this.alpha = 0.6;
+this.green = 0.7;
+this.red = 0.9;
+this.blue = 0.5;
+drawaslight();
+dontblock();
+}
+NPCEND
+NPC doorlight.png 23 45
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("doorlight.png",0,0,96,16);
+this.alpha = 0.6;
+this.green = 0.7;
+this.red = 0.9;
+this.blue = 0.5;
+drawaslight();
+dontblock();
+}
+NPCEND
+NPC doorlight.png 20 45
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("doorlight.png",0,0,96,16);
+this.alpha = 0.6;
+this.green = 0.7;
+this.red = 0.9;
+this.blue = 0.5;
+drawaslight();
+dontblock();
+}
+NPCEND
+NPC doorlight.png 14 45
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("doorlight.png",0,0,96,16);
+this.alpha = 0.6;
+this.green = 0.7;
+this.red = 0.9;
+this.blue = 0.5;
+drawaslight();
+dontblock();
+}
+NPCEND
+NPC doorlight.png 11 45
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("doorlight.png",0,0,96,16);
+this.alpha = 0.6;
+this.green = 0.7;
+this.red = 0.9;
+this.blue = 0.5;
+drawaslight();
+dontblock();
+}
+NPCEND
+NPC doorlight.png 8 45
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("doorlight.png",0,0,96,16);
+this.alpha = 0.6;
+this.green = 0.7;
+this.red = 0.9;
+this.blue = 0.5;
+drawaslight();
+dontblock();
+}
+NPCEND
+NPC val_valcastle-balconyironlong.gif 25 15
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_valcastle-balconyironlong.gif 17 15
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_valcastle-balconyironlong.gif 9 15
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC - 8 15
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_valcastle-balconyiron2.gif",32,0,16,48);
+dontblock();
+}
+NPCEND
+NPC - 41 15
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_valcastle-balconyiron2.gif",48,0,16,48);
+dontblock();
+}
+NPCEND
+NPC - 36 38
+//#CLIENTSIDE
+function onCreated() {
+setshape 1,96,64;
+}
+NPCEND
+NPC - 24 38
+//#CLIENTSIDE
+function onCreated() {
+setshape 1,96,64;
+}
+NPCEND
+NPC - 12 38
+//#CLIENTSIDE
+function onCreated() {
+setshape 1,96,64;
+}
+NPCEND
+NPC dalmar-laboratorylamp.gif 46 9
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.7,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.35;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1
+NPCEND
+NPC dalmar-laboratorylamp.gif 29 10
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.7,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.35;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1
+NPCEND
+NPC dalmar-laboratorylamp.gif 27 10
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.7,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.35;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1
+NPCEND
+NPC dalmar-laboratorylamp.gif 24 10
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.7,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.35;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1
+NPCEND
+NPC dalmar-laboratorylamp.gif 22 10
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.7,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.35;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1
+NPCEND
+NPC dalmar-laboratorylamp.gif 17 10
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.7,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.35;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1
+NPCEND
+NPC dalmar-laboratorylamp.gif 15 10
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.7,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.35;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1
+NPCEND
+NPC dalmar-laboratorylamp.gif 12 10
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.7,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.35;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1
+NPCEND
+NPC dalmar-laboratorylamp.gif 10 10
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.7,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.35;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1
+NPCEND

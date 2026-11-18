@@ -1,0 +1,40 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.attr[1] = "hat-valnation-nadrion-knightpaudrons.png";
+  this.head = "val-nadrion-valikorliansoldier.png";
+  this.body = "nadrion_valikorlian-nation-knighttemplar.gif";
+  this.body = "valikorlia-knightbody.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.swordpower = 1;
+  this.shield = "no-shield.gif";
+  this.shieldpower = 1;
+  this.dir = 2;
+  setcharani("idle", NULL);
+  this.hearts = 0;
+  this.guild = "Celdin";
+  this.recruiter = "razgriz,ajf10209,drakehighlander,Lance_378,Mermillo,Brady_Graal,Evil_SinX";
+}
+
+function onPlayerEnters() {
+  this.guild = "Celdin";
+  this.recruiter = "razgriz,ajf10209,drakehighlander,Lance_378,Mermillo,Brady_Graal,Evil_SinX";
+}
+
+function onPlayerTouchsMe() {
+  if (((clientr.nation) == "Celdin")) {
+    clientr.nation = "Celdin";
+  }
+  say2("/nation leave [removes your tag]#b
+  /add <account> \"name\"#b
+  /remove <account>#b");
+  say2("/nation leave [removes your tag]#b
+  /add <account> \"name\"#b
+  /remove <account>#b");
+}

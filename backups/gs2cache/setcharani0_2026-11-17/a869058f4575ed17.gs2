@@ -1,0 +1,21 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "moneypouch-shield.gif";
+  this.head = "theblindone-brockjihn-head.gif";
+  this.body = "moto-bridgetonbody100.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.nick = "";
+  setcharani("idle", NULL);
+  this.dir = 2;
+  this.ap = 100;
+}
+
+function onPlayerTouchsMe() {
+  say2("You cause any trouble in here, #byou mess wit' da Big Voodoo. #bA'right mon?");
+}

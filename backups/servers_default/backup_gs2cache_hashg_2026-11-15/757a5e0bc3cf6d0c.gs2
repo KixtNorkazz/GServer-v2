@@ -1,0 +1,27 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+}
+
+function onPlayerChats() {
+  gs1_always();
+  if ("/entry".starts(player.chat) && ("#g".pos("Ganelon") > -1)) {
+    serverr.CHFeedback = "#t(1)#b" @ (serverr.CHFeedback);
+    say2("Posted!");
+  }
+}
+
+function onPlayerTouchsMe() {
+  gs1_always();
+  say2((serverr.CHFeedback));
+}
+
+function gs1_always() {
+  if ((player.chat == "/check")) {
+    say2((serverr.CHFeedback));
+  }
+  if ((player.chat == "/clear") && (player.account.pos("EvilZero") > -1)) {
+    serverr.CHFeedback = "";
+    say2("Sheet has been cleared!");
+  }
+}

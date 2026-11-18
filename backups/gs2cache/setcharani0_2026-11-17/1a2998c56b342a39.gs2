@@ -1,0 +1,33 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  showtext(1, this.x+1.78, "y+.55", "Comic Sans MS", "bc", "Guard Captain");
+  changeimgzoom(1, .75);
+  changeimgvis(2, 2);
+}
+
+function onPlayerChats() {
+  gs1_always();
+  if ((player.chat == "Guard Captain")) {
+    player.body = "zangus-newval-body203.gif";
+    player.attr[1] = "hat-valnation-nadrion-knightpaudrons.png";
+    player.head = "zazenp2p-bigas.gif";
+    player.shield = "blackwolf777-basilard-shield.gif";
+  }
+}
+
+function gs1_always() {
+  showcharacter();
+  this.attr[1] = "hat-valnation-nadrion-knightpaudrons.png";
+  this.shield = "blackwolf777-basilard-shield.gif";
+  this.head = "zazenp2p-bigas.gif";
+  this.body = "zangus-newval-body203.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "gray";
+  this.colors[2] = "blue";
+  this.colors[3] = "darkblue";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 2;
+}

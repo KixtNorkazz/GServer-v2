@@ -1,0 +1,16 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "ryo250-woodenspearshield.gif";
+  this.attr[1] = "hat882b.png";
+  this.head = "zazenp2p-bigas.gif";
+  this.body = "nadrion_valikorlian-nation-knighttemplar.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("otachbehead", NULL);
+  this.dir = 2;
+}

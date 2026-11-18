@@ -1,0 +1,11 @@
+//#CLIENTSIDE
+function onCreated() {
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "Voltad")||this.playertouchsme&&(player.account == "wts1985")) {
+    hide();
+    sleep(.75);
+    show();
+  }
+}

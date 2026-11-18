@@ -1,0 +1,21 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "head18.png";
+  this.body = "arwind-smeewnedit-body100.png";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  this.nick = "Off-Duty Guard";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 1;
+  this.ap = 100;
+}
+
+function onPlayerTouchsMe() {
+  say2("Hahaha, so then what did he say?");
+}

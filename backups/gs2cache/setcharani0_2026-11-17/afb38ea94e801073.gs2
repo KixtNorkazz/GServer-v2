@@ -1,0 +1,17 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "ryo250-woodenspearshield.gif";
+  this.head = "jacobbpeters-adventurerhead.gif";
+  this.body = "arwind-mercbody3.gif";
+  this.colors[0] = "orange";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.nick = "";
+  setcharani("noose", NULL);
+  this.dir = 2;
+  dontblock();
+}

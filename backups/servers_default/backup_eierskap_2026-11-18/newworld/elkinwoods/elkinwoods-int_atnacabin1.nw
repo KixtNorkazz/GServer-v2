@@ -1,0 +1,551 @@
+GLEVNW01
+BOARD 0 0 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 1 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 2 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 3 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 4 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 5 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 6 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 7 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 8 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 9 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 10 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 11 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 12 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 13 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 14 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 15 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 16 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcAgfcAgfcAgfcAgfcAgfcAgfcAgfcAgfcAgfcAgfcAgfcAgfcAgfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 17 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3t3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u39fcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 18 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+WNWLWNWLWNWLWNWLWNWLWNVerxrxVeWLWNWLWNWLWNWLWNWLWNWL3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 19 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+WNWLWNWLWCWzW0WCWNWLWNVurxrxVuWLWNWLWNWLWNWLWNWLWNWL3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 20 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+WNWLWNWLWSAgAgWSWNWLWNVurxrxVuWLWNWLWNWLWNWLWNWLWNWL3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 21 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+WNWLWNWLWiAgAgWiWNWLWLVerxrxVeWLWNWLWNWLWNWLWNWLWNWL3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 22 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+WNWLWNWLWyTdTbWyWNWLWLVurxrxVuWNz6z7z8z7z8z9WLWNWLWL3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 23 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TcTcTdTbTcTcTdTbTcTcTdVerxrxVezr060707080809zqzrzrzt3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 24 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TdTbTcTcTdTbTcTcTdTbTcVurxrxVuzczbzczbzczbzczbzczbzc3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 25 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TcTcTdTbTcTcTdTbTcTcTdVvrxrxVvzszrzszrzszrzszrzszrzs3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 26 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TdTbTcTcTdTbTcTcTdTbTcWyrxrxWyz8z7z8z7z8z7z8z8z8z8z93vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 27 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTc3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 28 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTb3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 29 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TcTcTdTbTcTcTdTbTch+h/h/h/h/h/h/pwTcTdTbTcTcTdTbTcTc3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 30 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TdTbTcTcTdTbTcTcTdiOpgiPhvpgiPhvqATbTcTcTdTbTcTcTdTb3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 31 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TcTcTdTbTcTcTdTbTciOhfpQiPiPhfpQqATcTdTbTcTcTdTbTcTc3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 32 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TdTbTcTcTdTbTcTcTdiOhvpgiPiPhvpgqATbTcTcTdTbTcTcTdTb3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 33 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TcTcTdTbTcTcTdTbTciOpQiPhfpQiPhfqATcTdTbTcTcTdTbTcTc3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 34 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TdTbTcTcTdTbTcTcTdieififififififqQTbTcTcTdTbTcTcTdTb3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 35 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TcTc6G6I6I6JTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTc3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 36 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+Tday6W6Y6Y6Za0TcTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTb3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 37 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TcbC62646465bETbTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTc3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 38 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TdbC8GTcTc8JbETcTdTbayazazazaza0TdTbTcTcTdTbTcTcTdTb3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 39 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3+TcbSbTbTbTbTbUTbTcTcbCbDbDbDbDbETcTcTdTbTcTcTdTbTcTc3vfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 40 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc3sTdTbTcTcTdTbTcTcTdTb3/3/3/3/3/3/TdTbTcTcTdTbTcTcTdTb38fcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 41 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcvTTcTdTbTcTcTdTbTcTcn/fcfcfcfcfcfcfcTcTcTdTbTcTcTdTbfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 42 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 43 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 44 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 45 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 46 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 47 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 48 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 49 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 50 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 51 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 52 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 53 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 54 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 55 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 56 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 57 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 58 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 59 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 60 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 61 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 62 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 63 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+LINK elkin-north_d3.nw 35 40 6 1 40 54
+LINK elkinwoods-int_atnacabin1-up.nw 36 17 4 1 30.5 26.5
+LINK elkinwoods-int_atnabasement.nw 30 21 2 1 31.5 14
+NPC val_frost-wall.png 25 40
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 26 40
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 28 40
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 30 40
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 32 40
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 34 40
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 40 40
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 42 40
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 44 40
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 46 40
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 47 40
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 49 40
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_rp-crate.png 40 24
+
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 47 30
+
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 49 30
+
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 49 28
+drawoverplayer;
+NPCEND
+NPC - 27 35
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 4,3,{
+  22,3,3,22,
+  22,22,22,22,
+  22,22,22,22,
+  };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-right.png 25 35
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-left.png 31 35
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-down.png 28 33
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 28 37
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC gal-redchairup2-remake.gif 28 37
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC val_dragaeris-airshipbookshelf1.png 48 38
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_dragaeris-airshipbookshelf1.png,0,0,48,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipbookshelf2.png 25 18
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_dragaeris-airshipbookshelf2.png,0,0,99,112;
+  setshape2 5,6,{
+    0,0,0,0,0,
+    0,0,0,0,0,
+    0,0,0,0,0,
+    0,0,0,0,0,
+    21,21,21,21,21,
+    21,21,21,21,21,
+      }
+}
+NPCEND
+NPC val_dragaeris-airshipbookshelf1.png 30 18
+if (created) {
+  x=30;
+  this.gate1=0;
+  this.x=x;
+  this.y=y;
+}
+if (playerchats && strequals(#a, atnashadow) || strequals(#a, TheDesertRose))  {  // for multiple accounts, add
+  //|| strequals(#a, accountname)
+  if (strequals(#c, Hope) && this.gate1==0) {     //after (#a, accountname))
+    this.gate1=1;
+    move 2.5,0,3,0;
+    sleep 3;
+  }
+
+
+  if (strequals(#c, Random) && this.gate1==1) {
+    this.gate1=0;
+    move -2.5,0,3,0;
+    sleep 3;
+  }
+
+
+  if (strequals(#c, /reset)) {
+    x=30;
+    this.gate1=0;
+  }
+
+}
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_dragaeris-airshipbookshelf1.png,0,0,48,112;
+  setshape2 3,6,{
+    0,0,0,
+    0,0,0,
+    0,0,0,
+    0,0,0,
+    21,21,21,
+    21,21,21,
+      }
+}
+NPCEND
+NPC val_rp-log1.png 49 22
+//#CLIENTSIDE
+if (created) {
+y=y+.3;
+}
+NPCEND
+NPC - 19 32
+//#CLIENTSIDE
+function onCreated()
+{
+  this.loopSpeed=0.05;
+  setTimer(this.loopSpeed);
+}
+
+function onTimeout()
+{
+  if (this.night==true)
+    seteffect(0,0,0,.25);
+  else
+    seteffect(0,0,0,0);
+
+  setTimer(this.loopSpeed);
+}
+
+function onPlayerchats()
+{
+  if (player.chat=="Day")
+      this.night=false;
+  else if(player.chat=="Night")
+      this.night=true;
+}
+NPCEND
+NPC val_rp-samstairs.gif 36 25
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart val_rp-samstairs.gif,0,32,64,64;
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-samstairs.gif 36 24
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart val_rp-samstairs.gif,0,16,64,16;
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-samstairs.gif 36 23
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart val_rp-samstairs.gif,0,16,64,16;
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-samstairs.gif 36 22
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart val_rp-samstairs.gif,0,16,64,16;
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-samstairs.gif 36 21
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart val_rp-samstairs.gif,0,16,64,16;
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-samstairs.gif 36 20
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart val_rp-samstairs.gif,0,16,64,16;
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-samstairs.gif 36 19
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart val_rp-samstairs.gif,0,16,64,16;
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-samstairs.gif 36 18
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart val_rp-samstairs.gif,0,16,64,16;
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 40 22
+drawoverplayer;
+NPCEND
+NPC lolstove2.gif 47 20
+// NPC made by Major Ebra Conaway, Deputy Commissioner of the
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp_dishshelf.gif 41 17
+// NPC made by Frenzied Ghoul
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_frost-wall.png 44 40
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,32,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC teapot.gif 45 21
+drawoverplayer;
+dontblock;
+NPCEND
+NPC arwind-shelves.gif 45 19
+//#CLIENTSIDE
+NPCEND
+NPC val_woodtabletop.gif 28 35
+dontblock;
+NPCEND
+NPC doorlight.gif 43 34
+// NPC made by Sam OOC
+if (created) {
+  setimg doorlight.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,4,2,0.25;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC doorlight.gif 27 34
+// NPC made by Sam OOC
+if (created) {
+  setimg doorlight.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,4,2,0.25;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_claypot-red3.gif 42 23
+NPCEND
+NPC val_claypot-blue2.gif 40 25
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+}
+NPCEND
+NPC val_claypot-green2.gif 41 21
+NPCEND
+NPC val_claypot-brown2.gif 48 28
+NPCEND

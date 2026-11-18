@@ -1,0 +1,27 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.x = this.x-.5;
+  showcharacter();
+  this.attr[1] = "hat.png";
+  this.head = "val_culthead.gif";
+  this.body = "val_arwind-racoonbody2.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("val_sit", NULL);
+  this.swordpower = 1;
+  this.shield = "no-shield.gif";
+  this.shieldpower = 1;
+  this.ap = 100;
+  this.nick = "???";
+  this.dir = 3;
+}
+
+function onPlayerTouchsMe() {
+  message("Oh, hello.. I'm just getting some fresh air. Those gates are pretty impressive, aren't they? Try clicking them!");
+  sleep(6);
+  message();
+}

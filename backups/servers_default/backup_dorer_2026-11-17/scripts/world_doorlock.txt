@@ -1,0 +1,172 @@
+function onCreated()
+{
+  ConfigLock();
+}
+
+function ConfigLock()
+{
+  if (this.lockname==NULL)
+  {
+    message("Lock name can not contain spaces!(this.lockname)");
+    return;
+  }
+  else if (this.allowedlist==NULL)
+  {
+    message("You must have a list of allowed accounts!(this.allowedlist)");
+    return;
+  }
+  else
+  {
+    temp.LockName=this.lockname.tokenize();
+    if (temp.LockName[1]!=NULL)
+    {
+      message("Lock name can not contain spaces!");
+      return;
+    }
+  }
+  this.lockname=(this.lockname.lower()@this.level.substring(0,this.level.pos("."))@this.x@this.y);
+  
+  temp.LockList.loadLines("data/info/LockList.ini");
+  
+  temp.i=0;
+  for(i=0;i<temp.LockList.size();i++)
+  {
+    if (this.lockname==temp.LockList[i].substring(0,temp.LockList[i].pos("=")))
+    {
+      this.LockActive=true;
+      this.Locked=temp.LockList[i].substring(temp.LockList[i].pos("=")+1);
+      break;
+    }
+  }
+  if (this.LockActive==true)
+  {
+    if (this.Locked=="locked")
+      Lock();
+    else if (this.Locked=="unlocked")
+      Unlock();
+  }
+  else
+  {
+    Lock();
+    SaveLock();
+  }
+}
+
+function SaveLock()
+{
+  temp.LockList.loadLines("data/info/LockList.ini");
+  temp.NewList={};
+  temp.i=0;
+  temp.i=0;
+  for(i=0;i<temp.LockList.size();i++)
+  {
+    if (this.lockname!=temp.LockList[i].substring(0,temp.LockList[i].pos("=")))
+    {
+      temp.NewList.add(temp.LockList[i]);
+    }
+  }
+  temp.NewList.add(this.lockname@"="@this.Locked);
+  temp.NewList.saveLines("data/info/LockList.ini",0);
+}
+
+function Lock()
+{
+  this.Locked="locked";
+}
+function Unlock()
+{
+  this.Locked="unlocked";
+}
+
+function onPlayertouchsme()
+{
+  if (!(player.chat in {"/lock","/unlock"}))
+  {
+    if (this.Locked=="locked")
+    {
+      message("*The door is locked*");
+      sleep(1);
+      message(" ");
+    }
+    else if (this.Locked=="unlocked")
+    {
+      hide();
+      sleep(2);
+      show();
+    }
+  }
+  else
+  {
+    temp.allowed=false;
+    if (this.allowedlist.type()==1)
+    {
+      if (player.account==this.allowedlist)
+      {
+        temp.allowed=true;
+      }
+    }
+    else if (this.allowedlist.type()==3)
+    {
+      if (player.account in this.allowedlist)
+      {
+        temp.allowed=true;
+      }
+    }
+    if (temp.allowed==true)
+    {
+      if (player.chat=="/lock")
+      {
+        if (this.Locked=="unlocked")
+        {
+          Lock();
+          SaveLock();
+          message("*locked*");
+          sleep(1);
+          message(" ");
+          return;
+        }
+      }
+      else if (player.chat=="/unlock")
+      {
+        if (this.Locked=="locked")
+        {
+          Unlock();
+          SaveLock();
+          message("*unlocked*");
+          sleep(1);
+          message(" ");
+          return;
+        }
+      }
+    }
+  }
+}
+
+//#CLIENTSIDE
+function onPlayertouchsme()
+{
+  if (player.chat in {"/lock","/unlock"})
+    return;
+
+  temp.allowed=false;
+  if (this.allowedlist.type()==1)
+  {
+    if (player.account==this.allowedlist)
+    {
+      temp.allowed=true;
+    }
+  }
+  else if (this.allowedlist.type()==3)
+  {
+    if (player.account in this.allowedlist)
+    {
+      temp.allowed=true;
+    }
+  }
+  if (temp.allowed==true)
+  {
+    hide();
+    sleep(2);
+    show();
+  }
+}

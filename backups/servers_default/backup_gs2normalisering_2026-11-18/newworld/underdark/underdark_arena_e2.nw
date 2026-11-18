@@ -1,0 +1,696 @@
+GLEVNW01
+BOARD 0 0 64 0 3G3lnsb1asaca9uuuv2gRqQoRtTU0o0j0Q0R0T0g0h0g0h0j0Q0R02uv2gh2h3u+u/2wb1TUTTTUTTu7h2h30k0Dfcfcfcfcfcfc0W101F11uu2gTERqQoQp1k0Yfcfc
+BOARD 0 1 64 0 3W9DnshYa8a9asu+u/2wSLSMSNTkTj0osOsP0j0Q0R0Q0R0T0g0h02u/2wa8a9101F11TjTkTjTkuuu60Auq000T0l0l0Ifcfcfc0WusutTE1011TER6Q4Q50Ufcfcfc
+BOARD 0 2 64 0 3m9DnshoTEQHa8vOvP3ATTRaRbRcRda8a9b10osOsPsOsP0j0Q0R021F11uu2gasatblTThGhYatvO000gu7000j0Q0R0Ufcfc0C0mRdufusususutSKRsQp0Ufcfcfc
+BOARD 0 3 64 0 329Dnsuv2gasat000102RaRqQ4Q5R7RdTjuu2guuuv2giG0osOsP11uu2g1011a8a9TkTjh2h3a910000Qu7000T0g0h0k0l0l0S02R7Rdb1TjTkufuIRqQ50Ufcfcfc
+BOARD 0 4 64 0 3X+Tnsu/2wa8a9000102RqQpQoQpRrSNTT1011u+u/2wup0A0BuqTE1011b1TTTUTTTUTTTUTTuu2g103J2Q000j3Jus000Q0R0i02QpR7TUTTTUTTuYusus0k0Dfcfc
+BOARD 0 5 64 0 n7n7n81F11TETE000102R6Q5Q4SMSNTkTjup0AvOvP3Au50Q0Ru6uqTEa8a9TjTkTjTkb1bVTj1011uuu7iG000Tu7iG000g0h0S1VQ5R7RdRaRcRdTkTjTk000T0l0l
+BOARD 0 6 64 0 3F3F3VQHRaRcRd101F11SKRsQoR7RdiGupu50Q0001020isOsP0ju6uqiGTUTTTUb1blasatblhGhYvOu7TU100j3J2g101F1F1CQoQpQoR7RqQpR7TUTTbl100j0R0Q
+BOARD 0 7 64 0 3G3G3lTERqQoRta8a9uu2gSKSLSMSNupu50isO0001020na8a90o0ju6uqTkQHTkTjasacacath2h33Jusususus1011iGR6Q4Q5Q4Q5Q4Q5Q4Q5R7uu2gTE170F0F0F
+BOARD 0 8 64 0 8i3W9DblSLSMSNTETE1011blTTTUupu50i0nbV101F11hGhHhGhH0o0ju6uqTTTUTTa8acaca9TUQHu7asatQHTUiViWTTSKRqQpQoQpQoQpQoQpQo1U11172Lfcfcfc
+BOARD 0 9 64 0 8y3m9DasatbVuu2gTES0TjTkTjTku92w0nasatbVTjTkhlhmhnhoTj0o0ju6uqhGhYTka8acatb1uJ2Qa8a9atTkTjTkTjTkR6Q5Q4Q51k0F0F0F0F0F0F2Lfcfcfcfc
+BOARD 0 10 64 0 8C3234a8a9at1011QWQXb1TUTTTUu93Aasaca9TUTTQHTEh2h3TUTTb10o0ju7h2h3TUTTa8a9uJuZblasacacatTTTUTTTUSKSLSM1k0Yfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 11 64 0 3F3F3Vbla8a9TjblQmQnTjTkTjupu511a8a9asatTjTkQHTkTjiGhGhHQHu+u6uqQHTkTjbluruZiViWa8acacacatTkTjTkTjTkb10Ufcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 12 64 0 3G3G3lTEb1TUTTa8a9TUQHTUupu502b1hVhHa8a9iGTUTThGUEUFhWhXhY100ju7iGuu2gTEu7QWQXQHbla8acaca9TUTTTUTTTUbl0Ufcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 13 64 0 8i3W9Db1bVTkQHTkTjTkTjupu50i11hGgYh3TjTkQHhGhYTGh3hlhmiFhoat0ou7Tj1011uuu7QmQnuu2giGa8a9atTkTjTkTjTkuu0Ufcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 14 64 0 8y3m9DblTTTUuu2gS0uu2gu90i0nb1TGTFQWQXTUTTh2h3iXQWQXh2h3a8a9uuu7QH170F0F0F0F161011QHb1a8a9TUTTTURaRqu+0Ufcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 15 64 0 9C329Db1QHuuuvuv2g1011u92wasath2h3QmQnTkRaRbRcRdQmQnasatb1170F0F0F2Lfcfcfcfc2K0F0F16iGuu2gbVTjTkRqQ5u+0k0Dfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 16 64 0 +S3X+Tasatu+u/u/2wTEupu53Aa8acatTThGhHRaRqQpQoR7RdiGa8a92E2Lfcfcfcfcfcfcfcfcfcfcfc2K16103JusutTUSKSLvO000j0l0l0Dfcfcfcfcfcfcfcfc
+BOARD 0 17 64 0 S0a8a9a8a9101F1F11upu50i11bla8a9hGgITFRqQ4Q5Q4Q5R7RcRdTE0Ufcfcfcfcfcfcfcfcfcfcfcfcfc2K2Fu7TEu9TkTjTk10000T0Q0R0j0Dfcfcfcfcfcfcfc
+BOARD 0 18 64 0 0Buqb1bVS0TEup0A0Bu50i0nashGhHhGgXgYTVR6QoQpQoQpQoQpR7Rc0Ufcfcfcfcfcfcfcfcfcfcfcfcfcfc0W101F11TUTTTUTT000j0g0h0T0j0Dfcfcfcfcfcfc
+BOARD 0 19 64 0 0Ru60A0B0A0Bu50Q0R0i0nblhVgFgGgHgIgHh3RqQ4Q5Q4Q5Q4Q5Q4Q50Ufcfcfcfcfcfcfcfcfcfcfcfcfcfc0WTjTkRaRqRbRdTj100T0Qu+1D0T0j0l0l0l0l0l0l
+BOARD 0 20 64 0 sP0j0Q0R0Q0R0isOsP0niGiVgWgVgWgXgYhobVR6QoQpQoQpQoQpQoQp0Ufcfcfcfcfcfcfcfcfcfcfcfcfcfc0WiViWRqQ5QoR7Rdb10osOu+Q41D0T0Q0R0R0Q0R0Q
+BOARD 0 21 64 0 Q41DsOsPsOsP1CQ5R7RbRcRdh2glgmgngohYblSKRsQ5Q4Q5Q4Q5Q4Q50Ufcfcfcfc0C0Dfcfcfcfcfcfcfcfc0WuqTkSKRqQoRrR9Tkuu2gvOvKvJ0j0g0h0h0g0h0g
+BOARD 0 22 64 0 QoQpQoQpQoQpQoQpQoQpQoR7RdiXTGg3g4h3atb1R6QpQoQpQoQpQoQp0k0Dfcfc0C0S0Ufcfcfcfcfcfcfcfc0Wu6uqTER6RrSMhGhY101110vavZ0T0Q0R0R0Q0R0Q
+BOARD 0 23 64 0 Q4Q5Q4Q5Q4Q5Q4Q5Q4Q5Q4Q5R7RdTWgHTFa8a9RaRqQ5Q4Q5Q4Q5Q4Q5000T0l0l0S0i0Ufcfcfcfcfcfcfcfc0W0ou6uqSKSNiGh2h3Tja8a90o0n0osOsPsPsOsPsO
+BOARD 0 24 64 0 QoQpQoQpQoQpQoQpQoQpQoQpQoR9h2gXTVb1RaRqQoQpQoQpQoQpQoQp000j0Q0R0i0S0Ufcfcfcfcfcfcfc0C0mbl0ou7TUiGuuuv2gTTTUTTTUTTTUasatb1bluu2g
+BOARD 0 25 64 0 Q4Q5Q4Q5Q4Q5Q4Q5Q4Q5Q4RrSMSNiVgXTFiGRqQ5Q4Q5Q4Q5Q4Q5Q4Q5000T0g0h0S0i0Ufcfcfc1Yfcfc0C0S02b1Tku7Tkuuu/u/2wTjTkTjTkTjTka8a9TjTk1011
+BOARD 0 26 64 0 QoQpQoQpQoQpQoQpQoQpQoR9TTTUiGh2h3TUR6QpQoQpQoQpQoQpQoQp000j0Q0R0i1C0k0Dfcfc0C0l0l0S0i02TTTUu7TUu+u/vJ11asathGhYTTTUTTTUTTTUTTTU
+BOARD 0 27 64 0 Q4Q5Q4Q5Q4Q5Q4Q5Q4Q5Q4RtTjTkTjTkbViGRqQ5Q4Q5Q4Q5Q4Q5Q4Q5000TsOsP1CQ5000T0l0l0S0Q0R2T0F0F16TkvLuq101F0nasaca9h2h3TjTkupvMvMvMvMvM
+BOARD 0 28 64 0 QoQpQoQpQoQpQoQpQoQpQoR9TTTUTTTUTTTUR6QpQoQpQoQpQoQpQoQp000j0kvKQoQp000j0Q0R0i0g0h0Ufcfc2K2F10u6vMvMuqa8a9asatb1TTupu5sOsPsPsOsP
+BOARD 0 29 64 0 Q4Q5Q4Q5Q4Q5Q4Q5Q4Q5Q4RtTjTkTjTkTjTkSKSLRsQ5Q4Q5Q4Q5SMSN000T0jvavKQ5000T0g0h0S0Q0R0Ufcfcfc0Wbl0osOsPu6uqb1a8a9TEupu50nb1asatbVTE
+BOARD 0 30 64 0 QoQpQoQpQoQpQoQpQoRrSMSNTTTUTTTUTTTUTTTUSKSLRsQpQoQpR92E000j0T0jvavK1D0j0Q0R02sOsP0Ufcfcfc0WTEbla8a90ou6vMvMvMvMu50nTTTUa8a9TEup
+BOARD 0 31 64 0 Q4Q5Q4Q5Q4Q5Q4Q5RrSNTjTkTjblTjTkTjasatbVTjTkSKRsQ4Q5Rtu7000T0j0T0jvavP0T0g0h02vKQ50Ufcfcfc0Wuqa8a9bVTj0osOsPsOsP0nTkTjupvMvMvMu5
+BOARD 0 32 64 0 QoQpQoQpQoQpQoRrSNasatTUTTTUTTTUTTa8a9asatTUTTR6QoSMSNu7000j0T0j0T0g0h0j0Q0R0ivavP0Ufcfc0C0mu6vMvMuqTTTUTTb1a8a9TTTUupu50g0h0h0S
+BOARD 0 33 64 0 Q4Q5Q4Q5Q4Q5Q4Rtasaca9TkTjTkTjhGUEUFhYa8acatTjSKSMSNTEvL000T0j0T0j0Q0R0T0g0h0S0g0h0k0l0l0S020T0g0hu6vMvMvMvMvMvMvMvMu50S0Q0R0R0i
+BOARD 0 34 64 0 QoQpQoQpQoQpQoR9a8a9b1blTTTUiVgXgXT2gXhYa8a9TTTUasatb13J000j0T0j0T0g0h0j0Q0R0i0Q0R000Q0R0i020j0Q0R0T0g0h0g0h0g0h0g0h0S0i0g0h0h0S
+BOARD 0 35 64 0 Q4Q5Q4Q5RrSLSMSNTjTkTjTkTjTkTjh2h3iGh2h3asatbVTka8a9atu7u+1D0j0T0j0Q0R0T0g0h0SsO1C000g0h0S021DsOsP0j0Q0R0Q0R0Q0R0Q0R0i0S0Q0R0R0i
+BOARD 0 36 64 0 RsQpQoQpRtTUTTTUTTTUTTTUTTTUTTTUTTTUTTasaca9TTTUS0a8a9u7u+Q41D0j0T0gsP0j0Q0R0iu+u/000Q0R0i02Q4Qp2w0T0g0h0g0h0g0h0g0h0S0isOsPsP0n
+BOARD 0 37 64 0 R6Q5Q4SMSNTkTjTkTjTkTjb1TjTkTjTkTjTkTja8a9TEup0A0BuqTEvLvOvKQ41D0j0Qu+1DsOsP0Su+u/000g0h0S02Q4Q52w0j0Q0R0Q0R0Q0R0Q0R0i0nTES1TEuJ
+BOARD 0 38 64 0 SKSLSMSNTTTUTTTUTTTUTTTUTTTUb1blTTTUTTTUTTupu50Q0Ru60A000TvavPvP0TsOu+QpQo2w0ivOvP000Q0R0i02QoQp2w0osOsPsOsPsOsPsOsP0nb1TEuJusTU
+BOARD 0 39 64 0 TjTkTjRaRbRcRdTkTjTkTjTkb1blTjTkTjR+RfRf0Au50isOsP0j0Q000j0T0Q0R0ju+u+Q5Q42w1C1U1F000g0h0S02Q4Q52wblb1asatTEb1asata8a9uJusuZTjTk
+BOARD 0 40 64 0 TTRaRbRqQoQpR7RdTTTUTTTUTTbVTTTUR+ZQTTTU0osP1CQpQo1DsO000T0jsOsP0Tu+u+QpQo2wu/2wu+00sPsOsP02QoQp2w2gasaca9uu2ga8a9TEuruZTTTUTTTU
+BOARD 0 41 64 0 TjRqQ4Q5Q4Q5Q4R9TjTkTjTkTjTkTjY5ZQTEbVTkTjR6Q4Q5Q4Q5Q41U0j0Tu+u/1Du+vOvPvP3AvP3A1U00u+Q5Q42wQ4Q52w2wa8a9Tj1011b1uJus2QbVTjTkTjTk
+BOARD 0 42 64 0 TTR6QoQpQoRrSMSNTTTUbVTUTTTUYZYVTTb1blTUTTSKRsQpQoQpRrSM0o0j0kvKu/u+1U0101021F1VQo1UvOvPvP3A1lQp2w2wblTUTTurususTETEb1blTTTUbVTU
+BOARD 0 43 64 0 TjRqQ4Q5SMSNTjTkTjTkTjTkTjTkYpYlTjTkTjTkTjTkR6Q5Q4Q5R9TkTj0o00vavP0kvK1D1F1VQ4Q5Q4Q500011F1V2wQ52w2wTjTkasu7b1TETEuu2gTkTj2E0F0F
+BOARD 0 44 64 0 2E0F0F0F2FTEasatb1TUTTTUTTR+ZQYoTTTUTTTUTTTUSKSLSMSMSNTUiGTU000T0j0TvavKQoQpQoQpQoQp1U1Fu+u/2wQp2w2wTTasacu60A0Auq1011TU2E0Yfcfc
+BOARD 0 45 64 0 0Ufcfcfc0Wb1a8a9asatTjTkR+ZQTjbVTjTkTjTkTjTkbVTkTjiViWatbVTk101Cuv1D0TvavPvPvPvPvKQ5Q4Q51U1F1VvJ3A2wiHa8a9000g0gu7S0TjTk0Ufcfcfc
+BOARD 0 46 64 0 0Ufcfcfc0Wuvuv2ga8a9upRfZQTUTTTUTTTUTTTUTTTUTTTUTTTUa8a9atuu2gu+u/vJ0j0T0g0h0g0hvavKQoQpQoQpvJvZ023Ah2UEhY000Q0Qu7TUTTTU0Ufcfcfc
+BOARD 0 47 64 0 0Ufcfcfc0WQ5Q42w0A0Bu5asatTkTjTkasatTjTkTjTkTjasatasata8a91011vOvP3A0T0j0Q0R0Q0R0TvavPvPvPvPvZ0S0211b1h2h310sO3J2QhGhYuu0Ufcfcfc
+BOARD 0 48 64 0 0k0l0l0l0m1k1l2wsOsP0na8a9atTTTUa8a9b1TUTTTUasacacaca9uuuv2gS1101F1V0j0T0g0hsOsP0j0T0g0h0g0h0S0i11b1bVTUTTb1uuu7TTgXTFu+0Ufcfcfc
+BOARD 0 49 64 0 00010V01021U1V2wuu2gTjTka8a9TjTkTja8a9TkTjTka8acaca9bVu+Q42wRaRbR8Q51D0j0Q3Jb1S10o0j0Q0R0Q0R0i0nasatblTkTjTkvOu7Tjh2h3u+0Ufcfcfc
+BOARD 0 50 64 0 0001010V021lu/2w1011TTasatb1TTTUTTb1TTTUTTTUb1a8a9blRa1U1F1VR8QpQoQpRr0osOu7TEhGhY0osOsPsOsP0nbVa8a9TTTUTTTU3JusTTasatu+0Ufcfcfc
+BOARD 0 51 64 0 00vavZ01022w1l2wb1TkTja8a9TkTjTkTjTkTjTkTjTkTjb1Tjb1RqQ5Q4Q5Q4Q5Q4Q5RtTETEu7TEh2h3uu2gRqQ4Q5R7RdTjTkTjTkTjS0u7TkTja8a9vO0k0Dfcfc
+BOARD 0 52 64 0 000V1F1F1V2wu/1l2gTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUR6QpQoQpQoQpQoQpR9uuuvvLuqiGbV101VQpQoQpQoR7RbRcRdTUTTuJ2QTUTTTUTT10000j0l0l
+BOARD 0 53 64 0 0001u+Q5Q42wu/2w2wS1TjTkRaRbRcRdTjTkTjTkTjTkTjTkTjRaR8Q5Q4Q5Q4Q5Q4Q5R7u+u/3J2Qb1bVTkR6Q5Q4Q5Q4Q5Q4Q5R7TkuJuZblb1TjTkTjb1000T0Q0R
+BOARD 0 54 64 0 1U1FvOvPvP3Au/2wQo2gTTTURqQpQoR7RdTUTTTUTTTUTTTUTTRqQoQpQoQpQoQpQoQpQovOvPu7a8a9TTTUSKSLRsQpQoQpQoQpRturuZuu2guuuv2gTTbV000j0g0h
+BOARD 0 55 64 0 u/vJ00011F02vP3AQ42wb1RaR8Q5Q4Q5R7RdTjTkTjTkTjTkbVR6Q4Q5Q4Q5Q4Q5Q4Q5Q40001vLvMvMuqTkTjTkRqQ5Q4Q5Q4Q5R7u7TE1011u+u/2wTjTk100T0Q0R
+BOARD 0 56 64 0 vPvZ0VvavZ021F1VQoQp2gRqQoQpQoQpQoRtasatTTTUTTTUblSKSLRsRrSMRsQpQoQpQo1U1F000g0hu6uqTTbVR6QpQoQpQoQpQo0k0Auqb1101F11hGhYb10osOsP
+BOARD 0 57 64 0 vO3A1F1F0102Q4Q5Q4Q52wQ5Q4Q5Q4Q5Q4R9a8a9atTkTjTkTjTkTjSKSNblSKRsQ4Q5Q4Q5Q4000Q0R0ju7TjTkSKSLRsQ5Q4Q5Q40000u6uqTEa8a9h2h3uu2gTjTk
+BOARD 0 58 64 0 001Vu/2w1F1VQoQpQoQp2wQpQoQpQoQpRrSNb1a8a9TUTTTUTTTUTTasatbVRaR8QoQpQoQpQo1UsOsP0Tu7a8a9TTS0RqQpQoQpQo00000ju60A0A0AuqTU1011TTTU
+BOARD 0 59 64 0 vOvPvP3AQ4Q5Q4vJvPvP3A/x3/3/3/3/3//wa8a9b1TkTjTkTjTkTja8a9TkRqQ5Q4Q5Q4Q5/x3/3/3/3/3//wTkTjTkR6Q5Q4uu2g00000j0j0Q0j0Q0QuqTjTkb1Tk
+BOARD 0 60 64 0 1U1F1F1VQoQpvJvZ0g0h023vfcfcfcfcfc3+b1TUTTTUTTTUTTTUTTb1TTTUR6QpQoRrSLSM3vfcfcfcfcfc3+TUhGhYSKSLSM1011100k0T0T0g0T0g0gu6uqTUTTTU
+BOARD 0 61 64 0 vPvPvPvPvPvPvZ0S0Q0R0Q3vfcfcfcfcfc3+uu2gTjTkTjTkTjTkTjTkTjTkSKSLSMSNTjTk3vfcfcfcfcfc3+Rdh2h3hGhYTjTkasat002T0j0Q0j0Q1V1Uu6uqTjTk
+BOARD 0 62 64 0 0g0h0g0h0g0h0S0i0g0h0g3vfcfcfcfcfc3+1011TTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTU3vfcfcfcfcfc3+R7Rdblh2h3TTasaca910vO0T0gvOvKQoQo0Vu60A0B
+BOARD 0 63 64 0 0Q1F1F1F1F0R0i0S0Q0R0Q3vfcfcfcfcfc3+uqb1TjTkTjTkTjTkTjTkTjTkTjTkTjTkTjTk3vfcfcfcfcfc3+QoR7RdTjTkTja8hGhYTE100j0Q00vOvPvP0V0V0Q0j
+NPC - 26 26
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_02r.png";
+  this.attr[2] = "val_underdark_shroomlight_02r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 18 18
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_01.png";
+  this.attr[2] = "val_underdark_shroomlight_01.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 14 20
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_01r.png";
+  this.attr[2] = "val_underdark_shroomlight_01r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 22 13
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 15 14
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_04.png";
+  this.attr[2] = "val_underdark_shroomlight_02.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 26 12
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_04r.png";
+  this.attr[2] = "val_underdark_shroomlight_02r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 11 19
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_04.png";
+  this.attr[2] = "val_underdark_shroomlight_02.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 11 10
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_01r.png";
+  this.attr[2] = "val_underdark_shroomlight_01r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 15 24
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 4 12
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 17 12
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_columncap4.png";
+}
+
+NPCEND
+NPC - 23 8
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_01r.png";
+  this.attr[2] = "val_underdark_shroomlight_01r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 31 5
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_columncap5.png";
+}
+
+NPCEND
+NPC - 11 0
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_01r.png";
+  this.attr[2] = "val_underdark_shroomlight_01r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+/*//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_titanstool5.gif";
+}*/
+
+NPCEND
+NPC - 14 3
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 33 9
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 35 2
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 5 52
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_02.png";
+  this.attr[2] = "val_underdark_shroomlight_02.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 2 63
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 4 59
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_04r.png";
+  this.attr[2] = "val_underdark_shroomlight_02r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 38 50
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_01.png";
+  this.attr[2] = "val_underdark_shroomlight_01.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+
+NPCEND
+NPC - 45 38
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_02.png";
+  this.attr[2] = "val_underdark_shroomlight_02.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+
+NPCEND
+NPC - 34 29
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_02r.png";
+  this.attr[2] = "val_underdark_shroomlight_02r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+/*//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_titanstool5.gif";
+}*/
+
+NPCEND
+NPC - 28 39
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_02r.png";
+  this.attr[2] = "val_underdark_shroomlight_02r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+
+NPCEND
+NPC - 35 39
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+
+NPCEND
+NPC - 58 55
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+
+NPCEND
+NPC - 45 60
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_01r.png";
+  this.attr[2] = "val_underdark_shroomlight_01r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 48 52
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_04r.png";
+  this.attr[2] = "val_underdark_shroomlight_02r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+
+NPCEND
+NPC - 50 63
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_04.png";
+  this.attr[2] = "val_underdark_shroomlight_02.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+
+NPCEND
+NPC - 49 59
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_02r.png";
+  this.attr[2] = "val_underdark_shroomlight_02r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 42 13
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 53 26
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 45 19
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_01r.png";
+  this.attr[2] = "val_underdark_shroomlight_01r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+/*//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_titanstool5.gif";
+}*/
+
+NPCEND
+NPC - 46 13
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_04r.png";
+  this.attr[2] = "val_underdark_shroomlight_02r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 41 9
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_04r.png";
+  this.attr[2] = "val_underdark_shroomlight_02r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 55 39
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_04.png";
+  this.attr[2] = "val_underdark_shroomlight_02.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 0 41
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_columncap5.png";
+}
+
+NPCEND
+NPC - 26 44
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_columncap5.png";
+}
+
+NPCEND
+NPC - 16 33
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,48,32;
+  setcharani("val_giantmushroom",NULL);
+  this.attr[1] = "val_underdark_columncap2.png";
+}
+
+NPCEND
+NPC - 59 37
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_columncap4.png";
+}
+
+NPCEND
+NPC - 56 48
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_columncap5.png";
+}
+
+NPCEND
+NPC - 49 22
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_columncap5.png";
+}
+
+NPCEND
+NPC - 50 39
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_columncap5.png";
+}
+
+NPCEND
+NPC - 50 45
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_01.png";
+  this.attr[2] = "val_underdark_shroomlight_01.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+
+NPCEND
+NPC val_stalagmiteblack.gif 7 19
+NPCEND
+NPC val_stalagmiteblack2.gif 22 38
+NPCEND
+NPC val_stalagmiteblack2.gif 6 20
+NPCEND
+NPC val_stalagmiteblack.gif 8 55
+NPCEND
+NPC val_stalagmiteblack.gif 32 48
+NPCEND
+NPC val_stalagmiteblack.gif 29 49
+NPCEND
+NPC val_stalagmiteblack2.gif 32 27
+NPCEND
+NPC val_stalagmiteblack2.gif 39 41
+NPCEND
+NPC val_stalagmiteblack2.gif 43 44
+NPCEND
+NPC val_stalagmiteblack2.gif 42 51
+NPCEND
+NPC val_stalagmiteblack2.gif 59 23
+NPCEND
+NPC val_stalagmiteblack.gif 60 27
+NPCEND
+NPC val_stalagmiteblack.gif 58 28
+NPCEND
+NPC val_stalagmiteblack.gif 55 5
+NPCEND
+NPC val_stalagmiteblack2.gif 53 5
+NPCEND
+NPC val_stalagmiteblack2.gif 51 3
+NPCEND
+NPC val_stalagmiteblack2.gif 48 7
+NPCEND
+NPC val_stalagmiteblack2.gif 56 30
+NPCEND
+NPC val_stalagmiteblack2.gif 49 29
+NPCEND
+NPC val_stalagmiteblack2.gif 39 35
+NPCEND
+NPC val_stalagmiteblack2.gif 11 55
+NPCEND
+NPC val_stalagmiteblack.gif 12 54
+NPCEND
+NPC val_stalagmiteblack.gif 35 55
+NPCEND
+NPC val_stalagmiteblack2.gif 30 50
+NPCEND
+NPC val_stalagmiteblack2.gif 33 49
+NPCEND
+NPC val_stalagmiteblack2.gif 32 52
+NPCEND
+NPC val_stalagmiteblack2.gif 33 54
+NPCEND
+NPC val_stalagmiteblack2.gif 35 50
+NPCEND
+NPC val_stalagmiteblack2.gif 58 60
+NPCEND
+NPC val_stalagmiteblack2.gif 61 56
+NPCEND
+NPC val_stalagmiteblack.gif 54 51
+NPCEND
+NPC val_stalagmiteblack.gif 4 41
+NPCEND
+NPC val_stalagmiteblack2.gif 6 13
+NPCEND

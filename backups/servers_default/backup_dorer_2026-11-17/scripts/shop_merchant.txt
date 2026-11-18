@@ -1,0 +1,47 @@
+/*
+Name: Shop System
+Type: Class
+Usage: Player-run Shop system
+Scripted By: Jesse Prower
+ */
+
+if (created) {
+  this.x=x;
+  this.y=y;
+}
+
+if (actionpulled || actiongrab)  {
+  if (this.mode=0) {
+    if ((strcontains(#n,#s(this.playername)) && strcontains(#g,#s(this.playerguild))) || strcontains(#s(this.playeraccount),#a)) {
+      x=this.movex;
+      y=this.movey;
+      this.mode=1;
+    }
+    else say2 ::A #s(this.name)::;
+  }
+  else if (this.mode=1) {
+    if (playerrupees=>this.price) {
+      playerrupees-=this.price;
+      setstring serverr.#L-profit,#v(strtofloat(#s(serverr.#L-profit))+int(this.price*(this.profit/100)));
+      setstring serverr.#L-tax,#v(strtofloat(#s(serverr.#L-tax))+int(this.price-this.profit));
+      setstring clientr.#s(this.item).ammount,#v(strtofloat(#s(clientr.#s(this.item).ammount))+1);
+      addweapon #s(this.item);
+    }
+    else {say2 ::Sorry, not enough money::;}
+    x=this.x;
+    y=this.y;
+    this.mode=0;
+  }
+  sleep 1;
+}
+
+if (playerchats && strequals(#c,update)) {
+  if ((strcontains(#n,#s(this.playername)) && strcontains(#g,#s(this.playerguild))) || strcontains(#a,#s(this.playeraccount))) {
+    x=this.x;
+    y=this.y;
+    this.mode=0;
+  }
+}
+
+//#CLIENTSIDE
+if (created) setshape 1,32,32;

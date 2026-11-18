@@ -1,0 +1,9 @@
+//#CLIENTSIDE
+function onPlayerChats() {
+  if ((player.chat == "::Unlocks the door and opens it::")&&(("#g" == "Celdin"))) {
+    hide();
+  }
+  if ((player.chat == "::Closes and locks the door::")&&(("#g" == "Celdin"))) {
+    show();
+  }
+}

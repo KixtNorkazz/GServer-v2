@@ -1,0 +1,33 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  hide();
+  this.head = "val-athediareaverhead2-moto.gif";
+  this.colors[0] = "black";
+  this.colors[1] = "12";
+  this.colors[2] = "12";
+  this.colors[3] = "darkred";
+  this.colors[4] = "12";
+  this.shield = "no-shield.png";
+  setcharani("lscb1idle", NULL);
+  this.shieldpower = 1;
+  this.dir = 2;
+  this.ap = 100;
+  this.body = "val-athediareaverbody2.gif";
+  if (("#g" == "Athedia")) {
+    dontblock();
+  }
+}
+
+function onPlayerChats() {
+  if (("#g" == "Athedia")) {
+    if ((player.chat == "Lock Down")) {
+      show();
+    }
+  }
+  if (("#g" == "Athedia")) {
+    if ((player.chat == "Clear")) {
+      hide();
+    }
+  }
+}

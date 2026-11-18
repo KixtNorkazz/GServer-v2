@@ -1,0 +1,418 @@
+GLEVNW01
+BOARD 0 0 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg29Ag293N+h+g292+2+2+AgAgAgAgAgAgAgAgAgAgAgAgAg2+AgAgAgAgAgAgAg3NAg3NAg3N3N3N3NAgAgAg3N3N
+BOARD 0 1 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg29Ag293N+w3N3O3O3OAgAgAgAgAgAgAgAgAgAgAgAgAg2+AgAgAgAgAg292929AgAgAgAgAgAgAg292929AgAg
+BOARD 0 2 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg29Ag293N29+w+w3N293NAgAgAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAg3NAg3NAg292929293N3N3N2929
+BOARD 0 3 64 0 AgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg29Ag29AgAgAgAgAgAgAgAgAgAgAg2+AgAgAgAgAgAgAg3NAg3NAgAgAgAgAgAgAg3NAg3NAg3N3N3N3NAg293N3N3N
+BOARD 0 4 64 0 AgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg29Ag29AgAgAgAgAgAgAgAgAgAgAg2+AgAgAgAgAg292929AgAgAgAgAgAgAg292929AgAgAgAgAgAgAgAgAg29Ag29
+BOARD 0 5 64 0 AgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg29Ag293NAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAg3NAg3NAgAgAgAgAgAgAg3NAg3NAgAgAgAgAgAgAgAg29Ag
+BOARD 0 6 64 0 AgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg29Ag293NAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag29AgAgAgAgAgAgAg29Ag29AgAgAgAgAgAgAgAgAg29
+BOARD 0 7 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAg+w+w+w3N293NAgAgAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag29AgAgAgAgAgAgAgAgAgAgAgAg29
+BOARD 0 8 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAg29Ag293NAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAg3NAg3NAg29AgAg3NAg3N3NAgAgAgAgAgAgAgAgAgAgAg29
+BOARD 0 9 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg293NAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag29Ag3NAg3N29AgAg29AgAgAgAgAgAg29AgAgAgAg29
+BOARD 0 10 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg293NAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAg3NAg3N29Ag292+3NAgAg3NAg3NAgAgAgAg29AgAgAgAg29
+BOARD 0 11 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg293NAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag29Ag3NAg29AgAgAg29Ag292+3NAgAg29AgAgAgAg29Ag
+BOARD 0 12 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg293NAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAg3NAg3NAg29Ag2+AgAgAg3NAg29AgAgAgAg29Ag293N3NAgAg
+BOARD 0 13 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAg293NAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag29AgAg3NAgAgAgAgAg29Ag2+Ag29AgAg29Ag293NAg29Ag
+BOARD 0 14 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAg3t3u3u3u3u3u3u3u3u3u393t3u3u3u3u3u3u3u3u3u3u3u3u3u39AgAgAgAg293NAgAgAg3NAgAg29Ag293N293N29
+BOARD 0 15 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAg3+lMlNlOlPtAWBkCkDkE3v3+kCkEmZWBkCkFmZWBmVmWmXmYmZ3vAgAg29AgAgAgAgAgAgAgAgAg29Ag293N3NAg3N
+BOARD 0 16 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29AgAg3+lcldlelftQWCkSkTkU3v3+rhkUmpWCkSkVmpWCmlmmmnmomp3vAgAg29Ag293NAgAg29AgAgAgAg29Ag293N29Ag
+BOARD 0 17 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag3+lsltlulvtgWSkikjkk3v3+rhrhmpWSkieLmpWSz6z7z8z9m53v2+AgAgAgAg29AgAg3NAg29AgAgAg29Ag293N29
+BOARD 0 18 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag3+l8l9l+l/twWikykzk0/h/grhrhTcTdTbeLmpWi0K0L0M0NnJ3vAgAgAgAgAg29Ag293NAg3N3NAgAgAg29Ag293N
+BOARD 0 19 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag3+mMmNmO6G6H6I6H6I6JWRVxrhrhTdTbTdeLuAz606nWnX09z93vAgAg2+2+Ag3NAg3N2929AgAgAgAg29Ag293N3N
+BOARD 0 20 64 0 +gAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag3+y9zrzs626364636465WCWCVxrhTcTdTbeLyq0607ytzr06073vAgAgAgAgAg3NAg3N3N3NAgAgAgAgAgAg29Ag29
+BOARD 0 21 64 0 +gAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag3+z7z8z9828384838485WSWSWiVxrxrxrxWBy6y7zcy9zrzsz93vAgAgAgAgAg29Ag29AgAgAgAgAgAgAgAg29Ag29
+BOARD 0 22 64 0 +gAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag3+TcTdTbTcTdTbTcTdTbWiWiWyWyrxrxrxWyTbTcz6z7z8z9Tb3vAgAgAgAgAg3NAg3NAgAgAgAgAgAgAg29Ag293N
+BOARD 0 23 64 0 +gAgAgAgAgAgAgAgAgAgAgAgAgAgAg29293N3N3+TdTbTcTdTbTcTdTbTcWyWyTcayazazaza0TcTdTbTcTdTbTc3vAgAgAgAgAgAgAgAgAg3NAg3N293N3N2929293N
+BOARD 0 24 64 0 +wAgAgAgAgAgAgAgAgAg2929Ag29293N3NAgAg3+TcTdTbTcTdTbTcTdTbTcTdTbbCbDbDbDbETbTcTdTbTcTdTb3v29Ag2929AgAgAgAgAgAg29Ag3NAgAg3N3N3NAg
+BOARD 0 25 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29293+TdTbTcTdTbTcTdTbTcTdTbTcbCbDbDbDbETcTdTbTcTdTbTc3v3NAg3N3N3NAg3NAg29293N29Ag2929AgAgAg29
+BOARD 0 26 64 0 AgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAg3N3N3sTcTdTbTcTdTbTcTdTbTcTdTbbCbDbDbDbETbTcTdTbTcTdTb3v3NAg3N3NAgAgAgAg3N3N293N293N3N2929293N
+BOARD 0 27 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAg3t3u3u/gTdTbTc/h3u3u393+TcbCbDbDbDbETcTdTbTcTdTbTc3v29Ag2929292929292929AgAg29Ag293N3N3NAg
+BOARD 0 28 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAg3+kEmZVxTcTdTbWRkCmZ3v3+TbbSbTbTbTbUTbTcTdTbTcTdTb3v3NAg3N3N3N3N3N3N293N292929292929292929
+BOARD 0 29 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAg3+kUmpWCTdTbTcWCkSmp3v3+TcTdTbTcTdTbTcTdTbTcTdTbTc38AgAgAgAgAg29Ag293NAg3N3N3N3N3N3N3N3N3N
+BOARD 0 30 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAg3+kkmpWSTcTdTbWSkimp/h/gTbTcTdTb/h3u3u3u3u3u3u3u3u39AgAgAgAgAg29Ag29AgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 31 64 0 29AgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAg3+k0mpWiTdTbTcWikympWRVxTcTdTbTcWRkCkDkDkDWBkCkFmZ3vAgAgAgAgAg3NAg3NAg3N292929292929292929
+BOARD 0 32 64 0 3NAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAg3+lEuAWyTcTdTbWylCuAWCWCTbTcTdTbWCkSkTkTkTWCkSkVmp3vAgAgAgAgAgAgAgAgAgAg3N3N3N3N3N3N3N3N3N
+BOARD 0 33 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29AgAg3+TdTbTcTdTbTcTdTbTcWSWSTcTdTbTcWSkikjkjkjWikiklmp3v3NAg3N292929292929293N3N3N29292929AgAg
+BOARD 0 34 64 0 AgAgAgAgAg29AgAgAgAgAgAgAgAgAgAgAg29Ag3+TcTdTbTcTdTbTcTdTbWiWiTbTcTdTbWikykzkzkzWikyk1mp3v3NAg293N3N3N3N3N3N3N29Ag293N3N3N3N2929
+BOARD 0 35 64 0 AgAgAg29293NAgAgAgAgAgAgAgAgAgAgAg29Ag3+TdTbayazazaza0TbTcWyWyTcTdTbTcWylClDlDlDWylClFuA3vAgAgAg29AgAgAgAg2929AgAgAgAg29Ag293N3N
+BOARD 0 36 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag3+TcTdbC6G6H6JbETdTbTcTdTbTcTdTbTcTcTdTbTcTdTbTcTd3vAgAgAg29Ag29Ag29293NAgAgAg2+AgAgAgAgAg
+BOARD 0 37 64 0 AgAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAg29Ag3+TdTbbC6W6Y6ZbETbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTc3v29Ag293N3N3N3NAg3NAgAgAgAgAgAg2+AgAgAg
+BOARD 0 38 64 0 292929AgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag3+TcTdbC6m6o6pbETdTbTcTdayazaza0TcTcTdTbTcTdTbTcTd3v3NAg3NAgAgAgAgAgAgAgAg2+AgAgAgAg2+AgAg
+BOARD 0 39 64 0 AgAgAgAg2+AgAgAgAgAgAgAgAgAgAgAgAg29Ag3+TdTbbC6m6o6pbETbTc3v3sbCbDbDbETdTbTcTdTbTcTdTbTc38AgAg2929292929AgAgAgAgAgAg292929AgAgAg
+BOARD 0 40 64 0 AgAgAg2+AgAgAgAgAgAgAgAgAgAgAg29293N3N3+TcTdbC626365bETdTb3vAgbSbTbTbUTcTdTdTbTcTdTbTcTdAgAgAgAgAgAg29AgAgAgAgAg29293N3N3N292929
+BOARD 0 41 64 0 AgAgAgAgAgAgAgAgAgAg2929Ag29293N3NAgAg3sTdTbbS828385bUTbTc38Ag29Ag29AgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAgAgAgAg293N3NAgAgAg3N3N3N
+BOARD 0 42 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg2929AgTcTdbSbTbTbTbUTdTbAg292929AgAgAgAg29AgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg292929AgAgAg
+BOARD 0 43 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAgAg29AgAgAgAgAgAgAgAg29AgAgAgAgAgAgAg29AgAgAg29AgAgAgAgAgAg29Ag293N3N3N292929
+BOARD 0 44 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag293N3N3N3N
+BOARD 0 45 64 0 AgAgAgAgAgAgAgAgAgAg29AgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg29Ag
+BOARD 0 46 64 0 AgAgAgAgAgAgAgAgAgAg29AgAg29AgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAgAgAg29AgAgAgAgAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg29Ag
+BOARD 0 47 64 0 AgAgAgAgAgAgAgAgAgAg29AgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg29Ag
+BOARD 0 48 64 0 AgAgAgAgAgAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg29Ag
+BOARD 0 49 64 0 AgAgAgAgAgAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg29Ag
+BOARD 0 50 64 0 AgAgAgAgAgAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg29Ag
+BOARD 0 51 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg29Ag
+BOARD 0 52 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAg
+BOARD 0 53 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29293N3NAgAgAg29Ag
+BOARD 0 54 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29293N3NAgAgAgAgAgAg29
+BOARD 0 55 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29292929AgAgAg
+BOARD 0 56 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag293N3N3N3N3NAgAg
+BOARD 0 57 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag
+BOARD 0 58 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag
+BOARD 0 59 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29
+BOARD 0 60 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29
+BOARD 0 61 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAg29Ag29AgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag293N3N3N3N3NAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29
+BOARD 0 62 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag293NAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag
+BOARD 0 63 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag293N3N3N3N3NAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg29Ag
+LINK newbrookhurst_a2.nw 31 41 4 1 25 56
+LINK newbrookhurstint_cirihouse-2.nw 30 16 1 5 27.5 20
+NPC val_dragaeris-woodenchair-right.png 21 37
+setimg val_dragaeris-woodenchair-right.png;
+
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-left.png 26 37
+setimg val_dragaeris-woodenchair-left.png;
+
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-airshipbench1.png 41 22
+setimg val_dragaeris-airshipbench1.png;
+
+//#CLIENTSIDE
+if (created){
+  drawunderplayer;
+  setshape2 4,5,{
+    0,0,0,0,
+    0,22,22,22,
+    0,3,3,22,
+    0,3,3,22,
+    0,22,22,22,
+      };
+
+
+}
+NPCEND
+NPC lute.gif 42 26
+setimg lute.gif;
+NPCEND
+NPC val_frost-wall.png 27 26
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,32,0,64,16;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 36 29
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,16,0,64,16;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 35 39
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,16,0,64,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 40 29
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,16,0,64,16;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 39 39
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,16,0,64,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 25 41
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,16,0,64,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 20 41
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,16,0,64,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 31 39
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,16,0,64,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC lolstove2.gif 20 17
+// Created by racil
+NPCEND
+NPC val_rp-log1.png 37 21
+// Created by racil
+NPCEND
+NPC val_frost-wall.png 24 41
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,16,0,16,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 35 29
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,0,0,16,16;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 26 26
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,0,0,16,16;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 20 26
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,48,0,48,16;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 30 38
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,80,0,16,16;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_frost-wall.png 29 38
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,0,0,16,16;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC dbi-steak.gif 23 38
+// Created by racil
+NPCEND
+NPC val-itemslot-bread.png 24 19
+// Created by racil
+NPCEND
+NPC doorlightright.png 20 21
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("doorlightleft.png",48,0,48,96);
+this.alpha = 0.99;
+dontblock();
+}
+NPCEND
+NPC - 23 36
+//#CLIENTSIDE
+function onCreated() {
+  setshape2 3,6,{
+    22,22,22,
+    22,22,22,
+    22,22,22,
+    22,22,22,
+    22,22,22,
+    22,22,22,
+    };
+}
+NPCEND
+NPC val_rp_dishshelf.gif 25 16
+val_frost-cabinet.png
+NPCEND
+NPC val_frost-desk.png 42 27
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+}
+NPCEND
+NPC val_frost-cabinet.png 41 32
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+}
+NPCEND
+NPC val_beer-stein.gif 23 18
+//#CLIENTSIDE
+function onCreated() {
+}
+NPCEND
+NPC doorlight.png 21 37
+//#CLIENTSIDE
+function onCreated() {
+this.alpha = 0.99;
+this.x += 0.5;
+dontblock();
+}
+NPCEND
+NPC rw-coatrack2.gif 38 33
+dontblock;
+drawunderplayer;
+NPCEND
+NPC gal-redchairup1-remake.gif 39 26
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_candleoff.gif 24 36
+// Created by racil
+NPCEND
+NPC doorlight.png 37 35
+//#CLIENTSIDE
+function onCreated() {
+this.alpha = 0.99;
+this.x += 0.5;
+dontblock();
+}
+NPCEND
+NPC valweap_boltwindermk3.gif 38 16
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("valweap_boltwindermk3.gif",0,0,80,24);
+  drawunderplayer();
+  this.x += 0.5;
+}
+NPCEND
+NPC val_rp_rack1.gif 39 17
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_rp_rack1.gif",0,26,48,6);
+  this.x += 0.5;
+}
+NPCEND
+NPC val_rp-log1.png 37 20
+// Created by racil
+NPCEND
+NPC val_frost-wall.png 40 39
+// NPC made by Glacial Hierophant Wyand Giegue, Aegis of (Frost)
+//#CLIENTSIDE
+if(playerenters){
+  setimgpart val_frost-wall.png,16,0,64,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC rw-coatrack.gif 36 33
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_wooden-balconydark.gif 31 17
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_wooden-balconydark.gif",16,0,16,64);
+  setshape2 1,4,{
+    00,
+    00,
+    00,
+    22,
+  };
+}
+NPCEND
+NPC val_wooden-balconydark.gif 32 18
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_wooden-balconydark.gif",32,0,16,64);
+  setshape2 1,4,{
+    00,
+    00,
+    00,
+    22,
+  };
+}
+NPCEND
+NPC firepit.mng 40 19
+//#CLIENTSIDE
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragaeris-woodenchair-down.png 24 33
+setimg val_dragaeris-woodenchair-down.png;
+
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND

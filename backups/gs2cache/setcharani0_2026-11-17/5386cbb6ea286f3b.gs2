@@ -1,0 +1,40 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.head = "head129.png";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  this.body = "moto-pirateking-body104.gif";
+  this.nick = "Port Wolfe Guardsman";
+  this.attr[1] = "hatnolandsetz4.gif";
+  setcharani("idle", NULL);
+  this.swordpower = 1;
+  this.shield = "no-shield.gif";
+  this.shieldpower = 1;
+  this.dir = 2;
+  setcharani("idle", NULL);
+  this.hearts = 0;
+  this.guild = "Imperial_Dalmar";
+  this.recruiter = "ahial,PEPSIDUDE";
+}
+
+function onPlayerEnters() {
+  this.guild = "Imperial_Dalmar";
+  this.recruiter = "ahial,PEPSIDUDE";
+}
+
+function onPlayerTouchsMe() {
+  if (((clientr.nation) == "Imperial_Dalmar")) {
+    clientr.nation = "Imperial_Dalmar";
+  }
+  say2("/nation leave [removes your tag]#b
+  /add <account> \"name\"#b
+  /remove <account>#b");
+  say2("/nation leave [removes your tag]#b
+  /add <account> \"name\"#b
+  /remove <account>#b");
+}

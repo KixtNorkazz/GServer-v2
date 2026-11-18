@@ -1,0 +1,939 @@
+GLEVNW01
+BOARD 0 0 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 1 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 2 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 3 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 4 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 5 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 6 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 7 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 8 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 9 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 10 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 11 64 0 J4J4J4J4J4J4J4J4J4jVi0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0jljVi0i0i0i0i0i0i0i0i0i0i0i0i0i0jlJ4J4J4J4J4J4J4J4J4
+BOARD 0 12 64 0 J4J4J4J4J4J4J4J4J4jEhghjgigjgigjhghjgjgigjgigjgihghjgigjgigjgjgigjgjgigjgjgji1jEgjgjgjgjhghjgjgjgigjgjgjhghji1J4J4J4J4J4J4J4J4J4
+BOARD 0 13 64 0 J4J4J4J4J4J4J4J4J4jEhwhzkykzk0k1hwhzhChShThUhVhChwjCjDjDhChChwhzhThUhThUhChCi1jEhChChThUhwhzhUhShThUhVlElFlGi1J4J4J4J4J4J4J4J4J4
+BOARD 0 14 64 0 J4J4J4J4J4J4J4J4J4jEiAiDiLiLiLiLiAjCjDhBFCFChRjCjDYtjTjTYtYtiAiDYtYtYtYtiAiDi1jEiAiDYtYtiAiDYthBFCFChRlUlVlWi1J4J4J4J4J4J4J4J4J4
+BOARD 0 15 64 0 J4J4J4J4J4J4J4J4J4jEjCjDibibibibigjSjThBFCFChRjSjTjijjjjCFCGigijCFCGCFCGCFCGi3i2CFCGCFCGjWjXjXjDFCFChRlklllmi1J4J4J4J4J4J4J4J4J4
+BOARD 0 16 64 0 J4J4J4J4J4J4J4J4J4jEjSjTYvLmLmYviwjijjiyiyixixjijjjijjjjCFCGkCkFCFCGCFCGCFCGhghjCFCGCFCGjijjjSjTiyiyixl0l1l2i1J4J4J4J4J4J4J4J4J4
+BOARD 0 17 64 0 J4J4J4J4J4J4J4J4J4jEjijjOGOHOGOHOGjijjOHOGOHOGjijjjijjjjOGOHkikVuhuhuiOHOGOHhwhzuguhuhuhjijjjijjuhuhuhmEmFmGi1J4J4J4J4J4J4J4J4J4
+BOARD 0 18 64 0 J4J4J4J4J4J4J4J4J4jEOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGkikVuxuxOHOGOHOGiAiDuwuxuxuxuxuxuxuxuxuxuxuxuxuyi1J4J4J4J4J4J4J4J4J4
+BOARD 0 19 64 0 J4J4J4J4J4J4J4J4J4jEOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHkikjkkkkkkklOGOHigijuwuxuxuxuxuxuxkCkDkEkEkEkakFi1J4J4J4J4J4J4J4J4J4
+BOARD 0 20 64 0 J4J4J4J4J4J4J4J4J4jEkCkEkEkEkEkFOHOGOHOGOHOGOHOGOHOGOHOGOHOGkykzk0k0k0k1OHOGiwizuwuxuxuxuxuxuxkSkTkUkUkUk0k1i1J4J4J4J4J4J4J4J4J4
+BOARD 0 21 64 0 J4J4J4J4J4J4J4J4J4jEkykzkzk0kkklOGOHOGOHOGOHOGOHOGOHOGOHOGOHkqkrkrkrkrktOGOHOGOHuwuxuxuxuxuxuxkSkTkUkUkVjijji1J4J4J4J4J4J4J4J4J4
+BOARD 0 22 64 0 J4J4J4J4J4J4J4J4J4jEkqjijjktkSklOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGuwuxuxuxuxuxuxkSkTkTkTkluxuyi1J4J4J4J4J4J4J4J4J4
+BOARD 0 23 64 0 J4J4J4J4J4J4J4J4J4jEuguhuhuhkSklOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHjHjGuwuxuxuxuxuxuxkikjkjkjkluxuyi1J4J4J4J4J4J4J4J4J4
+BOARD 0 24 64 0 J4J4J4J4J4J4J4J4J4jEuwuxuxuxkSklOHOGOHOGOHOGOHOGOHOGOHOGOHOGkCkEkEkEkEkEkEkFi1jEuwuxuxuxuxuxuxkikjkjkjkluxuyi1J4J4J4J4J4J4J4J4J4
+BOARD 0 25 64 0 J4J4J4J4J4J4J4J4J4jEuwuxkCkEkkklOGOHOGOHOHOGOHOHOGOHOGOHOGOHkSkjkzk0k0k0kkkli1jEuwuxuxuxuxuxuxkykzkzk0k1uxuyi1J4J4J4J4J4J4J4J4J4
+BOARD 0 26 64 0 J4J4J4J4J4J4J4J4J4jEvAvBkykzk0k1OHOGOHOGOGOHOGOGOHOGOHOGOHOGkyk1kqkrkrktkSkli1jEuwuxuxuxuxuxuxkqkrkrkrktuxuyi1J4J4J4J4J4J4J4J4J4
+BOARD 0 27 64 0 J4J4J4J4J4J4J4J4J4jEOGOHOGOGOHOGOGOHOGOHlklllmOGOHOHOGOHOGOHOGOHuxuxuxuxkSkli1jEuwuxuxuxuxuxuxuxuxuxuxuxuxuyi1J4J4J4J4J4J4J4J4J4
+BOARD 0 28 64 0 J4J4J4J4J4J4J4J4J4jEOHOGOHOHOGOHOHOGOHOGl0l1l2OHcYOGOHOGOHOGOHvAvBvBvBvBkikli1jEcYcZuxuxuxuxvBvBvBvBvBvBvBvCi1J4J4J4J4J4J4J4J4J4
+BOARD 0 29 64 0 J4J4J4J4J4J4J4J4J4jEj2j3j4j2j3j4OGOHOGOHmEmFmGkSkjjHjFjFjFjFjFjFjFjFjFjFjFjFjkjUjFjFjFjFjFjFjFjFjFjFjFjFjFjFjkJ4J4J4J4J4J4J4J4J4
+BOARD 0 30 64 0 J4J4J4J4J4J4J4J4J4jEkGkHkIkGkHkIOHOGOHOGOHOGOHjHjFjkJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 31 64 0 J4J4J4J4J4J4J4J4J4jEkWkXkYkWkXkYOGOHOGOGOHOGOHi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 32 64 0 J4J4J4J4J4J4J4J4J4jEOHOGOHOGOHOGOHOGOHOHOGOHOGi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 33 64 0 J4J4J4J4J4J4J4J4J4jEOGOHOGOHOGOHOGOHOGOGOHOGOHi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 34 64 0 J4J4J4J4J4J4J4J4J4jEOHOGOHOGOHOGOHj2j3j4j2j3j4i1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 35 64 0 J4J4J4J4J4J4J4J4J4jEOGOHOGOHOGOHOGkGkHkIkGkHkIi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 36 64 0 J4J4J4J4J4J4J4J4J4jEOHOGOHOGOHOGOHkWkXkYkWkXkYi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 37 64 0 J4J4J4J4J4J4J4J4J4jEOGOHOGOHOGOHOGOHOGOHOGOHOGi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 38 64 0 J4J4J4J4J4J4J4J4J4jEOHOGOHOGOHOGOHOGOHOGOHOGOHi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 39 64 0 J4J4J4J4J4J4J4J4J4jUjFjFjFjFjFjFjFjFjFjFjFjFjFjkJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 40 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 41 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 42 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 43 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 44 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 45 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 46 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 47 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 48 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 49 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 50 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 51 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 52 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 53 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 54 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 55 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 56 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 57 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 58 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 59 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 60 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 61 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 62 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 63 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+LINK echobaseint_hq1.nw 12 15 4 1 13 12
+NPC val_rp-samstairs.gif 12 16
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart val_rp-samstairs.gif,0,0,64,16;
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragaeris-woodenchair-left.png 52 22
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-right.png 45 20
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-right.png 45 23
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-down.png 32 16
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-right.png 12 22
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC rw-cabinet4.gif 40 14
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawunderplayer
+;dontblock
+NPCEND
+NPC rw-cabinet3.gif 34 14
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawunderplayer
+;dontblock
+NPCEND
+NPC rw-cabinet2.gif 28 14
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawunderplayer
+;dontblock
+NPCEND
+NPC rw-cabinet2.gif 36 14
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawunderplayer
+;dontblock
+NPCEND
+NPC rw-cabinet3.gif 42 14
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawunderplayer
+;dontblock
+NPCEND
+NPC rw-cabinet1.gif 32 14
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawunderplayer
+;dontblock
+NPCEND
+NPC rw-tabletop.gif 34 18
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawoverplayer
+;dontblock
+NPCEND
+NPC rw-tabledrawer.gif 30 27
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawunderplayer
+;dontblock
+NPCEND
+NPC rw-bookcase.gif 13 27
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawover
+;dontblock
+NPCEND
+NPC rw-bookcase.gif 10 27
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawover
+;dontblock
+NPCEND
+NPC rw-bookcase.gif 17 32
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawover
+;dontblock
+NPCEND
+NPC rw-bookcase.gif 20 32
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawover
+;dontblock
+NPCEND
+NPC rw-backbookcase.gif 10 37
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawoverplayer
+;dontblock
+NPCEND
+NPC rw-backbookcase.gif 13 37
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawoverplayer
+;dontblock
+NPCEND
+NPC rw-cabinet.gif 20 25
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawover
+;dontblock
+NPCEND
+NPC rw-backcabinet.gif 23 27
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawoverplayer
+;dontblock
+NPCEND
+NPC rw-cabinet.gif 25 13
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;dontblock
+;drawunder
+NPCEND
+NPC doorlight.gif 14 33
+// NPC made by Sam OOC
+if (created) {
+  setimg doorlight.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,4,2,0.15;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC doorlight.gif 26 23
+// NPC made by Sam OOC
+if (created) {
+  setimg doorlight.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,4,2,0.15;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC doorlight.gif 40 23
+// NPC made by Sam OOC
+if (created) {
+  setimg doorlight.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,4,2,0.15;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC doorlight.gif 32 23
+// NPC made by Sam OOC
+if (created) {
+  setimg doorlight.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,4,2,0.15;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC doorlight.gif 46 23
+// NPC made by Sam OOC
+if (created) {
+  setimg doorlight.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,4,2,0.15;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC doorlight-down.gif 46 14
+// NPC made by Zangus
+if (created) {
+  setimg doorlight-down.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,4,2,0.15;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC doorlight-down.gif 18 14
+// NPC made by Zangus
+if (created) {
+  setimg doorlight-down.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,4,2,0.15;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 33 25
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC gal-redchairup2-remake.gif 33 25
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC longfellow-plans1.gif 48 19
+// NPC made by Zero (Dungeon Contractor)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wantedsignnormal.gif 33 12
+// NPC made by Zero (Dungeon Contractor)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wantedsignnormal.gif 41 12
+// NPC made by Zero (Dungeon Contractor)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wantedsignnormal.gif 49 21
+// NPC made by Zero (Dungeon Contractor)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawunder
+;dontblock
+NPCEND
+NPC longfellow-plans1.gif 32 12
+// NPC made by Zero (Dungeon Contractor)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wanted-cassius.gif 30 12
+// NPC made by Zero (Dungeon Contractor)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ganelon_paperwork-stack1.png 50 19
+drawoverplayer;
+NPCEND
+NPC ganelon_paperwork-stack1.png 30 18
+drawoverplayer;
+NPCEND
+NPC ganelon_paperwork-stack1.png 30 17
+drawoverplayer;
+NPCEND
+NPC ganelon_paperwork-stack1.png 36 26
+drawoverplayer;
+NPCEND
+NPC ganelon_paperwork-stack1.png 36 25
+drawoverplayer;
+NPCEND
+NPC ganelon_paperwork-stack1.png 11 20
+drawunderplayer;
+dontblock;
+NPCEND
+NPC ganelon_paperwork-stack1.png 12 20
+drawunderplayer;
+dontblock;
+NPCEND
+NPC ganelon_paperwork-stack1.png 13 20
+drawunderplayer;
+dontblock;
+NPCEND
+NPC rw-backbookcase.gif 42 27
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawoverplayer
+;dontblock
+NPCEND
+NPC rw-backcabinet2.gif 40 27
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawoverplayer
+;dontblock
+NPCEND
+NPC stefanbook.gif 33 19
+// NPC made by King Aeglos Lirinen of (Asca Dagnir)
+if (playerenters) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC stefanbook.gif 52 19
+// NPC made by King Aeglos Lirinen of (Asca Dagnir)
+if (playerenters) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC stefanbook.gif 14 25
+// NPC made by King Aeglos Lirinen of (Asca Dagnir)
+if (playerenters) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rucksack.png 10 18
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rucksack.png 28 19
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rucksack.png 50 17
+if (created) {
+}
+if (playertouchsme) {
+}
+;dontblock
+NPCEND
+NPC longfellow-plans2.gif 48 22
+//#CLIENTSIDE
+function onCreated()
+{
+
+drawunderplayer();
+dontblock();
+}
+NPCEND
+NPC longfellow-plans2.gif 10 12
+//#CLIENTSIDE
+function onCreated()
+{
+x -= .125;
+y += .5;
+setimgpart("longfellow-plans2.gif",20,0,16,32);
+drawunderplayer();
+dontblock();
+}
+NPCEND
+NPC val_candle.gif 31 15
+// NPC made by Sarah Chigiru (OOC)
+join("world_candle");
+function onCreated()
+  {
+  y += .25;
+}
+NPCEND
+NPC val_candle.gif 15 23
+// NPC made by Sarah Chigiru (OOC)
+join("world_candle");
+function onCreated()
+  {
+  y += .25;
+}
+NPCEND
+NPC val_candle.gif 31 24
+// NPC made by Sarah Chigiru (OOC)
+join("world_candle");
+function onCreated()
+  {
+  y += .25;
+}
+NPCEND
+NPC val_candle.gif 50 23
+// NPC made by Sarah Chigiru (OOC)
+join("world_candle");
+function onCreated()
+  {
+  y += .25;
+}
+NPCEND
+NPC val_item-scroll.gif 31 19
+funtion onCreated()
+  {
+  x += .2;
+  dontblock();
+    }
+NPCEND
+NPC val_item-scroll.gif 47 20
+funtion onCreated()
+  {
+  x += .2;
+  dontblock();
+    }
+NPCEND
+NPC val-mailletters.png 14 22
+//#CLIENTSIDE
+function onCreated()
+{
+ setimgpart("val-mailletters.png",16,16,16,16);
+ dontblock();
+ drawunderplayer();
+}
+NPCEND
+NPC val-mailletters.png 32 24
+//#CLIENTSIDE
+function onCreated()
+{
+ setimgpart("val-mailletters.png",16,16,16,16);
+ dontblock();
+ drawunderplayer();
+}
+NPCEND
+NPC val-mailletters.png 47 24
+//#CLIENTSIDE
+function onCreated()
+{
+ setimgpart("val-mailletters.png",16,16,16,16);
+ dontblock();
+ drawunderplayer();
+}
+NPCEND
+NPC val-mailletters.png 14 21
+//#CLIENTSIDE
+function onCreated()
+{
+ y += .75;
+ x += .5;
+ setimgpart("val-mailletters.png",0,16*2,16,16);
+ dontblock();
+ drawunderplayer();
+}
+NPCEND
+NPC val-mailletters.png 34 24
+//#CLIENTSIDE
+function onCreated()
+{
+ y += .75;
+ x += .5;
+ setimgpart("val-mailletters.png",0,16*2,16,16);
+ dontblock();
+ drawunderplayer();
+}
+NPCEND
+NPC val-mailletters.png 47 21
+//#CLIENTSIDE
+function onCreated()
+{
+ y += .75;
+ x += .5;
+ setimgpart("val-mailletters.png",0,16*2,16,16);
+ dontblock();
+ drawoverplayer();
+}
+NPCEND
+NPC val-mailletters.png 10 20
+//#CLIENTSIDE
+function onCreated()
+{
+ y += .5;
+ setimgpart("val-mailletters.png",0,0,16,16);
+ dontblock();
+ drawunderplayer();
+}
+NPCEND
+NPC val-mailletters.png 50 22
+//#CLIENTSIDE
+function onCreated()
+{
+ y += .5;
+ setimgpart("val-mailletters.png",0,0,16,16);
+ dontblock();
+ drawoverplayer();
+}
+NPCEND
+NPC val_mansion_pic4.gif 46 13
+// NPC made by Midas C. Antilles, the (Dragoon)
+if (created) {
+setimgpart val_mansion_pic4.gif,32,0,32,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-motoliquortable.gif 51 15
+// NPC made by Samuel
+if (created) {y=y+.4;
+}
+if (playertouchsme) {
+}
+;drawunder
+NPCEND
+NPC note.gif 49 24
+// NPC made by Zero (Dungeon Contractor)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC note.gif 31 24
+// NPC made by Zero (Dungeon Contractor)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC neorice_coins.png 48 19
+
+NPCEND
+NPC rw-ashtray.gif 15 21
+drawoverplayer;
+NPCEND
+NPC rw-ashtray.gif 48 21
+drawoverplayer;
+NPCEND
+NPC rw-ashtray2.gif 32 24
+drawoverplayer;
+NPCEND
+NPC rw-donuts.gif 12 25
+drawoverplayer;
+NPCEND
+NPC rw-donuts.gif 50 21
+drawoverplayer;
+NPCEND
+NPC rw-donuts2.gif 44 14
+drawoverplayer;
+NPCEND
+NPC rw-badge.gif 53 20
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC rw-badge.gif 52 20
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC rw-badge.gif 51 25
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC rw-badge.gif 47 21
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC rw-hatrack2.gif 36 13
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC rw-hatrack.gif 29 13
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC rw-manacles3.gif 46 15
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC rw-coatrack3.gif 40 24
+if (created) {
+}
+if (playertouchsme) {
+}
+drawoverplayer;
+dontblock;
+NPCEND
+NPC rw-coatrack.gif 24 25
+if (created) {
+}
+if (playertouchsme) {
+}
+drawover;
+dontblock;
+NPCEND
+NPC val_fog.png 22 20
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(random(5,10));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(6,15);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC - 31 31
+//#CLIENTSIDE
+	function onCreated()
+	{
+	  this.loopSpeed=0.05;
+	  setTimer(this.loopSpeed);
+	}
+
+	function onTimeout()
+	{
+	  if (this.night==true)
+	    seteffect(0,0,.14,.28);
+	  else
+	    seteffect(.25,.10,.05,.20);
+
+	  setTimer(this.loopSpeed);
+	}
+
+	function onPlayerchats()
+	{
+	  if (player.chat=="Day")
+	      this.night=false;
+	  else if(player.chat=="Night")
+	      this.night=true;
+	}
+NPCEND
+NPC rw_blind2.gif 20 14
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;drawover
+NPCEND
+NPC rw_blind3.gif 48 14
+// NPC made by Arushen Kawashi (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+;dontblock
+;drawunder
+NPCEND

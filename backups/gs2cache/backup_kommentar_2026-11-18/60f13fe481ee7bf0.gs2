@@ -1,0 +1,38 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.gate = 0;
+  this.gate2 = 0;
+  drawunderplayer();
+}
+
+function onPlayerChats() {
+  if (((player.account == "TashGraal") || (player.account == "Evil_SinX") || (player.account == "Kixt") || (player.account == "KixtNorkazz"))) {
+    if ((player.chat == "Open")) {
+      if (this.gate == 0 && this.gate2 == 0 && this.gate3 == 0) {
+        this.gate = 1;
+        this.gate2 = 1;
+        move(0, -3.2, 1.5, 0);
+        sleep(1.5);
+        this.gate2 = 0;
+        dontblock();
+        drawoverplayer();
+      }
+    }
+    if ((player.chat == "Close")) {
+      if (this.gate == 1 && this.gate2 == 0) {
+        this.gate = 0;
+        this.gate2 = 1;
+        if (this.gate3 == 1) {
+          this.gate3 = 0;
+          move(+7, 0, 2.5, 0);
+          sleep(2.5);
+        } else {
+          move(0, +3.2, 1.5, 0);
+          sleep(1.5);
+        }
+        this.gate2 = 0;
+        blockagain();
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "valp_lance_378_head0.gif";
+  this.body = "arwind-formalbody.gif";
+  this.colors[0] = "darkblue";
+  this.colors[1] = "darkblue";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.nick = "";
+  this.dir = 2;
+}
+
+function onPlayerEnters() {
+  this.name = "tamachan";
+  setcharani("idle", this.idle);
+  this.randomx = int(random(-2, 2));
+  this.randomy = int(random(-2, 2));
+  if (!onwall(this.x+1*this.randomx, this.y+1*this.randomy) && !onwater(this.x+1*this.randomx, this.y+1*this.randomy)) {
+    move(this.randomx, this.randomy, 1, 4+8+16+32);
+    setcharani("walk", this.walk);
+  }
+  sleep(1);
+  setcharani("idle", this.idle);
+  setTimer(random(2, 5));
+}
+
+function onPlayerTouchsMe() {
+  say2("I pity the Valorians who#b
+didn't convert to Hagalism");
+}
+
+function onTimeOut() {
+  this.name = "tamachan";
+  setcharani("idle", this.idle);
+  this.randomx = int(random(-2, 2));
+  this.randomy = int(random(-2, 2));
+  if (!onwall(this.x+1*this.randomx, this.y+1*this.randomy) && !onwater(this.x+1*this.randomx, this.y+1*this.randomy)) {
+    move(this.randomx, this.randomy, 1, 4+8+16+32);
+    setcharani("walk", this.walk);
+  }
+  sleep(1);
+  setcharani("idle", this.idle);
+  setTimer(random(2, 5));
+}

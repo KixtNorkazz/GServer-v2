@@ -1,0 +1,19 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "jacobbpeters-adventurerhead3.gif";
+  this.body = "arwind-marseillesbody2.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.nick = "Scotsman Clad";
+  setcharani("idle", NULL);
+  this.dir = 2;
+  this.ap = 100;
+  message("Ring ding diddle iddle i de o");
+  hide();
+}

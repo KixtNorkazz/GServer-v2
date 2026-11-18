@@ -1,0 +1,9 @@
+//#CLIENTSIDE
+function onPlayerChats() {
+  if (("#g".pos("RP Admin") > -1)&&(player.chat == "show ladder")) {
+    show();
+  }
+  if (("#g".pos("RP Admin") > -1)&&(player.chat == "hide ladder")) {
+    hide();
+  }
+}

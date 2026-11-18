@@ -1,0 +1,24 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  this.npgate = 0;
+}
+
+function onPlayerChats() {
+  gs1_always();
+  if (("#g".pos("Celdin") > -1)&&(player.chat == "open gate")) {
+    this.npgate = 1;
+  }
+  if (("#g".pos("Celdin") > -1)&&(player.chat == "close gate")) {
+    this.npgate = 0;
+  }
+}
+
+function gs1_always() {
+  if (this.npgate==0) {
+    show();
+  }
+  if (this.npgate==1) {
+    hide();
+  }
+}

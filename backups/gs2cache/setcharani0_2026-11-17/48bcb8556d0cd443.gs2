@@ -1,0 +1,22 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "bow-shield2.gif";
+  this.head = "head1.png";
+  this.body = "val-pegason-body110.gif";
+  this.attr[1] = "hat1-celdin-helm.gif";
+  this.colors[0] = "red";
+  this.colors[1] = "orange";
+  this.colors[2] = "darkred";
+  this.colors[3] = "gray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  this.nick = "Alabus Dorrin, Sentry of (Celdin)";
+  this.ap = 100;
+  setcharani("idle", NULL);
+  this.dir = 2;
+}
+
+function onPlayerTouchsMe() {
+  say2("I'm keeping an eye on you.");
+}

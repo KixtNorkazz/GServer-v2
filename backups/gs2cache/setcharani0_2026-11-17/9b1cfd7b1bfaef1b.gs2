@@ -1,0 +1,19 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  dontblock();
+  this.shield = "no-shield.gif";
+  this.head = "val-elsewynhead.gif";
+  this.body = "thar-body102.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.nick = "Dead Bridgar";
+  setcharani("valikorlia_motoxbow2-passive-idle", NULL);
+  this.dir = 2;
+  setcharani("dead2", NULL);
+  this.ap = 100;
+}

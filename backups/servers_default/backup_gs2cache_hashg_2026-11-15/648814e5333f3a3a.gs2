@@ -1,0 +1,24 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.head = "zazenp2p-gloom2.gif";
+  this.colors[0] = "orange";
+  this.colors[1] = "darkred";
+  this.colors[2] = "darkred";
+  this.colors[3] = "yellow";
+  this.colors[4] = "darkblue";
+  this.nick = "Gloomkin Guard";
+  this.shield = "no-shield.gif";
+  setcharani("crossarms", NULL);
+  this.shieldpower = 3;
+  this.dir = 2;
+  this.ap = 100;
+  this.body = "zazenassassinarmorpersonal-body103.gif";
+}
+
+function onPlayerTouchsMe() {
+  say2("::The Gloomkin just spits at you.::");
+  if (("#g" == "Celdin")) {
+    say2("::It would straighten its#bback:: All is fine here...#b");
+  }
+}

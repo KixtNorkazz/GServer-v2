@@ -1,0 +1,555 @@
+GLEVNW01
+BOARD 0 0 64 0 nbnbncnqnrnrnrnrnrnrnrnrnrnrnsnanbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbncuu2gasatTUTTTUTTTUasat0Ufcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 1 64 0 nrnrnsnqnrnrnrnrnrnrnrnrnrnrnsnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrns1011a8a9TkTjTkTjbVa8a90Ufcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 2 64 0 nrnrnsnqnrnrnrnrnrnrnrnrnrnrnsnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsatbVTUTTTUTTTUTTuuuv2g0k0Dfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 3 64 0 nrnrnsnqnrnrnrnrnrnrnrnrnrnrnsnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsa9TjTkTjTkTjTkTju+u/2w000j0l0l0Dfcfcfcfcfc1Y1Y1Y1Y
+BOARD 0 4 64 0 nrnrnsnqnrnrnrnrnrnrnrnrnrnrnsnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsasatTUTTTUTTTUTT101F11000T0Q0R0j0l0Dfc0C0l0l0I1Y1Y
+BOARD 0 5 64 0 nrnrnsnqnrnrnrnrnrnrnrnrnrnrnsnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsa8a9TkTjTkTjTkb1uu2gTE000j0g0h0T0R0j0l0S0R0R0k0l0I
+BOARD 0 6 64 0 nrnrnsnqnrnrnrnrnrnrnrnrnrnrnsnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsRbRcRdTTTUTTasat1011TE100T0Q1Cuvuv1D0R0i0h0h000R0k
+BOARD 0 7 64 0 nrnrnsnqnrnrnrnrnrnrnrnrnrnrnsnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsQpQoR7RdTkbVaca9asatb1TE0osOvKQoQovJ0R0i0h0h0k0h00
+BOARD 0 8 64 0 nrnrnsnanbnbnbnbnbnbnbnbnbnbncnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsQ5Q4RsRtTUa8a9b1a8a9uuuv2gRavOvPvPvZ0h0S0R0R0k0R00
+BOARD 0 9 64 0 nrnrnsn6n7n7n7n7n7n7n7n7n7n7n8nqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsRsQpQoRtTkTjb1TjbVblu+u/2wRq000h0T0i0R0isP0h000j0g
+BOARD 0 10 64 0 nbnbnb3R3S3T3T3T3T3T3T3T3T3U3VnbnbnbnbnbnbnbnbncnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsQ5Q5QpR9TUTTTUTTTUTT101F11R6000R0j0hsP1CRrSL100T0Q
+BOARD 0 11 64 0 n7n7n7+C8T8k/T8F/S/T8F/S8l8S+Dn7n7n7n7n7n7n7n7n8nrnrnrnrnrnrnrnrnrnrnrnrnrnrnsQ4Q5Q5R7RcRdTkTjuu2gTkTjTkSK1U0h0T1VR8QoSNTjTk0osO
+BOARD 0 12 64 0 3T3T3T9C/W80818V80818V8081/X9D3T3T3T3T3T3T3T3U3VnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsvOvKQ4Q5Q5QpRdTT1011TUTTTUupvavKQ4QoSMSNTUTTTUTTTU
+BOARD 0 13 64 0 3j3j3j3h3i3j3j3j3j3j3j3j3j3k3l3j3j3j3j3j3j3j3jnanrnrnrnrnrnrnrnrnrnrnrnrnrnrns0h00vPvKQ5Q5R7RcRdTjTkup0Bu50jvavKQ4R7RbRcRbRcRdTk
+BOARD 0 14 64 0 V9V8V933V8V9V8V9V8V9V8V9V8V934V8V9V8V9V8V9V8V9nqnrnrnrnrnrnrnrnrnrnrnrnrnrnrns0R0k0hu+QoQoRqRrvJ0A0Bu50R0i0T0jvavKu/vJvJvPvPvKRd
+BOARD 0 15 64 0 3U3F3F3R3F3F3F3S3T3T3U3F3F3F3V3F3F3S3T3T3U3F3Fnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrns0h000Ru+Q4vJvPvPvZ0Q0R0i0h0S0Q0R0jvavPvZvZ0g0hvavK
+BOARD 0 16 64 0 9C3o3o9C3o3o3o8T8k8l8S3o3o3o9D3o3o9D312l9C3o3onqnrnrnrnrnrnrnrnrnrnrnrnrnrnrns0R000hvOvPvZ0Q0R0i0g0h0i0h0Su+1U0T0j0Q0V0i0g0h0R0j
+BOARD 0 17 64 0 3k3G3G9C3o3o3o/W8081/X3o3o3o9D3G3G3i3j3j3k3G3GnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnssP000R000Q020V0g0h0g0h0S0Q0RvO3A0j0V0g0h0S0g0h0R0T
+BOARD 0 18 64 0 3o3o3o3h3G3G3G3i3j3j3k3G3G3G3l3o3o3o3o3o3o3o3onqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsbl102T000g0226ususususususus3K020R0R0Q0R26usus3K0g
+BOARD 0 19 64 0 3o3o3o9C3o3o3o9Dfcfc9C3o3o3o9D3o3o3o3o3o3o3o3onqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsasat10000Q26TEbVasatb1a8a9b1ufus3K0g0h26TkbVbluf25
+BOARD 0 20 64 0 1M1M1L9m3o3o3o9nfcfc9m3o3o3o9n1M1M1L1M1L1M1L1Lnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsa8urusususTEasata8a9TUbVb1TTTUTTuf2526TTTUTTTUTTTU
+BOARD 0 21 64 0 zLzMzL1K1L1M1L1Nfcfc1K1M1L1M1NS0TEQHbVasata8a9nqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsTku7b1upvMuqa8hGhHbVTkTjTkTjTkTjTkTjuJusususutbVTk
+BOARD 0 22 64 0 zbzczbzMzLzMzLzMzLzMzLzMzLzMzNTUasatasacacatQHnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsbVu7TEu90Qu7b1hlh3b1TUTTasatb1urususasatb1TTufusut
+BOARD 0 23 64 0 zrzszrzczbzczbzczbzczbzczbzczdTka8acacacaca9bVnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsb1vLvM0m0gu7TkTjbVb1blTja8a9uJ2QTkb1a8a9uu2gTkTjuf
+BOARD 0 24 64 0 z7z8z7zszrzszrzszrzszrzszrzsztTUTTa8acaca9TUTTnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsTU000Q020g0kuqTTTUTTTUuJususuZTTTUTTTUTT1011TUTTTU
+BOARD 0 25 64 0 QHQWQXz6z7z8z7z8z7z8z7z8z7z8z9TkTjTka8a9TjTkbVnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsTk000g020Q00u7blTkQHuruZTkTjTkTjTkTjTkTjTkTjTkTjTk
+BOARD 0 26 64 0 TTQmQnQWQXQHTTTUTTTUTTTUTTa8a9TUTTTUTTTUTTTURanqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsb1000g020Q00u7QHTUTTu7TTTUTTTUTTTUTTTUTTTUTTTUTTTU
+BOARD 0 27 64 0 TjTkTjQmQnTkTjTkTjTkTjTka8a9TjTkasatTjRaRbRcR8nqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsTk000Q02sO00u7TjTkuuvLuqb1bVTkTjTkTjTkTjTkTjTkTjTk
+BOARD 0 28 64 0 TTTUQHTUTTTUTTTUTTTUTTTUTTTUTTTUa8a9RaR8QoQpQonanbnbnbnbnbnbnbnbnbnbnbnbnbnbncTU10sO11TE262QTTTUu+00u6uqb1asatTUTTTUTTTUTTTUbVTU
+BOARD 0 29 64 0 TjTkTjTkTjTkTjTkb1bVTjTkTjb1TjTkTjRaR8Q5Q4Q5Q4n6n7n7n7n7n7n7n7n7n7n7n7n7n7n7n8asaturususuZTkQWQX10000ju6uqa8a9b1TjTkTjTkup0A0A0B
+BOARD 0 30 64 0 TTb1bVTUTTTUTTblasatTTTUTTTUTTTUTTRqQoQpQoQpQo3R3S3T3T3T3T3T3T3T3T3T3T3T3T3T3Va8a9u7b1TUTTTUQmQnb10j0T0ju60A0BuqTTTUTTupu50Q0Q0R
+BOARD 0 31 64 0 TjTkTjTkTjTkTjTka8acatTkTjTkTjasatR6Q4Q5Q4Q5Q43h3i3j3j3j3j3j3j3j3j3j3j3j3j3j3lbVuuR7RbRcRdTkTjTkQH0o0j0T0j0Q0Ru60A0A0Bu50i0g0g0h
+BOARD 0 32 64 0 TTTUTTTUTTTUTTTUb1a8a9TUTTTUasaca9RqQoQpQoQpQo33V8V9V8V9V8V9V8V9V8V9V8V9V8V934asu+QoQpRsRtTUhGhHTTTU0o0j0T0g0h0j0Q0Q0R0i0S0Q0Q0R
+BOARD 0 33 64 0 TjTkTjTkTjTkTjTka8a9TjTkTjTka8a9TjR6Q4Q5Q4Q5Q43R3F3F3S3T3T3U3F3F3S3T3T3U3F3F3Va800vKQ5Q4R7Rdhlh3iGTkTj0o0j0Q0R0T0g0g0h0S0isOsOsP
+BOARD 0 34 64 0 TTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTSKSLRsQoQpQo9C3o3o9D312l9C3o3o9D312l9C3o3o9DTU00u+QpQoQ4RtiGQHuu2gTTb10osOsP0j0Q0Q0R0i1CQpQoQp
+BOARD 0 35 64 0 TjTkTjTkTjbVasatTjTkTjTkTjTkTjTkTjTkTjR6Q4Q5Q43h3G3G3i3j3j3k3G3G3i3j3j3k3G3G3l2T00u+QoQpQoRsRtTE1011TjTka8a9Ra1DsOsOsP1CQoQpQoQ5
+BOARD 0 36 64 0 TTTUTTTUasata8a9TTTUTTTUTTasatTUTTTUTTSKSLSMSL9C3o3o3o3o3o3o3o3o3o3o3o3o3o3o9Du+000kvKu/Q4Q5R7TEb1bliViWhGiWRqQ5R7QpQoQpQoQ5Q4vJ
+BOARD 0 37 64 0 TjTkTjTka8a9b1RaRbRcRdTkTja8a9TkRaRbRcRdhGiFhH9m3o3o3o3o3o3o3o3o3o3o3o3o3o3o9nu+1U000TvKQoQ4Q5RtRaRbRcRdiFhHSKSLSLRsQoQpQoQ4vJvZ
+BOARD 0 38 64 0 TTTUTTTUTTTUTTRqQoQpR7RdTTTUTTTURqQpQoRthlT2h31K1L1M1L1M1L1M1L1L1L1M1L1M1L1L1NvOvZ1U0ju+Q4QoQpR7RqQ4Q4Rthlh3blRaRbR8Q4Q5Q4vJvZ0S
+BOARD 0 39 64 0 TjTkTjTkTjTkTjR6Q4Q5Q4R7RdRaRbRcR8Q5Q4R7RdTkTjTkTjb1asatRaR8Q4Q5Q4Q5Q4Q5Q4Q5Q4000jvK1Du+QoQ4Q5Q4Q5Q4QoQpRbRcRcRqRrQ5Q4vJvPvZ0S0i
+BOARD 0 40 64 0 TTTUTTTUiViWTTSKRsQpQoQpR7R8QoQpQoQpQoQpR7RdTTTUasata8a9RqQpQoQpQoQpQoQpQoQpQo000TvavP0kvKQoQpQoQ4Q42wvavKu/vJvJvaQpvJvZ0g0h0g0S
+BOARD 0 41 64 0 hGhHTjTkTjasatbVRqQ5Q4Q5Q4Q5Q4Q5Q4Q5Q4Q5Q4R7RdTka8a9blb1R6Q4Q4Q5Q4Q5Q4Q5Q4Q5Q41U0j0T0j0TvavKu/Q4QoQo3A0jvavPvZvZ0SvPvZ0S0Q0R0Q0i
+BOARD 0 42 64 0 hlg1hHTUasaca9RaR8QpQoQpQoQpQoQpQoQpQoQpQoQpRtTUb1a8a9TURqQpQoQpQoQpQoQpQoQpRrSN0o0T2T1D0T0TvPvPvP3A0R0T0j0Q0V1U0i0h0S0i0i0h0g0S
+BOARD 0 43 64 0 uthlh3Tka8a92E0F0F0F0F1l1k0F1lQ5Q4Q5Q4Q5Q4Q5R9TkTjTkTjTkR6Q4Q4Q5Q4Q5Q4Q5Q4Q5Rtasat0ou+vJ0j0T0R0Q0R0V0R0Q0R0TvOvP3A0Q0i0i0S0nusus
+BOARD 0 44 64 0 ufuITTS02E0F0Y1Y1Y1Y1Y0X0Y1Y0WQpQoQpQoQpRrSMSNTUTTTUTTTUSKRsQ4QpQoQpQoQpQoQpR9a8acatvO3A0T000hsO1V2U0S0g2T2U0R0Q0V0g0S0S0nTUTTTU
+BOARD 0 45 64 0 TjuYusus0U1Y1Y1Y1Y1Y1Y1Y1Y0C0mQ5RrRsQ4RrSNasatbVTjblTjTkTjSKSLRsQ4Q5Q4Q5Q4RrSNb1a8a910110j000RvOvP3A0i0QvO3A0g0h0S0Q0S0nuuuv2gTk
+BOARD 0 46 64 0 TTTUTT170Y1Y1Y1Y1Y1Y1Y1Y0C0S02RrSNuuuv2gbla8a9b1TTasatb1bVTUTTR6Q4QpRrSMSMSNTTRaRcRdTETE0o000h000Q020S0T00020Q0R0i0i0iu7u+u/2wTU
+BOARD 0 47 64 0 RcRd2E2L1Y1Y1Y1Y1Y1Y1Y1Y0W0i02SNuJu+u/2wuIbVb1hGhHa8a9asatb1TjSKSLSMSNTEasatRaR8Q4R7uu2gbl000h000Q020S0j00021F0h0S0S0Su7101F11Tk
+BOARD 0 48 64 0 QoR70U1Y1Y1Y1Y1Y1Y1Y1Y1Y0W0S02usuZ101F11uYusuthlh3uuuvuvuv2gTTTUTTTUTTb1a8a9RqQpQoQp1U11TT10sP000g020i0T26usus250i0nus2QTTuu2gTU
+BOARD 0 49 64 0 0F0F0Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0W0i02asatTkTjTkTjTku9b1uJRqQoQpQoQp2gTkTjTkTjasatblRqQ5Q4Q5Q4RtTjasat000g020S26TjasatTEusTkTjTkTj1011Tk
+BOARD 0 50 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0W0S11a8a9TUTTTUTTTUu9usuZR6Q4Q5Q4Q5Q4uvuv2gbVa8a9TUR6QpQoQpQoR9iVa8a910sO1126TUTTa8a9TEasatTTTUTTTUTTTU
+BOARD 0 51 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0W11bVTkTjTkTjasatTkufuITESKSLRsQoQpQoQpRrufuIblb1TkSKRsQ4Q5RrSNhGhHblasaturTjTkTjTkasata8a9Tjuu2gTkTjTk
+BOARD 0 52 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0X16TTTUuu2g2E0F0F2FTTuYutTUTTSKSLSMSLSMSNTUuYuITTasatSKSLSMSNiGhlh3urusus2QTTTUuu2ga8a9asat2E0F0F0F16TU
+BOARD 0 53 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y2K0F2F10110U1Y1Y0X16Tku9TkTjTkTjhGhHTkTjTkTjuYuIa8a9b1TjTkurususus2QbVTjiViWTk10112E0F0F0F0Y1Y1Y1Y2K2F
+BOARD 0 54 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0X16170Y1Y1Y1Y2K0F0F2FTTTUhGiFTVRaRbRcRdTUuYususutTTuJuZTUTTasatiGiViWTTTU2E0F0Y1Y1Y1Y1Y1Y1Y1Y1Y0X
+BOARD 0 55 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y2K2L1Y1Y1Y1Y1Y1Y1Y0X16TkhlT2h3RqQpRsRtTkhGhHTju9uJuZTjTkTja8a9urususuITk0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 56 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y2K0F0F2FTTR6Q5Q4R7Rdhlh3TTuruZuu2gTUTTurus2QTT2E0F0F0Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 57 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0X2FSKSLRsRrSNTjTkur2QTj1011urus2QTjTkTj0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 58 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0Wuv2gSKSNiGTTuJ2QTUTTTUur2QTTTUTTTU2E0Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 59 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0Wu/u/2gTjTkuJuZbVTkuJus2QTkTjTkasat0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 60 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0Wu/1k1l2guruZTUbluruZiHiHuu2gTUa8a90U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 61 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0X1l1U1Vu/u7TjuJus2QhVhnho10112E0F0F0Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 62 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0X0F1lur2QuruZTTTUhlh3TTTU170Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 63 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0X2FbVu7TkTjTkTjTU170F2L1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+LINK underdark_arena_int_unbound_01.nw 8 21 2 1 30.5 38
+NPC - 44 50
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_kingoystershroom3.gif";
+}
+NPCEND
+NPC val_underdark_kingoystershroom.gif 14 42
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+setshape 1,128,160;
+}
+NPCEND
+NPC val_underdark_kingoystershroom2.gif 37 37
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+setshape 1,128,160;
+}
+NPCEND
+NPC - 23 47
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_01.png";
+  this.attr[2] = "val_underdark_shroomlight_01.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 37 50
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_04.png";
+  this.attr[2] = "val_underdark_shroomlight_02.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 29 53
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 48 53
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 51 36
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_01r.png";
+  this.attr[2] = "val_underdark_shroomlight_01r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 45 32
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC val_unboundbanner.png 4 15
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+}
+NPCEND
+NPC val_unboundbanner.png 11 15
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+}
+NPCEND
+NPC - 43 0
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 44 8
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_04.png";
+  this.attr[2] = "val_underdark_shroomlight_02.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 45 20
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 51 19
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_02r.png";
+  this.attr[2] = "val_underdark_shroomlight_02r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 50 6
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_02r.png";
+  this.attr[2] = "val_underdark_shroomlight_02r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 57 10
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_02.png";
+  this.attr[2] = "val_underdark_shroomlight_02.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 41 9
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_01r.png";
+  this.attr[2] = "val_underdark_shroomlight_01r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 45 12
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_01.png";
+  this.attr[2] = "val_underdark_shroomlight_01.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 35 55
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_01r.png";
+  this.attr[2] = "val_underdark_shroomlight_01r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 40 60
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_01.png";
+  this.attr[2] = "val_underdark_shroomlight_01.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 36 44
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 46 39
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 33 57
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_04r.png";
+  this.attr[2] = "val_underdark_shroomlight_02r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 61 34
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_04.png";
+  this.attr[2] = "val_underdark_shroomlight_02.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 52 25
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_01r.png";
+  this.attr[2] = "val_underdark_shroomlight_01r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 60 19
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_04.png";
+  this.attr[2] = "val_underdark_shroomlight_02.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 56 22
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_01r.png";
+  this.attr[2] = "val_underdark_shroomlight_01r.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 57 28
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_01.png";
+  this.attr[2] = "val_underdark_shroomlight_01.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 60 26
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 53 49
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_lavenderparasol_04.png";
+  this.attr[2] = "val_underdark_shroomlight_02.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.1;
+  this.attr[5] = 0.25;
+  this.attr[6] = 1;
+}
+NPCEND
+NPC - 2 42
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_03.png";
+  this.attr[2] = "val_underdark_shroomlight_03.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 20 37
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_01.png";
+  this.attr[2] = "val_underdark_shroomlight_01.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 5 40
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_bluehood_01.png";
+  this.attr[2] = "val_underdark_shroomlight_01.png";
+  this.attr[3] = 0.99;
+  this.attr[4] = 0.4;
+  this.attr[5] = 0.4;
+  this.attr[6] = 0.1;
+}
+NPCEND
+NPC - 2 38
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,32,32;
+  setcharani("val_bigmushroom",NULL);
+  this.attr[1] = "val_underdark_kingoystershroom3.gif";
+}
+NPCEND
+NPC val_stalagmiteblack.gif 41 19
+NPCEND
+NPC val_stalagmiteblack.gif 51 9
+NPCEND
+NPC val_stalagmiteblack.gif 56 34
+NPCEND
+NPC val_stalagmiteblack2.gif 58 35
+NPCEND
+NPC val_stalagmiteblack2.gif 54 27
+NPCEND
+NPC val_stalagmiteblack2.gif 40 29
+NPCEND
+NPC val_stalagmiteblack2.gif 42 30
+NPCEND
+NPC val_stalagmiteblack2.gif 16 47
+NPCEND
+NPC val_stalagmiteblack.gif 59 46
+NPCEND
+NPC val_stalagmiteblack.gif 34 37
+NPCEND
+NPC val_stalagmiteblack2.gif 14 48
+NPCEND
+NPC val_stalagmiteblack2.gif 40 45
+NPCEND
+NPC val_stalagmiteblack2.gif 21 26
+NPCEND
+NPC val_stalagmiteblack2.gif 41 47
+NPCEND
+NPC val_stalagmiteblack2.gif 48 35
+NPCEND
+NPC val_stalagmiteblack2.gif 54 10
+NPCEND
+NPC val_stalagmiteblack2.gif 56 12
+NPCEND
+NPC val_stalagmiteblack2.gif 39 8
+NPCEND
+NPC val_stalagmiteblack2.gif 42 13
+NPCEND
+NPC val_stalagmiteblack2.gif 46 57
+NPCEND
+NPC val_stalagmiteblack2.gif 39 51
+NPCEND
+NPC val_stalagmiteblack2.gif 31 57
+NPCEND
+NPC val_stalagmiteblack2.gif 30 37
+NPCEND
+NPC val_stalagmiteblack2.gif 49 24
+NPCEND
+NPC val_stalagmiteblack.gif 14 40
+NPCEND
+NPC val_stalagmiteblack.gif 20 27
+NPCEND
+NPC val_stalagmiteblack2.gif 21 29
+NPCEND
+NPC val_stalagmiteblack2.gif 19 28
+NPCEND
+NPC val_stalagmiteblack2.gif 13 39
+NPCEND
+NPC val_stalagmiteblack.gif 28 48
+NPCEND
+NPC val_stalagmiteblack2.gif 27 46
+NPCEND
+NPC val_stalagmiteblack2.gif 25 48
+NPCEND
+NPC val_stalagmiteblack2.gif 33 38
+NPCEND
+NPC val_stalagmiteblack.gif 15 49
+NPCEND
+NPC val_stalagmiteblack2.gif 0 45
+NPCEND

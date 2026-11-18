@@ -1,0 +1,565 @@
+GLEVNW01
+BOARD 0 0 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 1 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 2 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 3 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 4 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 5 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 6 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 7 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgfdAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 8 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgfdAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 9 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgfdAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 10 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgfdAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 11 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgfdAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 12 64 0 AgAg3t3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u39fdAgAgAgAgAgAgAgAgfd3t3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u39fdfd
+BOARD 0 13 64 0 AgAg3+0N8A0P0KkAkB0N8A0P0KkAkB0N8A0P0KkAkB0N8A0P0KkA3vfdfdfdfdfdfdfdfdfdfd3+kB0N8A0P0KkAkB0N8A0P0KkAkB0N8A0P0KkAkB0N8A0P0K3vfdfd
+BOARD 0 14 64 0 AgAg3+0d8Q0f0akQkR0d8Q0f0akQkR0d8Q0f0akQkR0d8Q0f0akQ/h3u3u3u3u3u3u3u3u3u3u/gkR0d8Q0f0akQkR0d8Q0f0akQkR0d8Q0f0akQkR0d8Q0f0a3vAgfd
+BOARD 0 15 64 0 AgAg3+0t8A0P0qkgkh0t8A0P0qkgkh0t8A0P0qkgkh0t8A0P0qkgkAkBAgAgAgAgAgAgAgAgkAkBkh0t8A0P0qkgkh0t8A0P0qkgkh0t8A0P0qkgkh0t8A0P0q3vAgfd
+BOARD 0 16 64 0 AgAg3+0d8Q0f0akwkx0d8Q0f0akwkx0d8Q0f0akwkx0d8Q0f0akwkQkRAgAgAgAgAgAgAgAgkQkRkx0d8Q0f0akwkx0d8Q0f0akwkx0d8Q0f0akwkx0d8Q0f0a3vAgfd
+BOARD 0 17 64 0 AgAg3+0t8A0P0qlAlB0t8A0P0qlAlB0t8A0P0qlAlB0t8A0P0qlAkgkhAgAgAgAgAgAgAgAgkgkhlB0t8A0P0qlAlB0t8A0P0qlAlB0t8A0P0qlAlB0t8A0P0q3vAgfd
+BOARD 0 18 64 0 AgAg3+0d8Q0f0alQlR0d8Q0f0alQlR0d8Q0f0alQlRereseteulQkwkxAgAgAgAgAgAgAgAgkwkxlRereseteulQlR0d8Q0f0alQlR0d8Q0f0alQlR0d8Q0f0a3vAgfd
+BOARD 0 19 64 0 AgAg3+0t8A0P0qlglh0t8A0P0qlglh0t8A0P0qlglhe7fcfde+lglAlBAgAgAgAgAgAgAgAglAlBlhe7fcfde+lglh0t8A0P0qlglh0t8A0P0qlglh0t8A0P0q3vAgfd
+BOARD 0 20 64 0 AgAg3+0O0P8A8Blwlx0O0P8A8Blwlx0O0P8A8BlwlxzOfcfdzOlwlQlRAgAgAgAgAgAgAgAglQlRlxzOfcfdzOlwlx0O0P8A8Blwlx0O0P8A8Blwlx0O0P8A8B3vAgfd
+BOARD 0 21 64 0 AgAg3+zezezezezezezezezezezezezezezezezezeze7C7FzefmlglhAgAgAgAgAgAgAgAglglhfnze7C7Fzezezezezezezezezezezezezezezezezezeze3vAgfd
+BOARD 0 22 64 0 AgAg3+7E7D7E7D7E7D7E7D7E7D7E7D7E7D7E7D7E7D7E7D7Ezu0PlwlxAgAgAgAgAgAgAgAglwlx8Azu7D7E7D7E7D7E7D7E7D7E7D7E7D7E7D7E7D7E7D7E7D3vAgfd
+BOARD 0 23 64 0 AgAg3+7U7T7T7T7U7T7U7T7T7T7U7T7U7T7U7T7U7T7U7T7Uzebjfmfn7j7k7j7k7j7k7j7kfmfnbjz+7T7U7T7U7T7U7T7U7T7U7T7T7T7U7T7U7T7T7T7U7T3vAgfd
+BOARD 0 24 64 0 AgAg3+ze7C7Fze7gz/7E7D7E7D7E7D7E7E7E7Ez/zv7gzv7g7hb00P8A7T7U7T7U7T7U7T7U0P8Abzzuzv7gzv7gz/7E7D7E7D7E7D7E7E7E7Ez/zvze7C7Fze3vAgfd
+BOARD 0 25 64 0 AgAg3+zu7S7Vzu8w0P0O0P8A0P8A8A8A8A8A8B0P0/8w0/8w8xb07j7k7j7k7j7k7j7k7j7k7j7kbz0+0/8w0/8w0P0O0P8A0P8A8A8A8A8A8B0P0/zu7S7Vzu3vAgfd
+BOARD 0 26 64 0 AgAg3+z+7C7Fz+bicBCaCbCcCbCcCdCeCeCeCfcAbhbjbjbjbjbw7T7U7T7U7T7U7T7U7T7U7T7UT/bjbjbjbjbicBCaCbCcCbCcCdCeCeCeCfcAbhz+7C7Fz+3vAgfd
+BOARD 0 27 64 0 AgAg3+zO7S7VzObzcwcQcQcQcQcQcQcQcQcQcQcxb07k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7jbzcwcQcQcQcQcQcQcQcQcQcQcxb0zO7S7VzO3vAgfd
+BOARD 0 28 64 0 AgAg3+ze7C7Fzebz7gzv7gzv7gzv7gzv7gzv7gzvb07U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7Tbz7gzv7gzv7gzv7gzv7gzv7gzvb0ze7C7Fze3vAgfd
+BOARD 0 29 64 0 AgAg3+zu7S7Vzubz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb07k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7jbz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb0zu7S7Vzu3vAgfd
+BOARD 0 30 64 0 AgAg3+z+7C7Fz+bz7gzv7gzv7gzv7gzv7gzv7gzvb07U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7Tbz7gzv7gzv7gzv7gzv7gzv7gzvb0z+7C7Fz+3vAgfd
+BOARD 0 31 64 0 AgAg3+zO7S7VzObz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb07k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7jbz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb0zO7S7VzO3vAgfd
+BOARD 0 32 64 0 AgAg3+ze7C7Fzebz7gzv7gzv7gzv7gzv7gzv7gzvb07U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7Tbz7gzv7gzv7gzv7gzv7gzv7gzvb0ze7C7Fze3vAgfd
+BOARD 0 33 64 0 AgAg3+zu7S7Vzubz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb07k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7jbz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb0zu7S7Vzu3vAgfd
+BOARD 0 34 64 0 AgAg3+z+7C7Fz+bz7gzv7gzv7gzv7gzv7gzv7gzvb07U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7Tbz7gzv7gzv7gzv7gzv7gzv7gzvb0z+7C7Fz+3vAgfd
+BOARD 0 35 64 0 AgAg3+zO7S7VzObz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb07k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7jbz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb0zO7S7VzO3vAgfd
+BOARD 0 36 64 0 AgAg3+ze7C7Fzebz7gzv7gzv7gzv7gzv7gzv7gzvb07U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7Tbz7gzv7gzv7gzv7gzv7gzv7gzvb0ze7C7Fze3vfdfd
+BOARD 0 37 64 0 AgAg3+zu7S7Vzubz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb07k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7jbz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb0zu7S7Vzu3vfdfd
+BOARD 0 38 64 0 AgAg3+z+7C7Fz+bz7gzv7gNzNzNzNzNzNzzv7gzvb07U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7Tbz7gzv7gNzNzNzNzNzNzzv7gzvb0z+7C7Fz+3vfdfd
+BOARD 0 39 64 0 AgAg3+zO7S7VzObz7QzfNzNzNyNyNyNyNzNz7Qzfb07k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7jbz7QzfNzNzNyNyNyNyNzNz7Qzfb0zO7S7VzO3vfdfd
+BOARD 0 40 64 0 AgAg3+ze7C7Fzebz7gNzNzNyNyNyNyNyNyNyNzzvb07U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7Tbz7gNzNzNyNyNyNyNyNyNyNzzvb0ze7C7Fze3vfdfd
+BOARD 0 41 64 0 AgAg3+ze7C7Fzebz7QNzNyNyNyNyNyNyNyNyNzzfb07k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7jbz7QNzNyNyNyNyNyNyNyNyNzzfb0ze7C7Fze3vfdfd
+BOARD 0 42 64 0 AgAg3+zu7S7Vzubz7gNzNyNyNyNyNyNyNyNyNzzvb07U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7Tbz7gNzNyNyNyNyNyNyNyNyNzzvb0zu7S7Vzu3vfdfd
+BOARD 0 43 64 0 AgAg3+z+7C7Fz+bz7QNzNyNyNyNyNyNyNyNyNzzfb07k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7jbz7QNzNyNyNyNyNyNyNyNyNzzfb0z+7C7Fz+3vfdfd
+BOARD 0 44 64 0 AgAg3+zO7S7VzObz7gNzNzNzNyNyNyNyNzNzNzzvb07U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7Tbz7gNzNzNzNyNyNyNyNzNzNzzvb0zO7S7VzO3vfdfd
+BOARD 0 45 64 0 AgAg3+ze7C7Fzebz7Q7Q7QNzNzNzNzNzNz7Q7Qzfb07k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7jbz7Q7Q7QNzNzNzNzNzNz7Q7Qzfb0ze7C7Fze3vfdfd
+BOARD 0 46 64 0 AgAg3+zu7S7Vzubz7gzv7gzv7gzv7gzv7gzv7gzvb07U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7Tbz7gzv7gzv7gzv7gzv7gzv7gzvb0zu7S7Vzu3vfdfd
+BOARD 0 47 64 0 AgAg3+z+7C7Fz+bz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb07k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7jbz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb0z+7C7Fz+3vfdfd
+BOARD 0 48 64 0 AgAg3+zO7S7VzObz7gzv7gzv7gzv7gzv7gzv7gzvb07U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7Tbz7gzv7gzv7gzv7gzv7gzv7gzvb0zO7S7VzO3vfdfd
+BOARD 0 49 64 0 AgAg3+ze7C7Fzebz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb07k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7jbz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb0ze7C7Fze3vfdfd
+BOARD 0 50 64 0 AgAg3+zu7S7Vzubz7gzv7gzv7gzv7gzv7gzv7gzvb07U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7Tbz7gzv7gzv7gzv7gzv7gzv7gzvb0zu7S7Vzu3vfdfd
+BOARD 0 51 64 0 AgAg3+z+7i7lz+bz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb07k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7j7k7jbz7Qzf7Qzf7Qzf7Qzf7Qzf7Qzfb0z+7i7lz+3vfdfd
+BOARD 0 52 64 0 AgAg3+zO7y71zObz7gzv7gzv7gzv7gzv7gzv7gzvb07U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7T7U7Tbz7gzv7gzv7gzv7gzv7gzv7gzvb0zO7y71zO3vfdfd
+BOARD 0 53 64 0 AgAg3s3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3//w7j7k7j/x3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/38fdfd
+BOARD 0 54 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgfdfd
+BOARD 0 55 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgfdfd
+BOARD 0 56 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgfdfd
+BOARD 0 57 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgfdfd
+BOARD 0 58 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgfdfd
+BOARD 0 59 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgfdfd
+BOARD 0 60 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgfdfd
+BOARD 0 61 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgfdfd
+BOARD 0 62 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgfdfd
+BOARD 0 63 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+LINK springsunderdark_tunnel1.nw 29 54 5 1 22.5 16.5
+LINK springsunderdark_crab.nw 28 23 8 1 30.5 55
+NPC val_ganelonfountainbase.gif 3 33
+// NPC made by Ritz
+if (created) {
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelonfountainbase.gif 39 33
+// NPC made by Ritz
+if (created) {
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cloud-lightbeam2.gif 51 26
+//#CLIENTSIDE
+function onCreated() {
+  this.red = .2;
+  this.green =.2;
+  this.blue = .2;
+  this.alpha = 0.8;
+  this.zoom = 3;
+  drawaslight();
+  dontblock();
+}
+NPCEND
+NPC tt_waterfallani.gif 17 25
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 22 20
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 22 21
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 22 22
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 40 20
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 40 21
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 40 22
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 45 24
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 47 24
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 49 24
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 51 24
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 53 24
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 53 25
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 51 25
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 49 25
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 47 25
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 45 25
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 17 24
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 15 24
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 13 24
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 11 24
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 9 24
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 9 25
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 11 25
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_cloud-lightbeam2.gif 15 26
+//#CLIENTSIDE
+function onCreated() {
+  this.red = .2;
+  this.green =.2;
+  this.blue = .2;
+  this.alpha = 0.8;
+  this.zoom = 3;
+  drawaslight();
+  dontblock();
+}
+NPCEND
+NPC tt_waterfallani.gif 13 25
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC tt_waterfallani.gif 15 25
+// NPC made by Stefan Knorr
+if (created) {
+  setimg tt_waterfallani.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.36,0.7;
+  setzoomeffect 1;
+}
+NPCEND
+NPC emp_syrenstatue-07.gif 10 34
+// Created by fireball1000
+NPCEND
+NPC emp_syrenstatue-07.gif 46 34
+// Created by fireball1000
+NPCEND
+NPC - 28 15
+function onCreated() {
+  setshape2 8,10,{
+    22,22,22,22,22,22,22,22,
+    22,22,22,22,22,22,22,22,
+    22,22,22,22,22,22,22,22,
+    22,22,22,22,22,22,22,22,
+    22,22,22,22,22,22,22,22,
+    22,22,22,22,22,22,22,22,
+    22,22,22,22,22,22,22,22,
+    22,22,22,22,22,22,22,22,
+    22,22,22,22,22,22,22,22,
+    22,22,22,22,22,22,22,22,
+      };
+  this.w = 160;
+  showimg(1,"val_whitespring_templedoor.gif",x,y);
+  changeimgpart(1,0,0,128,160);
+  changeimgvis 1,1;
+}
+function onActionLeftMouse() {
+  if (this.w==160) {
+    dontblock();
+    this.m = 1;
+    this.setTimer(.05);
+  }
+  else {
+    blockagain();
+    this.m = 2;
+    this.setTimer(.05);
+  }
+}
+function onTimeout() {
+  showimg(1,"val_whitespring_templedoor.gif",x,y);
+  changeimgpart(1,0,160-this.w,128,this.w);
+  if (this.m==1) {
+    if (this.w>=8) {
+      this.w -= 4;
+    }
+    else {
+      hideimg(1);
+      this.m==0;
+    }
+  }
+  else if (this.m==2) {
+    if (this.w<=(156)) {
+      this.w += 4;
+    }
+    else {
+      this.m==0;
+    }
+  }
+  this.setTimer(.05);
+  changeimgvis 1,1;
+}
+//#CLIENTSIDE
+function onCreated() {
+  setshape2 8,10,{
+    0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,
+    22,22,22,22,22,22,22,22,
+    22,22,22,22,22,22,22,22,
+      };
+}
+NPCEND
+NPC val_tempcb.gif 55 14
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.2,y-3.1;
+  changeimgcolors 1,2,1.1,2,0.50;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC val_tempcb.gif 7 14
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.2,y-3.1;
+  changeimgcolors 1,2,1.1,2,0.50;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC val_tempcb.gif 19 14
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.2,y-3.1;
+  changeimgcolors 1,2,1.1,2,0.50;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC val_tempcb.gif 43 14
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.2,y-3.1;
+  changeimgcolors 1,2,1.1,2,0.50;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND

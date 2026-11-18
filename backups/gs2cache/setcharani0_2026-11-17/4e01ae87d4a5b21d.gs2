@@ -1,0 +1,27 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.x = this.x-.5;
+  showcharacter();
+  this.attr[1] = "hat.png";
+  this.head = "val_peasanthead.gif";
+  this.body = "val_hammerforgejeweler-body100.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.swordpower = 1;
+  this.shield = "no-shield.gif";
+  this.shieldpower = 1;
+  this.ap = 100;
+  this.nick = "Stable Boy";
+  this.dir = 3;
+}
+
+function onPlayerTouchsMe() {
+  message("So many people riding in and out. I must be the busiest boy around! If only I could hold a pitchfork in both hands...");
+  sleep(4);
+  message();
+}

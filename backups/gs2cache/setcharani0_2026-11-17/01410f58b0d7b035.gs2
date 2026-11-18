@@ -1,0 +1,34 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  showtext(1, this.x+1.78, "y+.55", "Comic Sans MS", "bc", "Crusader");
+  changeimgzoom(1, .75);
+  changeimgvis(2, 2);
+}
+
+function onPlayerChats() {
+  gs1_always();
+  if ((player.chat == "Crusader")) {
+    player.attr[1] = "";
+    player.body = "val-newcrusaderbody4.gif";
+    this.attr[1] = "hat-genehat2fix.gif";
+    player.head = "val-nadrion-valikorliapaladin.gif";
+    player.shield = "valikorlian-crusadershield.gif";
+  }
+}
+
+function gs1_always() {
+  showcharacter();
+  this.shield = "valikorlian-crusadershield.gif";
+  this.attr[1] = "hat-genehat2fix.gif";
+  this.head = "val-nadrion-valikorliapaladin.gif";
+  this.body = "val-newcrusaderbody4.gif";
+  this.colors[0] = "white";
+  this.colors[1] = "white";
+  this.colors[2] = "white";
+  this.colors[3] = "white";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 2;
+}

@@ -1,0 +1,817 @@
+GLEVNW01
+BOARD 0 0 64 0 DADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAM
+BOARD 0 1 64 0 AZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAc
+BOARD 0 2 64 0 ApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAs
+BOARD 0 3 64 0 A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8
+BOARD 0 4 64 0 BJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNYHYIYIYIYIYIYIYJBKBLBMBNBMBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBM
+BOARD 0 5 64 0 BZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdYXYYYYYYYYYYYYYZBaBbBcBdBcBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBc
+BOARD 0 6 64 0 AMDCDDDADBALAMDCDDDADBALAMDCDDDADBALYHYIYIYIYIYXYYYYYYYYYYYYYZYIYIYJDDALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDA
+BOARD 0 7 64 0 AcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAdAeDRYXYYYYYYYYYXYYYYYYYYYYYYYZYYYYYZDQAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZ
+BOARD 0 8 64 0 AsAtAuApAqArAsAtAuApAqArAsAtAuAtAuDhYXYYU4U5YYYKYcYcYcYcYcYcYLYYYYYZDgArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuAp
+BOARD 0 9 64 0 A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+ABABABYXYYVYVZYYCgYKYcYcYcYcYLCDYYYYYZA4A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5
+BOARD 0 10 64 0 BMBNBOBJBKBLBMBNBOBJBKBLBMBNBOf/f/f/YXYYYYYYYYCgNqYvibibYvNqCDYYYYYZBIBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJ
+BOARD 0 11 64 0 BcBdBeBZBaBbBcBdBeBZBaBbBcBdBef/f/f/YXYYYYYYYYCgNqYvbQbQYvNqCDYYYYYZBYBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZ
+BOARD 0 12 64 0 DADBALAMDCDDDADBALAMDCDDDADBALABABABYXYYYYYYYYCwN6YvN6N6YvN6CTYYYYYZBoDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAM
+BOARD 0 13 64 0 AZAaAbAcAdAeAZAaAbAcAdAeAZAaAbf/f/f/YXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYZB4B5AZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAc
+BOARD 0 14 64 0 ApAqArAsAtAuApAqArAsAtAuApAqArf/f/f/YXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYZf/CJApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAs
+BOARD 0 15 64 0 A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7ABf/ABYKYcYcYcYcYcYcYcYcYcYcYcYcYcYcYLf/f/A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8
+BOARD 0 16 64 0 BJBKBLBMBNBOBJBKBLBMBNBOBJBKBLf/ABf/CghShThUhVhCYKYcYcYcYcYLhChChCCDf/AABJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBM
+BOARD 0 17 64 0 BZBaBbBcBdBeBZBaBbBcBdBeBZBaBbf/f/ABCgB0B1B2B3CgNqYvibibYvNqNqNqNqCDf/ABBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBc
+BOARD 0 18 64 0 AMDCDDDADBALAMDCDDDADBALAMDCDDDAf/f/CgCENFNFCHCgNqYvbQbQYvNqNqNqNqCDf/f/AMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDA
+BOARD 0 19 64 0 AcAdAeAZAaAbAcAdAeAZAaAbAcAdAef/0Rf/CwCUNFNFCXCwN6YvN6N6YvN6N6N6N6CTf/f/f/B4AYAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZ
+BOARD 0 20 64 0 AsAtAuApAqArAsAtAuApAqArAsAtAuAAABf/f/f/f/f/f/f/G0YYf/f/YYKpKqKpKpKqf/f/f/f/AoApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuAp
+BOARD 0 21 64 0 A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A/AAABf/f/f/f/f/HoGlYYf/f/YYK5K6K5K5K6f/f/csctA4A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5
+BOARD 0 22 64 0 BMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBPf/f/f/f/AAABHoG0G1YYYYYYYYG1GlG0G1GkHpf/c8c9BIBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJ
+BOARD 0 23 64 0 BcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBff/f/f/f/HoGlG0G1H5YcYcYcYcGlGlGlG0G1GkHpAAABBYBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZ
+BOARD 0 24 64 0 DADBALAMDCDDDADBALAMDCDDBsBtBuBvf/HoGlGkGlG1G0H5AAABHoG0GlG0G1GkGlGkG0G1AJAKALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAM
+BOARD 0 25 64 0 AZAaAbAcAdAeAZAaAbAcAdAeDRB9B+B/HoGlG1G0GkGlH5f/AQHoGkG0GkGlGkGkGlG0GlAYAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAc
+BOARD 0 26 64 0 ApAqArAsAtAuApAqArAsAtAuDhCNCOf/G0G1GkGkGlH5f/HoGlGkG0G1GkGlG0GkGlG0G1AoApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAs
+BOARD 0 27 64 0 A5A6A7A8A9A+A5A6A7A8A9A+A/Cdf/H/ABOLG0G0H5AAABG0G1G0G1GlGkGlGkG0GkGlGkA4A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8
+BOARD 0 28 64 0 BJBKBLBMBNBOBJBKBLBMBNBOBPATAAABAAABGkGlAAABHoGlGkGkG0G1GkGlG0G1GkGlG0BIBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBM
+BOARD 0 29 64 0 BZBaBbBcBdBeBZBaBbBcBdBeBfAAABf/f/HoGlH5f/HoG0G1G0G0H5f/G0H5AAABG0H5AABYBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBc
+BOARD 0 30 64 0 AMDCDDDADBALAMDCDDBsBtBuBvf/f/HoGlGkH5AAf/AJAKALAMANAOAJAKALAMANAOAJAKALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDA
+BOARD 0 31 64 0 AcAdAeAZAaAbAcAdAeDRB9B+B/f/f/G0H5AAABf/AYAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZ
+BOARD 0 32 64 0 AsAtAuApAqArAsAtAuDhCNCOf/f/f/f/AwAxHoGkAoApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuAp
+BOARD 0 33 64 0 A8A9A+A5A6A7A8A9A+A/Cdf/H/f/f/f/f/f/f/G0A4A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5
+BOARD 0 34 64 0 BMBNBOBJBKBLBMBNBOBPf/f/f/f/f/f/f/f/KlKmBIBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJ
+BOARD 0 35 64 0 BcBdBeBZBaBbBcBdBeBff/f/f/f/f/KoK4KoK1K2BYBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZ
+BOARD 0 36 64 0 DADBALAMDCDDBsBtBuBvf/f/f/AKALAMANAOAJAKALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAM
+BOARD 0 37 64 0 AZAaAbAcAdAeDRB9B+B/f/f/f/AaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAc
+BOARD 0 38 64 0 ApAqArAsAtAuDhCNCOf/f/f/f/AqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAs
+BOARD 0 39 64 0 A5A6A7A8A9A+A/Cdf/H/f/f/f/A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8
+BOARD 0 40 64 0 BJBKBLBMBNBOBPf/f/f/f/f/f/BKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBM
+BOARD 0 41 64 0 BZBaBbBcBdBeBff/f/f/f/f/BZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBc
+BOARD 0 42 64 0 AMDCDDDADBALAMDCDDDAEcf/AMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDA
+BOARD 0 43 64 0 AcAdAeAZAaAbAcAdAeAZEcf/AcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZ
+BOARD 0 44 64 0 AsAtAuApAqArAsAtAuApEcEcAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuAp
+BOARD 0 45 64 0 A8A9A+A5A6A7A8A9A+A5EcEcA8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5
+BOARD 0 46 64 0 BMBNBOBJBKBLBMBNBOBJEcEcBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJ
+BOARD 0 47 64 0 BcBdBeBZBaBbBcBdBeBZEcEcBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZ
+BOARD 0 48 64 0 DADBALAMDCDDDADBALAMEcEcDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAM
+BOARD 0 49 64 0 AZAaAbAcAdAeAZAaAbAcEcEcAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAc
+BOARD 0 50 64 0 ApAqArAsAtAuApAqArAsEcEcApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAs
+BOARD 0 51 64 0 A5A6A7A8A9A+A5A6A7A8EcEcA5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8
+BOARD 0 52 64 0 BJBKBLBMBNBOBJBKBLBMEcEcBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBM
+BOARD 0 53 64 0 BZBaBbBcBdBeBZBaBbBcEcEcBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBc
+BOARD 0 54 64 0 AMDCDDDADBALAMDCDDDAEcEcAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDA
+BOARD 0 55 64 0 AcAdAeAZAaAbAcAdAeAZEcEcAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZ
+BOARD 0 56 64 0 AsAtAuApAqArAsAtAuApEcEcAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuAp
+BOARD 0 57 64 0 A8A9A+A5A6A7A8A9A+A5EcEcA8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5
+BOARD 0 58 64 0 BMBNBOBJBKBLBMBNBOBJEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJ
+BOARD 0 59 64 0 BcBdBeBZBaBbBcBdBeBZEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZ
+BOARD 0 60 64 0 DADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCEcEdDBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAMDCDDDADBALAM
+BOARD 0 61 64 0 AZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdEcEdAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAc
+BOARD 0 62 64 0 ApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtEcEdAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAs
+BOARD 0 63 64 0 A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9EcEdA6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8
+LINK newmournglade_b1.nw 63 0 1 64 0 playery
+LINK newmournglade_a2.nw 0 63 64 1 playerx 0
+LINK mourngladeint_crimmehouse.nw 20 18 2 1 16.5 35
+NPC smokeani.gif 18 5
+//#CLIENTSIDE
+dontblock;
+drawoverplayer;
+setcoloreffect .4,.4,.4,.75;
+seteffect 0,0,0,0;
+NPCEND
+NPC light2s.png 14 18
+// NPC made by Stefan Knorr
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  spawn();
+  setcoloreffect 1,1,1,0.29;
+  drawaslight;
+  timeout=.05;
+}
+
+function spawn() {
+  x=random(0,64);
+  y=random(0,64);
+  if (onwall(x,y)) {
+    x=random(0,64);
+    y=random(0,64);
+    spawn();
+  }
+}
+
+if (timeout) {
+  this.dx=random(-7,7);
+  this.dy=random(-1,1);
+  move this.dx,this.dy,7,4+8;
+}
+if (movementfinished) {
+    timeout=.05;
+}
+
+setzoomeffect .5;
+NPCEND
+NPC light2s.png 15 18
+// NPC made by Stefan Knorr
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  spawn();
+  setcoloreffect 1,1,1,0.29;
+  drawaslight;
+  timeout=.05;
+}
+
+function spawn() {
+  x=random(0,64);
+  y=random(0,64);
+  if (onwall(x,y)) {
+    x=random(0,64);
+    y=random(0,64);
+    spawn();
+  }
+}
+
+if (timeout) {
+  this.dx=random(-7,7);
+  this.dy=random(-1,1);
+  move this.dx,this.dy,7,4+8;
+}
+if (movementfinished) {
+    timeout=.05;
+}
+
+setzoomeffect .5;
+NPCEND
+NPC light2s.png 16 18
+// NPC made by Stefan Knorr
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  spawn();
+  setcoloreffect 1,1,1,0.29;
+  drawaslight;
+  timeout=.05;
+}
+
+function spawn() {
+  x=random(0,64);
+  y=random(0,64);
+  if (onwall(x,y)) {
+    x=random(0,64);
+    y=random(0,64);
+    spawn();
+  }
+}
+
+if (timeout) {
+  this.dx=random(-7,7);
+  this.dy=random(-1,1);
+  move this.dx,this.dy,7,4+8;
+}
+if (movementfinished) {
+    timeout=.05;
+}
+
+setzoomeffect .5;
+NPCEND
+NPC light2s.png 14 19
+// NPC made by Stefan Knorr
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  spawn();
+  setcoloreffect 1,1,1,0.29;
+  drawaslight;
+  timeout=.05;
+}
+
+function spawn() {
+  x=random(0,64);
+  y=random(0,64);
+  if (onwall(x,y)) {
+    x=random(0,64);
+    y=random(0,64);
+    spawn();
+  }
+}
+
+if (timeout) {
+  this.dx=random(-7,7);
+  this.dy=random(-1,1);
+  move this.dx,this.dy,7,4+8;
+}
+if (movementfinished) {
+    timeout=.05;
+}
+
+setzoomeffect .5;
+NPCEND
+NPC light2s.png 15 19
+// NPC made by Stefan Knorr
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  spawn();
+  setcoloreffect 1,1,1,0.29;
+  drawaslight;
+  timeout=.05;
+}
+
+function spawn() {
+  x=random(0,64);
+  y=random(0,64);
+  if (onwall(x,y)) {
+    x=random(0,64);
+    y=random(0,64);
+    spawn();
+  }
+}
+
+if (timeout) {
+  this.dx=random(-7,7);
+  this.dy=random(-1,1);
+  move this.dx,this.dy,7,4+8;
+}
+if (movementfinished) {
+    timeout=.05;
+}
+
+setzoomeffect .5;
+NPCEND
+NPC light2s.png 16 19
+// NPC made by Stefan Knorr
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  spawn();
+  setcoloreffect 1,1,1,0.29;
+  drawaslight;
+  timeout=.05;
+}
+
+function spawn() {
+  x=random(0,64);
+  y=random(0,64);
+  if (onwall(x,y)) {
+    x=random(0,64);
+    y=random(0,64);
+    spawn();
+  }
+}
+
+if (timeout) {
+  this.dx=random(-7,7);
+  this.dy=random(-1,1);
+  move this.dx,this.dy,7,4+8;
+}
+if (movementfinished) {
+    timeout=.05;
+}
+
+setzoomeffect .5;
+NPCEND
+NPC b_windows.png 26 10
+//#CLIENTSIDE
+drawoverplayer;
+dontblock;
+NPCEND
+NPC lampanimation.gif 23 17
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart lampanimation.gif,0,0,19,35;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.4,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC midas-workbenchh.gif 29 20
+// NPC made by Verb, Spider Elder of the Animal Council
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+NPCEND
+NPC b_windows.png 26 17
+//#CLIENTSIDE
+drawoverplayer;
+dontblock;
+NPCEND
+NPC plant_32.png 25 18
+//#CLIENTSIDE
+if (created) {dontblock;drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC plant_9.png 24 20
+//#CLIENTSIDE
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC plant_2.png 24 19
+//#CLIENTSIDE
+if (created) {dontblock;drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC plant_6.png 26 19
+// NPC made by Midas Antilles
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC plant_29.png 26 18
+//#CLIENTSIDE
+if (created) {dontblock;drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC plant_9.png 27 19
+//#CLIENTSIDE
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC plant_32.png 26 19
+//#CLIENTSIDE
+if (created) {dontblock;drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC plant_6.png 27 20
+// NPC made by Midas Antilles
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC door.png 20 18
+if (created) {
+  this.door=0;
+}
+
+if (playerchats && strequals(#a,fireball1000))
+  if (strequals(#c,"Open.")) {
+  this.door=1;
+}
+if (playerchats && strequals(#a,fireball1000))
+  if (strequals(#c,"Close.")) {
+  this.door=0;
+}
+
+
+if (playertouchsme) {
+  if (this.door==1) {
+    hide;
+    timeout=1;
+  }
+  else if (this.door==0){say2 Locked!;
+  }
+}
+if (timeout)
+  show;
+NPCEND
+NPC - 35 20
+NPC val-gaztreetop2.gif 33 18
+//#CLIENTSIDE
+setimgpart val-gaztreetop2.gif,0,0,128,128;
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val-gaztreetop2.gif 12 10
+//#CLIENTSIDE
+setimgpart val-gaztreetop2.gif,0,0,128,128;
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val-gaztreetop2.gif 11 6
+//#CLIENTSIDE
+setimgpart val-gaztreetop2.gif,0,0,128,128;
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val-gaztreetop2.gif 11 14
+//#CLIENTSIDE
+setimgpart val-gaztreetop2.gif,0,0,128,128;
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val-gaztreetop2.gif 32 9
+//#CLIENTSIDE
+setimgpart val-gaztreetop2.gif,0,0,128,128;
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val-gaztreetop2.gif 30 4
+//#CLIENTSIDE
+setimgpart val-gaztreetop2.gif,0,0,128,128;
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val-gaztreetop2.gif 12 2
+//#CLIENTSIDE
+setimgpart val-gaztreetop2.gif,0,0,128,128;
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val-gaztreetop2.gif 32 14
+//#CLIENTSIDE
+setimgpart val-gaztreetop2.gif,0,0,128,128;
+dontblock;
+drawoverplayer;
+NPCEND
+NPC ambient_light.png 12 16
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.6;
+seteffectmode 2;
+setzoomeffect 1;
+}
+NPCEND
+NPC ambient_light.png 9 23
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.6;
+seteffectmode 2;
+setzoomeffect 1;
+}
+NPCEND
+NPC ambient_light.png 6 29
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.6;
+seteffectmode 2;
+setzoomeffect 1;
+}
+NPCEND
+NPC ambient_light.png 30 15
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.6;
+seteffectmode 2;
+setzoomeffect 1;
+}
+NPCEND
+NPC val_cloud-lightbeam2.gif 45 13
+//#CLIENTSIDE
+setcoloreffect .4,.2,0,.4;
+dontblock;
+setzoomeffect 3;
+drawoverplayer;
+NPCEND
+NPC val_cloud-lightbeam2.gif 14 47
+//#CLIENTSIDE
+setcoloreffect .4,.2,0,.4;
+dontblock;
+setzoomeffect 3;
+drawoverplayer;
+NPCEND
+NPC ambient_light.png 31 21
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.6;
+seteffectmode 2;
+setzoomeffect 1;
+}
+NPCEND
+NPC val-gaztreetop2.gif 9 42
+//#CLIENTSIDE
+if (created) {
+setimgpart val-gaztreetop2.gif,10,0,100,120;
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop2.gif 12 36
+//#CLIENTSIDE
+if (created) {
+setimgpart val-gaztreetop2.gif,10,0,100,120;
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop2.gif 6 36
+//#CLIENTSIDE
+if (created) {
+setimgpart val-gaztreetop2.gif,10,0,100,120;
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop2.gif 12 48
+//#CLIENTSIDE
+if (created) {
+setimgpart val-gaztreetop2.gif,10,0,100,120;
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop2.gif 6 48
+//#CLIENTSIDE
+if (created) {
+setimgpart val-gaztreetop2.gif,10,0,100,120;
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop2.gif 9 54
+//#CLIENTSIDE
+if (created) {
+setimgpart val-gaztreetop2.gif,10,0,100,120;
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop2.gif 15 54
+//#CLIENTSIDE
+if (created) {
+setimgpart val-gaztreetop2.gif,10,0,100,120;
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop2.gif 21 54
+//#CLIENTSIDE
+if (created) {
+setimgpart val-gaztreetop2.gif,10,0,100,120;
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop2.gif 27 54
+//#CLIENTSIDE
+if (created) {
+setimgpart val-gaztreetop2.gif,10,0,100,120;
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop2.gif 33 54
+//#CLIENTSIDE
+if (created) {
+setimgpart val-gaztreetop2.gif,10,0,100,120;
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop2.gif 36 60
+//#CLIENTSIDE
+if (created) {
+setimgpart val-gaztreetop2.gif,10,0,100,120;
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop2.gif 30 60
+//#CLIENTSIDE
+if (created) {
+setimgpart val-gaztreetop2.gif,10,0,100,120;
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val_undyingbanner.gif 20 8
+// NPC made by Midas Antilles
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cloud-lightbeam2.gif 26 62
+//#CLIENTSIDE
+setcoloreffect .4,.2,0,.4;
+dontblock;
+setzoomeffect 3;
+drawoverplayer;
+NPCEND
+NPC suirikinghost.gif 27 17
+//#CLIENTSIDE
+function onPlayerEnters()
+{
+  settimer(0.1);
+}
+function onTimeout() {
+  setcoloreffect( 0.5,0.7,1,0.70 );
+  drawaslight();
+  setzoomeffect(1.0);
+hide();
+sleep(20);
+show();
+setcoloreffect(0.5,0.7,1,0.05);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.15);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.35);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.50);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.70);
+sleep(4);
+setcoloreffect 0.5,0.7,1,0.70;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.50;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.35;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.15;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.05;
+hide();
+settimer(.5);
+}
+NPCEND
+NPC suirikinghost.gif 28 22
+//#CLIENTSIDE
+function onPlayerEnters()
+{
+  settimer(0.1);
+}
+function onTimeout() {
+  setcoloreffect( 0.5,0.7,1,0.70 );
+  drawaslight();
+  setzoomeffect(1.0);
+hide();
+sleep(5);
+show();
+setcoloreffect(0.5,0.7,1,0.05);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.15);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.35);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.50);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.70);
+sleep(4);
+setcoloreffect 0.5,0.7,1,0.70;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.50;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.35;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.15;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.05;
+hide();
+settimer(.5);
+}
+NPCEND
+NPC suirikinghost.gif 27 19
+//#CLIENTSIDE
+function onPlayerEnters()
+{
+  settimer(0.1);
+}
+function onTimeout() {
+  setcoloreffect( 0.5,0.7,1,0.70 );
+  drawaslight();
+  setzoomeffect(1.0);
+hide();
+sleep(8);
+show();
+setcoloreffect(0.5,0.7,1,0.05);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.15);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.35);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.50);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.70);
+sleep(4);
+setcoloreffect 0.5,0.7,1,0.70;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.50;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.35;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.15;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.05;
+hide();
+settimer(.5);
+}
+NPCEND
+NPC suirikinghost.gif 29 19
+dontblock;
+//#CLIENTSIDE
+function onPlayerEnters()
+{
+  settimer(0.1);
+}
+function onTimeout() {
+  setcoloreffect( 0.5,0.7,1,0.70 );
+  drawaslight();
+  setzoomeffect(1.0);
+hide();
+sleep(12);
+show();
+setcoloreffect(0.5,0.7,1,0.05);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.15);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.35);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.50);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.70);
+sleep(4);
+setcoloreffect 0.5,0.7,1,0.70;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.50;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.35;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.15;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.05;
+hide();
+settimer(.5);
+}
+NPCEND
+NPC suirikinghost.gif 24 21
+dontblock;
+//#CLIENTSIDE
+function onPlayerEnters()
+{
+  settimer(0.1);
+}
+function onTimeout() {
+  setcoloreffect( 0.5,0.7,1,0.70 );
+  drawaslight();
+  setzoomeffect(1.0);
+hide();
+sleep(25);
+show();
+setcoloreffect(0.5,0.7,1,0.05);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.15);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.35);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.50);
+sleep(0.1);
+setcoloreffect(0.5,0.7,1,0.70);
+sleep(4);
+setcoloreffect 0.5,0.7,1,0.70;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.50;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.35;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.15;
+sleep(0.1);
+setcoloreffect 0.5,0.7,1,0.05;
+hide();
+settimer(.5);
+}
+NPCEND

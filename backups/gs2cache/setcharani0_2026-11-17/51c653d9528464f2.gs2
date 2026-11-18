@@ -1,0 +1,50 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "kenderbabybluepouch.gif";
+  this.head = "sky-zangkender2.gif";
+  this.body = "tindertotpersonalbody2.gif";
+  this.colors[0] = "orange";
+  this.colors[1] = "darkpurple";
+  this.colors[2] = "darkgreen";
+  this.colors[3] = "black";
+  this.colors[4] = "brown";
+  setcharani("0", NULL);
+  this.nick = "Kender Sailor";
+  setcharani("idle", NULL);
+  this.dir = 2;
+}
+
+function onPlayerEnters() {
+  this.name = "tamachan";
+  setcharani("idle", this.idle);
+  this.randomx = int(random(-2, 2));
+  this.randomy = int(random(-2, 2));
+  if (!onwall(this.x+1.5*this.randomx, this.y+2*this.randomy) && !onwater(this.x+1.5*this.randomx, this.y+2*this.randomy)) {
+    move(this.randomx, this.randomy, 1, 4+8+16+32);
+    setcharani("walk", this.walk);
+  }
+  sleep(1);
+  setcharani("idle", this.idle);
+  setTimer(random(2, 5));
+}
+
+function onPlayerTouchsMe() {
+  message("Tally ho! How are you?");
+  sleep(3);
+  message();
+}
+
+function onTimeOut() {
+  this.name = "tamachan";
+  setcharani("idle", this.idle);
+  this.randomx = int(random(-2, 2));
+  this.randomy = int(random(-2, 2));
+  if (!onwall(this.x+1.5*this.randomx, this.y+2*this.randomy) && !onwater(this.x+1.5*this.randomx, this.y+2*this.randomy)) {
+    move(this.randomx, this.randomy, 1, 4+8+16+32);
+    setcharani("walk", this.walk);
+  }
+  sleep(1);
+  setcharani("idle", this.idle);
+  setTimer(random(2, 5));
+}

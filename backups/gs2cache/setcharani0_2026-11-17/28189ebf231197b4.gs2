@@ -1,0 +1,32 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  showtext(1, this.x+1.78, "y+.55", "Comic Sans MS", "bc", "Light Soldier");
+  changeimgzoom(1, .75);
+  changeimgvis(2, 2);
+}
+
+function onPlayerChats() {
+  gs1_always();
+  if ((player.chat == "Light Soldier")) {
+    player.body = "eingard-scoutbody3.gif";
+    player.attr[1] = "no-hat.gif";
+    player.shield = "shieldbuckler.gif";
+  }
+}
+
+function gs1_always() {
+  showcharacter();
+  this.attr[1] = "no-hat.png";
+  this.shield = "shieldbuckler.gif";
+  this.head = "head890.gif";
+  this.body = "eingard-scoutbody3.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "lightgray";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "lightgray";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 2;
+}

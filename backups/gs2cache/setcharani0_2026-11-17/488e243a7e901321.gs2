@@ -1,0 +1,24 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.ap = 100;
+  this.attr[1] = "hat.gif";
+  this.head = "head77.png";
+  this.body = "arwind-rangerbody2.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  this.nick = "Kyle Barker, Legionnaire of (The Legion of Steel)";
+  setcharani("0", NULL);
+  setcharani("dead2", NULL);
+  this.dir = 3;
+}
+
+function onPlayerEnters() {
+  message("Augh!");
+  sleep(5);
+  message();
+}

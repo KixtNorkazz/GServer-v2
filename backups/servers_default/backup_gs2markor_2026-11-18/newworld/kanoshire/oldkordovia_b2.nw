@@ -1,0 +1,227 @@
+GLEVNW01
+BOARD 0 0 64 0 EtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtEtCqEtCqEtCqEtCqEtCqEtCqCqEtCqEtCqEtEtEtFoF4F5F4GJCrEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCqEtCqCqEtCq
+BOARD 0 1 64 0 CrEtCrEtCrEtCrEtCrEtCrEtCrCqEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtEtCrEtCrEtFoF4F4Fpf/AAf/GIF4F5GJCrEtCrEtCrEtCrEtCrEtCrEtCrEtCrEtEtCrEt
+BOARD 0 2 64 0 EtFoF4F5F4F5F4F5F4F5F4F5F5F4GJEtCqEtCqEtCqEtCqEtCqEtCqEtFoF5F4F5F4F4Fpf/vTvQvQvRvSvQvRvSGIF4F5F4F5F4F5F4F5F4F5F4F5F4F5F4F5F4F4F5
+BOARD 0 3 64 0 CrGXKnf/AAuhuivSvTvQvRvSvTvQGIF4GJCrEtCrEtCrEtCrEtCrEtCrGXf/f/f/AAABK4vDvAKovCK4uiuguhuivQvRvSAAABK4vSvTvQvRvSvTvQvRvSvTvQvRvSvT
+BOARD 0 4 64 0 EtGHFmF3f/BoBpBqBrBsBtBuBvAAf/f/GIF4F5F4GJEtCqEtFoF4F5F4FpKnf/K4AAABK4AAvQvRAAABvRvSvTvQvQvRvSujuguhuiujuguhuiujuguhuiujuguhuiuj
+BOARD 0 5 64 0 GJEtCrGHF3B4B5B6B7B8B9B+B/vDf/f/AAABAAABGIF4F5F4Fpf/AAABKnKnAAABKnuhK4KnAAABKof/vRvSvTvQvQvRvSuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuz
+BOARD 0 6 64 0 GIF5F4GJGHf/CJCKCLCMCNCOvBuyAAAAABKnK4KnKnAAKnKnf/f/K4KnvAvBAAABuwuxuiBoBpBqBrBsBtBuBvvDuwuxuyAAAAABKovDK4vBvCvDvAKovCK4vAKnABKn
+BOARD 0 7 64 0 f/f/f/GIF4f/HpCaCbCcCdHoHpAAK4f/f/AAABf/K4Knf/f/AAABKnAAABvRvSKnKnKnKnB4B5B6B7B8B9B+B/uyvAvBKnK4vQvRvSvTAAABKnAAvQvRAAABKnf/AAAB
+BOARD 0 8 64 0 ABf/AAABK4Knf/Knf/ABKnf/f/f/K4Knf/f/f/Knf/KnAAABKof/K4f/f/Knuiujf/f/vCf/CJCKCLCMCNCOvBAAvQvRABAAABuhAAABKof/K4KnAAABKof/K4f/Kof/
+BOARD 0 9 64 0 f/ABKof/f/AAABKnAAf/3B3C3C3C3C3C3CvLvM3C3C3C3C3CK4f/f/f/K4uxKnuzAAABAAf/HpCaCbCcCdHoHpABK4uxuyuzuwuxAAABK4f/f/f/AAABK4f/f/f/f/AB
+BOARD 0 10 64 0 ABf/f/f/f/ABf/Knf/AB3R3Sutuu3S3S3Svbvc3S3S3S3S3Uf/Knf/AAABvBvCvDAAABK4f/f/f/K4f/Knf/AAuwuxuyuzvDvAvBKof/f/Knf/f/Kof/uxuyuzuwuxuy
+BOARD 0 11 64 0 f/f/K4f/AAf/ABKnAAf/3R3Su9usuu3S3Svrvs3S3Sutuu3Uf/KoYfvTKnKnvSvTK4KnvSvTYff/KoYfuxuyuzuwuxuyuzuwYfvRvSYff/KoYff/KoYfvBvCvDvAKovC
+BOARD 0 12 64 0 ARAAABf/K4h4h2h2h2h23R3Sudu/us3S3Sv7v83S3Su9us3UBgBgYvujAAABKnAAABuhuiKnYvBgBgYvvBvCvDvAKovCK4vAYvBgBgYvBgBgYvBgBgYvABKnAAvQvRAA
+BOARD 0 13 64 0 Agf/ujAAABiGhRhRhRhR3R3S3iudue3i3i3S3S3S3Sudue3UBwBwARuzKouxK4uzuwKnuyuzY/BwBwY/ABKnAAvQvRAAABKnY/BwBwY/BwBwY/BwBwY/f/uxuyuzuwux
+BOARD 0 14 64 0 ARABKof/f/iGhhhhhhhh3B3C3C3C3C3C3C3C3C3C3C3C3C3Cf/f/AgvDvAvBvCvDvAvBvCvDvAAAABK4f/K4KnAAABKof/K4f/f/AAABK4f/f/f/K4f/f/vBvCvDvAKo
+BOARD 0 15 64 0 Ahf/f/f/KniGhxhxhxhx3R3S3S3S3S3S3S3S3S3S3S3S3S3UABK4ARvTvQK4vSKnvQAAvSvTvQABKnf/f/f/f/AAABK4f/f/f/f/ABKnf/Knf/K4Knf/f/ABKnAAvQvR
+BOARD 0 16 64 0 ABf/K4f/f/iIiBiBiBiB3h3iu83i3iu83i3i3iu8u8usus3jKnf/AhujK4KnuiujAAKouiujuguhAAABKnAAABf/f/KnK4Knf/f/f/AAABKnAAABf/f/Knf/K4KnAAAB
+BOARD 0 17 64 0 f/AAABf/K4hQCqAICqCqhAkihBlFlJhBlFhBlFlJhBlFlJhCAEAFAGAHuwuxuyKnK4KlKmuzuwuxKof/K4f/ABvTAAK4vSvTK4f/f/Kof/K4f/f/KnKnAAf/f/f/AAAB
+BOARD 0 18 64 0 K4f/ujAAABhgCqCqCqENhQkyhRlVlZhRlVhRlVlZhRlVlZhSAUAVAWAXvAvBKnAAAAK1K2AAABvBvCK4f/KnuiujABKnKnujugABf/f/K4f/Knf/AAABK4f/uxuyuzuw
+BOARD 0 19 64 0 f/ABKnf/ARhwCqCqCqD3hglChhlllphhllhhlllphhlllphiAkAlAmAnvQvRABK4vQvRvSABKnKnvSABvTAAK4vSvTK4f/uzKnf/Knf/f/ABKnAAABK4f/f/vBvCvDvA
+BOARD 0 20 64 0 Knf/AAABAgiAEMCqCqCqhwlShxl1l5hxl1hxl1l5hxl1l5hyA0VoVpA3uguhuiK4KnuhuiujAAuhuiuiujABKnKnujugABvDvAABf/f/Knf/AAABKnf/KnuxABKnAAvQ
+BOARD 0 21 64 0 f/ABKouzARf/EcEMAPEtiAARiBmFmJiBmFiBAAABiBmFARiCuwV4V5uzuwuxAAABuwuxuyuzKoKnuyuyuzuwAAuyuzKnf/vTKnvRK4f/f/ACADf/Knf/AAvBf/K4KnAA
+BOARD 0 22 64 0 K4vBvCvDAhAQKnEQCqAIDVAgvCKoK4AQKnKnf/KnuwK4AgKnvAAQABKovAK4vCAAAAK4KnK4vAK4vCAAvDvAKoKnvDvAABujuguhvCKnf/ASATf/f/AAKoABf/f/f/AA
+BOARD 0 23 64 0 ABK4vSvTvQK4f/EAEMENEdARKnKnKnARBgARuhK4ARBgARvTvQvRvSvTvQvRvSK4vSvTK4f/vQvRAAvSvTvQvRK4vTKnvRKnuwAAvSAAABK4f/f/f/K4f/f/K4KnAAAB
+BOARD 0 24 64 0 f/f/KnujK4F2F3f/EAEduiAhAAABf/AhBwAhKoK3AhBwAhujAAABK4ujuguhK4KnKnujugABuguhABuiujuguhuiujuguhAAABK4uiABKnf/Knf/K4Knf/f/uxuyuzuw
+BOARD 0 25 64 0 f/ABKnAAF2GGGHF3uwuxuyKnKoDsCpCpCpCpCpCpDnKnuyuzABKnf/KnuwK4KnAAuyuzKnf/uwuxuyuyK4uwK4uyKnuwAAf/KnuxuyuzAAABKnAAABf/f/KnvBvCvDvA
+BOARD 0 26 64 0 f/f/K4f/GIGJFoFpvAvBDsCpCpD8CrCrEtCqCqEtD3DnAQvDvAAAABKnAAABvCKoKnvDvAABvAAAAAK4KnK4KnvCAAABK4AAABvBvCvDKof/K4f/f/KnKnAAABKnAAvQ
+BOARD 0 27 64 0 ABK4f/KnvQGIFpvTvQDsD8EtCqCrAPCqCqCqAICqENEdvSvTvQKof/K4f/f/KnKnAAAAABvTAAK4vSvTK4f/Knf/AAABK4vTvQvRvSvTvQK4f/Knf/AAABK4f/K4KnAA
+BOARD 0 28 64 0 f/f/ABKnuguhuiAiAjEQAICrEtCqENEMCrEtCqENEduhuiujuguhK4f/Knf/AAABK4uhuiujABKnKnujugABKnf/f/f/K4KnuguhuiKnuguhABKnAAABK4ujuxuyuzuw
+BOARD 0 29 64 0 f/KnAAABKnKnAAAyAzEAEMCrCqCqD3D8CqCqCqDVAAf/AAABKnKnvAvBARf/f/f/K4KnuyuzuwAAuyuzKnf/AAABKnAAABuzuwuxuyuzuwKnuyAAABKnuyKnvBvCvDvA
+BOARD 0 30 64 0 f/f/K4f/f/f/K4AQvAvBEACoEMCqCqEtCqCqCqDVAAABK4f/f/f/K4vRAgABKnAAABKnAAvDvAKoKnvDvAABKof/K4f/f/KnKlKmvCAAvAvBvCvDvAvBvCvDABKnAAvQ
+BOARD 0 31 64 0 f/K4f/Knf/K4KnvTvQvRvSvTEQCqCqAPEtCqCqDVABKnf/Knf/K4KnuhARf/K4vTvQvRvSvTvQvRK4vTKnvRAAABK4f/f/f/K1K2AAKovQAAABK4vQvRvSK4f/K4KnAA
+BOARD 0 32 64 0 AAABKnf/AAuhuiujuguhuiujEcEMCqCqAICqENEdf/AAABKnAAABuwuxAgAAuiujuguhuiujuguhuiujuguhuiACADf/f/f/f/KnK4KnugABKnf/KnuhK4Knf/f/f/AA
+BOARD 0 33 64 0 f/f/f/AAKouxAAABuwARBgARBgAREMEtCqENEdf/f/Knf/AAvCvDvAvBARKouyAAABuxuyK4uwK4uyKnuwAAuyASATABKnf/KnAAAAABuwuxAAABKnAAABuzuxuyuzuw
+BOARD 0 34 64 0 Knf/KnK4KnvBABKnvAAhBwAhBwAhEcCoCoEdF2F3f/f/AAKovSAAABK4AhKnvCABKnvBK4KnK4KnvCAAABK4vCvDABKnKnAAABAAABf/G2HEHFHXH/f/f/KnvBvCvDvA
+BOARD 0 35 64 0 Knf/AAABf/f/AAABKnKnAAABf/f/ABKnf/F2GGGHFmFnFmFnF3AAKnAAAAABvSvTAAAAABf/ABvRvSABKnf/KnvTvQAAK4f/f/ABKnG2HGGOGOHnHEHFHXAAABKnAAvQ
+BOARD 0 36 64 0 AAABABK4f/f/Kof/K4K4uiujKnKnuiAAABGnEtCqCrCqAPEtGHF3ABAAABK4uiujKof/K4f/f/KnKnujAAABKnAAugKof/KnAAf/AAHkGOH1H0GOGOGOG7ujf/K4KnAA
+BOARD 0 37 64 0 vAvBAAKouwAAABK4uwuxuyK4K4ABuyKof/GIGJCrEtCrCqAIFoFpf/ABKnf/KnuzuwK4f/Knf/AAABuzKof/K4uzuwuxABKnAAABK4HkGOGOGOGOGOGOG7Knf/f/f/AA
+BOARD 0 38 64 0 K4vRK4KnvAABKnf/KnvBK4KnKnvBvCvDK4f/GIF4F5F4F5F4FpvBAAf/AAABKnKnvAvBABKnACADvCvDvAK4f/KnKnvBvCKnABKnf/GmGWGOGOGOGOG3HHK4vAvBf/f/
+BOARD 0 39 64 0 KnuhAAABvQvRAAABKnAAABvTvTvRvSAiAjARBgARBgARvSvTvQvRAAABK4f/f/f/K4vRKnf/ASATAAKnvQvRABKnvQvRvSvTvQAAABKnGmH2H2H3H3HHKnvTuxuyf/f/
+BOARD 0 40 64 0 uwuxABK4uguhKof/K4f/f/KnKnuhuiAyAzAhBwAhBwAhAAABuguhABKnf/Knf/K4KnuhuiAAKoK4uiujcacbuhuiABK4K4KnAAABvAABABvDvAvBvCvDvAvBvBvCf/Kn
+BOARD 0 41 64 0 vAvBKnf/KnuxuyK4f/Knf/AAAAuxK4Knf/AAABKlKmf/ABKnuwKnf/AAABKnAAABuwuxKnK4KnuxuyKnAAABuxABKnKlKmOLf/BwvQvRvSvTvQvRvSvTvQAAABKnKnAA
+BOARD 0 42 64 0 ABK4AAABKnKnvCvDABKnf/f/f/AAABf/f/ABKnK1K2f/f/AAAAABf/Knf/AAvCKnAAKnAAAAABuhvCvDABvAvBvCABK1K2AAABOLAAuhuiujugOLAAABuguhf/K4ABK4
+BOARD 0 43 64 0 AAABK4vTvQvRK4vTKnf/AAKnKnvRvSKnKnvRAAABKnAAf/Kof/f/f/f/AAKovSKnKnvAvBABK4uxvSKnvTvQvRvSK4ACADf/f/f/cKcLuyuzcsf/f/f/AAABf/f/K4uj
+BOARD 0 44 64 0 f/KnKnKnuguhE/EbAAvCvDvAABAAvCAAABuhKof/K4f/f/f/KnAAf/KnK4Knuif/f/K4vRKnf/KnuiAAujuguhAAAAASATKlKmAAcacbvCvDvAAAABAAABf/Knf/f/f/
+BOARD 0 45 64 0 ABKnvQuzuwuxAAABOLvSAAABAAABvSvTuwuxuyK4f/KnKnf/KnAAKnAAAAABuyf/K4KnuhAAABKnuyABuzuwuxvAHpAAABK1K2OLvQvRvSvTAAABcKcLAAABABf/f/f/
+BOARD 0 46 64 0 K4vBvCvDK4vBAAABf/AAABf/vBvCuzvBAAKnvCvDABKnf/AAf/AAABKnKnvAvBAAABuwuxK4uguhKnf/vDvAvBugH5K4K4AAABf/AAABcsAAABAAcacbAAABf/f/f/Kn
+BOARD 0 47 64 0 f/KnvSK4KnvRf/f/csf/AAABvRuwvDvRvQvRvSKnf/AAKnAAABK4f/f/f/K4vRvCvDvAvBuzuwuxABf/cLvQvRuwACADKlKmcsAAABZvf/f/f/f/f/ZvuwuxAAKnKnf/
+BOARD 0 48 64 0 ABKnAAABuguhvQvRvSvCAAAAAAABAAAAugKnuiujABKouiABKnf/Knf/K4KnuhKnuguhABKnf/f/f/f/AAABuhAAASATK1K2AAABK4f/f/f/K3Knf/f/OLvBK4f/ABf/
+BOARD 0 49 64 0 f/K4f/f/KnKnuguhuivSvTvQvRvSvTvQuwuxuyuzuwuxuyf/AAABKnAAABuwuxuzK4uxKnf/AAKnAAKnABvQvRACADKlKmACADKlKmf/f/f/KnKnf/csvQvRuwAAK4f/
+BOARD 0 50 64 0 K4f/Knf/AAABABBoBpBqBrBsBtBuBvAAf/AAKovSAAvBAAf/Knf/AAvCvDvAvBvDvAAAKof/AAABK4f/vTvQvRASATK1K2ASATK1K2f/AAKnK3K3K3ujuguhABK4uyKn
+BOARD 0 51 64 0 vQABKnf/f/f/vQB4B5B6B7B8B9B+B/vDAAABAAABK4vRABf/f/AAKovSAAABK4vTKnK4Knf/ABKnf/KnuyuzAAKlKmACADf/KlKmcsACADK3KnK3uyAAABuxKnAAABAB
+BOARD 0 52 64 0 ugKnuiAAKnAAABf/CJCKCLCMCNCOvBuyf/f/ABKnf/uhuiAAAAABAAABK4uhuiKnAAAAABf/f/AAABKnvRvSvQK1K2ASATf/K1K2f/ASATvDvAvBvCvDvAvBAAuhuiK4
+BOARD 0 53 64 0 AAKnuyuzKnf/uwf/HpCaCbCcCdHoHpAAKnAAf/AAABAAuyKof/f/ABKnf/KnuyABAAABK4AAf/AAABKnuhuiAAABuhvDABuwAAuwAAABuzvBuwvQvRvSvTvQKouxuyuy
+BOARD 0 54 64 0 Kof/K4vDvAAAAAABvCvQvRvSvTvQAAABKnAAABK4f/vBvCvDKnAAf/AAABKnKnf/ABKnf/AAABK4f/f/AAABuzuwuxuyuzAAuguhuiujugAAABK3ugAAABujvAvBK4Yv
+BOARD 0 55 64 0 uzKouxf/AAABKnAAuzKouxKoKoKnf/ABAAKnf/f/ABKnKnvTKnAAABK4f/f/f/AAf/AAABABKnf/Knf/vSvTvQvRuwAAvTvTvQvRvSvTvQvRvSvTvQvRvSvTvQAAABYv
+BOARD 0 56 64 0 uxvAvBf/AAABKnAAuzKouxvAvAf/AAKnAAKnAAf/Kof/f/ABAAKnf/f/ABKof/KlKmK4f/f/AAABKnAAABuwuxK4uguhuiK4ugKnuiAAKnAAKnf/f/ABKnujuguhuiYv
+BOARD 0 57 64 0 vBvQAAf/Kof/K4vCvDvAvBvQvQf/K4f/KnKnf/f/f/KnAAf/Kof/K4f/f/Knf/K1K2f/Knf/Knf/AAvCvDvAvBuzuwuxKnf/AAKnuyuzKnf/AAABf/f/KnK4KnKnuyYv
+BOARD 0 58 64 0 AAuguhf/f/K4f/KnKnvQAAuguguhuiAAABKnAAABuguhABKnf/f/K4f/Knf/AAf/AAABKnf/f/AAKovSAAABK4vDKnvBvCABKof/K4vDvAAAKof/KnKnAAAAABKnvCYv
+BOARD 0 59 64 0 Kof/K4f/f/KnKnf/AAABvBABK4uxuyKof/K4KnAAKnAAAAABuhuiAAABKnAAABuguhABKnf/Knf/AAABKnKnKnf/AAABKnAAuzKouxf/AAABKnAAuzKouxKouxYfKnYv
+BOARD 0 60 64 0 vDK4f/Knf/AAABf/Kof/AAABuguhABKnf/f/KnKnvAvBABK4uxuyKof/K4f/f/KnKnf/AAABAAuzKouxKnf/AAABKnAAuzKouxvAvBf/AAABKnAAuzKouxvAvBYvBgYv
+BOARD 0 61 64 0 vTvQABKnf/f/f/f/f/K4f/f/KnKnf/AAABABf/f/K4vRKnf/KnvCvDK4f/Knf/AAABf/Kof/vCvDvAvBABf/Kof/K4vCvDvAvBvQAAf/Kof/K4vCvDvAvBvQAAYvf/Yv
+BOARD 0 62 64 0 K4ugKnuiAAKnAAKnf/f/Knf/AAABf/Kof/Knf/K4KnuhAAABKnKnvTvQABKnf/f/f/f/f/K4KnKnvQAAf/f/f/K4f/KnKnvQAAuguhf/f/K4f/KnKnvQAAuguhYvBgYv
+BOARD 0 63 64 0 f/AAKnuyuzKnf/AAABf/Knf/f/f/f/f/K4KnAAABuwuxK4uguhuiK4ugKnuiAAKnAAKnf/f/KnujuguhAAKnf/f/ABKnujuguhKnAAKnf/f/ABKnujuguhuguhY/BwY/
+LINK worldmapkharlia_g03.nw 0 63 48 1 48 9
+NPC - 25 20
+//#CLIENTSIDE
+if (created) {
+setshape2 2,2,{
+  22,22,
+  22,22,
+    };
+}
+if (playertouchsme) {
+  say2 Worn by time, all that#b
+can be recognized remains:#b
+T-e L-mg-ell-w Ho-se#b
+#b
+S-er-f-'s R--i-en-e;
+}
+NPCEND
+NPC val_ganelon-fencespike.png 63 59
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+NPCEND
+NPC val_ganelon-fencespike.png 63 56
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+NPCEND
+NPC val_ganelon-fencespike.png 63 53
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+NPCEND
+NPC val_windowdarkopen.gif 12 18
+// NPC made by Glaecyn
+if (created) {
+  x = x + 0.5;
+}
+NPCEND
+NPC val_doordark.gif 16 18
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  drawunderplayer;
+  dontblock;
+x=x+.5;
+}
+NPCEND
+NPC val-zetatreetest2.gif 25 36
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 14,18,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,22,22,22,00,00,00,00,00,00,
+    00,00,00,00,22,22,22,22,22,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC val-zetatreetest2.gif 49 54
+dontblock;drawoverplayer;
+NPCEND
+NPC val-zetatreetest2.gif 19 55
+dontblock;drawoverplayer;
+NPCEND
+NPC val-zetatreetest3.gif 48 0
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 14,18,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC val_pinetree-mult.gif 38 16
+join world_pinetrees;
+NPCEND
+NPC val_pinetree-mult.gif 59 28
+join world_pinetrees;
+NPCEND
+NPC val-newtreething.gif 55 44
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 61 41
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 45 32
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-gaztreetop1.gif 7 44
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-newtreething.gif 46 12
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 57 3
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 40 9
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 33 20
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-gaztreetop1.gif 35 0
+//#CLIENTSIDE
+if (created) {
+
+dontblock;
+}
+NPCEND
+NPC val-newtreething.gif 59 10
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND

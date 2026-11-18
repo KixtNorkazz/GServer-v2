@@ -1,0 +1,43 @@
+//#CLIENTSIDE
+function onCreated() {
+}
+
+function onPlayerChats() {
+  if ((player.chat == "hat8")) {
+    player.attr[1] = "Hat119.png";
+  }
+  if ((player.chat == "hat2")) {
+    player.attr[1] = "Hat35.png";
+  }
+  if ((player.chat == "nohat")) {
+    player.attr[1] = "nohat.png";
+  }
+  if ((player.chat == "hat3")) {
+    player.attr[1] = "Hat3525.gif";
+  }
+  if ((player.chat == "nohat")) {
+    player.attr[1] = "nohat.png";
+  }
+  if ((player.chat == "hat4")) {
+    player.attr[1] = "Hat12021.gif";
+  }
+  if ((player.chat == "hat5")) {
+    player.attr[1] = "Hat12121.gif";
+  }
+  if ((player.chat == "swordfix") && ("#g" == "Suiriku")) {
+  }
+  if ((player.chat == "dragoon") && ("#g" == "Dragoon")) {
+  }
+  if ((player.chat == "hat6")) {
+    player.attr[1] = "Hat13133.gif";
+  }
+  if ((player.chat == "hat7")) {
+    player.attr[1] = "Hat12221.gif";
+  }
+  if ((player.chat == "testing") && ("#g" == "Suiriku")) {
+  }
+  if ((player.chat == "testing2")) {
+  }
+  if ((player.chat == "testing3")) {
+  }
+}

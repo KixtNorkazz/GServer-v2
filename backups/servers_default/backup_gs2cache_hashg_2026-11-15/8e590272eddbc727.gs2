@@ -1,0 +1,18 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  setshape(1, 32, 32);
+}
+
+function gs1_always() {
+  if (this.actiongrab || this.actionpushed || this.actionpulled) {
+    if (("#g".pos("Imperial Warholm") > -1)) {
+      if (player.dir==0) {
+        player.y -= 4;
+      }
+      if (player.dir==2) {
+        player.y += 4;
+      }
+    }
+  }
+}

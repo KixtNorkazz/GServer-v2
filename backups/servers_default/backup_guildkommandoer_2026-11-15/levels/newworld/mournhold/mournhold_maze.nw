@@ -1,0 +1,571 @@
+GLEVNW01
+BOARD 0 0 64 0 CqCrCrCrCrCrCqH/apaqapaqH/B4B5B6B7B8B9B+B4B5B6B7B8B9B+BpBqBrBsBtBuB4B5B6B7B8B9B+GnCrCqCrCrCqCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 1 64 0 CqCrCrCrCrCrH/H/H/H/H/H/H/H/CJCKCLCMCNCOH/CJCKCLCMCNCOB5B6B7B8B9B+H/CJCKCLCMCNCOGnCrCqCrCrCqCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 2 64 0 CqCrCrCqCrFmFnFnFnH/H/H/H/ACADCaCbCcH/ACADH/ACADCcACADCJCKCLCMCNCOACADCaCbCcH/H/GnCqCrCrCrCqCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 3 64 0 CqCrCrCqCrCrCqCqCrE7H/H/GGASATFnFnFmFmASATFnASATFnASATH/CaCbCcH/H/ASATFmFnFmFnFnFRCqCqCqCrCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 4 64 0 CqCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCqCrCrCqCqCrE7FmFnFnFmFmFnGGCrCqCrCrCrCrCrCrCqCrCqCrCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 5 64 0 CqCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCqCrCrCqCrCrCqCrCrEtEtEtEtEtEtCrCrCqCrCrCrCrCrCrCqCrCqCrCrCqCrCrCqCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 6 64 0 CqCrCrCqCrCrCqCrCqCrCrCqCqCrCrCqCrCqCrCrCqCrCrCrCrCqCrCqCrCrCqCqCrCrCqCrCrCrCrCrCqCrCrCqCrCrCqCrCrCqCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 7 64 0 CqCrCrCqCrCqCrCrCqCrCrCqCqCrCrCqCrCqCrCrCqCrCrCrCqCrCrCqCrCrCqC1CrCrCqCrCrCrCrCrCqCqCqCrCrCrCqCrCrCqCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 8 64 0 CqCrCrCrCrCrCrCrCrCrCqCqCqCrCrCrCqCrCrCrCqCrCqCrCqCqCqCrCrCrCqCqCqCrCrCrCqCrCrCqCqCrCqCqCqCrCrCqCrCrCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 9 64 0 CqCrCrCrCqCrCqCrCrCqCqCrCqCqCqCrCrCqCrCqCrCrCqCqCqCrCqCqCqCrCrCqCqCrCqCrCqCrCrCqCqCrCrCrCqCrCqCqCrCrCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 10 64 0 CqCrCrCrCqCrCqCrCrCqCqCrCrCrCqCrCqCrCrCqCrCrCqCqCrCrCqCrCqCrCrCqCqCrCqCqCqCrCrCrCrCrCrCrCrCqCrCqCrCrCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 11 64 0 CqCrCrCrCrCrCrCrCrCrCrCrCqCrCqCrCqCqCqCrCrCrCqCqCrCrCqCrCqCrCrCqCqCrCqCrCqCqCrCrCrCrCrCrCqCrCrCqCrCrCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 12 64 0 HpHpH5HoH4CrCrCrCrCrCrCrCqCrCqCrCqCrCqCqCqCrCrCqCrCqCrCrCqCrCrCqCrCrCrCrCqCrCrCrCrCrCrCrCqCqCqCrCrCrCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 13 64 0 HpHoHpH4H5CrCqCrCrCqCrCqCrCrCqCqCrCrCqCrCqCrCrCqCrCqCqCqCrCrCrCqCrCrCqCrCqCrCqCrCqCrCrCqCqCrCqCqCqCrCrCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 14 64 0 H5HoHpHpHoCrCqCrCqCrCrCqCrCrCqCqCrCrCqCrCqCrCrCqCqCqCrCqCqCqCrCrCrCqCrCrCqCrCqCrCqCrCrCqCqCrCrCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 15 64 0 HoH4H5H5HoCrCqCrCqCqCqCrCrCrCqCqCrCqCrCrCqCrCrCqCqCqCrCrCrCqCrCqCrCqCqCqCrCrCrCqCqCqCrCqCrCrCqCrCrCqCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 16 64 0 H4H5H4HoHpCrCqCrCqCrCqCqCqFoF4F5F4F5F4F5F4F5F4F5GJCqCrCqCrCqCrCqCrCqCrCqCqCqCrCrCqCrCrCqCqCqCrCrCrCqCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 17 64 0 CqCrCrCrCrCrCrCrCrCrCqCrCqGXH5HoHpH5HoH4H5HoHpHoHpF4F4F4GJCrCrCrCrCrCrCrCrCqCrCrCqCqCrCqCrCqCqCqCrCrCqCrCqCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 18 64 0 CqCrCrCrCrCrCrCrCrCrCqCrCqGXHoH4HoH4H5H5HoH4H5H4H5H5HoHpHpF4F5F4GJCrCrCrCrCqCrCrCqCrCrCrCrCqCrCqCrCrCqCrCqCrCqCrCqCrCqGXCqCrCqCr
+BOARD 0 19 64 0 CqCrCrCrCrCrCrCqCrCqCqCrCqGXHoH4H5H5H4HoH4H5H4H4HpHpHpHpHpHpHpHoHpGJCrCqFoF4F5GJCrCrCrCrCrCqCrCqCrCrCqCrCqCrCqCrCqCrCqGXH/H/CqCr
+BOARD 0 20 64 0 CqCrCrCrCrCrCrCqCrCqCqCrCqGXH4H5H4H5HoH5H5H5HoH5HoH5H5H5H5HoHpHpHpH5F5F5H5HoHpHpGJCrCrCrCqCrCrCqCrCrCqCrCqCrCqCrCqCrCqGXH/H/H/H/
+BOARD 0 21 64 0 CqCrCqCrCrCqCrCqCrCrCrCqCqGXH5H5HoH4H4HoHoHpH4HpH4H5HoHoHpH4HoHpHoHpH4H5HoH4H5H5HpGJCrCrCqCqCqCrCrCqCqCrCrCrCqCrCrCqCrGXH/H/AJAK
+BOARD 0 22 64 0 CqCrCqCrCqCrCrCqCrCrCqCqCrGHFmFnFnFmFnFnHoHpH5HpH5HpH4HoHpH5H4H5HoHpHpHoH4H5H4H5H5HpGJCrCqCrCqCqCqCrCqCqCqCrCrCrCqCrCrGHH/AYAZAa
+BOARD 0 23 64 0 CqCrCqCrCqCqCqCrCrCrCqCqCrCqCrCqCrCrCqCrCrGHH4H4HoHpH5H4HoHpH5HoH4H5H5HoH4H5HoHpHpH5H4GJCqCrCrCrCqCrCrCrCqCrCqCrCqCqCqCqGHAoApAq
+BOARD 0 24 64 0 CqCrCqCrCqCrCqCrCqCrCqCrCrCqCrCqCrCrCqCqCrCqCqCqCrCrCrGHH4HoHoH4H5H4HoHpH5HoHoHpHoHpH5GnCrCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrFoA4A5A6
+BOARD 0 25 64 0 CrCqCrCrCqCrCqCrCqCrCqCrCqCrCrCqCrCrCqCqCqCqCrCqCqCqCrCrGHH4H4HoH4H4H4H5HoH4H4H5HoHpH5GnCqCrCrCqCrCrCqCrCrCrCrCrCrCrCqCrGXBIBJBK
+BOARD 0 26 64 0 CrCqCrCqCrCrCqCrCqCrCqCrCqCqCqCrCrCrCqCqCqCqCrCrCrCqCrCqCqCrGHH4H4H5H5HoH4H5H5HoHoHpHoHpGJCrCqCqCqCqCrCrCrCrCrCrCrCrCqCrGXBYBZBa
+BOARD 0 27 64 0 CrCqCrCqCqCqCrCrCqCrCqCrCqCrCqCqCqCrCrCqCrCqCrCqCqCqCrCrCqCqCrCrGHH4HoH4H5H4HoH4H4H5HoH5H4HpGJCqCrCqCqCrCrCrCrCrCrCqCrCrGXH/BpBq
+BOARD 0 28 64 0 CrCqCrCqCrCqCqCrCrCrCrCrCrCrCqCrCqCrCrCqCrCrCrCqCrCqCrCrCqCqCqCqCrCrGHH4HoH4H4H4H5HoH4H5HpH5HpGJCrCrCrCrCrCrCrCrCrCqCqCqGXH/B5B6
+BOARD 0 29 64 0 CrCrCrCrCrCqCrCrCrCrCrCrCrCrCqCrCqCrCrCqCrCrCrCqCrCqCrCrCqCqCrCqCqCqCrGHFmFnFmFnHoH4H5H4H5H4H5GnCrCrCqCqCrCqCrCrCqCqCrCqGXH/CJCK
+BOARD 0 30 64 0 CrCrCrCrCrCqCrCrCrCrCrCrCrCqCrCrCqCrCrCqCrCrCqCrCrCqCrCrCqCqCrCrCrCqCrCqCrCrCqCrGHH4HoH5H5H4H4GnCqCrCqCqCrCqCrCrCqCqCrFoH/H/H/Ca
+BOARD 0 31 64 0 CrCrCrCrCqCrCrCrCrCrCrCrCrCqCqCqCrCrCrCqCrCrCqCqCqCrCrCrCqCqCrCrCqCqCrCrCrCrCrCrCrGHH4HoHoH4H5GnCqCrCqCqCqCqCrCrCrCqCqGXH/f/H/H/
+BOARD 0 32 64 0 CrCrCrCrCqCqCqCqCrCqCrCrCqCqCrCqCqCqCrCrCrCqCqCrCqCqCqCrCrCqCrCqCrCqCrCrCrCrCrCrCrCrGHH4HoH4H4GnCqCrCqCqCrCqCqCqCrCrCqGXH/H/AJAK
+BOARD 0 33 64 0 CqCrCrCqCqCrCqCqCrCqCrCrCqCqCrCrCrCqCrCqCrCqCqCrCrCrCqCrCqCqCrCqCrCqCqCrCqCrCrCrCrCrCqGHFmFnFnGGCqCrCrCqCrCqCrCqCrCrCqGXH/AYAZAa
+BOARD 0 34 64 0 CqCrCrCqCqCrCrCrCqCrCqCqCrCqCqCrCrCqCrCqCrCqCrCrCqCrCrCrCrCqCrCqCrCqCqCrCqCrCrCrCrCrCrCqCqCqCrCrCrCrCqCqCrCqCrCqCrCrCqGXH/AoApAq
+BOARD 0 35 64 0 CqCrCrCrCrCqCrCqCrCrCrCrCrCqCrCrCrCrCqCrCqCrCrCqCrCqCrCrCrCrCrCrCrCrCrCqCrCqCrCqCrCrCqCqCrCqCqCqCrCrCrCqCqCrCrCqCrCrCqGXH/A4A5A6
+BOARD 0 36 64 0 CqCrCrCqCrCrCrCrCrCrCqCrCrCrCrCqCrCrCqCrCrCrCrCrCrCrCqCrCrCrCrCrCrCrCrCqCrCqCrCqCrCrCqCqCrCrCrCqCrCrCrCqCqCqCqCrCrCrCqGXH/BIBJBK
+BOARD 0 37 64 0 CqCrCrCrCrCrCrCqCrCrCrCrCqCrCrCqCqCrCqCrCrCrCqCrCqCrCqCrCrCrCrCrCrCrCqCrCrCqCrCrCqCqCrCrCqCrCqCrCrCrCrCqCqCrCqCqCqCrCrGXH/BYBZBa
+BOARD 0 38 64 0 CqCrCrCrCqCrCrCrCqCrCrCqCrCqCrCqCrCqCrCqCrCrCrCrCqCrCqCqCrCrCrCrCrCrCqCqCqCrCrCrCqCqCrCrCqCrCrCqCrCrCrCqCqCrCrCrCqCrCqGHH/H/BpBq
+BOARD 0 39 64 0 CrCqCrCrCrCrCrCqCrCrCrCrCqCrCqCrCrCrCrCrCqCrCrCrCqCrCqCrCqCrCqCrCrCqCqCrCqCqCqCrCrCrCrCqCrCqCrCrCqCrCrCqCqCrCrCqCqCrCrCrGXH/B5B6
+BOARD 0 40 64 0 CrCrCqCrCrCrCrCqCrCrCrCrCqCrCrCrCrCrCrCrCqCrCrCrCqCrCqCrCqCrCqCrCrCqCqCrCrCrCqCrCqCrCqCrCrCqCrCrCqCqCrCrCqCrCqCrCqCrCrCrGXH/CJCK
+BOARD 0 41 64 0 CrCqCrCrCrCrCrCrCqCrCrCrCrCqCrCrCqCrCrCrCqCqCrCrCrCqCrCrCrCrCqCrCqCqCqCrCrCrCqCrCqCrCqCqCqCrCrCrCqCqCrCrCqCrCqCrCqCrCrCqGHH/H/Ca
+BOARD 0 42 64 0 CrCqCrCrCrCqCrCrCrCqCrCrCqCrCqCrCqCqCrCrCqCrCrCrCrCqCrCqCrCrCqCrCqCrCrCqCrCrCqCrCqCrCqCrCqCqCqCrCrCqCrCrCqCrCqCrCqCrCrCqCqGHH/H/
+BOARD 0 43 64 0 CqCrCqCrCrCrCrCrCqCrCrCrCrCqCrCqCrCqCrCrCqCrCrCqCrCqCrCqCrCrCqCrCqCrCrCrCrCrCrCrCrCrCrCrCqCrCqCrCrCqCrCqCrCrCqCqCqCrCrCqCqCrGHH/
+BOARD 0 44 64 0 CrCrCrCqCrCrCrCrCqCrCrCrCrCqCrCrCrCqCqCrCqCrCrCqCrCqCrCqCrCrCrCqCrCrCrCrCrCrCrCrCrCrCrCrCqCrCqCrCrCqCrCqCrCrCqCqCrCrCrCqCqCrCqGH
+BOARD 0 45 64 0 CrCrCqCrCrCqCrCqCrCqCrCrCrCqCrCrCrCqCrCrCrCrCrCqCrCrCrCrCrCrCqCrCqCrCrCrCqCrCrCrCrCrCrCqCrCrCqCrCrCqCqCrCrCqCrCrCrCqCqCrCqCrCqCr
+BOARD 0 46 64 0 CrCrCrCrCrCqCrCrCrCrCrCrCqCrCqCrCrCqCrCrCrCrCrCqCrCrCrCrCrCrCrCrCrCqCrCqCrCrCrCrCrCrCrCqCqCqCrCrCrCqCqCrCrCqCqCrCqCrCqCrCqCrCqCr
+BOARD 0 47 64 0 CrCrCrCrCrCqCrCrCrCrCrCrCrCrCrCqCrCqCrCrCrCqCqCrCqCrCrCrCrCqCrCqCrCqCrCrCqCqCrCqCrCrCqCqCrCqCqCqCrCrCqCrCrCqCqCrCqCrCqCrCqCrCqCr
+BOARD 0 48 64 0 CrCrCrCqCqCrCqCrCrCrCrCqCrCqCrCqCrCqCrCrCqCqCrCrCrCrCqCrCrCrCrCqCrCqCqCrCqCqCrCqCrCrCqCqCrCrCrCqCrCqCqCrCrCqCqCrCqCrCqCrCqCrCqCr
+BOARD 0 49 64 0 CrCrCqCqCrCrCrCrCqCrCrCrCrCqCrCqCqCqCrCrCqCqCrCrCrCrCqCrCqCrCrCqCrCqCrCqCrCrCqCrCrCqCqCqCqCrCrCqCqCqCrCrCrCqCqCrCqCrCqCrCqCrCqCr
+BOARD 0 50 64 0 CrCrCqCqCrCrCrCrCqCrCqCrCrCqCrCqCrCqCrCrCqCqCrCrCqCrCqCrCqCrCrCqCrCqCrCqCqCqCrCrCrCqCqCqCrCqCrCqCrCqCqCqCrCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 51 64 0 CrCrCqCqCrCrCqCrCqCrCqCrCrCqCrCqCrCqCrCrCrCqCrCqCqCqCrCrCqCqCqCrCrCqCrCqCrCqCqCqCrCrCqCqCrCqCrCqCrCrCqCrCqCrCrCqCqCrCqCrCqCrCqCr
+BOARD 0 52 64 0 CqCrCqCrCqCrCrCqCrCqCqCqCrCrCrCqCqCqCrCrCrCqCrCqCqCqCqCqCrCqCqCqCqCrCrCrCqCqCrCrCqCqCrCqCrCqCrCqCrCrCqCrCqCrCrCqCqCrCqCrCqCrCqCr
+BOARD 0 53 64 0 CqCrCqCrCrCqCrCqCrCrCqCqCqCqCrCrCqCqCrCrCrCqCrCrCqCrCqCrCrCqCqCrCqCqCqCrCrCqCrCrCqCqCrCqCrCqCrCqCrCqCrCrCqCrCrCqCqCrCqCrCqCrCqCr
+BOARD 0 54 64 0 CqCrCqCrCrCqCrCqCrCrCqCqCrCqCrCqCrCqCrCrCrCqCrCrCqCrCqCrCrCqCqCqCqCqCqCrCrCqCrCrCqCqCrCqCrCqCrCqCrCqCqCqCrCrCrCqCqCrCqCrCqCrCqCr
+BOARD 0 55 64 0 CrCqCrCqCrCrCqCqCrCrCqCqCrCqCrCqCrCqCrCrCrCqCrCqCrCrCqCrCrCqCqCqCqCqCqCqCqCrCrCrCqCqCrCqCrCqCrCqCrCqCrCqCqCqCrCrCqCrCqCrCqCrCqCr
+BOARD 0 56 64 0 CrCqCrCqCrCrCqCqCrCrCqCqCrCqCrCqCrCqCrCrCrCqCrCqCqCqCrCrCrCqCqCrCqCqCqCrCqCqCqCrCrCqCrCrCrCrCrCrCrCrCrCqCrCqCrCrCqCqCqCrCqCrCqCr
+BOARD 0 57 64 0 CqCrCrCqCrCrCqCqCqCrCrCqCrCqCrCqCrCqCrCrCrCqCrCqCrCqCqCqCrCrCqCrCqCqCqCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCqCrCqCrCrCqCqCqCrCqCrCqCr
+BOARD 0 58 64 0 CqCqCqCrCrCrCqCqCrCqCrCqCrCqCrCqCrCqCrCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCrCqCrCqCrCrCqCqCrCrCrCrCrCrCrCrCqCrCrCqCrCrCqCqCqCrCqCrCqCr
+BOARD 0 59 64 0 CqCrCqCrCqCrCrCqCqCqCrCqCrCqCrCqCrCqCrCrCrCqCrCqCrCqCrCrCqCqCrCqCrCrCrCqCrCqCrCrCqCqCrCrCrCrCrCrCrCrCqCqCqCrCrCrCqCqCqCrCqCrCqCr
+BOARD 0 60 64 0 CqCrCqCrCqCrCrCqCqCrCrCrCrCrCrCrCrCrCrCrCrCrCrCqCrCqCrCrCqCqCqCrCrCqCqCrCrCqCrCrCqCqCrCrCqCrCqCrCrCqCqCrCqCqCqCrCrCqCqCrCqCrCqCr
+BOARD 0 61 64 0 CqCqCrCrCqCrCrCqCqCrCrCqCrCqCrCrCqCqCrCrCrCrCqCrCrCqCrCrCqCqCqCrCrCqCqCqCqCrCrCrCqCqCrCrCqCrCqCrCrCqCqCrCrCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 62 64 0 CqCqCqCqCrCrCrCqCqCrCrCqCrCqCrCrCqCqCrCrCrCrCqCqCqCrCrCrCqCqCqCrCrCqCqCrCqCqCqCrCrCqCrCqCrCrCqCrCrCqCqCrCrCrCqCrCqCrCqCrCqCrCqCr
+BOARD 0 63 64 0 CqCqCrCqCqCqCrCrCqCrCqCrCrCqCrCrCqCqCrCrCrCrCqCrCqCqCqCrCrCqCrCrCrCqCqCrCrCrCrCrCrCrCrCqCqCqCrCrCrCqCqCrCrCrCqCrCqCrCqCrCqCrCqCr
+LINK castleduskhallow.nw 8 0 4 1 33 62
+LINK newmournglade_d1.nw 26 63 10 1 38.5 3.7
+NPC val-lortree1.gif 47 32
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-gaztreetop2.gif 47 52
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif -2 52
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 43 59
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 49 58
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 55 48
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 42 48
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-lortree1.gif 35 48
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 32 43
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 35 54
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 22 57
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 20 52
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 14 50
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 26 40
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 21 37
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-gaztreetop2.gif 43 55
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 13 58
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 9 54
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 6 59
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 3 53
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif -1 36
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 18 58
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif -1 58
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 52 53
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 56 58
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 57 53
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 43 50
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 49 47
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-lortree1.gif 8 47
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-gaztreetop2.gif 2 48
+// NPC made by Nomad
+if (created) {drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif -1 26
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 4 43
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif -3 46
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif -2 41
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 5 38
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 3 33
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 33 32
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif -2 31
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-lortree1.gif -2 16
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-gaztreetop2.gif 5 28
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-lortree1.gif 29 26
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 35 29
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 41 32
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-gaztreetop2.gif 22 30
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 42 9
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 27 31
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 51 42
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 29 35
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 33 38
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 37 36
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 38 41
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 41 38
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 40 44
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 44 43
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 47 38
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-lortree1.gif 23 23
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 46 26
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 47 -4
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 41 17
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 36 13
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 30 11
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 45 20
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 40 -4
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 57 3
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 57 10
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 45 5
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 42 1
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 24 11
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 7 8
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 1 8
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif -2 3
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif -2 -4
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-gaztreetop2.gif 22 33
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 40 6
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-gaztreetop2.gif 35 9
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val-lortree1.gif 9 32
+//#CLIENTSIDE
+// NPC made by Dr. Horrible
+
+if (playerchats &&strequals(#g,Undying Court))
+  if (strequals(#c,reveal))
+
+{hide;}
+
+if (playerchats &&strequals(#g,Undying Court))
+  if (strequals(#c,close))
+
+{show;}
+NPCEND
+NPC val-lortree1.gif 19 9
+//#CLIENTSIDE
+// NPC made by Dr. Horrible
+
+if (playerchats &&strequals(#g,Undying Court))
+  if (strequals(#c,reveal))
+
+{hide;}
+
+if (playerchats &&strequals(#g,Undying Court))
+  if (strequals(#c,close))
+
+{show;}
+NPCEND
+NPC val-lortree1.gif 5 16
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 11 18
+//#CLIENTSIDE
+// NPC made by Dr. Horrible
+
+if (playerchats &&strequals(#g,Undying Court))
+  if (strequals(#c,reveal))
+
+{hide;}
+
+if (playerchats &&strequals(#g,Undying Court))
+  if (strequals(#c,close))
+
+{show;}
+NPCEND
+NPC val-lortree1.gif 13 8
+//#CLIENTSIDE
+// NPC made by Dr. Horrible
+
+if (playerchats &&strequals(#g,Undying Court))
+  if (strequals(#c,reveal))
+
+{hide;}
+
+if (playerchats &&strequals(#g,Undying Court))
+  if (strequals(#c,close))
+
+{show;}
+NPCEND
+NPC val-lortree1.gif 53 -3
+// NPC made by Dr. Horrible
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-lortree1.gif 15 34
+//#CLIENTSIDE
+// NPC made by Dr. Horrible
+
+if (playerchats &&strequals(#g,Undying Court))
+  if (strequals(#c,reveal))
+
+{hide;}
+
+if (playerchats &&strequals(#g,Undying Court))
+  if (strequals(#c,close))
+
+{show;}
+NPCEND
+NPC val-lortree1.gif 17 20
+//#CLIENTSIDE
+// NPC made by Dr. Horrible
+
+if (playerchats &&strequals(#g,Undying Court))
+  if (strequals(#c,reveal))
+
+{hide;}
+
+if (playerchats &&strequals(#g,Undying Court))
+  if (strequals(#c,close))
+
+{show;}
+NPCEND
+NPC - 24 3
+//#CLIENTSIDE
+
+if (created) {
+if(playerchats&&(strequals(#a,Troku))) {
+if(strequals(#c,Horse)) {
+  puthorse val_longfellow-personalblackknighthorse2.gif,x,y;
+}
+NPCEND
+NPC val-gaztreetop2.gif 42 12
+// NPC made by Nomad
+if (created) {dontblock; drawoverplayer;}
+NPCEND

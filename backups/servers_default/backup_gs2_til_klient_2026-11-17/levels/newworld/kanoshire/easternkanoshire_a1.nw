@@ -1,0 +1,791 @@
+GLEVNW01
+BOARD 0 0 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVvRvSuzuwuxuzvBvCvDAAABuhuiuiAAABuhvDABuwAAvQvRvSvTvQvRvSvTvQvRvSuzuwuxuzvBvCvD
+BOARD 0 1 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVuhuiuiujvDvDvRuwAAuzuwAAABABuzuwuxuyuzAAvBuguhuiujuguhuiujuguhuiuiujvDvDvRuwAA
+BOARD 0 2 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVABAAABuzvTAAAAABvCAAAAABvCvCAAABvBAAABvQvRABvBAAuzAAABAAABAAABAAABuzvTAAAAABvC
+BOARD 0 3 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVuguhvCvDAAvTvQvRvSvTvQvRvSvSvTvQAAABvTvQvRvQvRvSvSvQvRuwAAvTuguhvCvDAAvTvQvRvS
+BOARD 0 4 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVuwAAuwuhuiujuguhuiujuguhuiAAABABABuwuxuyuzABuhuiuiAAABuhvDABuwAAuwuhuiujuguhui
+BOARD 0 5 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVAAvBABAAABuzAAABAAABAAABAAvAvBvCuguhuiujvDuwAAABABuzuwuxuyuzAAvBABAAABuzAAABAA
+BOARD 0 6 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVvQvRvRABvCvSvQvRuwAAvTuguhuguhuiujAAABuzvTAAABvCvCAAABvBAAABvQvRvRABvCvSvQvRuw
+BOARD 0 7 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVvQvRuhvRvSuiAAABuhvDABuwAAuwAAABuzvBvCvDAAvQvRvSvSvTvQAAABvTvQvRuhvRvSuiAAABuh
+BOARD 0 8 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVuyuzABuhuiABuzuwuxuyuzAAvBAAvBvCvDvRuwAAuzuguhuiAAABABABuwuxuyuzABuhuiABuzuwux
+BOARD 0 9 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVujvDvRABAAvCAAABvBAAABvQvRvQvRuwAAAAABvCAAAAABAAvAvBvCuguhuiujvDvRABAAvCAAABvB
+BOARD 0 10 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVuzvTABAAABvSvTvQAAABvTvQvRvQvRvSvTvQvRvSvTvTuguhuguhuiujAAABuzvTABAAABvSvTvQAA
+BOARD 0 11 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVvDAAuwvBvCuzvBvCvDAAABuhuiAAuguhuiAAABuhvDABuwAAuwAAABuzvBvCvDAAuwvBvCuzvBvCvD
+BOARD 0 12 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVAAuzABvRuwvDvRuwAAuzuwAAABuzuwAAABuzuwuxuyuzAAvBAAvBvCvDvRuwAAuzABvRuwvDvRuwAA
+BOARD 0 13 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVvCAAvQAAABAAAAABvCAAAAABvCAAAAABvCAAABvBAAABvQvRvQvRuwAAAAABvCAAvQAAABAAAAABvC
+BOARD 0 14 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVvSvTH4H5vDvAvBvCvDvAvBvCvDK3AAABAAvQvRvSABvTvQvRvQvRvSvTvQvRvSvTABABuwvTvQvRvS
+BOARD 0 15 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVvAvBvRvSvTvQvRvSvTvQcKcLvTvQK4KlKmuguhuiABuyuzAAABAAABAAABAAvAvBvCuguhvQABAAAB
+BOARD 0 16 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2GRC4D3DnAAuhuiujuguhuiujAAcacbujuguhK1K2ABvBAAvQvRvSvQvRuwAAvTuguhuguhuiujAAugAAABvC
+BOARD 0 17 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVvQuxuyuzuwuxuyuzcsuxuyuzuwuxuyvRvQvRvSuguhuiAAABuhvDABuwAAuwAAABuzvBuwvQvRvS
+BOARD 0 18 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVugvBvCvDvAvBAAABOLAAf/KnOLvSAAABf/AAABuwAAABuzuwuxuyuzAAvBAAvBvCvDvRvAuguhui
+BOARD 0 19 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVAAvRvSvTvQAAABcKcLvRKnOLuhuiujugAAABujAAABvCAAABvBAAABvQvRvQvRuwAAAAvQAAABAA
+BOARD 0 20 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVvROLAAABuguhZvcacbuhAAABcsuyuzAAABuyuzvQvRvSvTvQAAABvTvQvRvQvRvSvTvQvTuwuxuy
+BOARD 0 21 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVABf/f/f/AAABf/AAABuxKncqcrvCvDOLvBvCvDvSvQvRuwAAvTuguhuiujAAABuzvTvQujugAAAB
+BOARD 0 22 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVvCAAABAAABf/AAABvAvBKnc6c7csvTvQvRKnvTuiAAABuhvDABuwAAABuzvBvCvDAAABABuwuxuy
+BOARD 0 23 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVuwABcKcLAAABOLvTvQvRAAuguhuiujugAAuiujABuzuwuxuyuzAAvBvCvDvRuwAAuzuwAAABuzuz
+BOARD 0 24 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVABAAcacbAAABuiujuguhABuwuxuyAAABuxuyuzvCAAABvBAAABvQvRuwAAAAABvCAAAAvBvCvDvD
+BOARD 0 25 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVvRf/f/ZvuwuxcsuzuwuxKnvAAAOLvDvAcsvCvDvSvTvQAAABvTvQvRvSvTvQvRvSvTvQvRuwAAvT
+BOARD 0 26 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVuhKnf/f/OLvBvCvDvAvBKnAAABAAABvQvRvSvTuiujugAAABujuguhuiujuguhuiujugABuhvDAB
+BOARD 0 27 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVABKnf/csvQvRcKcLvQvRABf/ZvuiujAAABuiujvCuguhuiujvDABvBAAuzAAABAAABAAvDABvBAA
+BOARD 0 28 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVvRuhuiAAuguhuiAAABuhvDABuwAAABuzvBvCvDuiujAAABuzvTvQvRvSvSvQvRuwAAvTvTvQvRvS
+BOARD 0 29 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2GRC4D3DnAAABuzuwAAABuzuwuxuyuzAAvBvCvDvRuwAAABuzvBvCvDAAABuhuiuiAAABuhvDABAAABuhui
+BOARD 0 30 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2GRC4D3DnuyuzuzuwAAABuzuwAAABuzuwuxuyuzAAvBvCvDvRuwAAuzuwAAABABuzuwuxuyuzuzuwAAAB
+BOARD 0 31 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2GRC4D3DnABAAAAABvCAAAAABvCAAABvBAAABvQvRuwAAAAABvCAAAAABvCvCAAABvBAAABAAAAABvC
+BOARD 0 32 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2GRC4D3DnuzvBvCH4H5vDvAvBvCvDvAvBvCvDK3AAABAAvQvRvSvRvSvTvQvRvSuzuwuxuzvBvCvD
+BOARD 0 33 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2GRC4D3DnvRuwvRvSvTvQvRvSvTvQcKcLvTvQK4KlKmuguhuiuhuiujuguhuiuiujvDvDvRuwAA
+BOARD 0 34 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2GRC4D3DnABuhuiujuguhuiujAAcacbujuguhK1K2ABvBAAABAAABAAABAAABuzvTAAAAABvC
+BOARD 0 35 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVvRuxuyuzuwuxuyuzcsuxuyuzuwuxuyvRvQvRvSvRuwAAvTuguhvCvDAAvTvQvRvS
+BOARD 0 36 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVuhvBvCvDvAvBAAABOLAAf/KnOLvSAAABf/AAABABuhvDABuwAAuwuhuiujuguhui
+BOARD 0 37 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVABvRvSvTvQAAABcKcLvRKnOLuhuiujugAAABujuwuxuyuzAAvBABAAABuzAAABAA
+BOARD 0 38 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVvROLAAABuguhZvcacbuhAAABcsuyuzAAABuyuzABvBAAABvQvRvRABvCvSvQvRuw
+BOARD 0 39 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVABf/f/f/AAABf/AAABuxKncqcrvCvDOLvBvCvDvQAAABvTvQvRuhvRvSuiAAABuh
+BOARD 0 40 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVuwAAABAAABf/AAABvAvBKnc6c7csvTvQvRKnvTABABuwuxuyuzABuhuiABuzuwux
+BOARD 0 41 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVABABcKcLAAABOLvTvQvRAAH4H5vDvAvBvCvDvAvBvCvDK3AAABAAvQvRvSAAABvB
+BOARD 0 42 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVvQAAcacbAAABuiujuguhABvRvSvTvQvRvSvTvQcKcLvTvQK4KlKmuguhuivTvQAA
+BOARD 0 43 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVvCf/f/ZvuwuxcsuzuwuxKnuhuiujuguhuiujAAcacbujuguhK1K2ABvBAAvBvCvD
+BOARD 0 44 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVuwKnf/f/OLvBvCvDvAvBKnuxuyuzuwuxuyuzcsuxuyuzuwuxuyvRvQvRvSvRuwAA
+BOARD 0 45 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCPMPNO9DyDzD0AAABKnf/csvQvRcKcLvQvRABvBvCvDvAvBAAABOLAAf/KnOLvSAAABf/AAABAAABvC
+BOARD 0 46 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVvQvRuhuiAAuguhuiAAABuhvDvRvSvTvQAAABcKcLvRKnOLuhuiujugAAABujvQvRvS
+BOARD 0 47 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVABAAAAABuzuwAAABuzuwuxuyOLAAABuguhZvcacbuhAAABcsuyuzAAABuyuzABAAAB
+BOARD 0 48 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVAAABvCAAAAH4H5vDvAvBvCvDvAvBvCvDK3AAABAAvQvRvScrvCvDOLvBvCvDAAH4H5
+BOARD 0 49 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVvQvRvSvTvQvRvSvTvQvRvSvTvQcKcLvTvQK4KlKmuguhuic7csvTvQvRKnvTvQvRvS
+BOARD 0 50 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2GRC4D3DnuhuiujuguhuiujuguhuiujAAcacbujuguhK1K2ABvBAAuhuiujugAAuiujuguhui
+BOARD 0 51 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2GRC4D3DnAAABAAuxuyuzuwuxuyuzcsuxuyuzuwuxuyvRvQvRvSuxuyAAABuxuyuzAAuxuy
+BOARD 0 52 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2GRC4D3DnuzuwvBvCvDvAvBAAABOLAAf/KnOLvSAAABf/AAABAAOLvDvAcsvCvDuwvBvC
+BOARD 0 53 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2GRC4D3DnAAvRvSvTvQAAABcKcLvRKnOLuhuiujugAAABujABAAABvQvRvSvTugvRvS
+BOARD 0 54 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVvBOLAAABuguhZvcacbuhAAABcsuyuzAAABuyuzZvuiujAAABuiujuwOLAA
+BOARD 0 55 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVvRf/f/f/AAABf/AAABuxKncqcrvCvDOLvBvCvDuwAAABuzvBvCvDABf/f/
+BOARD 0 56 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVAAAAABAAABf/AAABvAvBKnc6c7csvTvQvRKnvTAAvBvCvDvRuwAAvCAAAB
+BOARD 0 57 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVvQABcKcLAAABOLvTvQvRAAuguhuiujugAAuiujvTvQvRvSvTvQvRuwABcK
+BOARD 0 58 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVugAAcacbAAABuiujuguhABuwuxuyAAABuxuyuzujuguhuiujugABuhAAca
+BOARD 0 59 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVABf/f/ZvuwuxcsuzuwuxKnvAAAOLvDvAcsvCvDuzAAABAAABAAvDABf/f/
+BOARD 0 60 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHOHPDTDUDVvQKnf/f/OLvBvCvDvAvBKnAAABAAH4H5vDvAvBvCvDvAvBvCvDK3AAKnf/
+BOARD 0 61 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeHfDjDkDVugKnf/csvQvRcKcLvQvRABf/ZvuivRvSvTvQvRvSvTvQcKcLvTvQK4Knf/
+BOARD 0 62 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCPMPNO9DyDzD0AAuwuhuiAAuguhuiAAABuhvDABuwAAuhuiujuguhuiujAAcacbujuguhuhui
+BOARD 0 63 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2GRC4D3DnAAAAABuzuwAAABuzuwuxuyuzAAvBuxuyuzuwuxuyuzcsuxuyuzuwuxAAAB
+NPC val_pinetree-mult.gif 24 -1
+join world_pinetrees;
+NPCEND
+NPC val_pinetree-mult.gif 41 11
+join world_pinetrees;
+NPCEND
+NPC val_pinetree-mult.gif 55 0
+join world_pinetrees;
+NPCEND
+NPC val_pinetree-mult.gif 44 23
+join world_pinetrees;
+NPCEND
+NPC val_pinetree-mult.gif 53 34
+join world_pinetrees;
+NPCEND
+NPC val-newtreething.gif 26 13
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 31 12
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 36 14
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 29 18
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 26 22
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 35 20
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 31 23
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 38 24
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 35 26
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 30 27
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 35 40
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 40 38
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 47 43
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 39 56
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 41 45
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 52 53
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 45 59
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 53 62
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC water32.gif 3 65
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 7 61
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 21 61
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 16 58
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 22 55
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 19 42
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 17 49
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 12 53
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 5 51
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 1 58
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 11 46
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 23 38
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 18 33
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 12 39
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 7 43
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 2 45
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 2 38
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 10 34
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 14 27
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 4 28
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 8 24
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 14 19
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 0 20
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 2 17
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 11 11
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 3 7
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 5 12
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 14 5
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 7 3
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 15 1
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 2 0
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC - 47 52
+//#CLIENTSIDE
+if (created) {
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #P1,none.gif;
+  setcharprop #3,val-nohead.png;
+  setcharprop #C0,darkgreen;
+  setcharprop #C1,brown;
+  setcharprop #C2,brown;
+  setcharprop #C3,darkgreen;
+  setcharprop #C4,lightgray;
+  setcharprop #n,Deer;
+  setcharprop #2,no-shield.png;
+  setcharprop #8,no-body.gif;
+  shieldpower = 0;
+  ap = 100;
+  dontblock;
+}
+if (playerenters || timeout) {
+  setstring this.name,tamachan;
+  setcharani val_deer-idle, idle;
+
+  this.randomx=int(random(-2,2));
+  this.randomy=int(random(-2,2));
+
+  if (!onwall(x+1.5*this.randomx,y+2*this.randomy) && !onwater(x+1.5*this.randomx,y+2*this.randomy )) {
+    move this.randomx,this.randomy,1,4+8+16+32;
+    setcharani val_deer-walk,walk;
+  }
+  sleep 1;
+
+  setcharani val_deer-idle, idle;
+  timeout = random(2,5);
+}
+NPCEND
+NPC val-zetatreetest3.gif 58 42
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 14,18,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC val-zetatreetest3.gif 59 63
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 14,18,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC val-zetatreetest3.gif 31 43
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 14,18,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC val-zetatreetest3.gif 45 27
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 14,18,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC val-zetatreetest3.gif 34 22
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 14,18,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC val-zetatreetest3.gif 29 26
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 14,18,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC val-zetatreetest2.gif 54 52
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 14,18,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,22,22,22,00,00,00,00,00,00,
+    00,00,00,00,22,22,22,22,22,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND

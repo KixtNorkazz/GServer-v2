@@ -1,0 +1,1258 @@
+GLEVNW01
+BOARD 0 0 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 1 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4tHtFtFtFtFtFtFtFtFtFtFtFtFtFtFtFtFtIJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 2 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4tVnCnDm7m7m7m7m7m7m7m7m7m7m7m7nCnDtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 3 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4tVmimzm7m7m7m7m7m7m7m7m7m7m7m7mimztGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 4 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4tVmymzm7m7m7m7m7m7m7m7m7m7m7m7mymztGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 5 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4tVnCnDm7m7m7m7m7m7m7m7m7m7m7m7nCnDtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 6 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4tVnSnTm7m7m7m7m7m7m7m7m7m7m7m7nSnTtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 7 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4tVmymzm7m7m7m7m7m7m7m7m7m7m7m7mymztGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 8 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4tVnSnTm7m7m7m7m7m7m7m7m7m7m7m7nCnDtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 9 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4tVmymzm7m7m7m7m7m7m7m7m7m7m7m7mymztGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 10 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4tVnCnDm7m7m7m7m7m7m7m7m7m7m7m7nCnDtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 11 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4tVnSnTm7m7m7m7m7m7m7m7m7m7m7m7nSnTtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 12 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tHtFtFtFtFtFtFtFtFtFtUmymzm7m7m7m7m7m7m7m7m7m7m7m7mymztTtFtFtFtFtFtFtFtFtFtIJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 13 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVnCnDm7m7m7m7m7m7nCnDnCnDm7m7m7m7m7m7m7m7m7m7m7m7nCnDnCnDm7m7m7m7m7m7nCnDtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 14 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVmimzm7m7m7m7m7m7mimznSnTm7tHtFtFtFtFtFtFtFtFtIm7nSnTmimzm7m7m7m7m7m7mimztGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 15 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVmymzm7m7m7m7m7m7mymzninjm7tVm+m9m+m9m+m9m+m9tGm7ninjmymzm7m7m7m7m7m7mymztGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 16 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVnCnDm7m7m7m7m7m7nCnDnynzpbtVnOnNnOnNnOnNnOnNtGpqnynznCnDm7m7m7m7m7m7nCnDtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 17 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVnSnTm7m7m7m7m7m7nSnTptpqprtXtWtWtWtWtWtWtWtWtYprprprnSnTm7m7m7m7m7m7nSnTtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 18 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVmymzm7m7m7m7m7m7mymzpdpapbmSmTpapbpbpdpapbmSmTprpbpbmymzm7m7m7m7m7m7mymztGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 19 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVnCnDm7m7m7m7m7m7nCnDpdpapbpqprptpqprprptpqprptpbprprnCnDm7m7m7m7m7m7nCnDtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 20 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVnSnTm7m7m7m7m7m7nSnTpdpapbpbpdpapbpbpdpapbpbpdprpbpbnSnTm7m7m7m7m7m7nSnTtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 21 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVmymzm7m7m7m7m7m7mymzptpqprprptpqprprptpqprprptpqprprmymzm7msmtmumvm7mymztGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 22 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVnCnDm7m7m7m7m7m7nCnDpdpapbpbpdpapbpbpdpapbpbpdpapbpbnCnDm7m8m9m+m/m7nCnDtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 23 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVnSnTm7m7m7m7m7m7nSnTwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKnSnTm7nMnNnOnPm7nSnTtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 24 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVninjm7m7m7m7m7m7ninjwTwRwRwSwSwSwTwRwRwSwSwSwTwRwSwSninjwCwCwDwRwBwCninjtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 25 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVnynzwCwCwDwBwBwCnynzwDwBwBwCwCwCwDwBwBwCwCwCwDwBwBwCnynzwCwCwDwRwBwCnynztGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 26 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVwRwSwSwSwTwRwRwSwSwSwTwRwRwSwSwSwTwRwRwSwSwSwTwRwRwSwSwSwTwRwRwBwSwSwTwRtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 27 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVwBwCwCwCwDwBwBwCwCwCwDwBwBwCwCwCwDwBwBwCwCwCwDwBwBwCwCwCwDwBwBwCwCwCwDwBtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 28 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVwRwSwSwSwTwRwRwSwSwSwTwRwRwSwSwSwTwRwRwSwSwSwTwRwRwSwSwSwTwRwRwSwSwSwTwRtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 29 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVwBwCwCwCwDwBwBwCwCwCwDwBwBwCwCwCwDwBwBwCwCwCwDwBwBwCwCwCwDwBwBwCwCwCwDwBtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 30 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVwRwSwSwSwTwRwRwSwSwSwTwRwRwSwSwSwTwRwRwSwSwSwTwRwRwSwSwSwTwRwRwSwSwSwTwRtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 31 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVwVwJwWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWtWwVwJwWtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 32 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVwVwJwWmimzm7m7mimzm7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7mimzm7m7mimzwVwJwWtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 33 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVwVwJwWmimzm7m7mimzm7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7mimzm7m7mimzwVwJwWtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 34 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVwVwJwWmimzm7m7mymzm7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7mymzm7m7mimzwVwJwWtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 35 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVwRwTwRwGmzm7m7nCnDm7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7nCnDm7m7miwFwTwRwTtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 36 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVwBwDwBwawGm7m7nSnTm7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7nSnTm7m7wFwZwDwBwDtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 37 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVwRwTwRwawawGm7ninjm7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7m7ninjm7wFwZwZwTwRwTtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 38 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVtWtWtWm7wawawGnynzwSwSwSwTwRwRwSwSwSwTwRwRwSwSwSwTwRwRnynzwFwZwZm7tWtWtWtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 39 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVnCnDm7m7m7wawawGwBwCwCwCwDwBwBwCwCwCwDwBwBwCwCwCwDwBwBwCwFwZwZm7m7m7nCnDtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 40 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVnSnTm7m7m7m7wawawRwSwSwSwTwRwRwSwSwSwTwRwRwSwSwSwTwRwRwSwZwZm7m7m7m7nSnTtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 41 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVnSnTm7m7m7m7m7wawBwCwCwCwDwBwBwCwCwCwDwBwBwCwCwCwDwBwBwCwZm7m7m6m7m7nSnTtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 42 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVninjm7m7m7m7nim7wRwSwSwSwTwRwRwSwSwSwTwRwRwSwSwSwTwRwRwSm7njm7m7m7m7ninjtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 43 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVnynzprptpqprnynzm7wJwJwJwIwBwBwCwCwCwDwBwBwCwCwHwJwJwJm7nynzprptpqprnynztGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 44 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVpapbpbpdpapbpbpdpapbpbpdwVwIwRwSwSwSwTwRwRwSwHwWpapbpbpdpapbpbpdpapbpbpdtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 45 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVpapbpbpdpapbpbpdpapbpbpdpawVwIwCwCwCwDwBwBwHwWpdpapbpbpdpapbpbpdpapbpbpdtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 46 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVpqprprptpqprprptpqprprptpqprwVwIwSwSwTwRwHwWprptpqprprptpqprprptpqprprpttGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 47 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVpapbpbpdpapbpbpdpapbpbpdpapbpbwVwIwCwDwHwWpbpbpdpapbpbpdpapbpbpdpapbpbpdtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 48 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tVpapbpbpdpapbpbpdpapbpbpdpapbpbpdwZwSwTwapapbpbpdpapbpbpdpapbpbpdpapbpbpdtGJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 49 64 0 J4J4J4J4J4J4J4J4J4J4J4J4tXtWtWtWtWtWtWtWtWtWtWtWtWtWtWtEptwZwCwDwapqtDtWtWtWtWtWtWtWtWtWtWtWtWtWtWtYJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 50 64 0 J4J4J4J4J4J4J4J4J4J4J4J4mimzm7m7m7m7m7m7m7m7m7m7m7mimztVpdwZwSwTwapatGmimzm7m7m7m7m7m7m7m7m7m7m7mimzJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 51 64 0 J4J4J4J4J4J4J4J4J4J4J4J4mymzm7m7m7m7m7m7m7m7m7m7m7mymztVpdwZwCwDwapatGmymzm7m7m7m7m7m7m7m7m7m7m7mymzJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 52 64 0 J4J4J4J4J4J4J4J4J4J4J4J4nCnDm7m7m7m7m7m7m7m7m7m7m7nCnDtVptwZwSwTwapqtGnCnDm7m7m7m7m7m7m7m7m7m7m7nCnDJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 53 64 0 J4J4J4J4J4J4J4J4J4J4J4J4nSnTm7m7m7m7m7m7m7m7m7m7m7nSnTtVpdwZwCwDwapatGnSnTm7m7m7m7m7m7m7m7m7m7m7nSnTJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 54 64 0 J4J4J4J4J4J4J4J4J4J4J4J4ninjm7m7m7m7m7m7m7m7m7m7m7ninjtXtWtWtWtWtWtWtYninjm7m7m7m7m7m7m7m7m7m7m7ninjJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 55 64 0 J4J4J4J4J4J4J4J4J4J4J4J4nynzJ4J4J4J4J4J4J4J4J4J4J4nynzmimztgthtitjmimznynzJ4J4J4J4J4J4J4J4J4J4J4nynzJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 56 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4mymztwtxtytzmymzJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 57 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4nCnDuAuBuCuDnCnDJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 58 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4nSnTuAuBuCuDnSnTJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 59 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4ninjuQuRuSuTninjJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 60 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4nynzJ4J4J4J4nynzJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 61 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 62 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 63 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+LINK whisperinghall_westwing.nw 29 54 4 1 26.5 25.5
+LINK whisperinghall_vault1.nw 42 23 4 1 59.5 34
+NPC val_rp-bookshelflonginwallfix.gif 28 32
+//#CLIENTSIDE
+
+dontblock;
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 22 35
+//#CLIENTSIDE
+
+dontblock;
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 28 35
+//#CLIENTSIDE
+
+dontblock;
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 22 32
+//#CLIENTSIDE
+
+dontblock;
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 34 35
+//#CLIENTSIDE
+
+dontblock;
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 34 32
+//#CLIENTSIDE
+
+dontblock;
+NPCEND
+NPC val_valcastle-balcony.png 20 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 21 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 22 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 23 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 24 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 25 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 26 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 27 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 28 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 29 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 30 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 31 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 32 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 33 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 34 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 35 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 36 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 37 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 38 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 39 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 40 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 41 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 40 43
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,32,32,16,16;
+  drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 40 41
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,32,0,16,32;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 42 39
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,64,0,16,64;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 43 38
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,64,0,16,64;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 44 37
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,64,0,16,64;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 45 36
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,64,0,16,64;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 46 36
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 47 36
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 48 36
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 42 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 43 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 44 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 19 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 17 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 18 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 16 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,32,0,16,32;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 16 31
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,32,32,16,16;
+  drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 45 29
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,48,0,16,32;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 45 31
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,48,32,16,16;
+  drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 21 43
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,48,32,16,16;
+  drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 21 41
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,48,0,16,32;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 19 39
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,16,0,16,64;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 18 38
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,16,0,16,64;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 17 37
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,16,0,16,64;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 16 36
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,16,0,16,64;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 15 36
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 14 36
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 13 36
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 41 40
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,64,0,16,64;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 20 40
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,16,0,16,64;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-torch2.png 40 36
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+0,0,
+0,0,
+0,0,
+22,22
+}
+  showimg 0,fire.gif,x+.1,y-1.9;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-torch2.png 20 36
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+0,0,
+0,0,
+0,0,
+22,22
+}
+  showimg 0,fire.gif,x+.1,y-1.9;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-torch2.png 13 41
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+0,0,
+0,0,
+0,0,
+22,22
+}
+  showimg 0,fire.gif,x+.1,y-1.9;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-torch2.png 47 41
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+0,0,
+0,0,
+0,0,
+22,22
+}
+  showimg 0,fire.gif,x+.1,y-1.9;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-balcony.png 48 36
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,0,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 41 22
+if (created)
+  {
+  this.gate = 0;
+  this.gate2 = 0;
+  drawunderplayer;
+}
+
+
+if (playerchats)
+  {
+if (strequals(#a,TashGraal) || strequals(#a,Evil_SinX))
+    {
+    if (strequals(#c,Open))
+      {
+      if (this.gate == 0 && this.gate2 == 0 && this.gate3 == 0)
+        {
+        this.gate = 1;
+        this.gate2 = 1;
+        move 0,-3.2,1.5,0;
+        sleep 1.5;
+        this.gate2 = 0;
+        dontblock; drawoverplayer;
+      }
+    }
+    if (strequals(#c,Close))
+      {
+      if (this.gate == 1 && this.gate2 == 0)
+        {
+        this.gate = 0;
+        this.gate2 = 1;
+        if (this.gate3 == 1)
+          {
+          this.gate3 = 0;
+          move +7,0,2.5,0;
+          sleep 2.5;
+        }else{move 0,+3.2,1.5,0;sleep 1.5;}
+        this.gate2 = 0;
+        blockagain;
+      }
+    }
+
+      }
+    }
+NPCEND
+NPC val_zurkchalkboard.gif 28 10
+// NPC made by Gaz ooc
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-plans1.gif 27 14
+dontblock;
+drawunderplayer;
+NPCEND
+NPC longfellow-plans2.gif 33 14
+dontblock;
+drawunderplayer;
+NPCEND
+NPC bookstack.gif 34 15
+//#CLIENTSIDE
+if (created) {
+}
+NPCEND
+NPC bookstack.gif 37 15
+//#CLIENTSIDE
+if (created) {
+}
+NPCEND
+NPC bookstack.gif 38 16
+//#CLIENTSIDE
+if (created) {
+}
+NPCEND
+NPC stefanbook.gif 30 14
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC stefanbook.gif 27 16
+dontblock;
+drawunderplayer;
+NPCEND
+NPC stefanbook.gif 23 18
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC note.gif 32 16
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-itemslot-hastescroll.png 31 15
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_gravescript.gif 27 14
+// NPC made by Dargor Cazic-Thuul
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC alogrest-book.gif 33 14
+//#CLIENTSIDE
+if (created) {
+}
+NPCEND
+NPC seuagen-redpotion.gif 26 14
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-torch2.png 47 23
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+0,0,
+0,0,
+0,0,
+22,22
+}
+  showimg 0,fire.gif,x+.1,y-1.9;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-torch2.png 21 23
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+0,0,
+0,0,
+0,0,
+22,22
+}
+  showimg 0,fire.gif,x+.1,y-1.9;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-torchused3.gif 13 23
+
+NPCEND
+NPC val_valcastle-torchused3.gif 39 23
+
+NPCEND
+NPC longfellow-plans1.gif 25 20
+dontblock;
+drawunderplayer;
+NPCEND
+NPC longfellow-plans2.gif 23 19
+dontblock;
+drawunderplayer;
+NPCEND
+NPC stefanbook.gif 24 22
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-itemslot-hastescroll.png 23 20
+dontblock;
+drawunderplayer;
+NPCEND
+NPC bookstack.gif 23 15
+//#CLIENTSIDE
+if (created) {
+}
+NPCEND
+NPC val-runicwall1.gif 33 48
+// NPC made by Gaz ooc
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-runicwall1.gif 28 48
+// NPC made by Gaz ooc
+dontblock;
+drawunderplayer;
+NPCEND
+NPC ambient_light.png 27 38
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,0,0,0.1;
+  drawaslight;
+setzoomeffect 3;
+drawoverplayer;
+}
+NPCEND
+NPC ambient_light.png 27 47
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,0,0,0.1;
+  drawaslight;
+setzoomeffect 3;
+drawoverplayer;
+}
+NPCEND
+NPC ambient_light.png 14 23
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,0,0,0.1;
+  drawaslight;
+setzoomeffect 3;
+drawoverplayer;
+}
+NPCEND
+NPC ambient_light.png 13 42
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,0,0,0.1;
+  drawaslight;
+setzoomeffect 3;
+drawoverplayer;
+}
+NPCEND
+NPC ambient_light.png 52 23
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,0,0,0.1;
+  drawaslight;
+setzoomeffect 3;
+drawoverplayer;
+}
+NPCEND
+NPC ambient_light.png 27 19
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,0,0,0.1;
+  drawaslight;
+setzoomeffect 3;
+drawoverplayer;
+}
+NPCEND
+NPC ropestairs.png 18 13
+dontblock;
+drawunderplayer;
+NPCEND
+NPC ropestairs.png 18 16
+dontblock;
+drawunderplayer;
+NPCEND
+NPC ropestairs.png 18 22
+dontblock;
+drawunderplayer;
+NPCEND
+NPC ropestairs.png 18 19
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 15 13
+//#CLIENTSIDE
+
+dontblock;drawunderplayer
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 15 16
+//#CLIENTSIDE
+
+dontblock;drawunderplayer
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 15 19
+//#CLIENTSIDE
+
+dontblock;drawunderplayer
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 15 22
+//#CLIENTSIDE
+
+dontblock;drawunderplayer
+NPCEND
+NPC val_valcastle-torch2.png 36 15
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+0,0,
+0,0,
+0,0,
+22,22
+}
+  showimg 0,fire.gif,x+.1,y-1.9;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 41 19
+//#CLIENTSIDE
+
+dontblock;
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 41 13
+//#CLIENTSIDE
+
+dontblock;
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 25 8
+//#CLIENTSIDE
+
+dontblock;drawunderplayer
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 31 8
+//#CLIENTSIDE
+
+dontblock;drawunderplayer
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 25 11
+//#CLIENTSIDE
+
+dontblock;drawunderplayer
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 31 11
+//#CLIENTSIDE
+
+dontblock;drawunderplayer
+NPCEND
+NPC ambient_light.png 42 42
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,0,0,0.1;
+  drawaslight;
+setzoomeffect 3;
+drawoverplayer;
+}
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 31 5
+//#CLIENTSIDE
+
+dontblock;drawunderplayer
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 25 5
+//#CLIENTSIDE
+
+dontblock;drawunderplayer
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 25 2
+//#CLIENTSIDE
+
+dontblock;drawunderplayer
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 31 2
+//#CLIENTSIDE
+
+dontblock;drawunderplayer
+NPCEND
+NPC val-web-topleft1.gif 23 2
+// NPC made by Dust
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-web-topleft1.gif 42 32
+// NPC made by Dust
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-web-topleft1.gif 16 32
+// NPC made by Dust
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-web-bottomleft.gif 26 18
+// NPC made by Dust
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-web-bottomleft.gif 22 26
+// NPC made by Dust
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-web-bottomright.gif 39 38
+//#CLIENTSIDE
+
+dontblock;
+NPCEND
+NPC bookopen.gif 29 16
+//#CLIENTSIDE
+// NPC made by Garrett Church, Regent of (Bridgeton)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC bookopen.gif 25 20
+//#CLIENTSIDE
+// NPC made by Garrett Church, Regent of (Bridgeton)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC bookopen.gif 23 19
+//#CLIENTSIDE
+// NPC made by Garrett Church, Regent of (Bridgeton)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC bookopen.gif 37 19
+//#CLIENTSIDE
+// NPC made by Garrett Church, Regent of (Bridgeton)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_candle.gif 29 14
+if (created) {dontblock; timeout=.1;}
+
+if (timeout) {showimg 1,light2.png,x-3.8,y-3.1;
+changeimgvis 1,3;
+changeimgcolors 1,1,.63,0,.65;
+changeimgzoom 1,random(1.3,1.5);}
+NPCEND
+NPC val_valcastle-torchused3.gif 24 14
+
+NPCEND
+NPC - 7 27
+// NPC made by Saeyn Kushiro, of (Suiriku)
+//#CLIENTSIDE
+if (playerenters) {level.inside=1;}
+if (timeout) {seteffect 0,0,0,.5;}
+timeout=0.05;
+NPCEND
+NPC val_rp-bookshelflonginwallfix.gif 41 16
+//#CLIENTSIDE
+
+dontblock;
+NPCEND

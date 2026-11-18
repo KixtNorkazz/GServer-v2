@@ -1,0 +1,28 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.head = "val-monsterseeker.gif";
+  this.body = "val-monsterseeker-body100.gif";
+  this.colors[0] = "orange";
+  this.colors[1] = "brown";
+  this.colors[2] = "brown";
+  this.colors[3] = "black";
+  this.colors[4] = "white";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.swordpower = 1;
+  this.shield = "no-shield.gif";
+  this.shieldpower = 1;
+  this.ap = 100;
+  this.nick = "Seeker";
+  this.dir = 3;
+  setcharani("idle", NULL);
+  this.hearts = 0;
+}
+
+function onPlayerTouchsMe() {
+  say2("Hey there!  I'm driving a#b
+caravan down to The Guild#b
+and Northpoint!#b
+Say \"To The Guild\"");
+}

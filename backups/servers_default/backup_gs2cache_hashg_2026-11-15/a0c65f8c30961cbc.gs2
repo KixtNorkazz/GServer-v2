@@ -1,0 +1,10 @@
+//#CLIENTSIDE
+function onCreated() {
+  drawoverplayer();
+}
+
+function onPlayerTouchsMe() {
+  if (("#g".pos("Staghorn") > -1)) {
+    dontblock();
+  }
+}

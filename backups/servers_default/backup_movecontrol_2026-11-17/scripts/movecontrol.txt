@@ -1,0 +1,125 @@
+/*
+Variables:
+  this.movement[][] = array of movement deltas and times
+  this.moveindex = current move index
+  this.movewalk = ani to use for movement
+  this.moveidle = ani to use for idle
+  this.movedefault = average tiles per second for unspecified time
+  this.movemapx = map x of the local level in the gmap
+                  if using type 1 movement entry and the
+                  coordinates are local, define this and
+                  movemapy in the local npc to compensate
+                  for gmap.
+                  You can get the offset on RC by using
+                  /npcoffset <levelname> (ex: /npcoffset greendale_c5.nw)
+  this.movemapy = map y of the local level in the gmap
+
+  Movement Entry: {absolute?, dx, dy, time, sleep}
+  time is 0, uses this.movedefault
+  if time is negative, uses (time * -1) tiles per second
+*/
+function invy(text) {
+  with (findplayer("Inverness")) {
+    System.clientfunction2(null, "echo2", text);
+  }
+}
+function onCreated() {
+  this.join("util_errormsg");
+  this.join("util_sleep2");
+  this.cancelevents("MovementStart");
+  this.cancelevents("MovementFinished");
+  this.errorname = format("npcs[%s]", this.id);
+  this.sleep2(1);
+  this.movecount = this.movement.size();
+  if (this.moveidle == null)
+    this.moveidle = "idle";
+  if (this.movewalk == null)
+    this.movewalk = "walk";
+  if (this.movedefault == null)
+    this.movedefault = -5;
+  if (this.movecount > 1)
+    this.scheduleevent(0, "MovementStart", null);
+}
+function dist(x1, y1, x2, y2) {
+  return ((x2 - x1)^2 + (y2 - y1)^2)^0.5;
+}
+function getmovetime(mt, x2, y2) {
+  if (mt > 0) {
+    return mt;
+  }
+  else if (mt < 0) {
+    return this.dist(this.x, this.y, x2, y2) / (mt * -1); 
+  }
+  else {
+    return this.movedefault;
+  }
+}
+function onMovementStart(special, m) {
+  temp.ix = this.moveindex;
+  temp.mt = 0;
+  temp.d = 0;
+  
+  this.cancelevents("MovementStart");
+  if (this.movement[ix].size() != 5) {
+    error("invalid movement table entry: %s: %s", ix, this.movement[ix]);
+    for (d: this.movement) {
+      echo(" - " @ d);
+    }
+    return;
+  }
+  this.setcharani(this.movewalk, "");
+  if (special == false) {
+    m = this.movement[ix];
+  }
+  if (m[3] == 0) {
+    m[3] = this.movedefault;
+  }
+  if (m[0] == 1) {
+    m[1] += this.movemapx * 64;
+    m[2] += this.movemapy * 64;
+    m[0] = 2;
+  }
+  if (m[0] == 0) {
+    this.movenext = {this.x + m[1], this.y + m[2]};
+    this.movedistance = this.dist(this.x, this.y, this.movenext[0], this.movenext[1]);
+    mt = this.getmovetime(m[3], this.movenext[0], this.movenext[1]);
+    this.movetime = mt;
+    this.move(m[1], m[2], mt, 2 + 8 + 16);
+  }
+  else if (m[0] == 2) {
+    this.movenext = {m[1], m[2]};
+    this.movedistance = this.dist(this.x, this.y, this.movenext[0], this.movenext[1]);
+    mt = this.getmovetime(m[3], this.movenext[0], this.movenext[1]);
+    this.movetime = mt;
+    this.move(m[1] - this.x, m[2] - this.y, mt, 2 + 8 + 16); // 8 = event
+  }
+}
+function onMovementFinished() {
+  if (this.x != this.movenext[0] || this.y != this.movenext[1]) {
+    temp.d = this.dist(this.x, this.y, this.movenext[0], this.movenext[1]);
+    temp.mt = this.movetime * (temp.d / this.movedistance);
+    this.scheduleevent(0, "MovementStart", true, {2, this.movenext[0], this.movenext[1], mt, this.movement[this.moveindex][4]});  
+  }
+  else {
+    this.setcharani(this.moveidle, "");
+    if (this.hasfunction("onMovementDone")) {
+      this.onMovementDone(this.moveindex);
+    }
+    this.movecount = this.movement.size();
+    if (this.movecount > 1) {
+      this.moveindex ++;
+      if (this.moveindex >= this.movecount) {
+        this.moveindex = 0;
+      }
+      this.scheduleevent(this.movement[this.moveindex][4], "MovementStart", null);
+    }
+  }
+}
+/*
+  if (!onwall(x+1.5*this.randomx,y+2*this.randomy)) {
+    if (!onwater(x+1.5*this.randomx,y+2*this.randomy)) {
+      move(this.randomx,this.randomy,1,4+8+16+32);
+      setcharani("walk","walk");
+    }
+  }
+*/

@@ -1,0 +1,655 @@
+GLEVNW01
+BOARD 0 0 64 0 RRRTlml2l3l4kwkieuevQ9XpVBVAVBXAXBXCXDVAW4W5W6W7VBXY0W0HTGXnWwWxWyWzVBXaQfRdRek2kmkWkGkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 1 64 0 l0l1l2l3l4kAlAlBmARORNXZVAVBVAVBXRXSVAX1X0XJXKXDVAXo0IQRTWXXXAVBVAVBVAVBXYQRQBlmlnl3l4kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 2 64 0 mEmFl3l4kAkAlQlRmQQ+Q9XpVBVAVBVAXgXhVBXyVrVVXSVAVBXY0Y0JQAXnVBVAVBVAVBVAXoj5QAk2kmkWkGkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 3 64 0 mUmVl4kAkAkAtHs4mARORNXZVAXgXhVBVAVBVAVBXyXzWgVBVAXoQQ0IQQQRXnXoXnXoXnXoQQQRQQQRlHlIlJkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 4 64 0 kAkAkAkAkAkClAlBQfQeXZVAVBVAVBVAVBVAVBVAVBVAVgVhXoQBQA0IQAQBc/QBQAWkQAQBQAQBQATElXlYlZkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 5 64 0 kAkAkAkAkAkBlQlRlSTEXnVBVAVBVAVBVAVBVAXoXnXoSSz4zoTFQQ0IQQQRQQQRj5QRSISJQQQRQQTUlHlIlJkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 6 64 0 kAkAkAkAkAkwkikykzTUQAXnXoXnVBVAXoXnXocvQASDQxSAz3TV0W0HQATFQAQBQAQBQAQBQAQBQAQBlXlYlZkBkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 7 64 0 kAkAkAkAkwkikykzQQjpQQQRTGQRXnXoSScuQCQDc/RzRT0W050G0HQRQQTVQQQRQQQRQQQRQQAiQQQRk2kmkWkGkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 8 64 0 kAkAkAkAtHs4lCQkQmQmQmQnTWQBQAQgRDc/QSQT0W0GA00HSSSISJQBQAQBQAUiUjQBQASISJQBQAQBQAk2kmkWsZkGkQkRkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 9 64 0 kAkAkAkwkikykzQ08C8D8I8JQmQmQnRQRD0WURUB0HQRcdRzRTQRQQQRSISJQQUyUzQRQQQRQQQRQQQRQQQRk2kmsqkWsZkGkgkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 10 64 0 kAkAkwkikykzQARU8SeReSeT8JQ2Q1QnRh0IQATASkSkSkSkSkSyQAQBQAQBQAQBQAQBQAQBQASISJQBAiQBTEk2klkmsqkWsZkGkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 11 64 0 kAkwkikykzTEVOVPegeheiej8ZRGRFRH0W0HQQTQS0S0S0S0S0TCTDQRQQTEQQQRQQQRTESISJTGQQQRQQQRTUQRQQQeePmhspstkGkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 12 64 0 kAlAlBlCQATUVedTdQdRdSdTdQ8I8JRH0IQkQmQnQAQBQAQBQASiSjSyQATUftfujpQBTUQBQATWUCUDQAQBQAQBQARMd/uAS5ssstkGkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 13 64 0 kClQlRlSVOVPdidjdgdhdidjdgdh8ZRH0IQ0RFRGQnQRQQSISJQRSzTCTDQRf9f+QQQRSISJQQQRUSUTQQQRQQQRQsQcaCTKT4TKs7s8kAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 14 64 0 kwkikykzVedxdydzdwdxdydzdwdx9JRH0IQ08S8ZQ1QmQmQnQAQBQASlSmQBQASISJQBQAQBQATEQAQBQASISJQBRcQeQ9ZiS5S6ssstkGkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 15 64 0 kikykzQk9CeBeCeDeAeBeCeDeAeB94RH0IQ09SeQ8I8JRFRGQmQnQQSlSmQRTEQRQQQRQQQRQQTUSISJQQQRQQQRQQQ8RNROZiTKT8ssstkGkAkAkAkAkAkAkAkAkAkA
+BOARD 0 16 64 0 lBlCTFRU9SeReSeTeQeReSeTeQ85Q1RX0IQ09Cdgdhdi8I8JQ1Q2QnSlSmQBTUQBQAQBQAQBQAQBQAQBQAQBQAQBQARMQ9Q+aCS6S5UNs9lJkAkAkAkAkAkAkAkAkAkA
+BOARD 0 17 64 0 lRlSTVVPegeheiejegeheiejeg9JRH0W0H8SV/dwdxdydz8ZRFRGRHSiSjSkSkSkSkSyQQQRQQQRQQQRQQQRQQQRQQRcQeROaCTKTJTKQIlZkAkAkAkAkAkAkAkAkAkA
+BOARD 0 18 64 0 kykzVedTdQdRdSdTdQdRdSdTdQ9ZRX0IQk9CWPeAeBeCeDeE8JQ2Q1QnSzS0S0S0S0TCTDQBQAQBQAQBQAQBQAQBQAQBQ8Q+Q9ZiS5S6ssstkGkAkAkAkAkAkAkAkAkA
+BOARD 0 19 64 0 lCQRVudjdgdhdie0W/dhdidjdgdhdF0IRU9SWfeQeReSeTeU8ZRGRFRXQQQRQgQjQQSlSmQRQQQRQQQRQQQRQQjpQQQRRMRORNaCTJTKTJs7s8kAkAkAkAkAkAkAkAkA
+BOARD 0 20 64 0 lDTGV+dzdwdxe0ZjZmW+W/dzdwdxdV0Y0JVuVvdgdhdidjdk9JQ2RHQBQAQgTkTmQjSlSmQBQgQiQjQgQiQjQATFQAQBQ8Q+Q9aCS5S6S5ssstkGkAkAkAkAkAkAkAkA
+BOARD 0 21 64 0 lSTWVueDeAe0ZjmzmyZ1Zm8ieAeB8pQn0IV+V/dwdxdydz9J94RGRXQRRzTkTlTmRDSlSmQgTkTmQzRQTkTmQjTVceQRRcQeRNROZgZiTJTKs7s8kAkAkAkAkAkAkAkA
+BOARD 0 22 64 0 lzlj9ieTeQdVaTmjlwmiaW8yeQeR85RH0I9zWPeAeBeCeD9ZQ1Q2QnTGu0vZvZu2RhSlSmRQRRTkTmSARQRRRT0WAj0G0G0JQeQ+Q9aCS5S6s9lJkAkAkAkAkAkAkAkA
+BOARD 0 23 64 0 s4lSW+W/egehdVaT1paWVPejegeh9JRH0IRU9ieQeReSeT94RFRGRHTWv5vfv/vJWkTSShSkSyRh0W0G0G0G0G0HfFWkTE0Y0JRdQeaSTJTKtNlZkAkAkAkAkAkAkAkA
+BOARD 0 24 64 0 lylzljQ09idRdSdE0IVedSdTdQdR9ZRHz4zo9zdgdhdidj8ZQ1Q2Q1Qnv5v/v/vJbTbUTzS0TCTD0IcuQgQiQjWkfVQBTUQB0Y0G0GULS5tctsl4kAkAkAkAkAkAkAkA
+BOARD 0 25 64 0 tHs4lSRU9y9z90940I9ididjexew94RXQQz3RU9idxdydz9JRFRGRFRXvkvfvsu5fFQBQQ0WURUB0HRzRRTkTmQjQQQRQQQsQtQuYQUaUZ1olJkAkAkAkAkAkAkAkAkA
+BOARD 0 26 64 0 lxlylzljRUQ2Q1RX0IW+W/e0ctz2zmzmzmz1zoW+W/91eD9ZQ1Q2RHQBv0u1u1v2fVQB0W0HSlSmQgQiQjRQTkTmQjQBQARcQeQ+ZiS6S5s7lZkgkAkAkAkAkAkAkAkA
+BOARD 0 27 64 0 lUlAlBlCQQRURXz2z1zmzmzmA0znVOVP8ZQnz4zmzoRU9z94RFRGQ3QRQQQRTEQR0W0G0HSSSlSmRATkTmQjRQRRRTQRQQQsQcROaCTKTJs9lJkAkAkAkAkAkAkAkAkA
+BOARD 0 28 64 0 kClQlRlSc1z2zmznQkQmQnc+cdVedAdidlQ2QmQnz4zmzoRURVRVRXQkQmQnTU0W0HQgQiRDSlSmRQTkTmRTjpQgQiQjQAQ8Q9Q+Q9ZiS5tNlZkAkAkAkAkAkAkAkAkA
+BOARD 0 29 64 0 kAlA1Z1IzmznQkQmRF8S8EdBdAdwdxdydz8E8FdEdFQRz0zmzmzmzoRURVRGQn0IRzTkTmQzSlSmSSRQRTQgQiTkTmRTQQRMRNRORNaSTJs9lJkAkAkAkAkAkAkAkAkA
+BOARD 0 30 64 0 kAlQs4lSQAQkQ18DdAeCeDeEWPeAeBeCeDeEWPeAdVz2znQkQmQnz4zmzoRURX0IQARQRRRTTwTxQwQiQjRQTkTmRTQBQAQ8Q9Q+aSS6S5tNlZkAkAkAkAkAkAkAkAkA
+BOARD 0 31 64 0 kAlxlylzljRURFWeeReSeTeUWfeQeReSeTeUWfe0e1z3QQQ08C8DdEdFz4zoQQ0IQQQRTEQRQQQgTkTlTmQjRQRTQQQRQQRMRNaCTJTKTJs9lJkAkAkAkAkAkAkAkAkA
+BOARD 0 32 64 0 kAkAlxlylzljQ0WudhdidjdkVvdgdhdidjdkeVZjZ11YZmRU8SdgdhdidFz4zkznQkQnTUQBQARQTkTmRRRTQAQBQAQBQARcQeaCT4S6S5tNlZkAkAkAkAkAkAkAkAkA
+BOARD 0 33 64 0 kAkAkwkikykzRU9zdxdydzd0V/dwdxdydzd0eFZ0lwlwmyZmW/dwdxdydVQRz3jpQ0RHQQQRQQQRRQRTAiQRQQQgQiQjQQTEQ8ROZiTKTJs9lJkAkAkAkAkAkAkAkAkA
+BOARD 0 34 64 0 kAkAtHs4lSQBTFRU9zeCeDeEWPeAeBeCeDeEeVaTaEmjlwmyZmVueBeCeDdFz4zoRUQ2QnQBQAQBQAQBQAQBQARQRRRTQATURMQ+aCS6S5tNlZkAkAkAkAkAkAkAkAkA
+BOARD 0 35 64 0 kAkAlxlylzljTVQRRU9y9zewexeQeReSeTeUWfdEdFaTmjlwaFV+eReSeT8ZQnz4zoQ0RHSISJQgQjQRQgQjctQRQQQRQQQRQ8ROaSTKTJs9lJkCkAkAkAkAkAkAkAkA
+BOARD 0 36 64 0 kAkAkAlxlylzl0l1llljRUQ2Q1Wudhdidjdkex9495QnaTaEaWVudhdidjdk8IdFz3Q0RHQBQgSYSZQjQwQyQiQiQjTFQAQsQcaCT4S6S5tNlZkBkAkAkAkAkAkAkAkA
+BOARD 0 37 64 0 kAkAkAkAlxlymEmFtZlzljQ0RF9zexewexe0RURVRVRXUkUlQQW/exdydzd0V/9Jz3RURXQRRQTkTmRTRQTkSYSZRTTVQsQcRNaCTJTKTJssstkGkAkAkAkAkAkAkAkA
+BOARD 0 38 64 0 kAkAkAkAkAlxmUmVtYs4lSRURVRVRVRVRXlml0l1lkljU0U1lmljQAW/eDeEWP9Zz4zoQASISJRQRTQgQjRQRRRTQAQsQcQ+Q9Q+ZiS6S5S6s7s8kAkAkAkAkAkAkAkA
+BOARD 0 39 64 0 kAkAkAkAkAkAkAkAlxlylzl0l1l0l1l0l1l2mEmFtZlzl0l1l2lzljQRV+eUWf9JQnz4zoQRQQRzQiSYSZSASISJQQRMRNRORNRORNZiTJTKssstkGkAkAkAkAkAkAkA
+BOARD 0 40 64 0 kAkAkAkAkAkAkAkAkAlxlymEmFmEmFmEmFl3mUmVtqlymEmFl3lylzljVudkVv9ZRHQBz4zoTGQBRQRRRTQBQAjpQARcQeQ+Q9Q+Q9aCS5S6S5ssstkGkAkAkAkAkAkA
+BOARD 0 41 64 0 kAkAkAkAkAkAkAkAkAkAlxmUmVmUmVmUmVl4kBkCkAlxmUmVl4lAlBlC9zd0V/dw8IdFjpz3TWQRSISJQQQRQQQRXXXYXXXaXZXaRNROZiTKTJTKssstkGkAkAkAkAkA
+BOARD 0 42 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkCkAkAkAkAkAkAkAkAkAkAkBlQlRlSRU9zWPeAeBe0z2znQAQBQAQBTFXXXYXXVAVBVAVDVEVBXaQ+Q9ZiS5S6S5s9lJkAkAkAkAkA
+BOARD 0 43 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAlxlylzljRU9z9495Qnz3QRQQQRQQQRTVXnVBVAVBVAVDVTVUVVVBXaRNROZgZhtwtNlZkAkAkAkAkA
+BOARD 0 44 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAlxlylzljRUQ2Q1RHz3QBQAQBQAXXXYXXVAXgXhVaVTVjVkVUVVVBXaQ+Q9Q+mBtLs8kAkAkAkAkA
+BOARD 0 45 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAlxlylzljRURVj53WzmzoQRQQXnVBVAVBVAVpVqVjVqVrVkVlVmVBXaRNROmgmhkWkGkAkAkAkA
+BOARD 0 46 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkgtH1Z1I0G0G0G0Hjpz4zmzoclXnVwVxV4V5V6VzV6V7V0V1V2V9VBXaQ+Q9mBlIlJkAkAkAkA
+BOARD 0 47 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkwkxkykzTGVOVPdBdEdFQRz4zojpz3XXWIWJWKWLWKWLWKWLWMWNVAXqRORNmRlYlZkAkAkAkA
+BOARD 0 48 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAlAlBlCQATWVedRdSdTdVQBcNz4zmznXnVBWZXBXCXBXCXBXCWcVAVBXaQ+Q9mgmhkWkGkAkAkA
+BOARD 0 49 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkBlQlRlSQQQRVudhdidjeFQRQQQsQtQuQvXnVBXRXSXRXSXRXSVAXgXhVBXaRNROmBlIlJkAkAkA
+BOARD 0 50 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkwkEkFkokAkAkAkAkAlxlylzllljW/dxdydzelQBQsQcQ9XZXYXXVAXgXhVBVAWpWqVBVAVBVAXqQ9Q+mRlYlZkBkCkA
+BOARD 0 51 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkwkxkUkVknkEkFkokgkAkAlxlytZlzljW+W/e0e1QRQ8RORNXpVBVAVBVAVBVAW4W5W6W7VBVAXqRORNROmgmhkWsZkGkC
+BOARD 0 52 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkwkEkFkEkFkxeueOePmhkUkVknkokAkQkRlxtYs4lSQBQAQBQAjplmd+Q9Q+XpXqXpXqXpVBXAXJXCXDVAVBXaXZXaQ+Q9mgmhsqkWkG
+BOARD 0 53 64 0 kAkAkAkAkAkAkAkAkAkAkAkwkxkUkVkUkVeuevRORNmgeOePmhknkokAkCkwkxkykzQRQQQRlml1l2fPd+RORNRORNROXZVAVBXRXSVAXgXhVBVAVBXaRNROmgePmwkW
+BOARD 0 54 64 0 kAkAkAkAkAkAkAkAkAkAkwkieueOePeOePevQ9Q+XZXaXZXamgmhk4kokAlAlBlCjpQBQAlml2tZl3lyfPeed+Q+Q9Q+XpXqXpVBVAVBVAVBVAVBVAVBXaQ+Q9Q+mBtL
+BOARD 0 55 64 0 kAkAkAkAkAkAkAkAkAkAlAlBQfRdReRdQeXZXaXZWxWyWzXqRNmBlIlJkAlQlRlTQQUCUDlHlItbl4lxlytZfPd+RNRORNROXZVAXqXpXqXpVBVAVBVAXqRORNROmBlI
+BOARD 0 56 64 0 kAkAkAkAkAkAkAkAkAkAlQlRlSQBQQQRQcXpXZXAXbXcXqQ+Q9mRlYlZlEtHs4lSQAUSUTlXlYlZkBkAlxtqlyfPeeefd+Q+XpXqQ9Q+Q9Q+XpXqXpXqQ9Q+Q9Q+mRlY
+BOARD 0 57 64 0 kAkAkAkAkAkAkAkAkAkwkxkykzQRQQQRQeXZXAXqXrXsRNROd/mxlomWkAlxlylzlklllkl2l3l4kAkAkAkglxlymEmFfPd+RNRORNRORNRORNRORNRORNRORNd/mxl3
+BOARD 0 58 64 0 kAkAkAkAkAkAkAkAkwkxkykzQRQBSISJj5XnXqQ+Q9Q+Q9d/mxmGmWkAkQkRlxlymEmFtZl3l4kAkAkAkAkAkAlxtYlwlBmAQ9Q+Q9Q+Q9Q+aQaQaQaQaQaQQ9mRtLs8
+BOARD 0 59 64 0 kAkAkAkAkAkAkAkAlAlBlCQRQQSISJQCQDQ8RNRORNRORNmxlomWkAkAkAkAkAlxmUmVtql4kAkAkAkAkAkAkAkAlxtYlRmQRNRORNaQaQaSTJTKTJTKTJTKSfmxl3l4
+BOARD 0 60 64 0 kAkAkAkAkAkAkAkAlQlRlSQBTEQBQAQSQTQBQeQ+Q9Q+mBlIlJkgkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAlxlyfPeeefaSS6S5S6S5S6S5S6S5S6trtdl4kB
+BOARD 0 61 64 0 kAkAkAkAkAkAkAkAlxlhliljTUQRQQQRQQQWQ8RORNROmRlYlZkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAlxlymEmFt5t6tat5t6tXTJTKtrtatsl4kAkA
+BOARD 0 62 64 0 kAkAkAkAkAkAkAkAkAlxlylil0l1l0l1ljQBRMQ+Q+d/mxmGmWkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAlxmUmVmUmVtqmUmVtnt5t6tstql4kAkAkA
+BOARD 0 63 64 0 kAkAkAkAkAkAkAkAkAkAlxlhmEmFmEmFlilklleeefmxmGmWkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkBkClxmUmVl4kAkAkAkAkA
+NPC overworldhill4.gif 29 5
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill4.gif 33 7
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill4.gif 40 12
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill4.gif 34 9
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_fog.png 50 50
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(10);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 1;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 22 12
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  this.alpha=.99;
+  this.blue = 0;
+  this.red = 0;
+  this.green = 1;
+  setzoomeffect(10);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 1;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 42 49
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  this.alpha=.99;
+  this.blue = 0;
+  this.red = 0;
+  this.green = 1;
+  setzoomeffect(10);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 1;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 17 3
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(8);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 1;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 24 17
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  this.alpha=.99;
+  this.blue = 0;
+  this.red = 0.5;
+  this.green = 1;
+  setzoomeffect(10);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 1;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 30 35
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  this.alpha=.99;
+  this.blue = 0;
+  this.red = 0.5;
+  this.green = 1;
+  setzoomeffect(10);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 1;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 32 23
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  this.alpha=.99;
+  this.blue = 0;
+  this.red = 1;
+  this.green = 1;
+  setzoomeffect(10);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 1;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 26 23
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  this.alpha=.99;
+  this.blue = 0;
+  this.red = 0.5;
+  this.green = 1;
+  setzoomeffect(10);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 1;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 35 40
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  this.alpha=.99;
+  this.blue = 0.5;
+  this.red = 0;
+  this.green = 1;
+  setzoomeffect(10);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 1;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 43 30
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  this.alpha=.99;
+  this.blue = 0.2;
+  this.red = 0;
+  this.green = 1;
+  setzoomeffect(10);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 1;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 50 50
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  this.alpha=.99;
+  this.blue = 0.5;
+  this.red = 0;
+  this.green = 1;
+  setzoomeffect(10);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 1;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 17 3
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  this.alpha=.99;
+  this.blue = 0.5;
+  this.red = 0;
+  this.green = 1;
+  setzoomeffect(10);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 1;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC - 19 6
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Urswold";
+}
+NPCEND
+NPC - 12 26
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Hawkswarren";
+}
+NPCEND
+NPC val_mapicon_citytower.png 31 21
+// Created by racil
+NPCEND
+NPC val_mapicon_citytower.png 28 25
+// Created by racil
+NPCEND
+NPC val_mapicon_citytower.png 31 25
+// Created by racil
+NPCEND
+NPC val_mapicon_citytower.png 28 21
+// Created by racil
+NPCEND
+NPC val_worldmapkharlia-dungeon3-small.gif 31 2
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawunderplayer();
+this.x += 0.1;
+this.zoom = 0.88;
+}
+NPCEND
+NPC val_worldmapkharlia-dungeon1-small.gif 41 47
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawunderplayer();
+this.x += 0.1;
+this.zoom = 0.88;
+}
+NPCEND

@@ -1,0 +1,27 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.x = this.x-.5;
+  showcharacter();
+  this.attr[1] = "hat.png";
+  this.head = "head444.png";
+  this.body = "val_arwind-racoonbody3.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  // setcharprop #m,0
+  setcharani("val_sit", NULL);
+  this.swordpower = 1;
+  this.shield = "no-shield.gif";
+  this.shieldpower = 1;
+  this.ap = 100;
+  this.nick = "Wayfarer";
+  this.dir = 2;
+}
+
+function onPlayerTouchsMe() {
+  message("So much to do and so much to see in this world. There are so many possibilities that I can't make up my mind, so I'll just sit and rest here a while...");
+  sleep(5);
+  message();
+}

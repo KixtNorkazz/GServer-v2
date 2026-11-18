@@ -1,0 +1,21 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "theblindone-talboh-head2.gif";
+  this.body = "arwind-racoonbody2.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("dead3", NULL);
+  this.dir = 2;
+  this.ap = 100;
+  this.nick = "Smeed Anders";
+}
+
+function onPlayerTouchsMe() {
+  say2("Sometimes I get this pain in my#bleg, but if I eat a banana it goes#baway.");
+}

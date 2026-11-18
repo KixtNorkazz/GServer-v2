@@ -1,0 +1,42 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.x = this.x-.5;
+  showcharacter();
+  this.attr[1] = "hat.gif";
+  this.head = "val-alesterahead3.gif";
+  this.body = "valp_theblindone_body116.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  // setcharprop #m,0
+  setcharani("idle", NULL);
+  this.swordpower = 1;
+  this.shield = "no-shield.gif";
+  this.shieldpower = 1;
+  this.ap = 100;
+  this.nick = "Emily of Briston";
+  this.dir = 1;
+}
+
+function onPlayerTouchsMe() {
+  say2("Gregory:#b
+Come on, I'll show you the great-#b
+ est pub in the whole city!#b
+Emily:#b
+No, thank you.  I should go.#b
+#b
+Gregory:#b
+I'm telling you, you haven't tried#b
+anything like these drinks in the#b
+whole country!#b
+#b
+#b
+Emily:#b
+Sir, I am a married woman!  Please#b
+leave me be!#b
+Gregory:#b
+Hehehe, that's never stopped me #b
+before...");
+}

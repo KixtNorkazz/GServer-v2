@@ -1,0 +1,29 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  showtext(1, this.x+1.78, "y+.55", "Comic Sans MS", "bc", "Priestess");
+  changeimgzoom(1, .75);
+  changeimgvis(2, 2);
+}
+
+function onPlayerChats() {
+  gs1_always();
+  if ((player.chat == "Priestess")) {
+    player.body = "smeewns-public-body8.gif";
+    player.shield = "fortis-staff-shield.gif";
+  }
+}
+
+function gs1_always() {
+  this.shield = "fortis-staff-shield.gif";
+  this.head = "head1240.png";
+  this.body = "smeewns-public-body8.gif";
+  this.colors[0] = "orange";
+  this.colors[1] = "white";
+  this.colors[2] = "darkblue";
+  this.colors[3] = "darkblue";
+  this.colors[4] = "white";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 2;
+}

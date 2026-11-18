@@ -1,0 +1,11 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+}
+
+function gs1_always() {
+  if (("#g" == "Imperial Dalmar")&&this.playertouchsme) {
+    dontblock();
+    drawoverplayer();
+  }
+}

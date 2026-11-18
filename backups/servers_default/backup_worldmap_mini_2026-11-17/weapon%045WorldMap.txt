@@ -1,0 +1,204 @@
+GRAWP001
+REALNAME -WorldMap
+IMAGE bcalarmclock.png
+SCRIPT
+//#CLIENTSIDE
+function onCreated() {
+  this.join("util_catchevent2");
+  //this.catchevent2("System", "WorldChange");
+  this.settimer(0.05);
+}
+function onTimeout() {
+  for (temp.i: allplayers) {
+    temp.i.paused = true;
+  }
+  for (temp.i: players) {
+    if (temp.i.ani.name.starts("nmd-idled")) {
+      continue;
+    }
+    else if (client.world == "World Map") {
+      temp.i.zoom = 0.3;
+    }
+    else if (temp.i.attr[12] == null) {
+       temp.i.zoom = 1;
+    }
+    else {
+      temp.i.zoom = temp.i.attr[12];
+    }
+  }
+  this.settimer(0.2);
+}
+function onWorldChange() {
+  if (client.world == "World Map") {
+    this.settimer(0.05);
+  }
+}
+/*
+if (playerenters) {
+
+if (!startswith(worldmap_,#L) && client.wasonmap) {
+  timeout = 0;
+  setani idle,;
+  unset client.wasonmap;
+  enabledefmovement;
+  hideimgs 1,5;
+  }
+
+if (startswith(worldmap_,#L)) {
+  timeout = 0.05;
+  setani idle,;
+  unset client.wasonmap;
+  enabledefmovement;
+  hideimgs 1,5;
+  }
+
+
+}
+
+if (timeout) {
+  if (startswith(worldmap_,#L)) {
+  timeout = .05;
+    setani clash-debug,;
+this.var2=0.2;
+this.speed=0.1;
+disabledefmovement;
+timeout = 0.05;
+//showimg 3,chest.png,playerx+0.7,playery+0.9;
+//changeimgpart 3,1,1,16,16;
+
+if (keydown(0)) {
+playerdir=0;
+  for (this.t=0; this.t<this.speed; this.t+=0.1) {
+if (!onwall2(playerx+0.9,playery+1.5,1,1)) {playery-=0.15;this.anistep+=0.2;}
+}
+refresh();
+}
+
+
+if (keydown(1)) {
+playerdir=1;
+  for (this.t=0; this.t<this.speed; this.t+=0.1) {
+if (!onwall2(playerx+0.8,playery+0.8,1,1)) {playerx-=0.15;this.anistep+=0.2;}
+}
+refresh();
+}
+
+if (keydown(2)) {
+playerdir=2;
+  for (this.t=0; this.t<this.speed; this.t+=0.1) {
+if (!onwall2(playerx+0.9,playery+0.9,1,1)) {playery+=0.15;this.anistep+=0.2;}
+}
+refresh();
+}
+
+if (keydown(3)) {
+//play extra.wav;
+playerdir=3;
+  for (this.t=0; this.t<this.speed; this.t+=0.1) {
+if (!onwall2(playerx+1.95,playery+1.8,1,1)) {playerx+=0.15;this.anistep+=0.2;}
+}
+refresh();
+}
+
+function refresh() {
+
+showimg 1,#3,playerx+0.5,playery-0.15;
+changeimgpart 1,0,32*playerdir,32,32;
+//changeimgzoom 1,0.65;
+changeimgvis 1,2;
+
+showimg 2,#8,playerx+0.5,playery+0.5;
+changeimgpart 2,32*playerdir,32*int(this.anistep),32,32;
+//changeimgzoom 2,0.65;
+changeimgvis 2,1;
+}
+
+setani null,;
+if (this.anistep=>5 || !keydown(0) && !keydown(1) && !keydown(2) && !keydown(3)) this.anistep=0;
+}
+}
+*/
+/*
+function onCreated() {
+  this.var2 = 0.2;
+  this.speed = 0.1;
+  if (client.world == "World Map") {
+    this.start();
+  }
+}
+public function start() {
+  this.settimer(0.05);
+}
+public function stop() {
+  hideimgs(1, 5);
+  this.settimer(0);
+}
+function onTimeout() {
+  temp.i = 0;
+  
+  if (keydown(0)) {
+    player.dir = 0;
+    for (i = 0; i < this.speed; i += 0.1) {
+      if (!onwall2(player.x + 0.9, player.y + 1.5, 1, 1)) {
+        player.y -= 0.15;
+        this.anistep += 0.2;
+      }
+    }
+    this.refresh();
+  }
+  if (keydown(1)) {
+    player.dir = 1;
+    for (i = 0; i < this.speed; i += 0.1) {
+      if (!onwall2(player.x + 0.8, player.y + 0.8, 1, 1)) {
+        player.x -= 0.15;
+        this.anistep += 0.2;
+      }
+    }
+    this.refresh();
+  }
+  if (keydown(2)) {
+    player.dir = 2;
+    for (i = 0; i < this.speed; i += 0.1) {
+      if (!onwall2(player.x + 0.9, player.y + 0.9, 1, 1)) {
+        player.y += 0.15;
+        this.anistep += 0.2;
+      }
+    }
+    this.refresh();
+  }
+  if (keydown(3)) {
+    player.dir = 3;
+    for (i = 0; i < this.speed; i += 0.1) {
+      if (!onwall2(player.x + 1.95, player.y + 1.8, 1, 1)) {
+        player.x += 0.15;
+        this.anistep += 0.2;
+      }
+    }
+    this.refresh();
+  }
+  setani("null", "");
+  if (this.anistep >= 5 || (!keydown(0) && !keydown(1) && !keydown(2) && !keydown(3))) {
+    this.anistep = 0;
+  }
+  this.settimer(0.05);
+}
+public function refresh() {
+  with (showimg(1, player.headimg, player.x + 0.5, player.y - 0.15)) {
+    this.partx = 0;
+    this.party = 32 * player.dir;
+    this.partw = 32;
+    this.parth = 32;
+    //this.zoom = 0.65;
+    this.layer = 2;
+  }
+  with (showimg(2, player.bodyimg, player.x + 0.5, player.y + 0.5)) {
+    this.partx = 32 * player.dir;
+    this.party = 32 * int(thiso.anistep);
+    this.partw = 32;
+    this.parth = 32;
+    //this.zoom = 0.65;
+    this.layer = 1;
+  }
+}
+*/
+SCRIPTEND

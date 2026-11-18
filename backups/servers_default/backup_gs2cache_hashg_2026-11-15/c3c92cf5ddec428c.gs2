@@ -1,0 +1,42 @@
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.gate = 0;
+  this.gate2 = 0;
+}
+
+function onMovementFinished() {
+  this.moving = 0;
+}
+
+function onPlayerChats() {
+  if (("#g" == "Greendale")) {
+    if ((player.chat == "/Close Gates")) {
+      if (this.gate == 0 && this.gate2 == 0 && this.gate3 == 0) {
+        this.gate = 1;
+        this.gate2 = 1;
+        move(0, +3, 1.5, 0);
+        sleep(1.5);
+        this.gate2 = 0;
+        blockagain();
+        drawunderplayer();
+      }
+    }
+    if ((player.chat == "/Open Gates")) {
+      if (this.gate == 1 && this.gate2 == 0) {
+        this.gate = 0;
+        this.gate2 = 1;
+        if (this.gate3 == 1) {
+          this.gate3 = 0;
+          move(+7, 0, 2.5, 0);
+          sleep(2.5);
+        } else {
+          move(0, -3, 1.5, 0);
+          sleep(1.5);
+        }
+        this.gate2 = 0;
+        dontblock();
+      }
+    }
+  }
+}

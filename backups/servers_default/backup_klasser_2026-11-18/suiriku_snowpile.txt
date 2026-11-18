@@ -1,0 +1,27 @@
+if (created||playerenters) {
+if (strequals(#s(serverr.suiriku-season),winter)) {
+setshape 2,2,{0,0,22,22};
+setimg suiriku-snowpile.gif;
+} else hide;
+
+
+}
+
+if (actionattack || actiongrab) {
+addweapon *Weapons/Snowball;
+setstring clientr.*Weapons/Snowball.ammount,#v(strtofloat(#s(clientr.*Weapons/Snowball.ammount)) + int(random(1,3)) );
+hide;
+setshape 4,0,0;
+
+sleep 350;
+
+show;
+setshape 2,2,{0,0,22,22};
+}
+
+
+//#CLIENTSIDE
+drawunderplayer;
+setshape 2,2,{
+0,0,
+22,22};

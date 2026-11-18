@@ -1,0 +1,15 @@
+//#CLIENTSIDE
+function onCreated() {
+  setimg("valcascourtgate.gif");
+}
+
+function onPlayerChats() {
+  if (("#g" == "Athedia")) {
+    if (this.playerchats && (player.chat == "Open")) {
+      hide();
+    }
+    if (this.playerchats && (player.chat == "Close")) {
+      show();
+    }
+  }
+}

@@ -1,0 +1,757 @@
+GLEVNW01
+BOARD 0 0 64 0 QjQCQDQARCRBQDQAQBQhQiQCQDGhGgGhQTQBHQHRQCGhGgQCQRQSHQQyGhGxGwHQHQHRGwGwHQGxHAHBQDQBWQWQQRQSGwGwQwQxGwGwHQGxHAGgGhQyQyQwWQWQu9Cb
+BOARD 0 1 64 0 WQQSQTQQRjRxSSSDQRWQQyQSQTQSQzHAQiGxQGQSQSGhQRHAGwHQHRQCGhGgQCQgQgQhGgQjQgGxGhGhQTQRWCWCGwHQGxHAGgGhQyQjQgGxGhGgGhQTQCGgWCWC2aL4
+BOARD 0 2 64 0 V5QiSSRjTkTkTkRBQhV5QCGwHQHQHRhiQyGhGxGwHQHQHRGwHAHAHBQQQRQSGwGwQwQxGwQzHAHBGwGhQjQhWCWCQjQgGxGhGgGhQTQCGgQRQSQTQQQRQSQTWCWCQiQj
+BOARD 0 3 64 0 V5QTRCTkTkTTTURxQSV5QSQCQgQgQhHRQCGhGgQCQgQgQhGgQSHQHRGwGwHQGxHAGgGhiDQzhzQRGhQwQzWQWMWNWQWMWNWQWMWNWQWMWNWQWMWNWQWMWNWQWMWNWQWQ
+BOARD 0 4 64 0 WQQjSQTTTUTjTkTkRgWQQiGwGwQwQxHBQQQRQSGwGwQwQxGwQiQgQhGgQjQgGxGhGgGhQTQBQAQhGhQzQDV5WyWyWyQBQCWyQBQCWyQBQCWyQBQCWyQBQCWyWyWyWyV5
+BOARD 0 5 64 0 V5QzRyTjTkTkRBSiQyV5QyGxHAGgGhHRGwGwHQGxHAGgGhQyQyQwQxGwQUQ0QlGwQzHAQiGxGgGxHAHBQTV5QBQCQRQSQTQQQRQSQTQQQRQBQCQDQAQBQCQDQAQBQSV5
+BOARD 0 6 64 0 V5QDRCTkTkRBQAQBQCV5QCQiQjQiQgQhGgQjQgGxGhGgGhQTQCGgGhQUQyQlQRGhGgQCQRQSHQQyGhGxQjWQQSSTSSSTSSSTSSSSSTSSSTSSSTSSSSSTSSSTSSSTQiWQ
+BOARD 0 7 64 0 WQQTSATkTkRxQQQRQSWQQzQRQSQyQwQxGwQzHAHBGwQzHAQiGxGgGxQkQlQwQxQyiBHAGwHQhwQCGhGgQzV5QiSjSiSjSiSjSiSiSjSiSjSiSjSiSiSjSiSjSiSjQyV5
+BOARD 0 8 64 0 WyQjSQTkTkTkRxQhQiWyQyGwHQQCGgGhQyQzQxQRGhQSHQQyGhGxGwHQHRQiQCQDHRGwHAHAHBQQQRQSQAV5QCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCV5
+BOARD 0 9 64 0 crQyRjTTTTTURQQwQxQBQCQTQQQyQzQwQxQyQzQwQxQyQzhiQxQyQzQwQxQyGwGwQhGgQSHQHRGwGwHQQQWQQSSTSSSTSSSTSSSSSTSSSTSSSTSSSSSTSSSTSSSTQSWQ
+BOARD 0 10 64 0 c7RjTkTjTjTkRgSCRjRgQzQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhGgQjQxGwQiQgQhGgQjQgQgV5QiSjSiSjSiSjSiSiSjSiSjSiSjSiSiSjSiSjSiSjQiV5
+BOARD 0 11 64 0 QTRCRBZnRCTkTkRBRCRBQyQgQhQiQjQzXdXdX+XeXbXcXcXcXcXcXcXcQwQxGwQzHAHBGwQSQTQQQRQSQwV5QyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyV5
+BOARD 0 12 64 0 QjRyRgQiRyTkRBQiQjQgQCQwQxQyQzWgWhXdX+XeXrXsXsXsXsXsXsXsQAQBQCQDQjQgQhQiQjQgQhQiQAWQQCSTSSSTSSSTSSSSSTSSSTSSSTSSSSSTSSSTSSSTQCWQ
+BOARD 0 13 64 0 GwRTTkRgSCSjQjQQQzQwGhQRHAQRXgWwWxXdX+XeXrXsXsXsXsXsXsXsXbXcXcXcXcXcXcXcXcXcXcXcXcV5QSSjSiSjSiSjSiSiSjSiSjSiSjSiSiSjSiSjSiSjQSV5
+BOARD 0 14 64 0 RISQTkTkTkRgQwQgQDQAHQHRGwQhXgXIXJXdX+XeXrXsXsXsXsXsXsXsXrXsXsXsVQW1W1W1VQXsXsXsXsV5QiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiV5
+BOARD 0 15 64 0 QyRjTkTkTkTkRgQwQTQQiDQhGgQxXgXYXdXdX+XeXrXsXsXsXsXsXsXsXrXsXsXsWinJWSl8WiXsXsXsXsWQQySTSSSTSSSTSSSSSTSSSTSSSTSSSSSTSSSTSSSTQyWQ
+BOARD 0 16 64 0 RjTkTkTkTkTkRQQAQjQgQCQDQAQBXgXdXdXdX+XeXrXsXsXsXsXsXsXsXrXsXsXsWSnZWimMWSXsXsXsXsV5QCSjSiSjSiSjSiSiSjSiSjSiSjSiSiSjSiSjSiSjQCV5
+BOARD 0 17 64 0 RTTkTkTkTkTkRgQSGhQRHAGwHQHRXgXdXdXdX+XeX7XsXsXsXsXsXsXsXrXsXsXsWStAWimVWSXsXsXsXsV5QSQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQSV5
+BOARD 0 18 64 0 SATkTkTkTkRQShHQHQHRGwHAHAHBXgXdXdXdX+XefSXcXcXcXcXcXcXcXrXsXsXsWitQWSmlWiXsXsXsXsWQQiSTSSSTSSSTSSSSSTSSSTSSSTSSSSSTSSSTSSSTQiWQ
+BOARD 0 19 64 0 QCRTTkTUTURgQAQgQgQhGgQSHQHRXgXdXdXdX+XefgXsXsXsXsXsXsXsXrXsXsXsW1W1W1W1W1XsXsXsXsV5QySjSiSjSiSjSiSiSjSiSjSiSjSiSiSjSiSjSiSjQyV5
+BOARD 0 20 64 0 QjSQTkRBRCTkSBGwQwQxGwQiiBQhXgXdXdXdX+XeXefQXsXsXsXsXsXsX7XsXsXsXsXsXsXsXsXsXsXsXsV5QCQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQCV5
+BOARD 0 21 64 0 QzRyTkRxRyRBQAHAGgGhQyQyQwQxXgXdXdXdXCXeXefgXsXsXsXsXsXsVQW1W1W1W1W1W1W1W1W1W1W1VQWQQSSTSSSTSSSTSSSSSTSSSTSSSTSSSSSTSSSTSSSTQSWQ
+BOARD 0 22 64 0 SATkTkTkRBQDhiGhGgGhQTQCGgGhXgXdXdXDXEXFXeXefQXsXsXsXsXsWSmVmWVQmimjWSmgmhVQlPtAWSV5QiSjSiSjSiSjSiSiSjSiSjSiSjSiSiSjSiSjSiSjQiV5
+BOARD 0 23 64 0 RyTkTkTkRxQQhyQihjQwQxGwQiQxXgXdXSXTXUXVXWXefgX8X8X8X8X8WimlmmWSmymzWSmwmxWSlftQWiV5QyQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQyV5
+BOARD 0 24 64 0 RQShRTTkTkRxQwQyQzGgGhQyQyQBXgXhXiXjXkXlXmXnXolTlUlVlWWBWSm1m2WinCnDWinAnBWilvtgWSWQQCSTSSSTSSSTSSSSSTSSSTSSSTSSSSSTSSSTSSSTQCWQ
+BOARD 0 25 64 0 RxQBSATjTkTkRxRyRgGgGhQTQCZWXwXxXyXzX0X1X2X3X4W1W1W1W1WiWSnFnGWinSnTWSnQnRWil/twWSV5QSSjSiSjSiSjSiSiSjSiSjSiSjSiSiSjSiSjSiSjQSV5
+BOARD 0 26 64 0 SiQRRyTjTjTkTjTkRBQyQCQAHQZmWRsAsBsCWBsDsEsFVxWil0l0WiWiWilFlDWininjWyngnhWSmPuAWiV5QiQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQiV5
+BOARD 0 27 64 0 QRSATjTkTkTkTkTjRgQCQSQCHAHBWSsQsRsSWisTsUsVWSWSW1W1WSWSWSlMlNWSW1W1W1W1W1WSkEkFWSWQQySTSSSTSSSTSSSSSTSSSTSSSTSSSSSTSSSTSSSTQyWQ
+BOARD 0 28 64 0 RgSATkTkTkTkTkTjTkRgQiGwGxGxWisgshsiWSsjskslWiW1W1W1W1WyWSlcldWiW1W1W1W1W1WimompWSV5WQWQSiSjSiSjSiSiSjSiSjSiSjSiSiSjSiSjSiWQWQV5
+BOARD 0 29 64 0 TkRgRCTkTkTkRQRCTkTkRxSCSDQjWSswsxsyWSszs0s1WSQTQQQRQSQTWilsltWimimjWSmgmhWSm4m5WiV5WCWCQQQRQSQTQQQRQSRiSDSCSCQTQQQRQSQTQQWCWCV5
+BOARD 0 30 64 0 RCSiRyTkTkRQQjHRRCTkTjTjTURxWyW1W1W1W1W1W1W1WyQjQgQhQiQjWSl8l9WSmymzWSmwmxWSnInJWSWQWSWSWQWMWNWQQgQhQiRjTkTURBQjQgWQWMWNWQWSWSWQ
+BOARD 0 31 64 0 QwRyTkTkRQQyQzHBHBRCRBRCTUTUTUTURxRjTjRBSARgSSSTRjRxQyQzWymMmNWinCnDWinAnBWinYnZWyWyWiWiWyQBQCWyQwQxRjTkTURBQDQAQBWyQBQCWyWiWiWy
+BOARD 0 32 64 0 SATkTkTkRxGxHQHRGhHBQRQSSgRCTUTjTUTjTjRxRjTkTUTkTUTkRgQCQAQBQCWSnSnTWSnQnRWSTkTkTkRgWyWyQAQBQCSDSCRjTkTkTUSBHAHBGgQBQCQDQAWyWyQD
+BOARD 0 33 64 0 QQRCTkTkTkSBQSQTQQQRQSQTQQcqcrSgRCTUTjRQSgRCRBRCTUTkTkRgSCSDQSWyninjWyngnhWyTkTUTkTURgSDSCSCRjTkTUTkTURBSgQDHAHAHBGgGhQyQQQRQSQT
+BOARD 0 34 64 0 UZUaRCTjRQUZUaQjQgQhQiQjQgc6c7UZUaRCTjSBUZUaQiQjRCTUTUTkTUTkRgRjRBSgSgRCTkTUTkTURBSgRCTkTUTkTUTUTkRBSgQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 35 64 0 UoUKbkbkbkUJUnUHUHUHUHUHUHUHUHUoUKbkbkbkUJUnUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUH
+BOARD 0 36 64 0 UIUqbkbjbkUIUIUIUIUIUIUIUIUIUIUIUqbkbjbkUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUI
+BOARD 0 37 64 0 bjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbj
+BOARD 0 38 64 0 TXTYTZTaTHTYTZTXTYTaTHTZTaTHTHTITJTXTYTZTXTHTITJTHTITITJTKTXTYTZTXTYTZTaTHTHTITJTXTYTYTZTaTHTXTYTZTaTHTHTITJTXTYTYTZTaTHTHTITJTX
+BOARD 0 39 64 0 THTITJTXTYTITJTHTITKTXTITJTHTITYTZTHTITJTHTXTYTZTXTYTYTZTaTYTITJTHTITJTKTXTXTYTZTHTITITJTKTXTHTITJTKTXTXTYTZTHTITITJTKTXTXTYTZTH
+BOARD 0 40 64 0 TXTYTZTHTITYTZTXTYTabhbiTZTXTYTaTHTXTYTZTXTXTZbhbiTZTaTJTKTITYTZTXTYTZbhbiTZTaTHTXTYTYTZTaTYTXTYTZTaTYTZTaTHTXTYTYTZTaTYTZTaTHTX
+BOARD 0 41 64 0 THTITJTXTYTITKTXTITKbxbyTJTHTITKTXTHTITJTITJTJbxbyTJTKTZTaTYTITJTHTITJbxbyTJTKTXTHTITITJTKTITHTITJTKTITJTKTXTHTITITJTKTITJTKTXTH
+BOARD 0 42 64 0 TXTYTZTXTYTYTaTHTYTaTXTYTZTXTYTaTHTXTYTZTYTZTZTaTYTZTaTZTaTITYTZTXTYTZTaTYTZTaTHTXTYTYTZTaTYTXTYTZTaTYTZTaTHTXTYTYTZTaTYTZTaTHTX
+BOARD 0 43 64 0 TXTYTZTHTITYTKTXTITKTYTYTZTXTYTKTXTXTYTZTITJTZTaTITJTKTJTKTYTYTZTXTYTZTaTITJTKTXTXTYTYTZTaTITXTYTZTaTITJTKTXTXTYTYTZTaTITJTKTXTX
+BOARD 0 44 64 0 THTITJTJTKTYTZTaTXTHTITITJTHTITaTXTHTITJTYTZTaTKTYTZTaTXTHTITITJTHTITJTKTYTZTaTXTHTITITJTKTYTHTITJTKTYTZTaTXTHTITITJTKTYTZTaTXTH
+BOARD 0 45 64 0 bkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbk
+BOARD 0 46 64 0 UHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUH
+BOARD 0 47 64 0 UIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUI
+BOARD 0 48 64 0 QzHRQRQjQSGhQyGwQzGxQDHRQzQwQxQyQzQwQxQyQzQzGgGhHAQxGgGhGgZwQCQDQAQBGwHAGhQRQDQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 49 64 0 QDGwGhGwGhGhQTQyiBHAHQHRQDQAQQQRQjQgQhQiQjHAGwGxHQGwGgGhHBQjQSQTQQQRGhQiGxQjQTQTQQQRQSQTQQQhQiQjQgQhQiQTQQQRQSQTQQQRQSQTQQQRQSQT
+BOARD 0 50 64 0 QTQDGhGgGxGgQBQDHRGwQgQhGhGxQgQhQzQwQxQyQzQCHRHRGwGhGgGhGgQzQiQjQgQhGgQjHRhiQjQjQgQhQiQjQgQxQyQzQwQxQyQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 51 64 0 QjQgQhQiQyQzQwQxQyQzQwQxQyQzQwQxQDQAQBQCQDQAQBQCQDQAQBQCQDQxQyQzQwQxGwQzHAHBQzQzQwQxQyQzQwQBQCQDQAQBQCQzQwQxQyQzQwQxQyQzQwQxQyQz
+BOARD 0 52 64 0 QzQwQxQyQCQDQAQBQCQDQAQBQCQDQAQBQTQQQyQzQwQxXdXdX+XeXbXcXcXcXcXcXcXcXcXcXcXcXcXcXcXdX+XeXeQRQSQTQQQRQSQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 53 64 0 QDQAQBQCQSQTQQQRQSQTQQQRQSQTQQQRQjQgQhQiQCWgWhXdX+XeXrXsXsXsXsXsXsXsXsXsXsXsXsXsXtXdX+XeXeXeQzQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQT
+BOARD 0 54 64 0 QTQQQRQSQiQjQgQhQiQjQgQhQiQjQgQhQzQwQxQyXgWwWxXdX+XeX7XsXsXsXsXsXsXsXsXsXsXsXsXsXtXdX+XeXeXeXoQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 55 64 0 QjQgQhQiQyQzQwQxQyQzQwQxQyQzQwQxQDQAQBQCXgXIXJXdX+XeXrXsXsXsXsXsXsXsXsXsXsXsXsXsXtXdX+XeXeXeXoQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQz
+BOARD 0 56 64 0 QzQwQxQyQCQDQAQBQCQDQAQBQCQDQAQBQTQQQRQSXgXYXdXdX+XeXrXsXsXsXsXsXsXsXsXsXsXsXsXsXtXdX+XeXeXeXoQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 57 64 0 QDQAQBQCQiQjQgQhQzQSHQHRQRQjQSGhQyQwQxQyXgXdXdXdX+XeX7XsXsXsXsXsXsXsXsXsXsXsXsXsXtXdX+XeXeXeXoQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQT
+BOARD 0 58 64 0 QTQQQRQSQyQzQwQxQDHQHRGwGhGwGhGhQTQAQBQCXgXdXdXdX+XeXrXsXsXsXsXsXsXsXsXsXsXsXsXsXtXdX+XeXeXeXoQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 59 64 0 QjQgQhQiQCQDQAQBQTGhQSQDGhGgGxGgQBQQQRQSXgXdXdXdX+XeXrXsXsXsXsXsXsXsXsXsXsXsXsXsXtXdX+XeXeXeXoQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQz
+BOARD 0 60 64 0 QzQwQxQyQSQTQQQRQjGxGhQSGxGhQQGhQRQgQhQiXgXdXdXdX+XeX7XsXsXsXsXsXsXsXsXsXsXsXsXsXtXdX+XeXeXeXoQDQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQy
+BOARD 0 61 64 0 QDQAQBQCQzQwQxQyQzGwGgGhGhHBQjGxQhQwQxQyXgXdXdXdX+XefSXcXcXcXcXcXcXcXcXcXcXcXcXcfRXdX+XeXeXeXoQTQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQC
+BOARD 0 62 64 0 QTQQQRQSQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCXgXdXdXdX+XefgXsXsXsXsXsXsXsXsXsXsXsXsXdXvXdX+XeXeXeXoQjQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQS
+BOARD 0 63 64 0 QjQgQhQiQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSXgXdXdXdX+XeXefQXsXsXsXsXsXsXsXsXsXsXsXfXdXdXCXeXeXeXoQzQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQi
+LINK staghornnew_b3.nw 1 0 8 1 31 59
+LINK easternkanoshire_a3.nw 63 35 1 13 1.6 60
+NPC val_brookhurst-housetop2.gif 16 8
+drawoverplayer;dontblock;
+NPCEND
+NPC val_brookhurst-housetop.gif 15 11
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 14 12
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC - 20 4
+//#CLIENTSIDE
+function onCreated() {
+setshape 1,416,416;
+dontblock();
+onTimeOut();
+}
+
+function onTimeOut()
+  {
+  with (findimg(1)) {
+    x = 87.5, y = 6;
+    image = "valp-winmillbladeslor2.png";
+    if (this.rot > 0) this.rot -= .055;
+    else this.rot = pi*2;
+    rotation = this.rot;
+  }
+  setTimer(.05);
+}
+NPCEND
+NPC val_wheatsmeewn.gif 43 4
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 47 4
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 51 4
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 55 4
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 59 4
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 43 7
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 47 7
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 51 7
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 55 7
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 59 7
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 43 10
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 47 10
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 51 10
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 55 10
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 59 10
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 59 13
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 55 13
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 51 13
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 47 13
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 43 13
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 43 16
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 47 16
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 51 16
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 55 16
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 59 16
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 59 19
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 55 19
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 51 19
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 47 19
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 43 19
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 43 22
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 47 22
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 51 22
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 55 22
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 59 22
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 59 25
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 55 25
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 47 25
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC val_wheatsmeewn.gif 43 25
+// NPC made by LATING!
+if (created) {
+}
+if (playertouchsme) {dontblock;
+
+}
+NPCEND
+NPC - 13 10
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x+.5;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val_windowdark.gif 23 25
+// NPC made by Zakn'as Veszin, Plague Knight of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC candle.mng 42 29
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.5,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC candle.mng 61 29
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.5,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC - 42 29
+// NPC made by Stefan Knorr
+if (created) {
+  x=x+.5;
+  y=y-.2;
+  dontblock;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 61 29
+// NPC made by Stefan Knorr
+if (created) {
+  x=x+.5;
+  y=y-.2;
+  dontblock;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC val_signpost.gif 0 31
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 3,5,{
+    00,00,00,
+    00,00,00,
+    00,00,00,
+    00,22,00,
+    00,22,00,
+  };
+}
+if (playertouchsme) {
+say2 Esthras #l#bStaghorn Weald East #u#bGreendale #r;}
+NPCEND
+NPC val_doordark.gif 16 27
+// NPC made by Sir Timothy Trester, Vanguard Knight of
+function onCreated(){
+join("world_housingsystem_door");
+this.exit = {"newbrookhurstint_house1-1.nw",39.5,32.9};
+}
+
+//#CLIENTSIDE
+
+function onCreated(){
+this.uniqueDoorIdentifier = "newbrookhurstint_house1-1";
+}
+NPCEND
+NPC val_brookhurst-housetop2.gif 22 49
+drawoverplayer;dontblock;
+NPCEND
+NPC val_brookhurst-housetop2.gif 40 49
+drawoverplayer;dontblock;
+NPCEND
+NPC val_brookhurst-housetop.gif 21 52
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 20 53
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 45 52
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 46 53
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC - 19 51
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x+.5;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val_smeewntreestump2.gif 1 13
+
+//#CLIENTSIDE
+if (created||playerenters) {
+drawunderplayer;
+  setshape2 18,22,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,22,22,22,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC - 12 55
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="pine";
+this.attr[1]="val_smeewnpinetree-shadow1.png";
+this.attr[2]="val_smeewnpinetree-1.gif";
+NPCEND
+NPC - 14 63
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow2.png";
+this.attr[2]="val_smeewntree6.gif";
+NPCEND
+NPC - 54 54
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="pine";
+this.attr[1]="val_smeewnpinetree-shadow1.png";
+this.attr[2]="val_smeewnpinetree-1.gif";
+NPCEND
+NPC - 48 51
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="pine";
+this.attr[1]="val_smeewnpinetree-shadow2.png";
+this.attr[2]="val_smeewnpinetree-3.gif";
+NPCEND
+NPC val_smeewnpinetree-stump.gif 29 47
+
+//#CLIENTSIDE
+if(created || playerenters){
+setshape2 4,4,{
+    00,00,00,00,
+    00,00,00,00,
+    00,22,22,22,
+    00,22,22,22,
+
+
+
+
+
+  };
+}
+NPCEND
+NPC - 9 23
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="pine";
+this.attr[1]="val_smeewnpinetree-shadow1.png";
+this.attr[2]="val_smeewnpinetree-1.gif";
+NPCEND
+NPC val-selnic-lamppost2.gif 13 30
+//#CLIENTSIDE
+if (playerenters) {
+  setshape2 2,4,{0,0,0,0,0,0,22,22};
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.1,y-3;
+  changeimgvis 1,3;
+  changeimgcolors 1,.8,.5,0,.6;
+  changeimgzoom 1,random(1.8,2);
+  timeout=.1;
+}
+NPCEND
+NPC - 14 5
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="pine";
+this.attr[1]="val_smeewnpinetree-shadow1.png";
+this.attr[2]="val_smeewnpinetree-1.gif";
+NPCEND
+NPC - 26 4
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="pine";
+this.attr[1]="val_smeewnpinetree-shadow1.png";
+this.attr[2]="val_smeewnpinetree-1.gif";
+NPCEND
+NPC - 21 7
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="pine";
+this.attr[1]="val_smeewnpinetree-shadow1.png";
+this.attr[2]="val_smeewnpinetree-1.gif";
+NPCEND
+NPC - 33 9
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="pine";
+this.attr[1]="val_smeewnpinetree-shadow1.png";
+this.attr[2]="val_smeewnpinetree-1.gif";
+NPCEND
+NPC - 2 61
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="pine";
+this.attr[1]="val_smeewnpinetree-shadow1.png";
+this.attr[2]="val_smeewnpinetree-1.gif";
+NPCEND

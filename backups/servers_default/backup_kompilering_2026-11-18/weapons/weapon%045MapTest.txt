@@ -1,0 +1,39 @@
+GRAWP001
+REALNAME -MapTest
+IMAGE wbomb1.png
+SCRIPT
+//#CLIENTSIDE
+function onCreated() {
+  this.scriptlogmissingfunctions = true;
+  this.step = 0;
+  st("created");
+  setTimer(8);
+}
+function st(tag) {
+  echo("[M] " @ tag @ " t=" @ timevar2 @ " level=" @ player.level.name @ " isonmap=" @ isonmap @ " player.map=" @ player.map @ " gmap=" @ (gmap !
+= NULL) @ " automapping=" @ $pref::graal::automapping @ " allfeatures=" @ allfeatures);
+}
+function onTimeout() {
+  this.step++;
+  temp.s = this.step;
+  if (isonmap) {
+    // run B : player is on maptest.gmap
+    if (temp.s == 2) disablemap();
+    if (temp.s == 3) enablemap();
+    if (temp.s == 4) enablefeatures(0xffff - 1);
+    if (temp.s == 5) enablefeatures(0xffff);
+    if (temp.s == 6) setminimap("mm_minimap.txt", "mm_minimap.png", 0, 0);
+  } else {
+    // run A : normal level + serveroption     
+minimap
+    if (temp.s == 3) setminimap("mm_minimap.txt", "mt_minimap.png", 0, 0);
+    if (temp.s == 4) showstats(0x7ff - 0x100);
+    if (temp.s == 5) showstats(0x7ff);
+  }
+  st("s" @ temp.s);
+  if (temp.s < 9) setTimer(8);
+}
+function onMapClick(pl) {
+  echo("[M] onMapClick " @ pl.account);
+}
+SCRIPTEND

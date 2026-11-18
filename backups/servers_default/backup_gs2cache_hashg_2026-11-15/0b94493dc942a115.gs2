@@ -1,0 +1,16 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+}
+
+function onPlayerTouchsMe() {
+  gs1_always();
+  if (("#g" == "Ganelon")) {
+    dontblock();
+    drawoverplayer();
+  }
+}
+
+function gs1_always() {
+  setimgpart("pics1.png", 880, 16, 16, 16);
+}

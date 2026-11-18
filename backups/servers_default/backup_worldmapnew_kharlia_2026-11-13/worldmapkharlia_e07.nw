@@ -1,0 +1,384 @@
+GLEVNW01
+BOARD 0 0 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 1 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 2 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 3 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 4 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 5 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 6 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 7 64 0 kAkAkAkAkAkAkAkDsZkGkAkAkDsZkEkFkGkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 8 64 0 kAkAkAkDsZkEkFkTK1kWkEkFkTK1J0J1kWkGkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 9 64 0 kAkDsZkTK1J0J1KULAKVJ0J1KULBLALBKVkWkGkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 10 64 0 kDkTK1KULALBLAKyg5KzLALBKyg6g5g6KzKVkWkGkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 11 64 0 kTKULAKyhJhKhJhKhJhKhJhKhJhKhJhKhJLDLFlJkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 12 64 0 KUKyg5g6g5g6g5g6g5g6g5g6g5g6g5g6g5LTJVlZkgkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 13 64 0 KyhKhJhKhJhKhJhKhJhKhJhKhJhKhJhKhJLDJlsrkokQkRkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 14 64 0 g5g6g5g6g5g6g5g6g5bZbag6g5g6g5g6g5KzKVK1kWkEkFkokAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 15 64 0 hagahJhKhJhKhJhKhJhKhJhKhJhKhJhKhJhKKzLBKVJ0J1kWkokBkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 16 64 0 oyhYgag6g5g6g5bJbKg6bZbag5g6g5g6g5g6g5g6KzLALBKVkWkokAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 17 64 0 pCgogYhKhJhKhJhKhJhKhJhKhJhKhJhKhJhKhJhKhJhKhJKzKVkWkokBkCkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 18 64 0 hrhYhZhagag6g5g6g5g6g5g6bZbag5g6g5g6g5g6g5g6g5g6KzKVkWkokBkCkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 19 64 0 a5a6oyowhYgahJhKgbhZgahKhJhKhJhKhJKsKthKbJbKhJhKhJLDJVlJkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 20 64 0 hrhqpCpAhrhYhZgagZgrg4g6g5gbhZgag5K8IKKtg5g6g5bJbKLTJllZkCkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 21 64 0 KQgpgqgrgogpgqgYhJg7IIKtgbhbh6g4hJhKK8K9bJbKhJhKhJKzKVkWkokAkAkAkAkAkAkAkQkRkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 22 64 0 LCg6g5gZgYg6g5g6g5gZIYIZhbhroyhYhZgag5gbgag6bZbag5g6KzKVkWkokBkCkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 23 64 0 KyhKhJhKhJhKhJbZbagbh6jJjGjIpCjFjGjIhahbhYgahJhKKsKthJLDLFsrkEkFkokAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 24 64 0 Kwg6bZbag5g6g5g6gbhboyi0hqiVhqjUimhrh+h/hqg4g5g6K8IKKtKzKVK1J0J1kWkokAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 25 64 0 LChKhJhKhJbJbKhKhLh7pCjXqQqRplqEqFoxiOiPoyhYgahKhJK8K9hKKzLBLALBKVkWkokAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 26 64 0 LSg6g5gbhagabJbKgZgrhqiEqgqhimpiiWpBhqjXpChrhYgag5KsKtg6g5g6KxK9KzKVkWkokAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 27 64 0 LChKgbhbh6g4hJKsKtgZgriUiliIiJpjpkjWoxh7a5a6h6g4hJK8IKKthJKxK9hKhJLDLFs8kgkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 28 64 0 LSg6hLhrgogYKsILK9g6g7ikiniYiZiGpiowpBiEhqa5a6hYgag6K8K9KxK9g5g6g5KzKVkWkokAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 29 64 0 KyhKgZgqgYhKK8K9hJhKhLi0h6jXinilpypAiniUh6h7ilh7hIKxLQLRK9hKhJhKhJhKLDLFsrsZkokBkgkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 30 64 0 g5g6g5g6g5g6g5g6g5gbhba5a6jFjHjGjYjIjFjah+h/hqgogYIZgvgag5g6g5g6g5g6KzKVJ0J1kWkokBkAkCkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 31 64 0 hJhKhJhKhJbJbKhKgbhbh6h7h6a5a6h7pSh7KMKNiOiPgogYIZh7h6g4hJhKhJbJbKhKhJKzLALBKVkWkEkFkokAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 32 64 0 g5bZbag6g5g6gbhahbqQqRhrhqhrhqhrpihrKcKdimhrg4IshLhrgogYg5g6g5g6g5g6g5g6g5g6KzKVJ0J1kWkokAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 33 64 0 hJhKhJhKbZbag7a5a6qgqhoyh6h7h6h7pya5a6h7h6oyhIIdg7h7g4hKhJhKhJhKhJbJbKhKhJhKhJKzLAKwJVlJkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 34 64 0 gag6g5g6g5g6hLhrhqhrhqpChqhra5a6hqhrhqhrhqpCg4IshLhrhIg6g5gbhagag5g6g5g6g5g6g5g6g5LTJllZkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 35 64 0 hYhagahKhJgbhbh7h6h7h6h7h6h7h6h7pSh7h6a5a6h7hIIcg7h7hYhZhahbh7g4hJhKhJhKhJhKhJhKhJhKKVkWsZkGkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 36 64 0 hqowg4g6g5g7hqhra5a6hqhrhqhrhqhrpya5a6hrieifg4IshLhrhqh+h/hrgogYg5g6g5g6g5g6g5g6g5g6KzKVK1kWkGkAkQkRkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 37 64 0 h6pAhIhKhJhLh6h7h6owIIIJh6h7inh7pSh7h6h7iuivhIIdhPh7h6iOiPgogYhKhJhKhJhKhJhKhJhKhJhKhJKzLBKVkWkGkAkAkAkAkAkBkAkAkAkAkAkAkAkAkDkE
+BOARD 0 38 64 0 gogqgYg6gbhbqQqRhqpAIYIKIJilhqhrpjqFhqhrhqgogYIZhqhrhqhrhqg4g5g6g5g6g5g6g5g6g5g6g5g6g5g6g5KzKVkWkGkQkRkBkAkAkAkAkAkBkAkAkAkDkTJ0
+BOARD 0 39 64 0 gYhKhJgbhbh7qgqhh6IIIJIYIZh7h6h7h6iEpShcKRKSIZh7h6h7h6h7h6hIhJhKhJhKhJhKhJhKbJbKhJhKbJbKhJhKKzKVkWkEkFkEkFkEkFkGkCkAkDkEkFkTJQJR
+BOARD 0 40 64 0 g5gbhZhbhqhrhqhroxIYIZhrKMKNhqhrhqikpihYgvoghbhrhqhrhqhrhqg4g5g6g5g6g5g6g5g6g5g6g5g6g5g6g5g6g5KzKVJ0J1J0J1J0J1kWkGkDkTJ0J1JQJghr
+BOARD 0 41 64 0 hJg7owh7h6h7h6h7pBh7h6h7KcKdowh7goi0pih7h6h7h6h7h6h7h6h7h6hYgahKhJhKhJhKhJhKhJhKhJhKhJhKhJhKhJhKKzLALBLALBLALBKVkWkTJQJRJSJgh6h7
+BOARD 0 42 64 0 hZhbpAhrhqhrhqhrhqhrhqhrhqhrpAgogYhdpyhrhqhrhqhrhqhrhqoxh6h7hYhZgag6g5g6g5g6g5g6g5bJbKg6g5g6g5g6g5g6g5g6g5g6g5KzKVm0KgKQhqhrhqhr
+BOARD 0 43 64 0 h6h7qQqRh6h7h6a5a6h7h6h7h6h7gogYIZhbh6h7h6h7h6h7h6h7h6pBhqhrh6gogYhKhJhKhJhKhJhKhJhKbJbKhJhKhJhKhJhKhJhKhJbZbahKKzKVJQJgh6h7h6KG
+BOARD 0 44 64 0 JMJPqgqhhqhrhqhrhqa5a6hrhqgogYIZhbhrpShrhqhrhqhrhqhrhqowh6h7gogYg5g6bJbKg5g6g5g6g5g6g5g6g5g6g5g6g5g6g5g6g5g6g5g6g5KzJghrhqJ2J3KH
+BOARD 0 45 64 0 owJeJPh7h+h/h6h7h6h7h6h7gogYIZh7h6h7pjqFh6h7h6h7h6h7h6pAhqhrg4hKhJhKhJhKhJhKhJhKhJhKhJbZbahKhJhKhJhKhJhKhJhKhJhKhJgbhbh7h6KGKHKX
+BOARD 0 46 64 0 pAhrJeJPiOiPhqhrhqhroygogYIZhbhrhqhrhqhrhqhrhqjlhqhrhqhrhqhrhIg6g5g6g5g6g5g6g5g6g5g6bJbKg5g6g5g6g5g6g5g6g5g6g5g6gbhbhqJ2J3KJKKKn
+BOARD 0 47 64 0 LMLPh6JeJPh7h6owh6h7pCg4Isg/qQqRh6h7h6h7h6h7h6h7h6h7h6h7h6h7hYgahJhKhJhKhJhKhJhKhJhKhJhKbZbahJhKhJhKhJhKhJhKhJgbh6J3J7KGKHK5K6K3
+BOARD 0 48 64 0 LcLfimJcJNgqgrpAieifhqhIIdhPqgqhhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhYhZhagag6g5g6g5g6bZbag5g6g5g6g5g6g5g6g5g6gbhZhaJ3J4KJAZKHAZKJAZKH
+BOARD 0 49 64 0 owh7JcJNhYIYgZgriuivgogYIZh7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h+h/hYgahJhKhJhKhJhKhJhKhJhKhJhKhJbJbKhKg7J2J3KHK4K5KaKXK4K5KKKH
+BOARD 0 50 64 0 pAJcJNhroxhrIYKRKSKRKSIZhqj2hqhrhqhrhqhrhqhrhqhrjlhrhqhrhqhrhqhriOiPhqg4g5g6g5g6g5g6g5g6g5g6g5g6g5g6g5g6hLKGKHKnAZKJAZKnAZKJKaKX
+BOARD 0 51 64 0 JcJNh6h7pBh7hYA3oggvoghbh6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7AXh7h6h7h6h7h6hIhJhKhJhKhJgbhZhagahKhJhKhJhKgbhahbKWK6K3K4AZKHAZKJK3K6K3
+BOARD 0 52 64 0 JNowhqhrhqhrhqhrhqhrhqhra5a6hqa5a6hrhqhrhqhrhqa5a6hrhqj2hqhrhqhrhqhrhqhYgag6g5gbhZhbgpgqgYg6g5g6g5g6hLhrJ2KmAZKHAZKXKnApKnK6AJKH
+BOARD 0 53 64 0 h6pAh6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7j2a5a6h7h6h7h6h7h6h7h6h7h6h7h6h7hYhZhahbgogYhJhKhJbJbKhKhJhKgZgrKGKHKaKXK4KnK3K6K3KHKXK6
+BOARD 0 54 64 0 oyhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrg4g6g5bZbag6g5g6g5g6g5g7K2K3ApKnAZK3K6ApKHKXKnAp
+BOARD 0 55 64 0 pCh7h6h7h6a5a6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7hYgahJhKhJhKhJhKhJhKhJgZLGLHK6K3K4K5K6K3AJKHKXKn
+BOARD 0 56 64 0 hqhrhqhrhqhrhqhrhqhrhqhrhqhrj2hrhqhrhqhrhqhrhqhrhqhrhqhrhqj2hqhrhqhrhqhrj1hrhqhrhqhYhZhagag6g5g6g5g6g5g6hLoyK2KHAZKJApKHKaKXKnK3
+BOARD 0 57 64 0 h6h7h6h7h6h7h6h7a5a6h6h7h6h7h6jlh6h7h6h7h6h7h6h7h6h7h6h7h6h7a5a6h6h7h6h7h6h7h6h7h6h7h6h7g4hKhJhKhJhKhJgbhbpCLGKXK4K5KaKXA5KnK3K6
+BOARD 0 58 64 0 hqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrj2hrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhIg6g5g6g5g6gbhbhrieifK2K3KJApKnK6K3K6KH
+BOARD 0 59 64 0 h6h7h6j2h6h7h6h7h6h7h6h7h6h7h6h7h6a5a6jmh6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6gogYhKhJhKgbhZhbh7h7iuivLGLHLIK6K3K4K5K6K3
+BOARD 0 60 64 0 hqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqa5a6hrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqgYg5g6g5g6gZhrhqhrhqhrhqhrhqoyK2K3K4K6K7K2
+BOARD 0 61 64 0 h6h7h6h7h6h7h6h7h6jmh6h7h6h7h6h7h6h7h6h7j1h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6h7h6gahJhKhJhKgbh7h6h7h6h7h6h7h6pCLGLHLILKLLLG
+BOARD 0 62 64 0 hqhrhqhrhqhrhqhrhqhqj1hqhrhqhrhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrhqhrjlhrhqhYgag6g5gbhbhrhqhrhqhrhqhqh7h6h6h7hqhrhqhr
+BOARD 0 63 64 0 qRh7h6h7h6h7h6h7a5a6hrj1h7h6h7h7h6h7h6h7h6h7h6h7h6h7h6h6h7h6h6h7h6j2h6a5a6h7h6h7h6h7h6h7hYhZhahbh6pzqFh6h7h6h7h6hrhqplqCqFh7h6h7
+NPC val_worldmap_fissure3.gif 22 59
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+dontblock();
+}
+NPCEND
+NPC val_worldmap_fissure5.gif 8 53
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+dontblock();
+}
+NPCEND
+NPC val_worldmap_fissure2.gif 33 58
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+dontblock();
+}
+NPCEND
+NPC val_worldmap_fissure1.gif 25 45
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+dontblock();
+}
+NPCEND
+NPC val_worldmap_fissure1.gif 15 62
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+dontblock();
+}
+NPCEND
+NPC val_worldmap_fissure1.gif 1 57
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+dontblock();
+}
+NPCEND
+NPC val_worldmap_fissure1.gif 6 61
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+dontblock();
+}
+NPCEND
+NPC val_worldmap_fissure1.gif 19 49
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+dontblock();
+}
+NPCEND
+NPC val_worldmap_fissure7.gif 3 53
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+dontblock();
+}
+NPCEND
+NPC val_worldmap_fissure8.gif 20 41
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+dontblock();
+}
+NPCEND
+NPC val_worldmap_fissure9.gif 30 62
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+dontblock();
+}
+NPCEND
+NPC light2m.png 27 50
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .3;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 32 62
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 6 50
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .3;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 38 63
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .3;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 39 61
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 35 55
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 28 55
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 23 49
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 22 45
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 19 52
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 12 49
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 13 55
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 19 57
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 14 56
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 18 58
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 19 60
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 27 63
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 10 62
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 8 60
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 2 58
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 9 61
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 26 51
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .5;
+  this.green = .1;
+  this.blue = .1;
+  this.alpha = .25;
+  drawaslight();
+}
+NPCEND

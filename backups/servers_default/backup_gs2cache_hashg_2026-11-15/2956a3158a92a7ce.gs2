@@ -1,0 +1,13 @@
+//#CLIENTSIDE
+function onPlayerChats() {
+  if (("#g" == "Imperial Dalmar") && (player.chat == "open gate")) {
+    setimg("bridgeton-porticullis7.gif");
+    dontblock();
+    drawoverplayer();
+  }
+  if (("#g" == "Imperial Dalmar") && (player.chat == "close gate")) {
+    setimg("bridgeton-porticullis.gif");
+    blockagain();
+    drawunderplayer();
+  }
+}

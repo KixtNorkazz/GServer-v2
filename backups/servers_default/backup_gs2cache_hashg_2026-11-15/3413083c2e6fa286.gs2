@@ -1,0 +1,9 @@
+//#CLIENTSIDE
+function onCreated() {
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "Athedia")) {
+    dontblock();
+  }
+}

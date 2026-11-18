@@ -1,0 +1,430 @@
+GLEVNW01
+BOARD 0 0 64 0 4E4F4G4H4E4F4G4H4E4F4G4HASAT4G4H4E4F4G4H4E4F4G4H4EF2GGCrCrCrCrCrF+C7DeDbEXEYEZFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCm6m7hhhhhhhhm6m7
+BOARD 0 1 64 0 4U4V4W4X4U4V4W4X4U4V4WACAD4V4WAAAB4V4W4X4U4V4W4X4UGnCrCrCrCrCrCrERE3DuDvEmEnEoFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCnKnLhhhhhhhhnKnL
+BOARD 0 2 64 0 4k4l4m4n4k4l4m4n4k4l4mASAT4lAAABAAAB4m4n4k4l4m4n4kGIGJCrCrCrCrCrEhEiD+EmEnEoFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCnanbhhhhhhhhnanb
+BOARD 0 3 64 0 404142434041424340414243404142AAABAAAB43404142434041GIGJCrCrCrCrERESEHEIEJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCnKnLhxhxhxhxnKnL
+BOARD 0 4 64 0 4E4F4G4H4E4F4G4H4E4F4G4H4E4F4G4HAAAB4G4H4E4F4G4H4E4F4HGnCrCrCrCrEhEiEXEYEZFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFC2Q2Rh3hnh3hn2Q2R
+BOARD 0 5 64 0 4U4V4W4X4U4V4W4X4U4V4W4X4U4V4WAAABAAAB4X4U4V4W4X4U4VF2GGCrCrCrCrEgECEDExEyEOEPEzFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFC2g2hhnh3hnh32g2h
+BOARD 0 6 64 0 4k4l4m4n4k4l4m4nACAD4m4n4k4l4m4nAAABOL4n4k4l4m4n4k4lGnCrCrCrCrCrCrEgECEDExEeEfEyEzFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCnunvFCFCFCFCnunv
+BOARD 0 7 64 0 404142434041ACADASAT42434041424340414243404142434041GIGJCrCrCrCrCrCrEgECEDEuEvExEyEzFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFC
+BOARD 0 8 64 0 4E4F4G4H4E4FASAT4E4F4G4H4E4F4G4H4E4F4G4H4E4F4G4HAAAB4GGnCrCrCrCrCrCrCrEgECDzECEDExEyEzFCFCFCFCFCFCFCFCuEuFFCFCFCFCuEuFFCFCFCFCFC
+BOARD 0 9 64 0 4U4V4W4X4U4V4W4X4U4V4W4X4U4V4W4X4U4V4W4X4U4V4WAAAB4V4WGnCrCrCrCrCrCrCrCrEgC1EgECEDExEyEzFCFCFCFCuEuCuCuUuVwYwYwYwYuUuVuCuCuCuCuC
+BOARD 0 10 64 0 F34l4m4n4k4l4m4n4k4lAAAB4k4l4m4n4k4l4m4n4k4l4m4nF2FmFnGGCrCrCrCrCrCrCrCrCrCrCrERESEHEIEJFCFCFCFCuShjhjnqnrwYwYwYwYnqnrhjhjhjhjhj
+BOARD 0 11 64 0 GHFmFnF340414243404142AAAB41424340414243404142F2GGCrCrCrCrCrCrCrCrCrCrCrCrCrCrEhEiEXEYEZFCFCFCFCuSnpnon6n7npnonpnon6n7npnonpnonp
+BOARD 0 12 64 0 CrCrCrGHFmFnF3F2FmFnF34HF2FmFnF34E4F4G4H4E4F4GGnCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrEgECEDExEyEzFCFCFCuSn5n4n5n4n5n4n5n4n5n4n5n4n5n4n5
+BOARD 0 13 64 0 CrCrCrCrCrCrGHGGCrCrGHFmGGCrCrGHF34VOLAAAB4V4WGIGJCrCrCrCrCrCrCrCrCrCrCrCrCruAuBERESEHEIEJFCFCFCuSnpnonpnonpnonpnonpnonpnonpnonp
+BOARD 0 14 64 0 CrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrGX4lAAABAAAB4m4nGnCrCrCrCrCrCrCrCrCrCrCruAuBuQuRuCuCuCuCuCuCuCuCuRn5n4n5n4n5n4n5n4n5n4n5n4n5n4n5
+BOARD 0 15 64 0 CrCrCrCrCrCrCrCrCrCrCrCrCrCrCrFoFp4142AAAB4142F2GGCrCrCrCrCrCrCrCrCrCrCruQnmhjhjhjhjhjhjhjhjhjhjhjnpnonpnonpnonpnonpnonpnonpnonp
+BOARD 0 16 64 0 CrCrCrCrCrCrCrCrCrCrCrCrCrCrCrGHF34F4G4H4E4F4GGnCrCrCrCrCrCrCrCrCrCrCrCrnmnHnonpn4n5n4n5n4n5n4n5n4n5n4n5n4n5non5n4n5n4n5n4n5n4n5
+BOARD 0 17 64 0 CrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrGHFmFnF34U4VF2GGCrCrCrCrCrCrCrCrCrCrCrnmnHnHn4n5nonpnonpnonpnonpnonpnonpnonpnonpnonpnonpnonpnonp
+BOARD 0 18 64 0 CrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrGHFmFnGGCrCrCrCrCrCrCrCrCrCrCrCrnHnHnHnonpn4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5
+BOARD 0 19 64 0 GJCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrnHnHnHn4n5nonpnonpnonpnonpnonpnonpnonpnonpnonpnonpnonpnonp
+BOARD 0 20 64 0 GIF4F5GJCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrnHnHnHnonpn4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5
+BOARD 0 21 64 0 4U4V4WGnCrCrCrCrCrCrFoF4F5GJCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrnHnHnHn4n5nonpnonpnonpnonpnonpnonpnonpnonpnonpnonpnonpnonp
+BOARD 0 22 64 0 4k4l4mGIGJCrCrFoF4F5Fp4n4kGIGJCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrnHnHnHnonpn4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5
+BOARD 0 23 64 0 40414243GIF4F5Fp404142434041GnCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrnHnHn2uAuBuTuTuTuTuTuTuTuTuBnpnonpnonpnonpnonpnonpnonpnonp
+BOARD 0 24 64 0 4E4F4G4H4E4F4G4H4E4F4G4H4E4FGIGJCrCrFoF4F5GJCrCrCrCrCrCrCrCrCrCrCrCrCrnHuAuBuQuRhghhhhhhhhhhhhhiuSn5n4n5n4n5n4n5n4n5n4n5n4n5n4n5
+BOARD 0 25 64 0 4U4V4W4X4U4V4W4X4U4V4W4XAAAB4WGIF4F5Fp4X4UGIGJCrCrCrCrCrCrCrCrCrCrCrCrn2uQuRnqnrhwhxhxhxhxhxhxhyuEuCuCuFnonpuEuCuCuFnonpnonpnonp
+BOARD 0 26 64 0 4k4l4m4n4k4l4m4n4k4l4m4n4kAAAB4n4k4l4m4n4k4lGIF4F5GJCrCrCrCrCrCrCrCrCrCrnqnrn6n7uCuCuCuCuCuCuCuCuSnonpuQuCuCuRnonpuDn4n5n4n5n4n5
+BOARD 0 27 64 0 4041424340414243ACAD424340414243404142AAAB41424340GIGJCrCrCrCrCrCrCrCrCrn6n7CrCrEhEiEXEYEZFCFCFCuSn4n5n4n5n4n5n4n5uDnonpnonpnonp
+BOARD 0 28 64 0 4E4F4G4H4E4FACADASAT4G4H4E4F4G4H4E4FAAABAAAB4G4H4E4FGnCrCrCrCrCrCrCrCrCrCrCrCrF+C7DOEHEIEJFCFCFCwZuTuTuTuTuTuTuTuTuVn4n5n4n5n4n5
+BOARD 0 29 64 0 4U4V4W4X4U4VASATAEAFAGAH4U4V4WOL4U4V4WAAABAAAB4X4U4VGIGJCrCrCrCrCrCrCrCrCrCrF+C7DeDbEXEYEZFCFCFCnKnLhhhhmcmfhhhhnKnLnonpnonpnonp
+BOARD 0 30 64 0 4k4l4m4n4k4l4m4nAUAVAWAX4k4l4m4n4k4l4m4nAAAB4m4n4k4l4mGnCrCrCrCrCrCrCrCrCrCrERE3DuDvEmEnEoFCFCFCnanbhxhxmsmvhxhxnanbuBn5n4n5n4uA
+BOARD 0 31 64 0 4041424340414243AkAlAmAnACAD42434041424340414243404142GnCrCrCrCrCrCrCrCrCrCrEhEiD+EmEnEoFCFCFCFCnKnLhhhhm8m/hhhhnKnLuSnpnonpnouD
+BOARD 0 32 64 0 4E4F4G4H4E4F4G4HA0A1A2A3ASAT4G4HAAAB4G4H4E4FF2FmFnF3F2GGCrCrCrCrCrCrCrCrCrCrERESEHEIEJFCFCFCFCFCnanbhxhxnMnPhxhxnanbuSn5n4n5n4uD
+BOARD 0 33 64 0 4U4V4W4X4U4V4W4X4U4Vf/ACAD4V4WAAAB4V4WOL4UF2GGCrCrGHGGCrCrCrCrCrCrCrCrCrCrCrEhEiEXEYEZFCFCFCFCFCnKnLhhhhhhhhhhhhnKnLuSnpnonpnouD
+BOARD 0 34 64 0 4k4l4m4n4k4l4m4n4k4lf/ASAT4l4m4n4k4l4m4n4kGnCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrEgECEDExEyEzFCFCFCFCnanbhxhxhxhxhxhxnanbuSn5n4n5n4uD
+BOARD 0 35 64 0 4041424340414243404142434041424340AiAj4340GIGJCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrCrERESEHEIEJFCFCFCFCnKnLhhhhhhhhhhhhnKnLuSnpnonpnouD
+BOARD 0 36 64 0 F34F4G4H4E4F4G4H4E4F4G4H4E4F4G4H4EAyAz4H4E4FGnCrCrCrCrCrCrCrCrCrCrCrCrF+C5C6F9EhEiEXEYEZFCFCFCFCjojpjojpjpjpjpjojpjouSn5n4n5n4uD
+BOARD 0 37 64 0 GHFmFnF34U4V4W4X4U4V4W4X4U4V4W4X4U4V4W4X4UF2GGCrCrCrCrCrCrCrCrCrCrCrF+C7DJDKC4C7DOEHEIEJFCFCFCFCj4j5j4j5j4j5j4j5j4j5uSnpnonpnouD
+BOARD 0 38 64 0 CrCrCrGHF34l4m4n4k4l4m4n4kF2FmFnF34l4m4n4kGnCrCrCrCrCrCrCrCrCrCrCrF+C7DeDZDaFxDeDbEXEYEZFCFCFCFCj4j5j4j5j4j5j4j5j4j5uSn5n4n5n4uD
+BOARD 0 39 64 0 CrCrCrCrGX41424340414243F2GGCrCrGHF34243F2GGCrCrCrCrCrCrCrCrCrCrF+C7DLDuDpDqGBDuDvEmEnEoFCFCFCFCkJkJkIkJkJkJkJkIkJkJuSn5n4n5n4uQ
+BOARD 0 40 64 0 CrCrCrFoFp4F4G4H4E4F4G4HGnCrCrCrwJwKnonpwJwKCrCrCrCrCrCrCrCrCrF+C7DeDbD+IuIvGAD+EmEnEoFCFCFCFCFCkGnZkYkZkZkZkZkYkZkZuSnpnonpnohz
+BOARD 0 41 64 0 CrCrCrGHF34V4WF2FmFnF3F2GGCrCrCrwZwan4n5wZwaCrCrCrCrCrCrCrCrCrERE3DuDvEmI+I/I2EmEnEoFCFCFCFCFCFCkGnZnYnZnZnZnZnYnZnZuSn5n4n5n4n5
+BOARD 0 42 64 0 CrCrCrCrGHFmFnGGCrCrGHGGCrCrCrF+C7uSpqprwIC4F9CrCrCrCrCrCrCrCrEhEiD+EmEnJOJPI1EnEoFCFCFCFCFCFCFCkGnZnYnZnZnZnZnYnZkHuSn5nonpnonp
+BOARD 0 43 64 0 CrCrCrCrCrCrCrCrCrCrCrCrCrCrF+C7DeuSpqprwIFxC4F9CrCrCrCrCrCrCrERESEHEIEJFCFCjojpjpjpjpjpjpjoFCFCkGnZnYnZnZnZnZnYnZnZuSnpn4n5n4n5
+BOARD 0 44 64 0 CrCrCrCrCrCrCrCrCrCrCrCrCrF+C7DLDuuSp6p7wIGBDIC4F9CrCrCrCrCrCrEhEiEXEYEZFCuEj4j5j5j5j5j5j5j5uCuCkGnZnYnZnZnZnZnYnZkHuRnpnonpnonp
+BOARD 0 45 64 0 CrCrCrCrCrCrCrCrCrCrCrCrF+C7DeDbwJwKpqprwJwKDYFxC4F9CrCrCrCrCrEgECEDExEyEzuSkJkJkJkJkJkJkJkJhzhzkWwTwSwTwTwTwTwSwTkXhzn5n4n5n4n5
+BOARD 0 46 64 0 CrCrCrCrCrCrCrCrCrCrCrCrERE3DuDvwZwap6p7wZwaGAGBGNIzCrCrCrCrCrCrERESEHEIEJuSkGnZnZnZnZnZnZkZjojonanbhhhhmcmfhhhhnanbnonpnonpnonp
+BOARD 0 47 64 0 CrCrCrCrCrCrF+C5C6F9CrCrEhEiD+Em2g2hJPJO2g2hI2GRJCJDCrCrCrCrCrCrEhEiEXEYEZuSkGnZnZnZnZnZnZkHkJkJnKnLhhhhmsmvhhhhnKnLn4n5n4n5n4n5
+BOARD 0 48 64 0 CrCrCrCrCrF+C7DJDKC4C5C6C7DOEHEInunvFCFCnunvHOHPIyIzCrCrCrCrCrF+C7DOEHEIEJuSkGnZnZnZnZnZnZkHnZkZnanbhhhhhhhhhhhhnanbnonpnonpnonp
+BOARD 0 49 64 0 CrCrCrCrF+C7DeDZDaFxDJDKDeDbEXEYEzFCFCFCFCPMHeHfJCJDCrCrF+C5C6C7DeDbEXEYEZuSkWwTwTwTwTwTwTkXnZkHnKnLmcmfhhhhmcmfnKnLn4n5n4n5n4n5
+BOARD 0 50 64 0 CrCrCrF+C7DLDuDpDqGBDZDaDuDvEmEnEoFCFCFCFCHNHOHPGtC4C5C6C7DJDKDeDuDvEmEnEouSnKnLhhhhhhhhnKnLwTkXnanbmsmvhhhhmsmvnanbnonpnonpnonp
+BOARD 0 51 64 0 CrCrF+C7DeDbD+IuIvGADpDqD+EmEnEoFCFCFCFCFCHdHeHfDYFxDJDKDeDZDaDuD+EmEnEoFCuSnanbijikilimnanbhhhhnKnLhxhxhxhxhxhxnKnLn4n5n4n5n4n5
+BOARD 0 52 64 0 CrCrERE3DuDvEmI+I/I2IuIvEmEnEoFCFCFCFCFCFCI0I1I2GAGBDZDaDuDpDqD+EmEnEoFCFCuSnKnLizoPoPi2nKnLhhhhnanbhhijikilimhhnanbnonpnonpnonp
+BOARD 0 53 64 0 CrCrEhEiD+EmEnJOJPI1I+I/EnEoFCFCFCFCFCFCFCFCFCI1I2GADpDqD+IuIvEmEnEoFCFCFCuSnanbjDoPoPjGnanbhhhhnKnLhxizoPoPi2hxnKnLn4n5n4n5n4n5
+BOARD 0 54 64 0 C5C6C7DOEHEIEJFCFCI0JOJPEoFCFCFCFCFCFCFCFCFCFCI0I1I2IuIvEmI+I/EnEoFCFCFCFCuSnqnrjToPoPjWnqnrnonpnanbhxjDoPoPjGhxnanbnonpnonpnonp
+BOARD 0 55 64 0 DJDKDeDbEXEYEZFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I+I/EnJOJPEoFCFCFCFCFCuSnenfn4n5n4n5nenfn4n5nqnrhxjToPoPjWhxnqnrn4n5n4n5n4n5
+BOARD 0 56 64 0 DZDaDuDvEmEnEoFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0JOJPEoFCFCFCFCFCFCFCFCuSnonpnonpnonpnonpnonpnenfn4n5n4n5n4n5nenfnonpnonpnonp
+BOARD 0 57 64 0 DpDqD+EmEnEoFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCuSn4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5
+BOARD 0 58 64 0 IuIvEmEnEoFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCuSnonpnonpnonpnonpnonpnonpnonpnonpnonpnonpnonpnonpnonp
+BOARD 0 59 64 0 I+I/EnEoFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCuSn4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5
+BOARD 0 60 64 0 JOJPEoFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCuEuCuCuCuCuCuCuCuCuCuRnonpnonpnonpnonpnonpnonpnonpnonpnonpnonpnonpnonpnonp
+BOARD 0 61 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCuShzhzhzhzhzhzhzhzhzhzn4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5n4n5
+BOARD 0 62 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCuSnonpnonpnonpnonpnonpnonpnonpnouEuCuCuCuCuCuCuCuCuCuCuCuCuCuCuCuCuCuCuCuC
+BOARD 0 63 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCuSn4n5n4n5n4n5n4n5n4n5n4n5n4n5n4uSmambhhhhhhmambhhhhhhmambhhhhhhmambhhhhhh
+LINK eastocean_ab06.nw 63 0 1 64 0 playery
+LINK eastocean_aa05.nw 0 0 64 1 playerx 61
+LINK eastocean_aa07.nw 0 63 64 1 playerx 0
+LINK worldmapfull_f02.nw 0 0 1 49 45.5 18
+LINK newluccaint_inquisitionchapel.nw 52 54 2 1 32 47
+LINK newluccaint_inquisitoroffice.nw 41 53 2 1 34.5 36
+NPC - 4 0
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC - 0 3
+function onCreated() {
+  join("world_pinetree");
+}
+
+//#CLIENTSIDE
+
+if (created) {
+x -= 1.5;
+}
+NPCEND
+NPC - 0 23
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC - 2 28
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC - 33 14
+function onCreated()
+  {
+  showcharacter();
+  nick = "Luccian Guard";
+  bodyimg = "val_imperialguard-body100.gif";
+  headimg = "val_imperialguardhelm3.gif";
+  shieldimg = "no-shield.gif";
+  dir = 1;
+}
+function onPlayertouchsme()
+  {
+  if (this.saying == 0)
+    {
+    this.saying = 1;
+
+    this.rm = int(random(1,10));
+    if (this.rm == 1)
+      {
+      message("<I'd keep your eyes open if I were you. A lot of strange folk come around here..>");
+    }else if (this.rm > 1 && this.rm < 5)
+        {
+      message("Have fun and enjoy your stay!");
+    } else if (this.rm >= 5)
+        {
+      message("Welcome to Port Lucca!");
+    }
+
+    sleep(2);
+    message(" ");
+    this.saying = 0;
+  }
+}
+NPCEND
+NPC valikorlia_ironstreetlamp-off.gif 38 7
+join("world_streetlamp");
+NPCEND
+NPC valikorlia_ironstreetlamp-off.gif 38 17
+join("world_streetlamp");
+NPCEND
+NPC val_rp-goodcastledoor.gif 51 52
+function onPlayertouchsme()
+{
+  hide();
+  sleep(3);
+  show();
+}
+NPCEND
+NPC val_rp-goodcastledoor.gif 40 51
+function onPlayertouchsme()
+{
+  hide();
+  sleep(3);
+  show();
+}
+NPCEND
+NPC - 46 50
+join("world_streetlamp");
+NPCEND
+NPC - 32 58
+if (created)
+  {
+  x -= .5;
+  join("world_streetlamp");
+}
+NPCEND
+NPC midas-workbenchv.gif 34 63
+// NPC made by Verb, Spider Elder of the Animal Council
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+  setimgpart midas-workbenchv.gif,0,0,32,64;
+}
+
+if (created){
+  setshape2 2,4,{
+    3,3,
+    3,3,
+    3,3,
+    3,3
+  };
+}
+NPCEND
+NPC midas-workbenchv.gif 29 63
+// NPC made by Verb, Spider Elder of the Animal Council
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+  setimgpart midas-workbenchv.gif,0,0,32,64;
+}
+
+if (created){
+  setshape2 2,4,{
+    3,3,
+    3,3,
+    3,3,
+    3,3
+  };
+}
+NPCEND
+NPC val_newlucca_top1.gif 48 21
+//#CLIENTSIDE
+function onCreated() {
+
+  this.imageLength = 10; //Image length in X
+  this.imageHeight = 8; //Image height in Y
+
+  this.glowMax = .2; //the max the image will glow at
+  this.glowRate = .025; //leave this if you can't tell what it does..
+  this.glowRed = 1; // the red color in the glow
+  this.glowGreen = 1; // the green color in the glow
+  this.glowBlue = 1; // the blue color in the glow
+
+
+
+//No need to touch ANYTHING below if you've touched above where you should of.
+
+
+
+  this.glow = this.glowMax;
+  this.touched = 0;
+  dontblock();
+  drawoverplayer();
+  setTimer(.1);
+}
+
+function onTimeout()
+  {
+  if (player.x in |x-1,x - 1.5 + this.imageLength| && player.y in |y - 2.5,y - 1.5 + this.imageHeight|)
+    {
+    glow();
+  }else
+      {
+    this.touched = 1;
+    setcoloreffect 1,1,1,1;
+  }
+  setTimer(.15);
+}
+
+function glow()
+  {
+  if (this.touched == 0)
+    {
+    this.glow = this.glowMax;
+    this.touched == 1;
+  }
+
+  this.glow -= this.glowRate;
+  setcoloreffect this.glowRed,this.glowGreen,this.glowBlue,this.glow;
+
+  if (this.glow <= this.glowMax - this.glowMax / 4 || this.glow > this.glowMax)
+    {
+    this.glowRate *= -1;
+  }
+}
+NPCEND
+NPC - 54 58
+function onCreated()
+  {
+  x += .5;
+  showcharacter();
+  nick = "A little girl";
+  headimg = "valp_qiiwirubeus_head3.gif";
+  bodyimg = "aengarth-kenderbody101.gif";
+  shieldimg = "no-shield.gif";
+
+
+  this.movement = {
+    {0, -15, 0, -11, 0},
+    {0, 0, 15, -11, 0},
+    {0, 30, 0, -11, 0},
+    {0, 0, -15, -11, 0},
+    {0, -15, 0, -11, 0},
+      };
+  join("movecontrol");
+
+  setTimer(.1);
+    }
+function onTimeout()
+  {
+  this.rtime = random(.25,4);
+  this.rm = int(random(1,10));
+  if (this.rm < 3)
+    {
+    message("You can't beat me! Nya~na nana na!");
+  }else if (this.rm >= 3 && this.rm <=5)
+      {
+    message("Hurry Up Slow Poke!");
+  }
+  if (this.rm > 5)
+    { message(" "); }
+  setTimer(this.rtime);
+}
+NPCEND
+NPC - 55 59
+function onCreated()
+  {
+  x += 14;
+  showcharacter();
+  nick = "A little boy";
+  headimg = "val_aklys-head3.png";
+  bodyimg = "val-kender-body111.gif";
+  shieldimg = "no-shield.gif";
+
+
+  this.movement = {
+    {0, -29, 0, -8, 0},
+    {0, 0, 13, -8, 0},
+    {0, 29, 0, -8, 0},
+    {0, 0, -13, -8, 0},
+
+  };
+  join("movecontrol");
+
+  setTimer(.1);
+    }
+
+function onTimeout()
+  {
+  this.rtime = random(.25,4);
+  this.rm = int(random(1,10));
+  if (this.rm < 3)
+    {
+    message("I'm gonna beat you..! *Huff.. huff..*");
+  }else if (this.rm >= 3 && this.rm <=5)
+      {
+    message("*Huff.. huff..*");
+  }
+  if (this.rm > 5)
+    { message(" "); }
+  setTimer(this.rtime);
+}
+NPCEND
+NPC - 33 23
+function onCreated()
+  {
+  showcharacter();
+  nick = "Luccian Guard";
+  bodyimg = "val_imperialguard-body100.gif";
+  headimg = "val_imperialguardhelm3.gif";
+  shieldimg = "no-shield.gif";
+  dir = 1;
+}
+function onPlayertouchsme()
+  {
+  if (this.saying == 0)
+    {
+    this.saying = 1;
+
+    this.rm = int(random(1,10));
+    if (this.rm == 1)
+      {
+      message("Watch your back... we'll be watching you.");
+    }else if (this.rm > 1 && this.rm < 5)
+        {
+      message("Enjoy your stay.");
+    } else if (this.rm >= 5)
+        {
+      message("Welcome to Port Lucca.");
+    }
+
+    sleep(2);
+    message(" ");
+    this.saying = 0;
+  }
+}
+NPCEND
+NPC midas-workbenchh.gif 17 3
+// NPC made by Verb, Spider Elder of the Animal Council
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 5,2,{
+    3,3,3,3,3,
+    3,3,3,3,3,
+      };
+}
+NPCEND
+NPC - 54 7
+function onCreated()
+  {
+  showcharacter();
+  nick = "Luccian Guard";
+  bodyimg = "val_imperialguard-body100.gif";
+  headimg = "val_imperialguardhelm3.gif";
+  shieldimg = "no-shield.gif";
+  x -= .5;
+  dir = 2;
+}
+function onPlayertouchsme()
+  {
+  if (this.saying == 0)
+    {
+    this.saying = 1;
+
+    this.rm = int(random(1,10));
+    if (this.rm == 1 || this.rm == 2)
+      {
+      DoSomething();
+    }else if (this.rm > 2 && this.rm < 5)
+        {
+      message("Many foreigners gather here, followed by a lot more Merchants.");
+    } else if (this.rm >= 5)
+        {
+      message("Welcome to the Port!");
+    }
+
+    sleep(2);
+    message(" ");
+    this.saying = 0;
+  }
+}
+
+function DoSomething()
+{
+    setcharani("raisehands1","raisehands1");
+    message("Watch it!!! I just about fell in!");
+    sleep 3;
+    message(" ");
+    setcharani("idle","idle");
+}
+NPCEND
+NPC - 19 9
+// NPC made by Chris
+
+join("world_wagonman");
+NPCEND

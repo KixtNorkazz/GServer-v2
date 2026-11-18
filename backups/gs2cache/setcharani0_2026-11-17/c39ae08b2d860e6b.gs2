@@ -1,0 +1,30 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.attr[1] = "hat45.png";
+  this.head = "head5.png";
+  this.body = "val-body13.png";
+  this.colors[0] = "orange";
+  this.colors[1] = "brown";
+  this.colors[2] = "brown";
+  this.colors[3] = "black";
+  this.colors[4] = "white";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.swordpower = 1;
+  this.shield = "no-shield.gif";
+  this.shieldpower = 1;
+  this.ap = 100;
+  this.nick = "Caravan Driver";
+  this.dir = 3;
+  setcharani("idle", NULL);
+  this.hearts = 0;
+}
+
+function onPlayerTouchsMe() {
+  say2("Hey there!  I'm driving a#b
+caravan down to Fort Celdin#b
+and Northpoint!#b
+Say \"fort celdin\" or \"northpoint\"#b
+to hop on!");
+}

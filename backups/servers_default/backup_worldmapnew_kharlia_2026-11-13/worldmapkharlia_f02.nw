@@ -1,0 +1,387 @@
+GLEVNW01
+BOARD 0 0 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkwkxkjkzQATFQAQBjpVOVPdknkVAVBnjdhdEdFQBlXlYlZkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 1 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAlAlBlCQRQQTVQQQRQQVedznmVAnVnWVBnld0dVQRk2k3kWkGkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 2 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAlQlRlSQBXXXYXXXYQAWueDn1n2nlnknzn0eEdlQBQAk2k3kWkGkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkwkE
+BOARD 0 3 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkwkxkjkzjpXnVBVAVBXYW+WOdhnWXFXGnVeTeUWfdEdFQRlHlIlJkAkAkAkAkAkAkAkAkAkAkwkEkFkEkFkEkFkEkFkxkU
+BOARD 0 4 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAlAlBlCXXXYXXVAWhWiVBXYW/ewe0XVXWWuWvdkVvdgeFTGlXlYlZkAkAkAkAkAkAkAkAkAkwkxkUkVkUkVkUkVkUkVkjkk
+BOARD 0 5 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAlQlRlSXnVBVAWwWxWyWzXoQQQRQQQRQQW+W/d0V/dweVTWlHlIlJkAkAkAkAkAkAkAkAkwkxkjkkklkkklkkklkkklkzck
+BOARD 0 6 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAmClhliljXnVBXAXBXCXDXYXXXYQAQBQAQBQAWOWPeAeVQBlXlYlZkAkAkAkAkAkAkAkwkxkjkzQATGTFUiUjTEQAQBWkc0
+BOARD 0 7 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkCkAkAkAtHs4lCXXVAVBXRXSVAVBVAXojpQRQQTGQQWeWfeQeFQRlHlIlJkAkAkAkAkAkAkwkxkjkzQRTGTWTVUyUzTUQQTGQQQR
+BOARD 0 8 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkBkAkAkAkwkxkykzXnVBVAXoXnVBVAVBXYXXXYQATWQAW/exdgeVQBlXlYlZkAkAkAkAkwsZkxkjkzQATFTWTETGQBUCUDTFTWUiUj
+BOARD 0 9 64 0 kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAlAlBlCQQXXVAVBXYXXVAVBVAVBVAVBXYXXXYQRQQW/e0TElHlIlJkIkJkHkwkxsqkjkzQRQQTVQQTUTWTEUSUTTVTEUyUz
+BOARD 0 10 64 0 kAkAkAkAkwkGkAkAkAkAkAkQkRkAkAkAkglQlRlSQAXnXoXnXoXnVBVAVBVAWhWiVBVAVBXYXXXYQATUlXlYlZkYkZkwkxkjkkkzQAQBUCUDUiUjTETUVPdEdFTUQAUC
+BOARD 0 11 64 0 kGkgkAkwkikWkGkAkgkAkQkRkBkAkAkAkAmClhlilklllkllljQRXnVBVAWwWxWyWzVBVAVBVAVBXYQRk2k3kWkEkFsolBlCQQQRTFTEUSUTUyUzTUVeeSeTeQdFTGUS
+BOARD 0 12 64 0 kWkGkwkikjk3kWkEkFkEkFkGkAkAkQkRkBkCmClhmEmFmEmFliljXXVAVBXAXBXCXDVAWhWiVBVAVBXYQAk2k3kUkVmjlRlSQAQBTVTUTEQBTGTEVOVudidjdgdVTWTG
+BOARD 0 13 64 0 k3kWkikjkzk2k3kUkVkUkVkWkGkAkAkgkCkAkAmCtptYmisqkjkzXnXoXnVBXRXSVAWwWxWyWzVBVAVBXYQRk2kkklk32G2HQQQRQQQRTUTETWTUVedxdydzdwdxdFTW
+BOARD 0 14 64 0 k2k3kjkzQActk2kkklkkklk3kWkGkwkEkFkEkFkEkFkTkjkkkzQkQmQnXXVAVBVAVBXAXBXCXDVAVBVAVBXYQAQBTGk22W1G0JQBQAQBTFTUVPdBeAeBeCeDeAeBnkXY
+BOARD 0 15 64 0 QQk2kzQRc/QRQQfFUCUDQQlHtLsrkTkUkVkUkVkUkVkjkzQRQQQ0hCRHXnXoXnVBVAVBXRXSVAVBVAVBVAVBXYQRTWQRQQQR0Y0G0G0JTVVeeSeTeQeReSnmnlnkVAVB
+BOARD 0 16 64 0 QmQmQlQmQnACWkfVUSUTQAk2k3sqkjkkklkkklkkklkzjpQBQkgygxhBQnQBXXVAXoXnVBVAVBVAVBVAVBVAXoQBQAQBjpTGQAQBQA0IQAWudidjdgdhnkvxvyVAVBVA
+BOARD 0 17 64 0 gyhBRFcDcEQlQmgyQmQmQnQRk2k1kzQkQmQmQnQRQkQmQmQmgxhChBRGRXXXVAVBXYXmXnXoXnVBVAVBVAVBXYQRQQQRQQTWQQQRQQ0IjpW+W/eyeznmVAvnvoVBVAVB
+BOARD 0 18 64 0 hBgygxcTcUgygxgygxgyQ1QmQmQmQmQ2gxgygxQmQ1gygxhBQ1RWQ1RXXXVAVBVAXoUiUjQBTEXnXoXnVBVAVBXYXXXYQAQBQAQBQA0Y0G0JQAQBQAXnXoXVXWXnXoXn
+BOARD 0 19 64 0 RFhChBhChBhCgxQ2gygxgxgygxRVRFhChBhChBhChBhChBRGgxQlRHj5XnVBVAVBXYUyUzX2TUTGQQX2XnVBVAVBVAXoj5QRQQQRQQQRQQ0Y0G0G13zqjpQWQWZjZmj5
+BOARD 0 20 64 0 8JRVQ1gygxhBQ2cBcChChBhCRHjpQ0gygxgygyUPcAgy8D8E8F8I8JQnXXVAVBVAVBXYXXXYQATWQAQBXXVAVBVAVBXYXXXYQvQBQAQBTFQBQAQBz525Z1ZkZlmzmyZm
+BOARD 0 21 64 0 dhdFRUhChBgyhBcRcSQ2gxgygxQmRFhChBhBQ1UfcQX3nld0V/dw8ZRHXnXqXpVBVAVBVAVBXYXXXYXXVAVBVAVBVAVBVAXqQdQtQuQvTVQRQsQvQRZ0lwlwlwlwmiaW
+BOARD 0 22 64 0 dhdVbLQ0hChBhChB8D8IX3X4gxgxQ1gygxgygxhBX3W1W2njWPeAeB8IdFQeQ9WsWtXpVBVAVaVbVcXAVBVAWhWiVBVAVBXaQ9Q+Q9QdQtQuQcQ/ZjmzlwlwlwmiaWj5
+BOARD 0 23 64 0 dheFbrREhBX3X4X3nlnkVAVBX4X3X4RGhBhChBhCX5XBXCnVWfeQeReSdVQ8RNRORNXZVAVpVqVrVsVBVAWwWxWyWzVBVAXoRdQeRNRORNROQfRfaT1paEaUaVaWjpXX
+BOARD 0 24 64 0 exe0b7Q0gxX5WwW1W2WzVBVAXoXnX6hCgxgygxgyX3XRn0dkVvdgdhdieFRcQeQ+Q9XpV4V5V6V7V8V9VBXAXBXCXDVAVBXYj5Q8Q9Q+XZXaQdQvSS0IQgQhSActSSXn
+BOARD 0 25 64 0 bcbfQkhChBX3VAXBXCXHVLVMj5QRREhChBRVRFgxX5nVdzd0V/dwdxdyeVQsQcXZXaXZWIWJWKWLWMWNVAVBXRXSVAXoXnVBXYXXXaXZVAVBXaRPRhz7RQRTcuQgRTUC
+BOARD 0 26 64 0 QmQlgxgyX3VAVBXRX6QnjpQBQAQkQ1gyRHj5Q0hCgx9y9z9293exeBeCe0RMXZVAWhWiVBWZWaWbWcVAVBVAVBVAVBXYXXVAWpWqVBVAVBVAXoRfjpz4zoSISJRhAGUS
+BOARD 0 27 64 0 RVRVRVRWX5VwVxX6hCRGQmQlQmgyhChBRFQlhCgxhBgxhBRGRXXXnjnkXYXXXaWwWxWyWzVBVAVBVAVBVAVBVAXgXhVBVAW4W5W6W7VBVAVBXYQRQQj5z7RzSAQRQQQR
+BOARD 0 28 64 0 0G0o0G0G0G0HQkhCgygxQ1hCgyhBhCgygxhBhChBQ1RVRVRXQcXpVBVAVBVAVBXAXBXCXDVAVBVAVBVAWpWqVBVAVBVAX1X0XBXCXDVAVBVAXoz2zrzrznAGQAQBSISJ
+BOARD 0 29 64 0 Qn0Y0Jb+bubfQ0gyhBX3X4X3X4gxgygxRFgxgyRVRXQtQuQcRNXZVAVBVAXoXnVBXRXSVAWpWqVBVAW4W5W6W7VBVAVBXyVqX0XSVAXoXnXoz2znj5QRQQQRQsQtQuQv
+BOARD 0 30 64 0 gyQn0Y0G0G0JRURVX3W1W2VAVBX4hC8D8JhBRXQuQcQ+XZXaQfXnVBVAVBXYXXVAVBVAW4W5W6W7VBXAXBXCXDVAVBVAVBXyXzWgVwzrzrzrznQsQtQuQvQsQcQ+Q9Qd
+BOARD 0 31 64 0 hB8DdEdFb+0Y0G0JXEXBXCVBVAVBX49y95RXQcRORNXZVAXoTGXXVAWhWiVBVAXgXhVBXAXBXCXDVAVBXRXSVAVBVAWpWqVBVAVgznWlWmXXXYQcRNROQdQcRNQfRdQe
+BOARD 0 32 64 0 8SdxdydzdF03b/0IbvXEX6X5VBVAVBX4RXQ8XZXaXZVAVBXYTWXnWwWxWyWzVBVAVBVAVBXRXSVAWpWqVBVAXgXhW4W5W6W7VBXYW0WxWyWzVBXaXZXaQ9Q+Q9Q/QsQc
+BOARD 0 33 64 0 njeBeCeDdV0m0W0HfrfsQ0hCX5XoXnXoQQXXVAVBVAXgXhVBXYXXXAXBXCXDVAVBVAVBVAVBVAW4W5W6W7VBVAVBXAXBXCXDVAVBXAXBXCXDVAVBVAVBXaXZXaQdQcRO
+BOARD 0 34 64 0 nVeReSeTnkXY0Y0Jf7f8REgxgyQnXXXYXXVAVBVAVBVAVBVAVBVAVBXRXSVAVBVAVBVAVBVAVBXAXBXCXDVAVBVAVBXRXSVAVBVAVBXRXSVAVBVAVDVEVBVAVBXaXZXa
+BOARD 0 35 64 0 njeheinmVAVBXY0Y0JXXX4gyRFX3VAWhWiVBVAVBVAVBVAVBVAVBVAVBVAVBVAVBVAVBVAVBVAVBXRXSVAXgXhVBVAXgXhVBVAVDVEVBVAVBVAVaVTVUVVVBVAVBVAVB
+BOARD 0 36 64 0 VBnlnkVAWpWqVBXYVRVAVBX4RXXnWwWxWyWzVBVAWpWqVBVAVBVAVBVAVBVAs1s0s1s0s1s0VBVAVBVAVBVAVBVAVBVAVBVAVaVTVUVVVBVAVpVqVjVkVlVmVBVAVBVA
+BOARD 0 37 64 0 VAVBVAW4W5W6W7VBWgX1X0VBXYTFXEXBXCXDVAW4W5W6W7VBVAVBVAs1s0VBslUcUdskslTKs0VBVAVBVAVBVAXgXhVBVAVpVqVjVkVlVmVBV5V6VzV0V1V2V9WpWqXg
+BOARD 0 38 64 0 VBVAVBXAXBXCXDVAX1VUXzVAXoTVXXXRXSVAVBXAXBXCXDVAVBVAs1sksls0s1S6skVAs1UsUts0VBVAWhWiVBVAXgXhVBV5V6VzV0V1V2V9WJWKWLWKWLWMW4W5W6W7
+BOARD 0 39 64 0 XhVBVAVBXRVaVbVcXyXzVAVBXYXXVAXgXhVBVAVBXRXSVAVBVAVBsls0s1UcUdskVAVBslU8T4skVAWwWxWyWzVBVAVBVAWJWKWLWKWLWMWNWZWaWbVaVbWcXAXBXCXD
+BOARD 0 40 64 0 VBVAVBVAVpVqVrVsVBVAVBVAVBVAVBVAVBVAVBVAVBVAVBVAVBVAVBslskslskVAVBs+s/slskVAVBXAXBXCXDVAVBVAVBWZWaWbWaWbWcVAVBVAVpVqVrVsVBXRXSVA
+BOARD 0 41 64 0 WqVBVAV4V5V6V7V8V9VBVAWpWqVBVAVBVAVBVAVBVAVBVAWhWiVBVAVBVAVBVAs1s0VBVAVBVAVBVAVBXRXSVAVBVAVBVAWhWiVBVAVBVAXgXhV4V5V6V7V8V9VBVAXg
+BOARD 0 42 64 0 W6W7VBWIWJWKWLWMWNVAW4W5W6W7XgXhVBVAWpWqVBVAWwWxWyWzVBVAVBs+s/slT4s0VBs+s/VAVBVAVBVAXoXnXoXnWwWxWyWzVBVAVBVAVBWIWJWKWLWMWNVAWpWq
+BOARD 0 43 64 0 XCXDVAVBWZWaWbWcVAVBXAXBXCXDVAVBVAW4W5W6W7VBXAXBXCXDVAVBVAVBVAVBslskVAVBVAVBVAVBVAVBXYjpj5XXXAXBXCXDVAVBVAXgXhVBWZWaWbWcVAW4W5W6
+BOARD 0 44 64 0 XSVAVBVAVBVAVBVAXgXhVBXRXSVAVBVAVBXAXBXCXDVAVBXRXSVAVBVAVBVAVBVAVBVAVBVAVBVAVBVAVBVAVBXYjpXnVBXRXSVAWpWqVBVAVBVAVBVAVBVAVBXAXBXC
+BOARD 0 45 64 0 VAVBVAn0nWn0n1n2VAVBVAXgXhVBVAVBVAVBXRXSVAVBVAVBVAVBVAVBWgVBVAnwf/nwf/VBVAXoXnXoXnVBVAXoj5XXVAVBVAW4W5W6W7VBVAXgXhVBVAVBVAVBXRXS
+BOARD 0 46 64 0 VBVAnVdzdwdxnmVAVBVAVBVAVBVAWpWqVBVAXoXnVBVAVBVAXoXnXoXnVwVxnySUSVSVSXnxXoQBj5QCQDXnVBXYXXVAVBVAVBXAXBXCXDVAVBVAVBVAWhWiVBVAVBVA
+BOARD 0 47 64 0 VAn0dgdhdheBn1n2VAVBVAVBVAW4W5W6W7Xojpj5XnVBVAVBXYVOVPdFz7QRRQRBRBRRRSRTQQQRQQQSQTQRXnXoXnVBVAVBVAVBXRXSVAVBVAVBVAWwWxWyWzVBVAVB
+BOARD 0 48 64 0 VBnjdwdxdxdRdSnWn0n1n2VAVBXAXBXCXDXYXXXYjpXnXoXnXoVeeBdVz4zrzoRQRTQBQAQBQAQQQCQDTFbNjpQWXXVAVBVAVBVAVBVAVBVAVBVAVBXAXBXCXDVAVBVA
+BOARD 0 49 64 0 VAn0dwdxeBnknjdjdgdhnWVBVAVBXRXSVAVBVAVBXYQRQQTFQQWueRdlQgQjz4zrzoQRQQQRQWQCQVSCTVj5QWXXVAWhWiVBVAVBVAVBVAXoXnVBVAVBXRXSVAVBVAXo
+BOARD 0 50 64 0 VBnjnknjdwn1n0dzdwdxdynWVBVAVBVAVBVAsOsPVBXYQATVQAW+W/e0QwQyQjSSz4zoQAQCRyQVQGQURyQDXXVAWwWxWyWzVBVAVBVAXoTGXXVAVBVAVBVAWpWqVBXY
+BOARD 0 51 64 0 VAVBVAVBnjeBeCnknjeBeCnkVAVBVAVBVAWwsesfWzXoQQQRcvQgQiQiRBRCRBRTQQz7QQQSSBSBQGQGQEQTXnVBXAXBXCXDVAVBVAVBXYTWXnVBVAVBVAW4W5W6W7VB
+BOARD 0 52 64 0 VBVAn0nWn0dRnkVAVBnjnkVAVBVAVBVAVBVAXBXCXHUiUjQBQgTkTmSvSYSZQxSAz2znTGQWjpQBRxQGQUQDXXVAVBXRXSVAn0n1n2VAXoTFTGXnVBVAVBXAXBXCXDVA
+BOARD 0 53 64 0 WzVBnjdhdgdhnWVBVAVBVAVBVAVBVAVBVAXoXnXoQQUyUzQRRQRRRBS/RBRCRTz2znQRTWQRQWQCQVQGQGSCXnVBVAVBVAnVV/dwnWXoj5TVTWj5XnXoXnXoXEXSVAVB
+BOARD 0 54 64 0 XDVAn0dgnknjdwnWVBVAVBVAVBVAVBVAXoQBQAQBQAjpQgQiQjQBRQRRRSRTQAz7QAQBQAQBQAQBQVQEQWQBQWXnVwVxVBnlWPeAelTFTGbNQcQdj5+S+IdFXXVAVBVA
+BOARD 0 55 64 0 VAVBnjnkVAn0dgnkVAVBVAXoXnVBVAXoQQQRQgQjTFQRRQTkTmQjSISJQQz2zrz1zrzoQQQRQQQRQSQTz2zrzobNz7QRVLVMW/e0e1TVTWRMbXbYQ/+y+0dVXnVBVAVB
+BOARD 0 56 64 0 VBVAVBVAVBnjnkVAVBVAXoQBQAXnXoQBQAQgaiQzTVQBQARQRSRTSTSAz2znSISJQAz4zrzoQAz2URUBznjpz4zrznQBQAQBQAj5VedidFbOQeQfbM/Cdhdi+Fn1n2VA
+BOARD 0 57 64 0 XnVBVAXoXnXFXGXHXnVBXYXXXYQRQgQiQiRCRBRCanaoQiQhQjTGRhQRz7QRQQQRQQQRTEz4zrznQQQRQQQRQQQRQQQRQQQRVOVPdxdyV/dFj5Ve+F/UdxdyV/dwnWXo
+BOARD 0 58 64 0 TEXnXoQBQAXVXWQBTFXnVBVAVBXYRQQySvQySYSZQxQyTkTmRTTWQAz2znQgQjQBQAQBTUQBQAQBQAQBQAQBQAQBQAQBQBjpVe+TeBeCWPeAeBdg/j/kVveCWPeAeBdA
+BOARD 0 59 64 0 TUQRj5QRQQcuQQceTVQRXnXoXnXocuQwS/TkTmRCRBTkTmRDctRzSAz7QgQyQzQRQgQiQjc/TActQQTGQQQRVe+IdFftfuj5Vu+0eReSWfdw+2eCelW/V/eSWfdxexew
+BOARD 0 60 64 0 jpQBSISJQATgThcdQAftfuQBj5QBQARQTkTmQxSYSZQyQxRTjpz2zrznRQRRRTQgQyTkTmQjTQc/QQTWQAQBVu+Y+Zf9aWVeVvdgdhdi/H/H/GelUkUlW/diVvelj5Wk
+BOARD 0 61 64 0 QQQRQQQRQQSlSmTEzp2JaWQRQQQRQQQRRQTkTlTmahRgRhz2zrznQgQjQQjpQQQwTkTmRBRTc+QRQAQRUCUDV++0V/dAdBdydzdw+2dy/E+X/EdVU0U1VedyV/dVjpc/
+BOARD 0 62 64 0 QAQBQAQBQASlSmTUz51WQAQBQAQBQAQBQARAQxQyaxRwz2znjpQgagQyQiQjQARQSYSZRTQBQAQBQAQBUSUTVueCWPeAeBeC/H/H/GeCWPeAdgdgdVVedxeCWPdhdCdB
+BOARD 0 63 64 0 TGSISJQRQQTwTxz2zrznQQQRQQQRQQQRQQRQRRRCRgQBz7SISJQwawTkTmQzQQQRRQRTQQQRQQVedAdBdCdDeReSWfeQeReS/E+X/E+0dzdw+2dxdyV/eReSdzdw+2eS
+NPC val_mapicon_shalestonekeep.png 3 44
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawunderplayer();
+}
+NPCEND
+NPC overworldhill2.gif 61 25
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 58 24
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_mapicon_citytower.png 62 59
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+}
+NPCEND
+NPC val_worldmaplabel_ironcap.png 54 40
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_worldmaplabel_shalestonekeep.png 0 47
+NPCEND
+NPC val_worldmaplabel_tributary.png 33 53
+//#CLIENTSIDE
+function onCreated() {
+this.zoom = 0.8;
+dontblock();
+drawunderplayer();
+}
+NPCEND
+NPC val_worldmaplabel_keep.png 57 57
+NPCEND
+NPC val_worldmaplabel_brookhurst.png 61 63
+NPCEND
+NPC - 36 57
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.titleimg = "Dardier";
+}
+NPCEND
+NPC - 32 42
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.titleimg = "Tower Town";
+  this.mode = 2;
+}
+NPCEND
+NPC - 61 24
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Burrowshire";
+}
+NPCEND
+NPC - 60 16
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Varice's Grave";
+}
+NPCEND
+NPC - 36 18
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Travellers Trot";
+}
+NPCEND
+NPC - 32 1
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Kenderville";
+}
+NPCEND
+NPC - 22 22
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Red Devils Reach";
+}
+NPCEND
+NPC - 24 24
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Forlorn Briar";
+}
+NPCEND
+NPC - 11 24
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Longhollow Mine";
+}
+NPCEND
+NPC - 8 31
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Skink Rivers";
+}
+NPCEND
+NPC - 5 13
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Gullyton";
+}
+NPCEND
+NPC valtributary.png 34 45
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+dontblock();
+}
+NPCEND
+NPC - 38 51
+join("akiltest1");
+this.setupInfo = {"Ruins of Valikorlia", "val_tributary.nw", 31.5, 60, 0 };
+//#CLIENTSIDE
+this.setupInfo = {"Ruins of Valikorlia", "val_tributary.nw", 31.5, 60, 0 };
+this.warpArea = { 3, 3 };
+NPCEND
+NPC - 6 58
+join("akiltest1");
+this.setupInfo = {"Shalestone Keep", "lionnes_estate_a2.nw", 62, 61, 0 };
+//#CLIENTSIDE
+this.setupInfo = {"Shalestone Keep", "lionnes_estate_a2.nw", 62, 61, 0 };
+this.warpArea = { 2, 1 };
+NPCEND
+NPC - 36 60
+join("akiltest1");
+this.setupInfo = {"Dardier", "conaway_house1.nw", 0, 41.5, 3 };
+//#CLIENTSIDE
+this.setupInfo = {"Dardier", "conaway_house1.nw", 0, 41.5, 3 };
+this.warpArea = { 2, 2 };
+NPCEND
+NPC - 6 57
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.titleimg = "Brynwald";
+}
+NPCEND
+NPC val_fog.png 63 35
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(3);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 5;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .2;
+
+  setTimer(.05);
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = .5;
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 59 43
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(3);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 5;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .2;
+
+  setTimer(.05);
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = .5;
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 51 37
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(3);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 5;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .2;
+
+  setTimer(.05);
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = .5;
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val-floatingisland4.png 54 52
+//#CLIENTSIDE
+if (created) {
+this.x = 374;
+this.y = 116;
+drawoverplayer();
+dontblock();
+this.y1 = this.y;
+this.x1 = this.x;
+timeout = 0.05;
+this.circle=0;
+}
+if (playerenters || timeout) {
+this.circle+=0.15;
+this.y = this.y1 + 0.1*sin(this.circle);
+if (this.circle>=2*(pi)) {
+this.circle=0;
+}
+timeout = 0.05;
+}
+NPCEND

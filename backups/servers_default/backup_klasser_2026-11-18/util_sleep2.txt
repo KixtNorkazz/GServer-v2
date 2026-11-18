@@ -1,0 +1,10 @@
+/* The normal sleep conflicts with timeouts (stops them)
+   This is solution.
+*/
+public function sleep2(time) {
+  waitfor(this, "noevent", time);
+}
+//#CLIENTSIDE
+public function sleep2(time) {
+  waitfor(this, "noevent", time);
+}

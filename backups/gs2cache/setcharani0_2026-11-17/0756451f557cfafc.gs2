@@ -1,0 +1,22 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "tinderstick-shield.gif";
+  this.head = "sky-zangkender4.gif";
+  this.body = "tindertotpersonalbody2.gif";
+  this.colors[0] = "orange";
+  this.colors[1] = "yellow";
+  this.chat = "Sail to Port Thatway? Say 'Sail to Port Thatway'";
+  this.colors[2] = "blue";
+  this.colors[3] = "brown";
+  this.colors[4] = "cynober";
+  setcharani("0", NULL);
+  this.nick = "Kender Sailor";
+  this.dir = 3;
+  this.ap = 100;
+  this.body = "tindertotpersonalbody2.gif";
+}
+
+function onPlayerTouchsMe() {
+  say2("Some say that#bus Kender dont know how#bto handle he sea!#bBah! I say its the#bsea that cant handle us!");
+}

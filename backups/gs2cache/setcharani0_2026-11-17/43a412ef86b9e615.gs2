@@ -1,0 +1,27 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.x = this.x-.5;
+  showcharacter();
+  this.attr[1] = "val_durandaltophat5.gif";
+  this.head = "val_lord_conorr_head8851.gif";
+  this.body = "val_coatbody101.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.swordpower = 1;
+  this.shield = "no-shield.gif";
+  this.shieldpower = 1;
+  this.ap = 100;
+  this.nick = "Visiting Noble";
+  this.dir = 0;
+}
+
+function onPlayerTouchsMe() {
+  message("The lady who runs this shop is quite beautiful. I hear her father purchased it for her to have as a hobby.");
+  sleep(4);
+  message();
+}

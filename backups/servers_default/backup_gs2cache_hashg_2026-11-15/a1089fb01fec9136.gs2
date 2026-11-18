@@ -1,0 +1,9 @@
+//#CLIENTSIDE
+function onPlayerChats() {
+  if ((player.chat == "Fire On")&&("#g" == "The Horde")) {
+    show();
+  }
+  if ((player.chat == "Fire Off")&&("#g" == "The Horde")) {
+    hide();
+  }
+}

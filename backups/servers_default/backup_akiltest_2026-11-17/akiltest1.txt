@@ -1,0 +1,100 @@
+function onCreated()
+{   setshape(1,32,32);
+    dontblock();
+}
+
+function onActionwarp()
+{   player.dir = this.setupInfo[4];  //Set the players direction to the specified one
+    setlevel2(this.setupInfo[1],this.setupInfo[2],this.setupInfo[3]); //Warp player to specified level
+}
+
+//#CLIENTSIDE
+function GraalControl.onResize(nw, nh) {
+  this.onPlayerEnters();
+}
+function onPlayerEnters()
+{
+    //"Press A Button" text details
+    this.pressA = showtext(200, screenx + screenwidth/2, screeny + (screenheight/2)-55, "anironb", "bc", "Press A to enter");
+    this.pressA.zoom = temp.zoom;
+    this.pressA.textshadow = true;
+    this.pressA.shadowcolor = {0, 0, 0};
+    this.pressA.shadowoffset = {1, 1}; 
+    this.pressA.alpha = 0;
+    this.pressA.layer = 4;
+    this.pressA.zoom = 0.7;
+    this.pressA.red = 1;
+    this.pressA.green = 1;
+    this.pressA.blue = 1;
+      
+      
+    //Area Name text details
+    this.areaName = showtext(201, screenx + screenwidth/2, screeny + (screenheight/2)-95, "anironb", "cb", this.setupInfo[0]);
+    this.areaName.zoom = temp.zoom;
+    this.areaName.textshadow = true;
+    this.areaName.shadowcolor = {0, 0, 0};
+    this.areaName.shadowoffset = {2, 2}; 
+    this.areaName.alpha = 0;
+    this.areaName.layer = 4;
+    this.areaName.zoom = 1.2;
+    this.areaName.red = 1;
+    this.areaName.green = 1;
+    this.areaName.blue = 1;
+  
+    this.warpCheck = false;
+    onTimeOut();
+}
+function onTimeOut()
+{   
+    //If the player is within the specified range of the warping area
+    if(player.x in |this.x-this.warpArea[0], this.x+this.warpArea[0]| && player.y in | this.y-this.warpArea[1], this.y+this.warpArea[1]|)
+    {   this.warpCheck = true;    //Player is in range, and may press A. Switch the warpCheck to true
+        if (this.pressA.alpha < 1)  //Text fade in
+            this.pressA.alpha += 0.1;
+
+        if (this.areaName.alpha < 1)  //Text fade in
+            this.areaName.alpha += 0.1; 
+    }
+    else
+    {   this.warpCheck = false;  //Player is not in range, switch warpCheck to false
+        if (this.pressA.alpha > 0)  //Text fade out
+            this.pressA.alpha -= 0.1;
+       
+        if (this.areaName.alpha > 0)  //Text fade out
+            this.areaName.alpha -= 0.1;
+        
+    }
+    settimer(0.05);
+}
+function onKeyPressed(code, key)
+{   //If the player has pressed A, and they are within range of the warping area
+    if (key == "a" && this.warpCheck == true)
+    {   dimScreen();             
+        setani idle,;
+        triggeraction(x+1.5,y+1.5,"warp", "init");  //Call the warp function serverside
+      
+    }
+}
+
+function dimScreen()
+{     freezeplayer(1);
+      seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.05;
+      sleep 0.05;
+      seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.15;
+      sleep 0.05;
+      seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.25;
+      sleep 0.05;
+      seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.35;
+      sleep 0.05;
+      seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.45;
+      sleep 0.05;
+      seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.55;
+      sleep 0.05;
+      seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.65;
+      sleep 0.05;
+      seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.75;
+      sleep 0.05;
+      seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.95;
+      sleep 0.05;
+      seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],1;
+}

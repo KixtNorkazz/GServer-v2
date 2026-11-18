@@ -1,0 +1,52 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.colormod = 100;
+  setimg("kharlia_weaponeffect-spark4.png");
+  setshape(1, 16, 16);
+  dontblock();
+  for (this.count = 0; this.count<13; this.count++) {
+    setcoloreffect(1+0.05+(this.count*0.15), 0.05+(this.count*0.10), 1-(this.count*0.15), 0.04*this.count-0.2);
+    drawaslight();
+    showimg(1+this.count, "kharlia_weaponeffect-spark4.png", this.x-0.3, this.y+0.3);
+    changeimgvis(1+this.count, 3);
+    changeimgcolors(1+this.count, 1+0.05+(this.count*0.15), 0.05+(this.count*0.10), 1-(this.count*0.15), 0.04*this.count-0.2);
+    hideimg(this.count-1);
+    sleep(0.095);
+    move(-0.4, +0.4, 0.2, 2);
+    setTimer(0.1);
+  }
+  if (this.count==13) {
+    hideimgs(this.count, 14);
+    fadeout();
+  }
+}
+
+function fadeout() {
+  for (this.count = 13; this.count>0; this.count--) {
+    setcoloreffect(1+0.03+(this.count*0.15), 0.05+(this.count*0.10), 1-(this.count*0.15), 0.04*this.count-0.1);
+    drawaslight();
+    showimg(1+this.count, "kharlia_weaponeffect-spark4.png", this.x-0.3, this.y+0.3);
+    changeimgvis(1+this.count, 3);
+    changeimgcolors(1+this.count, 1+0.05+(this.count*0.15), 0.05+(this.count*0.10), 1-(this.count*0.15), 0.04*this.count-0.1);
+    hideimg(this.count-1);
+    move(-0.2, +0.2, 0.1, 2);
+    sleep(0.015);
+    setTimer(0.05);
+  }
+  if (this.count==0) {
+    finalfade();
+  }
+}
+
+function finalfade() {
+  for (this.count = 15; this.count>0; this.count--) {
+    changeimgvis(this.count, 3);
+    changeimgcolors(this.count, 1+0.05+(this.count*0.15), 0.05+(this.count*0.10), 1-(this.count*0.15), 0.04*this.count-0.1);
+    hideimg(this.count-1);
+    sleep(0.05);
+    setTimer(0.5);
+  }
+  if (this.count>13) {
+    triggeraction(this.x, this.y, "destroy");
+  }
+}

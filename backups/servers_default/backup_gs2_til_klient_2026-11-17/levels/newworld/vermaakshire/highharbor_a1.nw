@@ -1,0 +1,421 @@
+GLEVNW01
+BOARD 0 0 64 0 XsXsXsXsXsXsXtQDQAQBXrXsXsXsXsXsXsXsXsXsXsXsXfX/XdXdXCXeXeXeXoT6T6T6UKb0THTITJTKbzUJT6Uumsmtmtmtmtmtmtmtmtmtmtmtnon4n4WZWrnNnNnp
+BOARD 0 1 64 0 XsXsXsXsXsXsXtQTQQQRX7X8X8X8X8X8X8X8X8X8X8X8XvXdXdXDXEXFXeXeXoT6T6T6UKb0TXTYTZTabzUJT6Uumsmtmtmtmtmtmtmtmtmtmtmen4n4WZereuWrnNnN
+BOARD 0 2 64 0 XsXsXsXsXsXsXtQjS2RiWRmVmWmXmYmZWBlMlNlOlPtAknXdXSXTXUXVXWXeXoT6T6T6UKb0TJTKTHTIbzUJT6Uum8m9m9m9m9m9m9m9m9m9m9non4WZemeneoepWrnN
+BOARD 0 3 64 0 X8X8X8X8X8X8X9QzQwRyWSmlmmmnmompWilcldlelftQknXhXiXjXkXlXmXnXoT6T6T6UKb0TZTaTXTYbzUJT6e8e9cQcQcQcQe8e9cQcQcQcQknWZWae2e2e5e5WbWr
+BOARD 0 4 64 0 kFkGWBkCkDkGVxQDRSRCWim1m2m3m4m5WSlsltlulvtgk3XxXyXzX0X1X2X3X4T6T6T6UKb0TITJTKTHbzUJT6fMfNU3U6U3U6fMfNU3U6U3U6eEeFfafGXNXNfJfaeG
+BOARD 0 5 64 0 kVkWWikSkTkWWSQTQQSnWSnFnGnHnInJWSl8l9l+l/twWRmimjmkWBevmgmhVxT6T6T6UKb0TYTZTaTXbzUJT6lAlBemeneoeplAlBemeneoepXNXNXNXNXNXNXNXNXN
+BOARD 0 6 64 0 klkmWSkikjkmWiRiRjSBWyW1WzW0WzW0W1W1W1W1W1W1WSmymzm0Wie/mwmxWST6T6T6UKb0TJTKTHTIbzUJT6lQlRe2e3e4e5lQlRe2e3e4e5kQkRdue2e3e4e5dukQ
+BOARD 0 7 64 0 k1k2WSkykzk2WSRoRWSRS5WRkCkFkGWBkCkFkGWBkCkDWinCnDnEWSfPnAnBWiT6T6T6UKb0TZTaTXTYbzUJT6lglhfGfHfIfJlglhfGfHfIfJkgkhdufGfYfIfJdukg
+BOARD 0 8 64 0 lFlGWylClDlGWySQS0RxRhWSkSkTkUWikSkVkWWikSkTWSnSnTnUWSffnQnRWST6T6T6UKb0THTITJTKbzUJT6lQlRfWfXfYfZlQlRfWfXfYfZkwkxdufWfXfYfZdukw
+BOARD 0 9 64 0 bjbjbjbjX+bjbwRyRzRBRRWikikjkkWSX+klkmWSkikjWyW1WzW0WzW0X+W1WyT6T6T6UKb0TXTYTZTabzUJT6lglhfGfHfIfJlglhfGfHfIfJkgkhd+fGfHfIfJd+kg
+BOARD 0 10 64 0 QgQhQiXdX+XeSQRBShRRQiWSkykzk0XdX+Xek2WSkykzWSWRkCkDkEXdX+XeT6T6T6T6UKb0TITJTKTHbzUJT6lQlRU3cQcQU6lQlRU3cQcQU6kwkxcQU3U4U5U6cQkw
+BOARD 0 11 64 0 QwQxXdXdX+fSXcXcXcXcXcXcXcXcXcfRX+fSXcXcXcXcXcXcXcXcXcfRX+XeXeT6T6UZUab0TYTZTaTXbzUZUalglhU3U6U3U6lglhU3U6U3U6lAfncQcQcQcQcQcQfm
+BOARD 0 12 64 0 QAXdXdXdX+XrXsXsXsXsXsXsXsXsXsXtX+XrXsXsXsXsXsXsXsXsXsXtX+XeXeXeT6UpUqb0THTITJTKbzUpUqlQlRemeneoeplQlRemeneoeplQU3U6U3U6U3U6U3U6
+BOARD 0 13 64 0 XgXdXdXdX+XrXsXsXsXsXsXsXsXsXsXtX+XrXsXsXsXsXsXsXsXsXsXtX+XeXeXeXoT6UKb0TXTYTZTabzUJT6lglhe2e3e4e5lglhe2e3e4e5lglhdue2e3e4e5dulg
+BOARD 0 14 64 0 XgXdXdXdX+XrXsXsXsXsXsXsXsXsXsXtX+XrXsXsXsXsXsXsXsXsXsXtX+XeXeXeXoT6UKb0TJTKTHTIbzUJT6lQlRfGfHfIfJlQlRfGfHfIfJlQlRdufGfHfIfJdulQ
+BOARD 0 15 64 0 XgXdXdXdX+XrXsXsXsXsXsXsXsXsXsXtX+XrXsXsXsXsXsXsXsXsXsXtX+XeXeXeXoT6UKb0TZTaTXTYbzUJT6lglhfWfXfYfZlglhfWfXfYfZlglhdufWfXfYfZdulg
+BOARD 0 16 64 0 XgXdXdXdX+fSXcXcXcXcXcXcXcXcXcfRX+fSXcXcXcXcXcXcXcXcXcfRX+XeXeXeXoT6UKb0TITJTKTHbzUJT6lwlxfGfHfIfJlwlxfGfHfIfJlwlxd+fGfHfIfJd+lw
+BOARD 0 17 64 0 XgXdXdXdX+fgXsXsXsXsXsXsXsXsXsXvX+fgXsXsXsXsXsXsXsXsXsXvX+XeXeXeXoT6UKb0TYTZTaTXbzUJT6fmfnU3cQcQU6fmfnU3cQcQU6fmfpcQU3U4U5U6cQfo
+BOARD 0 18 64 0 XgXdXdXdX+fwfQXsXsXsXsXsXsXsXfX/X+fwfQXsXsXsXsXsXsXsXfX/X+XeXeXeXoT6UKb0TJTKTHTIbzUJT6fMfNU3U6U3U6fMfNU3U6U3U6fMcwcQcQcQcQcQcQcx
+BOARD 0 19 64 0 XgXdXdXdX+XefgXsXsXsXsXsXsXsXvXdX+XefgXsXsXsXsXsXsXsXvXdX+XeXeXeXoT6UKb0TZTaTXTYbzUJT6dadddededededadddededededaU3U6U3U6U3U6U3U6
+BOARD 0 20 64 0 XgXdXdXdX+XefwfQXsXsXsXsXsXfX/XdX+XefwfQXsXsXsXsXsXfX/XdX+XeXeXeXoT6UKb0THTITJTKbzUJT6fKduemeneoepduduemeneoepdufJXNXNXNXNXNXNfG
+BOARD 0 21 64 0 XgXdXdXdXCXeXefgXsXsXsXsXsXvXdXdXCXeXefgXsXsXsXsXsXvXdXdXCXeXeXeXoT6UKb0TXTYTZTabzUJT6d6d9e2e3e4e5d6d9e2e3e4e5d6d9emeneoeneoepd6
+BOARD 0 22 64 0 XgXdXdkKkLkMXefwfQXsXsXsXfXdXdkKkLkMXefwfQXsXsXsXfX/XdkKkLkMXeXeXoT6UKb0TITJTKTHbzUJT6fad+fGfHfIfJd+d+fGfHfIfJd+d+e2e3e4e3e4e5d+
+BOARD 0 23 64 0 XgXdkZkakbkckdXefgX8X8X8XvXdkZkakbkckdXefgX8X8X8XvXdkZkakbkckdXeXoT6UKb0TYTZTaTXbzUJT6d6d9fWfXfYfZd6d9fWfXfYfZd6d9fGfYfYfYfYfJd6
+BOARD 0 24 64 0 knkokpkqkrksktkuXokCkDkGknkokpkqkrksktkuXokCkDkGknkokpkqkrksktkuXoT6UKb0THTITJTKbzUJT6fad+fGfHfIfJd+d+fGfHfIfJd+d+fWfYfYfYfYfZd+
+BOARD 0 25 64 0 k3k4k5k6k7k8k9k+k/kUkVkUk3k4k5k6k7k8k9k+k/kUkTkUk3k4k5k6k7k8k9k+k/T6UKb0TXTYTZTabzUJT6d6d9fad6d9fad6d9fad6d9fad6d9fGfYfYfYfYfJd6
+BOARD 0 26 64 0 WRdHdIdJWBdEdFdGVxlClDlGWRdHdIdJWBdEdFdGVxlClDlGWRdHdIdJWBdEdFdGVxT6UKb0TJTKTHTIbzUJT60u0v8g0v8g0v8g0v8g0v8g0v8g0v8hU4U4U4U40u8g
+BOARD 0 27 64 0 WSdXdYdZWidUdVdWWSkFkEkGWSdXdYdZWidUdVdWWSkCkDkEWSdXdYdZWidUdVdWWST6UKb0TZTaTXTYbzUJT60+0/8w0/8w0/8w0/8w0/8w0/8w8xUbU+U+U+U+Uc0+
+BOARD 0 28 64 0 WidndodpWSdkdldmWikVkUkWWidndodpWSdkdldmWikSkTkUWidndodpWSdkdldmWiT6UKb0TITJTKTHbzUZUaUHUHUHUHUHUHUHUHUHUHUHUHUHUbU+U+U+U+U+U+Uc
+BOARD 0 29 64 0 WyW1WzW0WzW0W1W1WyklkkkmWyW1WzW0WzW0W1W1WykiklkkWyW1WzW0WzW0W1W1WyT6UKb0TYTZTaTXbzUpUqUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUI
+BOARD 0 30 64 0 T6WikCkDkEkFkGWikykzk0k2WikCkDkEkDkEkFkGWikykzk0k2WikCkDkEkFkGWiT6T6UKb0TJTKTHTIT/bjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbj
+BOARD 0 31 64 0 T6WSkSkTkUkVkWWSlClDlElGWSkSkTkUkTkUkVkWWSlClDlElGWSkSkTkUkVkWWST6T6UKb0TZTaTXTYTZTaTXTYTZTaTXTYTZTaTXTYTZTaTXTYTZTaTXTYTZTaTXTY
+BOARD 0 32 64 0 T6WikikjkkklkmWiiGiHh2iJWikikjkkkjkkklkmWiiHiGiHiGWikikjkkklkmWiT6T6UKb0THTITJTKTHTITJTKTHTITJTKTHTITJTKTHTITJTKTHTITJTKTHTITJTK
+BOARD 0 33 64 0 T6WSkykzX+k1k2WSrxrxrxrxWSkykzk0kzk0k1k2WSrxrxrxrxWSkykzk0k1k2WST6T6UKb0TXTYTZTaTXTYTZTaTXTYTZTaTXTYTZTaTXTYTZTaTXTYTZTaTXTYTZTa
+BOARD 0 34 64 0 T6WylClDlElFlGWyT6T6T6T6WylClDlElDlElFlGWyT6T6T6T6WylClDlElFlGWyT6T6UKb0TITJTKTHTITJTKTHTITJTKTHTITJTKTHTITJTKTHTITJTKTHTITJTKTH
+BOARD 0 35 64 0 T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6UZUab0TYTZTaTXTvbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbk
+BOARD 0 36 64 0 UIUIUIUIUZUaUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUpUqb0THTITJTKbzUZUaUHUHUaT7T7T7T7UZUHUHUHUHUHUHUaT7T7T7T7UZUH
+BOARD 0 37 64 0 QgQwQxQyUpUqbhbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbwTXTYTZTabzUpUqT6T6UKT7T7T7T7UJT6T6T6T6T6T6UKT7T7T7T7UJT6
+BOARD 0 38 64 0 QwQAQBQCUJUKb0TKTHTITJTHTITJTKTHTITHTHTITJTKTHTITJTKTHTITJTKTHTITJTKTHTITJTKTHTIbzUJT6T6T6UKT7T7T7T7UJT6T6T6T6T6T6UKT7T7T7T7UJT6
+BOARD 0 39 64 0 QAQQQRZlUJUKb0TYTZTaTXTXTYTZTaTXTYTXTXTYTXTYTZTaTXTYTZTYTZTaTXTYTZTaTXTYTZTaTXTYbzUJT6T6T6UKT7T7T7T7UpUIUIUIUIUIUIUqT7T7T7T7UpUI
+BOARD 0 40 64 0 QQQgQhQiUJUKb0THTITJTHTITJTKTHTITHTJTKTHTITHTITJTKTHTITHTITJTKTHTITJTKTHTITJTKTHbzUJT6T6T6UKT7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7
+BOARD 0 41 64 0 QgQwQxSYUJUXb0TZTaTXTXTYTZTaTXTYTXTZTaTXTYTXTYTZTaTXTYTXTYTZTaTXTYTZTaTXTYTZTaTXbzUJT6T6T6UKT7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7
+BOARD 0 42 64 0 QwQAQBQCUJUKbxbkbkbkbkbkbkXgXZXpXpXqXeXeXobkbkbkbkbkbkbkbkbkbkbkbkbkbkbgTJTKTHTIbzUJT6T6T6UKT7T7T7T7T7T7T7T7T7T7T7T7T9T+TsT7T7T7
+BOARD 0 43 64 0 QAQQS2S5UZUaUHUHUHUHUHUHUHXgXdXpXsXsXqXeXoUHUHUHUHUHUHUHUHUHUHUHUHUHUab0TZTaTXTYbzUJT6T6T6UKT7T7T7T7T8T7T7T7T7T7T7T7T7T7T7T7T7T7
+BOARD 0 44 64 0 QQS2S5QUUpUqUIUIUI9G9H9I9IXgXZXsXsXsXsXaXo9I9I9I9JUIUIUIUIUIUIUIUIUYUKb0THTITJTKbzUJT6T6T6UKT7T7T7T7T7T7T7T7T8T7T7T7T7T7T7T7T7T7
+BOARD 0 45 64 0 QgQwS2QkQlQwS2QkXd9m9o9o9oXgXpXsXsXsXsXqXo9o9o9o9pXeQSS2QQQRQSS2QDUJUKb0TXTYTZTabzUJT6T6T6UKT7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T9T+Tu
+BOARD 0 46 64 0 QwQVS2QCS5QAS2XdXd9m9o9o9oW6XsXsXsXsXsXsW79o9o9o9pXeXeQjQgQhQiQjZlUJUKb0TITJTKTHbzUJT6T6T6UKT7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7
+BOARD 0 47 64 0 QAQlQUQVHAQQXgXdXd9W9Y9Y9YXKX8X8X8X8X8X8XL9Y9Y9Y9ZXeXeXoQUQVHAQQQjUJUKb0TYTZTaTXbzUJT6T6T6UKT7T7T7T7T7T9T+TuT7T7T7T7T7T7T7T7T7T7
+BOARD 0 48 64 0 QQHRQkQlS5QgXgXdXd9m9o9o9oWBkCkDkDkEkEkFWB9o9o9o9pXeXeXoQkQlS5QgZlUJUKb0THTITJTKbzUJT6T6T6UKT7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7
+BOARD 0 49 64 0 QgSnQxS2QzS5XgXdXd9W9Y9Y9YWCeneoeneoeneoWC9Y9Y9Y9ZXeXeXoVpQhQiQjVpUJUKb0TXTYTZTabzUJT6T6T6UKT7T7T7T7T7T7T7T7T7T7TvVRUtVRVSUtVSbg
+BOARD 0 50 64 0 S5S5QBQCQDQAXgXdXd9m9o9o9oWSdOdOdOdOdOdOWS9o9o9o9pXeXeXoWCWzW0W1WCUJUKb0TJTKTHTIbzUJT6T6T6UKT7T7T7T8T7T7T7T7T7T7bzWDNHVhViNKV0b0
+BOARD 0 51 64 0 QAQQQRZlZlQQXgXdXd9W9Y9Y9YWCdedededededeWC9Y9Y9Y9ZXeXeXoWyhihihjWBUJUKb0TZTaTXTYbzUpUIUIUIUqT7T7T7T7T7T9TuT7T7T7bzWDNXlwlxNaV0b0
+BOARD 0 52 64 0 QQQgQhQiQjQgXgXdXd9m9o9o9oWSdudududududuWS9o9o9o9pXeXeXohihihjhjVZUJUKb0TITJTKTHbzTuT7T7T7T7T7T7T7T7T7T7T7T7T7T7bzWDNnfmfnNqV0b0
+BOARD 0 53 64 0 QgQQQRZlZlQQXgXdXd9W9Y9Y9YWid+d+d+d+d+d+Wi9Y9Y9Y9ZXeXeXohyhihjhzWCUJUKb0TYTZTaTXbzTuT7T7T7T7T7T7T7T7T7T7T7T7T7T7bzWDN3N4N5N6V0b0
+BOARD 0 54 64 0 QQQiQjQgQhQgXgXdXd9m9o9o9o9o9n9o9n9o9n9o9n9o9o9o9pXeXeXoS2hyhzZuWBUJUKb0TJTKTHTIbzTuT7T7T7T7T7T7T7TtTsT7T7T7T7T7bzVhWEWEWEWEVib0
+BOARD 0 55 64 0 QgRFQzQwREQwXgXdXd92949494949394939493949394949495XeXeXoZuS2ZuZ+VZUJUKb0TZTaTXTYbzUZUHUHUHUaT7T7T7T7T7T7T7T7T7T7bz8A0P8A0P8A0Pb0
+BOARD 0 56 64 0 QwQCQkQlQBQQXgXdXZXsXsXsXsXsXsXsXffQXsXsXsXsXsXsXsXaXeXoZ+ZuZ+ZuWCUJUKb0THTITJTKbzUJT6eMeNUKT7T7T7T7T7T7T9T+TuT7T/bjbjbjbjbjbjbw
+BOARD 0 57 64 0 QQQgQhQiQjQgXgXdXpXsXsXsXsXsXsXfXvfgmfXsXsXsXsXsXsXqXeXoiQiRZ+ZuWBUJUKb0TXTYTZTabzUJT6ecedUKT7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T9
+BOARD 0 58 64 0 QgQwQxQyQzQwXgXZXsXsXsXsXsXsXsXfX/fwfQXsXsXsXsXsXsXsXaXoiQiRiQiRVZUJUKb0TITJTKTHbzUJT6WSWiUKT7T7T7T7T9T+TsT7T7T7T7T7T7T7T7T7T7T7
+BOARD 0 59 64 0 QwQiQjQgQhQgXgXpXsXsXsXsXsXsXfXvXdXefgmfXsXsXsXsXsXsXqXoSnZ+ZuQzWCUJUKb0TYTZTaTXbzUJT6X0X0UKT7T7T7T7T7T7T7T7T7T7T7TtT+TuT7T9TuT7
+BOARD 0 60 64 0 QARFQzQwREQwW6XsXsXsXsXsXsXsXfX/WZWrfwfQXsXsXsXsXsXsXsW7S5iQiRZvWBUJUKb0THTITJTKbzUJT6toukUKT7T7T7T7T7T7T7T7T7T7T9TrTuT7T7T7T7T7
+BOARD 0 61 64 0 QQQCQkQlQBQQXKX8X8X8X8X8X8X8XvWZeFeGWrfgX8X8X8X8X8X8X8XLZvQRZvZ/VZUJUKb0TXTYTZTabzUJT6WSWiUKT7T7T7T7T7T7T8T7T7T7T7T7T9T+TuT7T8T7
+BOARD 0 62 64 0 QgQgQhQiQjQgWRkCkDkEkFkFkGWBeEeFejWueGeHWBkCkDkDkEkFkGWBZ/ZvZ/aPWCUJUKb0TJTKTHTIbzUJT6WCWSUKT7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7
+BOARD 0 63 64 0 QwQwQxQyQzQwWCkSkTkUkVkVkWWCkwduXOfDdukxWCkSkTkUkUkVkWWCaPZ/aPZlWBUJUKb0TZTaTXTYbzUJT6X0X0UKT7T7T7T7T7T8T7T7T7T7TtT+TuT9T9T+TuT7
+LINK highharborint_townhall-1.nw 58 25 4 1 30.5 34
+LINK worldmapkharlia_e03.nw 31 0 12 1 46 1.5
+NPCEND
+NPC val_windowdark.gif 26 26
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+}
+NPCEND
+NPC val_windowdark.gif 14 26
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+}
+NPCEND
+NPC val_windowdark.gif 2 26
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+}
+NPCEND
+NPC val_windowdark.gif 24 6
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+}
+NPCEND
+NPC val_windowdark.gif 17 3
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+}
+NPCEND
+NPC val_windowdark.gif 2 31
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+}
+NPCEND
+NPC val_windowdark.gif 11 3
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+}
+NPCEND
+NPC val_windowdark.gif 26 31
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+}
+NPCEND
+NPC val_doordark.gif 14 31
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+}
+NPCEND
+NPC - 41 63
+join("world_streetlamp");
+function onCreated() {
+y += 0.1;
+}
+NPCEND
+NPC - 33 63
+join("world_streetlamp");
+function onCreated() {
+y += 0.1;
+}
+NPCEND
+NPC - 4 63
+join("world_streetlamp");
+function onCreated() {
+y += 0.1;
+}
+NPCEND
+NPC - 41 30
+join("world_streetlamp");
+function onCreated() {
+y += 0.1;
+}
+NPCEND
+NPC - 41 22
+join("world_streetlamp");
+function onCreated() {
+y += 0.1;
+}
+NPCEND
+NPC - 41 5
+join("world_streetlamp");
+function onCreated() {
+y += 0.1;
+}
+NPCEND
+NPC - 33 5
+join("world_streetlamp");
+function onCreated() {
+y += 0.1;
+}
+NPCEND
+NPC - 33 29
+join("world_streetlamp");
+function onCreated() {
+y += 0.1;
+}
+NPCEND
+NPC val_weaponbooth.gif 49 35
+NPCEND
+NPC val_clothesbooth.gif 61 35
+NPCEND
+NPC val_buxton_flag2a.gif 45 55
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_buxton_flag2b.gif 40 55
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_buxton_flag2b.gif 40 59
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_buxton_flag2a.gif 45 59
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_imperialdoor.gif 58 22
+//#CLIENTSIDE
+if (created) {
+setimgpart val_imperialdoor.gif,16,52,64,64;
+this.y += 0.5;
+}
+NPCEND
+NPC oakburn_door.gif 59 7
+//#CLIENTSIDE
+if (created) {
+setimgpart oakburn_door.gif,24,16,32,64;
+y -= 0.2;
+}
+NPCEND
+NPC val_valcastle-window-lucca2.gif 46 13
+//#CLIENTSIDE
+if (created) {
+setimgpart val_valcastle-window-lucca2.gif,0,24,32,64;
+}
+NPCEND
+NPC val_valcastle-window-lucca2.gif 46 21
+//#CLIENTSIDE
+if (created) {
+setimgpart val_valcastle-window-lucca2.gif,0,24,32,64;
+}
+NPCEND
+NPC val_valcastle-window-lucca2.gif 52 13
+//#CLIENTSIDE
+if (created) {
+setimgpart val_valcastle-window-lucca2.gif,0,24,32,64;
+}
+NPCEND
+NPC val_valcastle-window-lucca2.gif 52 6
+//#CLIENTSIDE
+if (created) {
+setimgpart val_valcastle-window-lucca2.gif,0,24,32,64;
+}
+NPCEND
+NPC val_valcastle-window-lucca2.gif 46 6
+//#CLIENTSIDE
+if (created) {
+setimgpart val_valcastle-window-lucca2.gif,0,24,32,64;
+}
+NPCEND
+NPC val_valcastle-window-lucca2.gif 52 21
+//#CLIENTSIDE
+if (created) {
+setimgpart val_valcastle-window-lucca2.gif,0,24,32,64;
+}
+NPCEND
+NPC oakburn_door.gif 59 14
+//#CLIENTSIDE
+if (created) {
+setimgpart oakburn_door.gif,24,16,32,64;
+y -= 0.2;
+}
+NPCEND
+NPC val_stagroof1.gif 28 9
+//#CLIENTSIDE
+if (created) {
+setimgpart val_stagroof1.gif,64,8,80,64;
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_stagroof1.gif 26 8
+//#CLIENTSIDE
+if (created) {
+setimgpart val_stagroof1.gif,32,0,48,40;
+this.y += 0.5;
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_stagroof1.gif 14 8
+//#CLIENTSIDE
+if (created) {
+setimgpart val_stagroof1.gif,32,0,80,40;
+this.y += 0.5;
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_stagroof1.gif 4 8
+//#CLIENTSIDE
+if (created) {
+setimgpart val_stagroof1.gif,64,0,48,40;
+this.y += 0.5;
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_stagroof1.gif 13 38
+if (created) {
+setimgpart val_stagroof1.gif,0,8,64,64;
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_stagroof1.gif 17 38
+if (created) {
+setimgpart val_stagroof1.gif,80,8,64,64;
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_stagroof1.gif 25 44
+if (created) {
+setimgpart val_stagroof1.gif,80,8,47,64;
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_stagroof1.gif 6 43
+if (created) {
+setimgpart val_stagroof1.gif,0,8,48,64;
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_stagroof1.gif 0 9
+if (created) {
+setimgpart val_stagroof1.gif,0,8,64,64;
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC - 0 45
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+NPCEND
+NPC val_churchwindow2.png 21 63
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_churchwindow2.png",0,0,96,48);
+}
+NPCEND
+NPC val_churchwindow2.png 7 63
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_churchwindow2.png",0,0,96,48);
+}
+NPCEND
+NPC val_churchwindow2.png 14 49
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_churchwindow2.png",0,0,96,48);
+}
+NPCEND
+NPC - 59 49
+//#CLIENTSIDE
+
+function onCreated() {
+  this.x += 0.3;
+  this.y += 0.3;
+  with (findimg(200)) {
+    with(emitter) {
+      delaymin=0.05;
+      delaymax=0.05;
+      nrofparticles = 1;
+
+      with(particle){
+        image="light2s.png";
+        lifetime=1.1;
+        speed=5;
+        zoom=1;
+        red=0.16;
+        blue=0.32;
+        green=0.3;
+        alpha=0.5;
+      }//particle
+
+    addlocalmodifier("once",0,0,"angle","replace",degtorad(100),degtorad(105));
+  addlocalmodifier("once",0.15,0.15,"angle","add",degtorad(20),degtorad(20));
+  addlocalmodifier("once",0.25,0.25,"angle","add",degtorad(20),degtorad(20));
+  addlocalmodifier("once",0.3,0.3,"angle","add",degtorad(20),degtorad(20));
+  addlocalmodifier("once",0.35,0.35,"angle","add",degtorad(20),degtorad(20));
+        addlocalmodifier("once",0.4,0.4,"angle","replace",degtorad(220),degtorad(225));
+    addlocalmodifier("once",0.45,0.45,"angle","add",degtorad(20),degtorad(20));
+    addlocalmodifier("once",0.5,0.5,"angle","add",degtorad(20),degtorad(20));
+
+    }//emitter
+  }//findimg
+
+  with (findimg(300)) {
+    with(emitter) {
+      delaymin=0.05;
+      delaymax=0.05;
+      nrofparticles = 1;
+
+      with(particle){
+        image="light2s.png";
+        lifetime=1.1;
+        speed=5;
+        zoom=1;
+        red=0.16;
+        blue=0.32;
+        green=0.3;
+        alpha=0.5;
+      }//particle
+
+    addlocalmodifier("once",0,0,"angle","replace",degtorad(80),degtorad(85));
+  addlocalmodifier("once",0.15,0.15,"angle","add",degtorad(-20),degtorad(-20));
+  addlocalmodifier("once",0.25,0.25,"angle","add",degtorad(-20),degtorad(-20));
+  addlocalmodifier("once",0.3,0.3,"angle","add",degtorad(-20),degtorad(-20));
+  addlocalmodifier("once",0.35,0.35,"angle","add",degtorad(-20),degtorad(-20));
+        addlocalmodifier("once",0.4,0.4,"angle","replace",degtorad(-40),degtorad(-45));
+    addlocalmodifier("once",0.45,0.45,"angle","add",degtorad(-20),degtorad(-20));
+    addlocalmodifier("once",0.5,0.5,"angle","add",degtorad(-20),degtorad(-20));
+
+
+    }//emitter
+  }//findimg
+}//created
+NPCEND
+NPC val_buxton_flag3a.gif 48 19
+// Created by racil
+NPCEND

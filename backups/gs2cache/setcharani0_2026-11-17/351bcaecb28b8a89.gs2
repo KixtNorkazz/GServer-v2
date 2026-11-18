@@ -1,0 +1,39 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.attr[1] = "hat-valnation-nadrion-knightpaudrons.png";
+  this.shield = "ryo250-woodenspearshield.gif";
+  this.head = "val-nadrion-valikorliansoldier.png";
+  this.body = "valikorlia-knightbody.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "darkred";
+  this.colors[3] = "brown";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 3;
+  this.nick = "";
+  this.dir = 3;
+  this.ap = 100;
+  this.x -= .5;
+  setcharani("idle", this.gani);
+}
+
+function onPlayerChats() {
+  if ((player.guild == "Celdin")) {
+    if ((player.chat == "Archers Ready!")) {
+      setcharani("valikorlia_spear-ready-idle", NULL);
+    }
+  }
+  if ((player.guild == "Celdin")) {
+    if ((player.chat == "Release Volley!")) {
+      setcharani("valikorlia_spear-ready-idle", NULL);
+    }
+  }
+  if ((player.guild == "Celdin")) {
+    if ((player.chat == "At Ease!")) {
+      setcharani("idle", NULL);
+    }
+  }
+}

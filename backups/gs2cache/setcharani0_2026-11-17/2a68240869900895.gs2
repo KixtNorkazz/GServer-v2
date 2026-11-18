@@ -1,0 +1,16 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.attr[1] = "hat-valnation-nadrion-knightpaudrons.png";
+  this.shield = "ryo250-woodenspearshield.gif";
+  this.head = "val-nadrion-valikorliansoldier.png";
+  this.body = "valikorlia-knightbody.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "lightgray";
+  this.colors[2] = "red";
+  this.colors[3] = "darkred";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("dead", NULL);
+  this.dir = 2;
+}

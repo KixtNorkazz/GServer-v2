@@ -1,0 +1,12 @@
+//#CLIENTSIDE
+function onCreated() {
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "Bridgeton")) {
+    say2("Commands for Using the Gates:#b#b\"Open Gate\" - Castle Gate#b\"Open Gate2\"/\"Close Gate2\" -#blower gate.#b#b\"Guard\"/\"Guard Down\"#bTells the guards to block#bthe upper gate.");
+  }
+  if (!("#g" == "Bridgeton")) {
+    say2("It's written in a strange code#bof dots and dashes.");
+  }
+}

@@ -1,0 +1,30 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  drawunderplayer();
+  showtext(1, this.x+1.78, "y+.55", "Comic Sans MS", "bc", "Squire");
+  changeimgzoom(1, .75);
+  changeimgvis(2, 2);
+}
+
+function gs1_always() {
+  drawunderplayer();
+  showcharacter();
+  this.shield = "taron-shield.gif";
+  this.attr[1] = "hat7-smeewn.gif";
+  this.head = "head1172.png";
+  this.body = "nash-magebody.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 2;
+  if (playersays(this.Squire)) {
+    player.shield = "#2,no-shield.gif";
+    player.body = "nash-magebody.gif";
+    player.attr[1] = "hat7-smeewn.gif";
+  }
+}

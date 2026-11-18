@@ -1,0 +1,699 @@
+GLEVNW01
+BOARD 0 0 64 0 QQTTTjusL4CaCNB8B7CLB8B7CLCMBfJ6uqTkR0TjTUTju9CaCNB8B7B7B8B7CMCOBsBsCaCNB7B7B8CMB/L6TjRBRCR0TTu9B6B8B8B7CMB8B7B8B7B8B7COBsu7TkR0
+BOARD 0 1 64 0 QgQSRCTUTUL7BqB8B8CLCLCLCLB8B+BPJ6uqTjRQRCTjufL4CaCNB7B8B7B8B8B/L6usL4CaCNB8B8B8B/u7RQaORTRzR+J9BqB8CMB8B7B7B8B8B7CMCOBsL62QR0TU
+BOARD 0 2 64 0 QwQiQyRTRzu9CaCNB8B8B7CMB8CMCMB+BPu7TURgQyRTTjR0L7CaCNB8B8B7B7B/u72E2FL4CaCdCcCdL52QRgaeRjR+J9BbB9B7B8B8B8B8B7B7B8CMB/Bsu7TUTjTj
+BOARD 0 3 64 0 QAQRQQQRRCufL7BqB8B7B8B8B8B8B7COBsu7TkR0SBRjTjR0ufL4CaCNB7B8B8B/u71011upLaLaLaLaR/TTUwRxRyu9BbB9CMB8B8B8B8B7B8B8B7COBsL52QR0R0TU
+BOARD 0 4 64 0 QQQSQwQxSATju9B6B8B7B7B8B8CMCOBsL52QR0RQSAUwRzS0R0TjL4CaCdCNB7B/J6uqupu50Q0R0Q0Ru60B0BR/Tku9CaCNB7CMB8B8B7B8B8CMCOBsL5TUTkRBRTTk
+BOARD 0 5 64 0 QgQiQRQiRjRzu9B6B8B7B8B8B7CMB/L6TjTTS1RgSSSiRTTjRBRCTjusL4CaCdBsCau7u50S0g0h0g0h0j0Q0Ru60Bu5LnCaCNB7B8B8B8B7B7CMB/L6TjTkRQRRRSRT
+BOARD 0 6 64 0 QwQhQxQyRTR+J9BqB8B8B7B7B8B8B/u7TUTURzRzRBHEHFSiQCQzRTR0upLaLaLaLau50S0i0Q0R0Q0R0T0g0h0j0Q0RL3LnCaCNB7B7B8CMCMB8B/u7TUR0RgRhRiRy
+BOARD 0 7 64 0 QAQxQBQCSAu9BbB9B7B7B8B8B7B7BfJ6uqTjTjRQQyHUHVSSRjRxRjupu50R0Q0R0Q0S0i0S0g0h0g0h0j0Q0R0T0g0h0jL3LnCaCNB8B8B8B7COBsu7TkTjTjRxRyRQ
+BOARD 0 8 64 0 ZXQSQRQSRju9CaCNB8B7B7B8B8B8B+BPJ6uqRzRgQCQzRjTTTUTjupu50S0h0g0h0g0S0i0S0Q0R0Q0R0T0g0h0j0Q0R0T0jL3LnCaCNB7B7COBsL52QR0TjRQRTTkRg
+BOARD 0 9 64 0 ZnQiQhQSRWufL4CaCNB8B8B8B8B8B8B+BPu7TUTTRxRyTjup0B0Bu50S0i0R0Q0R0Q0i0S0i0g0h0g0h0j0Q0R0T0g0h0j0T0jL3LnCaCNCOCaL6TjTTRQShQjRjTkRQ
+BOARD 0 10 64 0 QwQBQxRyRzTjR0L7BqB8B8B8B8B7B7B8B/J6uqTTS0TUupu50Q0R0S0i0S0h0g0h0R0S0i0S0Q0R0Q0R0T0g0h0j0Q0R0T0j0T0jL3LnCaBsCau7TjRBQBHBSQTTRXSB
+BOARD 0 11 64 0 QQQRRjTURzR0TTu9B6B8B8B8B8B8B8B7B/BPu7TUTUupu50S0g0h0i0S0i0R0Q0R0Q0i0S0i0g0h0g0h0j0Q0R0T0g0h0j0T0j0T0jL3LnL5us2QRQQQGxS5QDRCRQQw
+BOARD 0 12 64 0 RxRyR0RBRCRzR+J9BqB8B8B8B8B7B7COBsLmu50B0Bu50S0i0Q0R0S0i0S0h0g0h0R0S0i0S0Q0R0Q0R0T0g0h0j0Q0R0T0j0T0j0T0jL30B0B0B12QRHBHAHQHRQjQB
+BOARD 0 13 64 0 R0TjTjRxRyR+J9BbB9B7B8B8B7B7COBsLmu50g0h0g0S0i0S0g0h0i0S0i0R0Q0R0Q0i0S0i0g0h0g0h0j0Q0R0T0g0h0j0T0j0T0j0T0j0Q0R0Qu612QgGwGxS2QzQR
+BOARD 0 14 64 0 RBRCRBRCR0u9BbB9B8B8B8B8B7COBsLmu50S0Q0R0Q0i0S0i0Q0R0S0i0S0h0g0h0R0S0i0S0Q0R0Q0R0T0g0h0j0Q0R0T0j0T0j0T0j0T0g0h0g0ju61o12QBHBSYQB
+BOARD 0 15 64 0 QAQRQyQjRTu9CaCNB8B8B8B7COBsLmu50S0i0g0h0g0S0i0S0g0h0i0S0i0R0Q0R0Q0S0i0S0g0h0g0h0j0Q0R0T0g0h0j0T0j0T0j0T0j0Q0R0Q0T0j0gu612QjGgQR
+BOARD 0 16 64 0 SARgQCQzRjufL4CaCNB7B7COBsLmu50S0i0S0Q0R0Q0i0S0i0Q0R0S0i0S0h0g0h0R0i0S0i0Q0R0Q0R0T0g0h0j0Q0R0T0j0T0j0T0j0T0g0h0g0j0T0Q0ju612QgQh
+BOARD 0 17 64 0 SQTjRxRyTkR0TjL4CaCdCdBsLmu50S0i0S0i0g0h0g0S0i0S0g0h0i0S0i0R0Q0R0Q0S0i0SsPsOsPsO0j0R0R0T0g0h0j0T0j0T0j0T0j0Q0R0Q0T0j0g0T0ju612Qx
+BOARD 0 18 64 0 QyRCTTUwTTS0TTTjususL4Lmu50S0i0S0i0S0Q0R0Q0i0S0i0Q0R0S0i0S0h0g0h0R0i0SLfCqCrCqCrLesPsO0j0R0R0T0j0T0j0T0j0T0g0h0g0j0T0Q0j0T0j1XQB
+BOARD 0 19 64 0 QCQzRTR0Tjup0B0B0B0B0Bu50S0i0S0i0S0i0g0h0g0S0i0S0g0h0i0S0i0R0Q0R0Q0SLfBbBMBNBMBNBfCrCqLesPsO0j0T0j0T0j0T0j0Q0R0Q0T0j0g0T0j0T1XQR
+BOARD 0 20 64 0 QQQyRjTjupu50Q0R0Q0R0Q0S0i0S0i0S0i0S0g0h0g0i0S0i0Q0R0S0i0SsOsPsOsPLfBbB9CMB7CMB7B+BNBMBPCrCqLe0j0T0j0T0j0T0g0h0g0j0T0Q0j0T0j1XQh
+BOARD 0 21 64 0 QgQCRCupu50S0g0h0g0h0g0i0S0i0S0i0S0i0Q0R0Q0S0i0S0g0h0i0SLfCrCqCrCqBbB9B7CMB7CMCMB7CMCMB+BNBMBPLe0j0T0j0T0j0Q0R0Q0T0j0Q0T0j262QSB
+BOARD 0 22 64 0 QjQR13u50S0i0Q0R0Q0R0Q0S0i0S0i0S0i0S0g0h0g0i0S0i0R0R0SLfBbBNBMBNBMB9B7CMCMCMB7CMB8CMCMCMCMCMB+BPLe0j0T0j0T0g0h0g0j0T0g0j26TjRBQB
+BOARD 0 23 64 0 1o1o2H0S0i0S0g0h0g0h0R0i0S0i0S0i0S0i0Q0R0Q0S0i0SsPsOLfBbB9B7B7CMB7B7CMB7B7B7B8CLCMCLCMB7CLCLB7B+BfLe0j0T0j0Q0R0Q0T0j0Q3JTjRQQQQR
+BOARD 0 24 64 0 0Q0R0S0i0S0i0Q0R0Q0R0Q0S0i0S0i0S0i0S0g0h0g0i0SLfCrCqBbB9CMCMCMB7CMCMB7B7CLCMCMB8B7B7B8CMCMB7B8CMB+BfLe0j0T0g0h0g0j0T0gu7RBQjQgQh
+BOARD 0 25 64 0 0g0h0i0S0i0S0g0h0g0h0R0i0S0i0S0i0S0i0Q0R0Q0SLfBbBNBMB9CMCMCMB7CMB7B7B8CMB7B8B7CMCLCMCMB7CLCMB7CLB7B+BfLe0j0Q0R0Q0T0j0Qu7RgQzQwQx
+BOARD 0 26 64 0 0Q0R0S0i0S0i0Q0R0Q0R0Q0S0i0S0i0S0i0SsPsOsPLfBbB9B7B7B8CMCMB8CMB7B8B8CMB7CMCMCLCLCLCLCLCLCLB8CMCMB7B7B+BfLesPsOsP0j0T262QTkRgQCQz
+BOARD 0 27 64 0 0g0h0i0S0i0S0g0h0g0h0R0i0S0i0S0i0SLfCqCrCqBbB9CMCMCMCMB7B7CMB7B8CMCMCMB7CMCMCLCLCLCLCLCLCLCMCMCLCLCMB7B+BfCqCrCqLe3JTjTkTkRBQzQA
+BOARD 0 28 64 0 0Q0R0S0i0S0i0Q0R0Q0R0Q0S0i0S0i0SLfBbBMBNBMB9CMB7B7B7CMB8B7CMB8CMB7B7B8B7CMCMCMCMCMCMCMCMCMCMCMCMCMCMCMB7B+BMBNBMBPu7R0TjRQQSQDQQ
+BOARD 0 29 64 0 0g0h0i0S0i0S0g0h0g0h0R0i0S0i0SLfBbB9B7B8CMCMCMB7B8B8CLCMCMCLCMB7CLCLCLCLCMCMCMCMCMCMCMCMCMCMCMCMCMCMCMCMCMCMCMCLB+u7RQShQjQAQxQi
+BOARD 0 30 64 0 0Q0R0S0i0S0i0Q0R0Q0R0Q0S0i0SLfBbB9B8CMCMCMB7CMB8CLCLCLCLCLCLCLCLCLCLCLCLCMCMCMCMCMCMCMCMCMCMCMCMCMCMCMCMCMCMCMCLuX2QSBQwQjQQQBQy
+BOARD 0 31 64 0 0g0h0i0S0i0S0g0h0g0h0R0i0SLfBbB9CLCMB7B7CMB8CLCMB8B7CMCMB7B7B8CMCLCLCLCLCMCMCMCMCMCLB7CLCLCLCLCMCMCMCMCMCLCLCLuXTjRBQyQjQwQBQDQQ
+BOARD 0 32 64 0 0Q0R0S0i0S0i0Q0R0Q0R0Q0SLfBbB9B7B8CMCMCMB7CMB8B7CMB8B7CLCLCLCLCLCLCLCLCLCMCMCMCMCMCLCLCLCLCLCLB7CLB7CLuXusususTjRQQRQCQzQAQRQTQg
+BOARD 0 33 64 0 0g0h0i0S0i0SsOsOsPsOsPLfBbB9B7B8CMCMCMB7CMCLCMB7CLCLCLCLCLCLCLCLCLCLCLCLCMCMCMCMCMCLCLCLCLCLB7B8B7CLuXTjTjRQRTTTSBQhQSQDQQQhQjQw
+BOARD 0 34 64 0 0Q0R0S0i0SLfCqCrCqCrCqBbB9CLCLCLCLCLB7CMCLB8B8B7B8CLCLCLCLCLCLCLCLCLCLCLCMCMCMCMCMCLCLCLCLCLCMCLB7uXTjRQShQjRjTTRgQxQiQTQgQxQzQA
+BOARD 0 35 64 0 0g0h0i0SLfBbBMBNBMBNBMB9B7CLCLCLCLCLCLCMB7CLB7CLCLB7CLCLCLCLCLCLCLCLCLCLCMCMCMCMCMCLCLCLCLCLB8CLvqRBShQyQASQTTTTRBQBQyQjQwQBQDQQ
+BOARD 0 36 64 0 0R0R0SLfBbB9CMB7B7CMB7CMB8CMB8B7CLCLB7B8CMB7CLCLCLCLCLCLCLCLCLCLCLCLCLCLCMCMCMCMCMCLCLCLCLCLCMvq2QRxRjRgQCQDRCRBQgQRQCQzQAQRQAQR
+BOARD 0 37 64 0 sPsOLfBbB9CMCMCMCMCMCLCMB7B7CMCLCLB7B8B7B7CLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCMCMCMCMCMCLB8CLCLCLB8u7TjRQV5RBQSQTQQQDQwQhQSQDQQQhQQQh
+BOARD 0 38 64 0 CrCqBbB9CMB8B7CMCMB8CMB7CMCLCLCLCLCLCLCLCLCLCLCLCLCMCLCLCLCLCLCLCLCLCLCLCMCMCMCMCMCLCMCLCLCLCMu7TjSBQwQxQyQzQwQhQiQTQAQxQiQTQgQx
+BOARD 0 39 64 0 BNBMB9CMCMB7B8CLCLCMB7CLCMCLCLCLCLCLCLCLCLCLCLCLCLB8CLCLCLCLCLCLCLCLCLCLCMCMCMCMCMCLCLCLCLCLB8u7RQQzQwQxQyQzQwQwQSiBQQQxQyQjQwQB
+BOARD 0 40 64 0 CMCMCMCMCLCMCMCMCMCLCMB7B7CLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCMCMCMCMCMCLCLCMCLB7CM0k12QSQRQSQTvf3QQShwhxQwafQCQzQAQR
+BOARD 0 41 64 0 uWB7B7CMB7B8B8B8B8B7B8CMB7CLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCMCMCMCMCMCLB7B8B7CMB700u61o12QiQjvv3gQiiAQShxQxQSQTQQQh
+BOARD 0 42 64 0 uYvrB7CMCMCMCLCMCMCLCMB7CLCLCLCLCLCLCLCLCLCLCLCLCLB7CLCLCLCLCLCLCLCLCMCLCMCMCMCMCMCMCMCLB7B7CL000j0gu61o1o1o12QyQSiAiBQBQwQxQiQT
+BOARD 0 43 64 0 RTufuWB7B7CMB7B8CMB7B8CMCMCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCMB7CMB7B8B8B8CMB8B7CMCLB7000T0Q0j0Q0R0Qu612afQBQCQDQAafQyQx
+BOARD 0 44 64 0 QjSgRTvrCMB7B8CLB8CMCMB7B8CLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCLCMB7WQCMCMB8CMWQCMCLB7B7B7000j0g0T0g0h0g0j1XQQQRSTSnQQQRiBQB
+BOARD 0 45 64 0 QzQQRyu9B7B7B7B7CMB7B8CMCMB7CLCLB7B7CLCLB7B8CMB7CLCLCLCLCLCLCLCLCLCMCMCO6G6H6I6H6I6JCNB8CMB7CL000T0Q0j0Q0R0Q0Tu7RxRyRQQjQgQhQSQR
+BOARD 0 46 64 0 QgQhRWu9CMB7B8CLB8CMCMB7B8CMCMB7B8CMCMB7B8CMCMB8CLCLCLCLCLCLCLCLCMCMB8Bv6W6X6Y6X6Y6ZBqB7B8CMB7000j0g0T0g0h0g0ju7RBRCRgQzQwQRQiQh
+BOARD 0 47 64 0 QwQxRTufuWCLB7B7B7B7CMB7B8B7CMB8CMB7CMB8CMB7CLCMB8CMCLCLCLCLCLCLCMCMB7B+6m6n6o6n6o6pB9CMCMCLB7000T0Q0j0Q0R0Q0T1XQCSnSiQDSYHCHDQR
+BOARD 0 48 64 0 QAQBSQTjTjvrCMB7B8CLB8CMCMB7B8CMCMB7B8CMCMB7B8CMCMB8CLCLCLCLCLCLCMCMCLB86m6n6o6n6o6pCLCMCLCMCO000j0g0T0g0h0g0j1XQSQTQSQTQQHSHTQh
+BOARD 0 49 64 0 QQQRQRRCTju9B7B8B7B8CMB8B7CMCMB7CMCMCMB7CMB8CMB7CMCMCLCLCLCLCLCLCMCMCLB86W6X6Y6X6Y6ZB7COCdCdCf000T0Q0j0Q0R0Q0T0k1o12QgQRQAQBQSQx
+BOARD 0 50 64 0 QgQhQiQjRTu9CLB8B8CMB7CMB7B7CMB8CLB7CMB8CLCMB7CLB8B7CLCLCLCLCMCLCMCMCLB8WQ6n6o6n6oWQCOCfCXCXL5000j0Q0T0g0h0g0j000gu61o1o12QRQiQB
+BOARD 0 51 64 0 hjhzQyQzRju9B7CMB8B7CLCLCMCMB7CMB8CMB7CMB8B7CLB7CMB7CLCLCLCLB8B7CMCMCMCO6W6X6Y6X6Y6ZCfL6ususRz000T0g0j0Q0R0Q0T000Q0j0h0gu612QgQR
+BOARD 0 52 64 0 QAQBhiQDRTu9CLB7B7CMCMCMCLB8CMCMCMB8CMCMCMCLCMB7B7B8B7CMB8CLCMB7CLCLB8Bv6m6n6o6n6o6pL62QRzTkRQ000j0Q0T0g0h0g0j000g0T0R0Q0ju61o12
+BOARD 0 53 64 0 QQQGQSQTSQufuWCLB7B7B7CMCLCMB7CMB7CMB7CMB7B7B8CMCLCLCMB7CMB8B7CLB7B7B7B+6m6n6o6n6o6p2QRQRTRBQw000T0Q0j0Q0R0Q0T000Q0j0h0g0T0j0gu6
+BOARD 0 54 64 0 S2SYQiQjQgRCTjuWB7B7B7B7B7B7CLCLB7B7B8CLCLCMB7CMCMCMB8CMCMCMCLCMB7CLCLB86m6n6o6n6o6pTTRgRjSBQy1r0j0g0T0g0h0g0j000g0T0R0Q0j0T0Q0j
+BOARD 0 55 64 0 QwQxHEHFQwSQUwuYvrB8CLB8CLB8B7B7B8B7CMCMCMB8B7B7B8CMCMB7CMB7B7B8CMCMB7CMWQ6364636465RCRQSiQCQSQD1rsP0j0Q0R0Q0T000Q0j0h0g0T0j0g0T
+BOARD 0 56 64 0 QAQBHUHVQAQBRCTTu9B7CMCLB7CMB7CMCLB8B7B7B8CMB7B7CMB8B7B7B7CMCLCMCLCMB7COWiCXu7RgQjQwSSQxQCQxQyQjGoGp1rsPsOsP0j000Q0T0R0Q0j0T0Q0j
+BOARD 0 57 64 0 QxQRQSQTQQQRRSRCu9CMB7CLB7B7B8B7B7CMB7CMCMB7B7CMB7CMB7CMB7B8B8B8CLCMB7BvCrCXu7RQHQSATURxSSSTQChjG4G5QyQxQyQz1r000g0j0R0Q0T0j0g0T
+BOARD 0 58 64 0 SnQhQiQjQgQhQiRyu9B7B7CLCMCLCLCMB7B7B8B7CMB7B7B7CMB7CMCMB8CMB8CLB8CMB7B+BNCXu7SBGgGhRTasatTTRgQDQzQyHQQRGiGjhy000Q0T0h0g0j0T0Q0j
+BOARD 0 59 64 0 RyRxQyQzQSQTQyRCu9B8CMCLCMCMCMB8CMCLCLB8B7B7B8CMCMB8B8B8CMB8CMB8B8CLCLCMCOBsu7RgHBHAQDSiRCUwRBQTQDQCQDhyGyGzQj000Q0j0R0Q0T0j0Q0T
+BOARD 0 60 64 0 UwRQQCQSRiRjRxRju9CNB8CMB7B8CMCMCMCLB7CMB7CMCMB8B8CMCLB8B8CMCLCMCLCOCdCdCfL52QTTRxSTRjSDRTRQRRQhQyQDQwQhQSQQhz000g0T0h0Q0j0T0g0j
+BOARD 0 61 64 0 TURgRhRiRyRzTTTUu9BqB8CMB7CMB8B7B7B7B7B7B8B7CMCLB8B8B7B8B8B7B8CLCOCfCXCXL5RzRQRTTTRBSiSiSnQSQzQTQgQxQCQThhQxQQ1rsP0j0R0g0T0j0Q0T
+BOARD 0 62 64 0 TkeMeNRyRzTkTjup0mB6B8B7CMCMCMB8B7B7CMCLCLCMB7CMCMB8CMCLCMCLCMCOCfL5ususTkShQAQxRTRxSTQwQhQSQDQjQwQBQSQjQQZgZhQhQA1rsOsP0j0T0g0j
+BOARD 0 63 64 0 TUecedVDVETUupu502BqB8CMB7B8CMCMCMCMCMCMCMB8CMB8CMCMCMB7COCdCdCfL5TkRzTkRQQTQQQBQhSjRCQAQxQiQTQzQAQRQiQzRIZwZxZgZhQzQBQR1r0j0Q0T
+NPC val_waterfall-downdark3.gif 11 12
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .8,.8,.9,.7;
+  drawaslight;
+
+}
+NPCEND
+NPC - 11 33
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 13 32
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 14 30
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 16 28
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC val_waterfall-downdark4.gif 46 5
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .8,.8,.9,.7;
+  drawaslight;
+
+}
+NPCEND
+NPC - 50 26
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 47 25
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 44 20
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 45 23
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC val_waterfall-tall15.gif 28 5
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .8,.8,.9,.7;
+  drawaslight;
+
+}
+NPCEND
+NPC val_waterfall-tall15.gif 35 2
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .8,.8,.9,.7;
+  drawaslight;
+
+}
+NPCEND
+NPC - 38 18
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 36 19
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 28 21
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 31 22
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 60 40
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree1.gif";
+NPCEND
+NPC val_oakshrub.gif 48 34
+dontblock;
+NPCEND
+NPC val_smeewntree1.gif 57 56
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC lampanimation.gif 2 61
+join world_lamp;
+
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+x=x-.6;y=y+.1;}
+NPCEND
+NPC - 37 54
+// Created by ZazenP2P
+NPCEND
+NPC val_fishingrodprop.gif 44 51
+function onPlayerTouchsme()
+{
+  if (timevar2 < this.lastTouched + 1) return;
+  this.lastTouched = timevar2;
+
+  temp.currentRodCount = player.mud.countitem("fishingrod", false);
+
+  if (temp.currentRodCount < 1) {
+    player.mud.additem("fishingrod", 1);
+    Messages.addmsg(3, "You found an abandoned fishing rod!");
+  }
+  else {
+    Messages.addmsg(3, "You've already found " @ temp.currentRodCount @ " fishing rod" @ (player.mud.fishingrod > 1 ? "s" : "") @ "!");
+  }
+}
+NPCEND
+NPC val_rp-barrel.png 44 51
+//#CLIENTSIDE
+if(created){
+drawunderplayer;y=y-.3;}
+NPCEND
+NPC - 5 9
+
+    join("rp_hiddenmove");
+
+this.setupInfo = {"Leap Across", "dragonsmeet_c1.nw", 16, 7, 3 };
+//#CLIENTSIDE
+    function onCreated()
+    {
+      hide();
+    }
+    this.skill_requirements = {"athletics:5"};
+    this.should_block = true;
+
+this.setupInfo = {"Leap Across", "dragonsmeet_c1.nw", 16, 7, 3 };
+this.warpArea = { 2, 2 };
+NPCEND
+NPC - 6 7
+this.setupInfo = { "athletics", 5, "Leap Across", "You are athletic enough to leap from one side of the waterfall river to the other. You can make this action by moving to this point." };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+
+this.setupInfo = { "athletics", 5, "Leap Across", "You are athletic enough to leap from one side of the waterfall river to the other. You can make this action by moving to this point." };
+NPCEND
+NPC - 15 4
+
+    join("rp_hiddenmove");
+
+this.setupInfo = {"Leap Back", "dragonsmeet_c1.nw", 2, 3, 1 };
+//#CLIENTSIDE
+    function onCreated()
+    {
+      hide();
+    }
+    this.skill_requirements = {"athletics:5"};
+    this.should_block = true;
+
+this.setupInfo = {"Leap Back", "dragonsmeet_c1.nw", 2, 3, 1 };
+this.warpArea = { 2, 2 };
+NPCEND
+NPC - 17 3
+this.setupInfo = { "athletics", 5, "Leap Back", "You are athletic enough to leap from one side of the waterfall river to the other. You can make this action by moving to this point." };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+
+this.setupInfo = { "athletics", 5, "Leap Back", "You are athletic enough to leap from one side of the waterfall river to the other. You can make this action by moving to this point." };
+NPCEND
+NPC - 6 14
+this.setupInfo = { "move", 20, "Cross River", "You have an ability that allows you to cross the distance of one waterfall river to the other. You can make this action by moving to this point." };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+
+this.setupInfo = { "move", 20, "Cross River", "You have an ability that allows you to cross the distance of one waterfall river to the other. You can make this action by moving to this point." };
+NPCEND
+NPC - 5 16
+
+    join("rp_hiddenmove");
+
+this.setupInfo = {"M ove Across", "dragonsmeet_c1.nw", 16, 7, 3 };
+//#CLIENTSIDE
+    function onCreated()
+    {
+      hide();
+    }
+    this.skill_requirements = {"move:20"};
+    this.should_block = true;
+
+this.setupInfo = {"M ove Across", "dragonsmeet_c1.nw", 16, 7, 3 };
+this.warpArea = { 2, 2 };
+NPCEND
+NPC - 19 7
+this.setupInfo = { "move", 20, "Cross River", "You have an ability that allows you to cross the distance of one waterfall river to the other. You can make this action by moving to this point." };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+
+this.setupInfo = { "move", 20, "Cross River", "You have an ability that allows you to cross the distance of one waterfall river to the other. You can make this action by moving to this point." };
+NPCEND
+NPC - 18 9
+
+    join("rp_hiddenmove");
+
+this.setupInfo = {"M ove Back", "dragonsmeet_c1.nw", 2, 12, 1 };
+//#CLIENTSIDE
+    function onCreated()
+    {
+      hide();
+    }
+    this.skill_requirements = {"move:20"};
+    this.should_block = true;
+
+this.setupInfo = {"M ove Back", "dragonsmeet_c1.nw", 2, 12, 1 };
+this.warpArea = { 2, 2 };
+NPCEND

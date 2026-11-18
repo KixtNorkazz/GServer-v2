@@ -1,0 +1,299 @@
+GLEVNW01
+BOARD 0 0 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 1 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 2 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 3 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 4 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 5 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 6 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 7 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 8 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 9 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 10 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 11 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 12 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 13 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3t3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u39fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 14 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+dddededededadddededededadddededededededadddededededadddededededa3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 15 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+duemeneoepduduemeneoepduduemeneoeneoepduduemeneoepduduemeneoepdu3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 16 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+d9e2e3e4e5d6d9e2dOdOe5d6d9e2dOdOdOdOe5d6d9e2dOdOe5d6d9e2e3e4e5d63vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 17 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+d+fGfHfIfJd+d+fGdOdOfJd+d+fGdOdOdOdOfJd+d+fGdOdOfJd+d+fGfHfIfJd+3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 18 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+d9fWfXfYfZd6d9fWdOdOfZd6d9fWdOdOdOdOfZd6d9fWdOdOfZd6d9fWfXfYfZd63vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 19 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+d+fGfXfYfJd+d+fGdOdOfJd+d+fGdOdOdOdOVTd+d+fGdOdOfJd+d+fGfXfYfJd+3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 20 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+d9fad6d9fad6d9fad6d9eme2cgizizizizizV0d6d9fad6d9fad6d9fad6d9fad63vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 21 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+eneoeneoeneoeneoeneoencgcBizizizizizV0UOeneoeneoeneoeneoeneoeneo3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 22 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+izizizizizizizizizizcgcBcBe8WEWEWEWEViU9izizizcAiziziziziziziziz3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 23 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+izSPaAaAaAaAaBizizizcBcBcwemeneoeneoepU9izizizcAizSPaAaAaAaAaBiz3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 24 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+izSfSuaQaQStaRizizizcBcweme2dOdOdOdOe5VhWEWEe9cAizSfSuaQaQStaRiz3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 25 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+izSfaQSdSeaQaRizizizcwU3U3fGdOdOdOdOfJU6fmfnU3cxizSfaQSdSeaQaRiz3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 26 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+izSfaQStSuaQaRizizizizizizizizizizizizizizizizizizSfaQStSuaQaRiz3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 27 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+izSfSeaQaQSdaRizizizizizizizizizizizizizizizizizizSfSeaQaQSdaRiz3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 28 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+izSvagagagagahizizizizizizizizizizizizizizizizizizSvagagagagahiz3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 29 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+e8WEWEWEWEWEWEWEWEWEWEWEWEWEizizizize8WEWEWEWEWEWEWEWEWEWEWEWEWE3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 30 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+U6fmfnfmfnfmfnfmfnfmfnfmfnU3izizizizU6fmfnfmfnfmfnfmfnfmfnfmfnU33vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 31 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+ZYZZZaZZZaZZZaZZZaZZZaZbizizizizizizizizZYZZZaZZZaZZZaZZZaZZZaZb3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 32 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+ZoZpZqZpZqZpZqZpZqZpZqZrizizizizizizizizZoZpZqZpZqZpZqZpZqZpZqZr3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 33 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+Z4Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z7izSPaAaAaAaAaBizZ4Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z73vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 34 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+ZoZpZqZpZqZpZqZpZqZpZqZrizSfSuSdSeStaRizZoZpZqZpZqZpZqZpZqZpZqZr3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 35 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+Z4Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z7izSfaQStSuaQaRizZ4Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z73vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 36 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+ZoZpZqZpZqZpZqZpZqZpZqZrizSfSeaQaQSdaRizZoZpZqZpZqZpZqZpZqZpZqZr3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 37 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+Z4Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z7izSfSuaQaQStaRizZ4Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z73vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 38 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+ZoZpZqZpZqZpZqZpZqZpZqZrizSfaQSdSeaQaRizZoZpZqZpZqZpZqZpZqZpZqZr3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 39 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+Z4Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z7izSfSeStSuSdaRizZ4Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z73vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 40 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+ZoZpZqZpZqZpZqZpZqZpZqZrizSvagagagagahizZoZpZqZpZqZpZqZpZqZpZqZr3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 41 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+aIaJaKaJaKaJaKaJaKaJaKaLizizizizizizizizaIaJaKaJaKaJaKaJaKaJaKaL3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 42 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3s3/3/3/3/3/3/3/3/3/3/3/3//wiziziziziziz/x3/3/3/3/3/3/3/3/3/3/3/3/38fdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 43 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3s3/3/3/3/3/3/38fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 44 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 45 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 46 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 47 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 48 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 49 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 50 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 51 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 52 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 53 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 54 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 55 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 56 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 57 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 58 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 59 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 60 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 61 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 62 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 63 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+LINK highharborint_townhall-1.nw 30 43 4 1 30.5 25
+NPC - 25 40
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  setimgpart("val_cathedral-longpew.png",321,0,2*16,32);
+}
+NPCEND
+NPC - 46 40
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  setimgpart("val_cathedral-longpew.png",321,0,2*16,32);
+}
+NPCEND
+NPC - 25 32
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  setimgpart("val_cathedral-longpew.png",321,0,2*16,48);
+}
+NPCEND
+NPC - 46 36
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  setimgpart("val_cathedral-longpew.png",321,0,2*16,48);
+}
+NPCEND
+NPC - 46 32
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  setimgpart("val_cathedral-longpew.png",321,0,2*16,48);
+}
+NPCEND
+NPC - 25 36
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  setimgpart("val_cathedral-longpew.png",321,0,2*16,48);
+}
+NPCEND
+NPC - 16 32
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_cathedral-longpew.png",0,0,9*16,48);
+    setshape2 11,3,{
+    0,3,3,3,3,3,3,3,3,3,0,
+    22,3,3,3,3,3,3,3,3,3,22,
+    22,22,22,22,22,22,22,22,22,22,22,
+      };
+}
+NPCEND
+NPC - 16 40
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_cathedral-longpew.png",0,0,9*16,32);
+    setshape2 11,3,{
+    0,3,3,3,3,3,3,3,3,3,0,
+    22,3,3,3,3,3,3,3,3,3,22,
+    22,22,22,22,22,22,22,22,22,22,22,
+      };
+}
+NPCEND
+NPC - 16 36
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_cathedral-longpew.png",0,0,9*16,48);
+    setshape2 11,3,{
+    0,3,3,3,3,3,3,3,3,3,0,
+    22,3,3,3,3,3,3,3,3,3,22,
+    22,22,22,22,22,22,22,22,22,22,22,
+      };
+}
+NPCEND
+NPC - 37 32
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_cathedral-longpew.png",0,0,9*16,48);
+    setshape2 11,3,{
+    0,3,3,3,3,3,3,3,3,3,0,
+    22,3,3,3,3,3,3,3,3,3,22,
+    22,22,22,22,22,22,22,22,22,22,22,
+      };
+}
+NPCEND
+NPC - 37 36
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_cathedral-longpew.png",0,0,9*16,48);
+    setshape2 11,3,{
+    0,3,3,3,3,3,3,3,3,3,0,
+    22,3,3,3,3,3,3,3,3,3,22,
+    22,22,22,22,22,22,22,22,22,22,22,
+      };
+}
+NPCEND
+NPC - 37 40
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_cathedral-longpew.png",0,0,9*16,32);
+    setshape2 11,3,{
+    0,3,3,3,3,3,3,3,3,3,0,
+    22,3,3,3,3,3,3,3,3,3,22,
+    22,22,22,22,22,22,22,22,22,22,22,
+      };
+}
+NPCEND
+NPC - 29 29
+//#CLIENTSIDE
+if (playerenters){
+  timeout=.05;
+}
+if (timeout) {
+  if (player.ani=="val_sit" && player.y>this.y) {
+    player.dir = 0;
+  }
+  timeout=.05;
+}
+NPCEND
+NPC val_valcastle-throne.png 30 18
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+drawunderplayer();
+    setshape2 3,4,{
+    22,22,22,
+    3,3,3,
+    3,3,3,
+    3,3,3,
+      };
+}
+NPCEND
+NPC - 18 16
+//#CLIENTSIDE
+if (created) {
+setimgpart val_valcastle-window-lucca2.gif,0,24,32,64;
+}
+NPCEND
+NPC - 44 16
+//#CLIENTSIDE
+if (created) {
+setimgpart val_valcastle-window-lucca2.gif,0,24,32,64;
+}
+NPCEND
+NPC val_valcastle-torch2.png 41 19
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+    0,0,
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+
+NPCEND
+NPC val_valcastle-torch2.png 21 19
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+    0,0,
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+
+NPCEND
+NPC val_valcastle-torch2.png 46 19
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+    0,0,
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+
+NPCEND
+NPC val_valcastle-torch2.png 16 19
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+    0,0,
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+
+NPCEND
+NPC val_buxton_flag3b.gif 23 16
+NPCEND
+NPC val_buxton_flag3b.gif 37 16
+NPCEND

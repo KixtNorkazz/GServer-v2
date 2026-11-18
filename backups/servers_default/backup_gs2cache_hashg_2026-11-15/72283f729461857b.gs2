@@ -1,0 +1,13 @@
+//#CLIENTSIDE
+function onPlayerChats() {
+  if (("#g" == "Undying Court")) {
+    if ((player.chat == "reveal")) {
+      hide();
+    }
+  }
+  if (("#g" == "Undying Court")) {
+    if ((player.chat == "close")) {
+      show();
+    }
+  }
+}

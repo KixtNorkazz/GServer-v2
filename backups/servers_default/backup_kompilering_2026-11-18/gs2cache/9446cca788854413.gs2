@@ -1,0 +1,41 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+}
+
+function onTimeOut() {
+  gs1_always();
+  if (((client.weaponequip) == (this.name))) {
+    this.equiped = 1;
+    client.aniidle = "val-spearofchaos-idle-ready";
+    client.aniattack = "val-spearofchaos-attack2";
+    setTimer(.05);
+  }
+}
+
+function onWeaponFired() {
+  gs1_always();
+  if (this.equiped==0) {
+    client.weaponequip = "#w";
+    this.equiped = 1;
+    setani("val-spearofchaos-chop", NULL);
+    sleep(.7);
+    setani("val-spearofchaos-chop", NULL);
+    client.aniidle = "val-spearofchaos-idle-ready";
+    client.aniattack = "val-spearofchaos-attack2";
+    triggeraction(0, 0, "serverside", *this.Artifacts/this.Spear this.of this.Chaos, this.equip);
+  } else if (this.equiped==1) {
+    client.weaponequip = "none";
+    setani("idle", NULL);
+    this.equiped = 0;
+    player.attr[8] = "cccc.png";
+    client.idleani = "idle";
+  }
+}
+
+function gs1_always() {
+  if (keydown(6)&&this.equiped==1) {
+    freezeplayer(.3);
+    setani("val-spearofchaos-attack", NULL);
+  }
+}

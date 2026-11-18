@@ -1,0 +1,692 @@
+GLEVNW01
+BOARD 0 0 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 1 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3t3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u39LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 2 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+kykzkzk0WSk0k0k1k0k1k1WSk1k1k0k23vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 3 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+lClDlDlEWylElElFlElFlFWylFlFlElG3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 4 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+kCkDkDkEWBkEkEkFkEkFkFWBkFkFkEkG3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 5 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+kSkTkTkUWCkUkUkVkUkVkVWCkVkVkUkW3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 6 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+kikjkjkkWSkkkkklkkklklWSklklkkkm3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 7 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+kykzkzk0Wik0k0k1k0k1k1Wik1k1k0k23vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 8 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+lClDlDlEWylElElFlElFlFWylFlFlElG3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 9 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+kCkDkDkEWBkEkEkFkEkFkFWBkFkFkEkG3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 10 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+kSkTkTkUWCkUkUkVkUkVkVWCkVkVkUkW3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 11 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+kiWpkjkkWSkkkkklkkklklWSklklkkkm3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 12 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+kyWSkzk0Wik0k0k1k0k1k1Wik1k1k0k23vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 13 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+lCWSlDlEWylElElFlElFlFWylFlFeMeb3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 14 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+ZpWiZpZqZpZqZpZqZpZqZpZqZpZqeaNX3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 15 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+Z5WyZ5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6eaNX3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 16 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+ZpZqZpZqZpZqZpZqZpZqZpZqZpZqeaNn3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 17 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+Z5Z6Z5Z6Z5Z5Z5Z6Z5Z6Z5Z6Z5Z6eKeK3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 18 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+U+U+U+U+U+Z5Z5Z6Z5Z5Z5U+U+U+U+U+3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 19 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+d+d+d8d9lQlRcQcQcQcQlQlRd6d7d+d+3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 20 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+cQcQcQcQfmfncxcQcQcwfmfncQcQcQcQ3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 21 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+U7U8U7U8U7cwcQcQcQcQcxU8U7U8U7U83vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 22 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+UrUsUrUsUrUsSPaAaAaBUrUsUrUsUrUs3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 23 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+U7U8U7U8U7U8SfSdSeaRU7U8U7U8U7U83vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 24 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+UrUsUrUsUrUsSfSdSdaRUrUsUrUsUrUs3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 25 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+U7U8U7U8U7U8SfSeSeaRU7U8U7U8U7U83vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 26 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+UrUsUrUsUrUsSfStStaRUrUsUrUsUrUs3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 27 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+U7U8U7U8U7U8SfSdSdaRU7U8U7U8U7U83vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 28 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+UrUsUrUsUrUsSfSeSeaRUrUsUrUsUrUs3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 29 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+U7U8U7U8U7U8SfStStaRU7U8U7U8U7U83vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 30 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+UrUsUrUsUrUsSfSdSdaRUrUsUrUsUrUs3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 31 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+U7U8U7U8U7U8SfSeSeaRU7U8U7U8U7U83vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 32 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+UrUsUrUsUrUsSfStStaRUrUsUrUsUrUs3vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 33 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+U7U8U7U8U7U8SfSdSdaRU7U8U7U8U7U83vLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+BOARD 0 34 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+UrUsUrUsUrUsSfSeSeaRUrUsUrUsUrUs/h3u3u3u3u3u3u3u3u3u39LhLhLhLhLhLhLh
+BOARD 0 35 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+U7U8U7U8U7U8SfStStaRU7U8U7U8U7U8kgkheneokgkheneokgkh3vLhLhLhLhLhLhLh
+BOARD 0 36 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+UrUsUrUsUrUsSfSdSdaRUrUsUrUsUrUskwkxdedekwkxdedekwkx3vLhLhLhLhLhLhLh
+BOARD 0 37 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+U7U8U7U8U7U8SfSeSeaRU7U8U7U8U7U8kgkhdudukgkhdudukgkh3vLhLhLhLhLhLhLh
+BOARD 0 38 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+UrUsUrUsUrUsSfStStaRUrUsUrUsUrUskwkxd+d+kwkxd+d+kwkx3vLhLhLhLhLhLhLh
+BOARD 0 39 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+U7U8U7U8U7U8SfSdSdaRU7U8U7U8U7U8lAlBeneolAlBeneolAlB3vLhLhLhLhLhLhLh
+BOARD 0 40 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+UrUsUrUsUrUsSfSeSeaRUrUsUrUsUrUslQlRdudulQlRdudulQlR3vLhLhLhLhLhLhLh
+BOARD 0 41 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+U7U8U7U8U7U8SfStStaRU7U8U7U8U7U8lglhd+d+lglhd+d+lglh3vLhLhLhLhLhLhLh
+BOARD 0 42 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+UrUsUrUsUrUsSfStSuaRUrUsUrUsUrUslQlReneolQlReneolQlR3vLhLhLhLhLhLhLh
+BOARD 0 43 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+U7U8U7U8U7U8SvagagahU7U8U7U8U7U8lglhdedelglhdedelglh3vLhLhLhLhLhLhLh
+BOARD 0 44 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+UrUsUrUsUrUsUrUsUrUsUrUsUrUsUrUslQlRdudulQlRdudulQlR3vLhLhLhLhLhLhLh
+BOARD 0 45 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+U7U8U7U8U7U8U7U8U7U8U7U8U7U8U7U8lglhd+d+lglhd+d+lglh3vLhLhLhLhLhLhLh
+BOARD 0 46 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+SPaAaAaAaAaAaAaAaAaAaAaAaAaAaAaBlQlRd+d+lQlRd+d+lQlR3vLhLhLhLhLhLhLh
+BOARD 0 47 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+SfSdSdSeSdSeSdSeSdSeSdSeSdSdSdaRfmfndqdtfmfndqdtfmfn3vLhLhLhLhLhLhLh
+BOARD 0 48 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+SfStSuStSuStSuStSuStSuStSuSeSeaRzP7AzP7AzP7AzP7AzP7A3vLhLhLhLhLhLhLh
+BOARD 0 49 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+SvagagagagagagagagagagagStStStaRzf7Qzf7Qzf7Qzf7Qzf7Q3vLhLhLhLhLhLhLh
+BOARD 0 50 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+zP7AzP7AzP7AzP7AzP7AzP7ASfSdSdaRzP7AzP7AzP7AzP7AzP7A3vLhLhLhLhLhLhLh
+BOARD 0 51 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+zf7Qzf7Qzf7Qzf7Qzf7Qzf7QSfSeSeaRzf7Qzf7Qzf7Qzf7Qzf7Q3vLhLhLhLhLhLhLh
+BOARD 0 52 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+zP7AzP7AzP7AzP7AzP7AzP7ASfStStaRzP7AzP7AzP7AzP7AzP7A3vLhLhLhLhLhLhLh
+BOARD 0 53 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+zf7QSPaAaAaBzf7Qzf7Qzf7QSfSdSdaRzf7Qzf7QVRUtVRVSUtVS3vLhLhLhLhLhLhLh
+BOARD 0 54 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3s3/3/3/3/3/3/3//wzP7AzP7ASfSeSeaRzP7AzP7AWDNHVhViNKV03vLhLhLhLhLhLhLh
+BOARD 0 55 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+zf7Qzf7QSfStStaRzf7Qzf7QWDNXlwlxNaV03vLhLhLhLhLhLhLh
+BOARD 0 56 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+zP7AzP7ASfStSuaRzP7AzP7AWDNnfmfnNqV03vLhLhLhLhLhLhLh
+BOARD 0 57 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+zf7Qzf7QSvagagahzf7Qzf7QWDN3N4N5N6V03vLhLhLhLhLhLhLh
+BOARD 0 58 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+zP7AzP7AzP7AzP7AzP7AzP7AVhWEWEWEWEVi3vLhLhLhLhLhLhLh
+BOARD 0 59 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+zf7Qzf7Qzf7Qzf7Qzf7Qzf7Q8A0P8A0P8A0P3vLhLhLhLhLhLhLh
+BOARD 0 60 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+zP7AzP7ASPaAaAaBzP7AzP7AzP7AzP7AzP7A3vLhLhLhLhLhLhLh
+BOARD 0 61 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3+zf7Qzf7QSfaQaQaRzf7Qzf7Qzf7Qzf7Qzf7Q3vLhLhLhLhLhLhLh
+BOARD 0 62 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3s3/3/3//wSfSdSeaR/x3/3/3/3/3/3/3/3/3/38LhLhLhLhLhLhLh
+BOARD 0 63 64 0 LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh3s3/3/3/3/38LhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLhLh
+LINK val_bullscall_b02.nw 42 63 4 1 48.5 7.5
+NPC - 41 41
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_cathedral-longpew.png",0,0,5*16,48);
+    setshape2 7,3,{
+    0,3,3,3,3,3,0,
+    22,3,3,3,3,3,22,
+    22,22,22,22,22,22,22,
+      };
+}
+NPCEND
+NPC val_lionel-altar.gif 45 47
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Vanguard Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cloud-lightbeam2.gif 47 37
+//#CLIENTSIDE
+function onCreated() {
+  this.red = .2;
+  this.green =.2;
+  this.blue = .2;
+  this.alpha = 0.8;
+  this.zoom = 2;
+  drawaslight();
+  dontblock();
+}
+NPCEND
+NPC val_lionel-altar2.gif 35 12
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+this.y += 0.5;
+}
+NPCEND
+NPC val_lionel-altarcandles.gif 37 12
+//NPC Made By Samuel Longfellow
+//#CLIENTSIDE
+if (created){
+  x-=.5;
+  y-=.6;
+  dontblock;
+  drawoverplayer;}
+if (playerenters||created) {
+  timeout=.1;
+}
+if (timeout) {
+  if (player.ani=="val_sit") {
+    player.dir = 0;
+  }
+  showimg 1,light2.png,x-3.8,y-3.3;
+  changeimgcolors 1,1,0.5,0,0.4;
+  changeimgzoom 1,random(.4,.55);
+  changeimgvis 1,3;
+
+  showimg 2,light2.png,x-3.15,y-3.7;
+  changeimgcolors 2,1,0.5,0,0.4;
+  changeimgzoom 2,random(.55,.4);
+  changeimgvis 2,3;
+
+  showimg 3,light2.png,x-2.55,y-4;
+  changeimgcolors 3,1,0.5,0,0.4;
+  changeimgzoom 3,random(.6,.4);
+  changeimgvis 3,3;
+
+  showimg 4,light2.png,x-1.85,y-3.7;
+  changeimgcolors 4,1,0.5,0,0.4;
+  changeimgzoom 4,random(.4,.5);
+  changeimgvis 4,3;
+
+  showimg 5,light2.png,x-1.25,y-3.3;
+  changeimgcolors 5,1,0.5,0,0.4;
+  changeimgzoom 5,random(.4,.6);
+  changeimgvis 5,3;
+
+  timeout=.05;
+}
+NPCEND
+NPC water32.mng 45 15
+//#CLIENTSIDE
+// NPC made by Samuel Longfellow
+if (created) {setimgpart water32.mng,0,0,16,32;
+drawaslight;
+setcoloreffect 0,.2,1,.65;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC church_flowers1b.gif 43 19
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Vanguard Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-torch2.png 40 41
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+      22,22
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC asca-rail3.gif 35 16
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+NPCEND
+NPC val_drape1.gif 43 9
+//#CLIENTSIDE
+function onCreated() {
+  drawunderplayer;
+}
+NPCEND
+NPC asca-rail4.gif 40 16
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+NPCEND
+NPC val_drape2.gif 30 8
+//#CLIENTSIDE
+function onCreated() {
+  drawunderplayer;
+}
+NPCEND
+NPC val_valcastle-window-lucca.png 48 36
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_valcastle-window-lucca.gif",0,28,32,48);
+}
+NPCEND
+NPC val_valcastle-window-lucca.gif 48 43
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_valcastle-window-lucca.gif",0,28,32,48);
+}
+NPCEND
+NPC val_righteoushouse-statue1.gif 51 50
+//#CLIENTSIDE
+function onCreated() {
+this.x +=0.1;
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_drape2.gif 30 5
+//#CLIENTSIDE
+function onCreated() {
+  drawunderplayer;
+}
+NPCEND
+NPC val_drape1.gif 43 5
+//#CLIENTSIDE
+function onCreated() {
+  drawunderplayer;
+}
+NPCEND
+NPC val_drapetop1.gif 41 5
+NPCEND
+NPC val_drapetop2.gif 31 5
+drawoverplayer;
+NPCEND
+NPC val_drapetop2.gif 34 5
+drawunderplayer;
+NPCEND
+NPC val_drapetop1.gif 38 5
+NPCEND
+NPC - 41 35
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_cathedral-longpew.png",0,0,5*16,48);
+    setshape2 7,3,{
+    0,3,3,3,3,3,0,
+    22,3,3,3,3,3,22,
+    22,22,22,22,22,22,22,
+      };
+}
+NPCEND
+NPC - 41 29
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_cathedral-longpew.png",0,0,5*16,48);
+    setshape2 7,3,{
+    0,3,3,3,3,3,0,
+    22,3,3,3,3,3,22,
+    22,22,22,22,22,22,22,
+      };
+}
+NPCEND
+NPC val_valcastle-torch2.png 34 41
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+      22,22
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC church_flowers1b.gif 31 19
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Vanguard Champion of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC asca-rail2.gif 30 16
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+
+
+NPCEND
+NPC asca-rail1.gif 36 17
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+NPCEND
+NPC - 52 53
+//#CLIENTSIDE
+
+function onCreated() {
+  this.x += 0.3;
+  this.y += 0.3;
+  with (findimg(200)) {
+    with(emitter) {
+      delaymin=0.05;
+      delaymax=0.05;
+      nrofparticles = 1;
+
+      with(particle){
+        image="light2s.png";
+        lifetime=1.1;
+        speed=5;
+        zoom=1;
+        red=0.16;
+        blue=0.32;
+        green=0.3;
+        alpha=0.5;
+      }//particle
+
+    addlocalmodifier("once",0,0,"angle","replace",degtorad(100),degtorad(105));
+  addlocalmodifier("once",0.15,0.15,"angle","add",degtorad(20),degtorad(20));
+  addlocalmodifier("once",0.25,0.25,"angle","add",degtorad(20),degtorad(20));
+  addlocalmodifier("once",0.3,0.3,"angle","add",degtorad(20),degtorad(20));
+  addlocalmodifier("once",0.35,0.35,"angle","add",degtorad(20),degtorad(20));
+        addlocalmodifier("once",0.4,0.4,"angle","replace",degtorad(220),degtorad(225));
+    addlocalmodifier("once",0.45,0.45,"angle","add",degtorad(20),degtorad(20));
+    addlocalmodifier("once",0.5,0.5,"angle","add",degtorad(20),degtorad(20));
+
+    }//emitter
+  }//findimg
+
+  with (findimg(300)) {
+    with(emitter) {
+      delaymin=0.05;
+      delaymax=0.05;
+      nrofparticles = 1;
+
+      with(particle){
+        image="light2s.png";
+        lifetime=1.1;
+        speed=5;
+        zoom=1;
+        red=0.16;
+        blue=0.32;
+        green=0.3;
+        alpha=0.5;
+      }//particle
+
+    addlocalmodifier("once",0,0,"angle","replace",degtorad(80),degtorad(85));
+  addlocalmodifier("once",0.15,0.15,"angle","add",degtorad(-20),degtorad(-20));
+  addlocalmodifier("once",0.25,0.25,"angle","add",degtorad(-20),degtorad(-20));
+  addlocalmodifier("once",0.3,0.3,"angle","add",degtorad(-20),degtorad(-20));
+  addlocalmodifier("once",0.35,0.35,"angle","add",degtorad(-20),degtorad(-20));
+        addlocalmodifier("once",0.4,0.4,"angle","replace",degtorad(-40),degtorad(-45));
+    addlocalmodifier("once",0.45,0.45,"angle","add",degtorad(-20),degtorad(-20));
+    addlocalmodifier("once",0.5,0.5,"angle","add",degtorad(-20),degtorad(-20));
+
+
+    }//emitter
+  }//findimg
+}//created
+NPCEND
+NPC val_buxton_flag2a.gif 32 10
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_valcastle-torch2.png 35 18
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+      22,22
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_cloud-lightbeam2.gif 37 24
+//#CLIENTSIDE
+function onCreated() {
+  this.red = .2;
+  this.green =.2;
+  this.blue = .2;
+  this.alpha = 0.8;
+  this.zoom = 2;
+  drawaslight();
+  dontblock();
+}
+NPCEND
+NPC val_valcastle-torch2.png 39 18
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+      22,22
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC stefanbook.gif 47 48
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Vanguard Champion of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_churchwindow3-light2.gif 41 55
+// NPC made by Stefan Knorr
+if (created) {
+  this.x += 0.5;
+  setimg val_churchwindow3-light.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.5;
+  drawaslight;
+}
+NPCEND
+NPC water32.mng 45 14
+//#CLIENTSIDE
+// NPC made by Samuel Longfellow
+if (created) {setimgpart water32.mng,0,0,16,32;
+drawaslight;
+setcoloreffect 0,.2,1,.65;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC asca-rail1.gif 39 17
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+NPCEND
+NPC asca-rail1.gif 41 16
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+NPCEND
+NPC asca-rail1.gif 34 16
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+NPCEND
+NPC asca-rail1.gif 36 18
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+NPCEND
+NPC asca-rail1.gif 39 18
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+NPCEND
+NPC asca-rail2.gif 31 16
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+
+
+NPCEND
+NPC asca-rail2.gif 32 16
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+
+
+NPCEND
+NPC asca-rail2.gif 33 16
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+
+
+NPCEND
+NPC asca-rail2.gif 42 16
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+
+
+NPCEND
+NPC asca-rail2.gif 43 16
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+
+
+NPCEND
+NPC asca-rail2.gif 44 16
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+
+
+NPCEND
+NPC asca-rail2.gif 45 16
+//#CLIENTSIDE
+if (created)
+{
+setshape2 1,3,{
+    0,
+    0,
+    22,
+    };
+}
+
+
+NPCEND
+NPC - 41 23
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_cathedral-longpew.png",0,0,5*16,48);
+    setshape2 7,3,{
+    0,3,3,3,3,3,0,
+    22,3,3,3,3,3,22,
+    22,22,22,22,22,22,22,
+      };
+}
+NPCEND
+NPC - 30 23
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_cathedral-longpew.png",17*16,0,5*16,48);
+    setshape2 5,3,{
+    3,3,3,3,0,
+    3,3,3,3,22,
+    22,22,22,22,22,
+      };
+}
+NPCEND
+NPC - 30 29
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_cathedral-longpew.png",17*16,0,5*16,48);
+    setshape2 5,3,{
+    3,3,3,3,0,
+    3,3,3,3,22,
+    22,22,22,22,22,
+      };
+}
+NPCEND
+NPC - 30 35
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_cathedral-longpew.png",17*16,0,5*16,48);
+    setshape2 5,3,{
+    3,3,3,3,0,
+    3,3,3,3,22,
+    22,22,22,22,22,
+      };
+}
+NPCEND
+NPC - 30 41
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_cathedral-longpew.png",17*16,0,5*16,48);
+    setshape2 5,3,{
+    3,3,3,3,0,
+    3,3,3,3,22,
+    22,22,22,22,22,
+      };
+}
+NPCEND

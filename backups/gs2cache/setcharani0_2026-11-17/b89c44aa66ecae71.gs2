@@ -1,0 +1,18 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "no-head.png";
+  this.body = "no-body.png";
+  this.colors[0] = "black";
+  this.colors[1] = "black";
+  this.colors[2] = "black";
+  this.colors[3] = "black";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("noose", NULL);
+  this.dir = 2;
+  this.ap = 100;
+  dontblock();
+  drawoverplayer();
+}

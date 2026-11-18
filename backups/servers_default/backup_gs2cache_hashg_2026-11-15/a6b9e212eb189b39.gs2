@@ -1,0 +1,6 @@
+//#CLIENTSIDE
+function onPlayerTouchsMe() {
+  if (("#g" == "Staghorn")||(player.account == "Darklord12")) {
+    dontblock();
+  }
+}

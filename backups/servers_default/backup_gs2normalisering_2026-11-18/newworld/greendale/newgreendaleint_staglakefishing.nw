@@ -1,0 +1,1332 @@
+GLEVNW01
+BOARD 0 0 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 1 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 2 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jVi0i0jlJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 3 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEcZcYi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 4 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jVi0i0i2i0i0i3i0i0i0i0i0i0jlJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jVi0i0i0i0i0i0i0i0i0i0i0i0jlJ4
+BOARD 0 5 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEB0B3CEcZcYCHcYcZcYcZB0B3i1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEhghjcZcYcZYvcYcZcYcZhghji1J4
+BOARD 0 6 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEYXYZCHhUhTCEhThU5MBBYXYZi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEhwhzhUhThUYvhThUhThUhwhzi1J4
+BOARD 0 7 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEYXYZCEYtYtCHYr5ML6L6YXYZi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEiAiDYtYtYtYvYtYtYtYtiAiDi1J4
+BOARD 0 8 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEYXYZCHYvYvCE5ML6L6L6YXYZi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEigijYvYvYvYvYvYvYvYvigiji1J4
+BOARD 0 9 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEYKYLBQnInJnJL6L6CQBzYXYZi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEiwizYvYvYvYvYvYvYvYviwizi1J4
+BOARD 0 10 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEB0B3BQnYnZnZL6CQBzcZYKYLi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEvCvBvBvBvBvBvBvBvBvBvBvAi1J4
+BOARD 0 11 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEYvYvCQnYnZBzhwhzhThUB0B3i1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyuguhuhuhuhuhuhuhuiOHuwi1J4
+BOARD 0 12 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEYrYrCHLmLmCEiAiDYtYtYrYri1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyuwkCkDkDOGOHkDkFuyOGuwi1J4
+BOARD 0 13 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEYvYvCELmLmCHiQiTYvYvYvYvi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyuwkikjkjkjkjkjkluyOHuwi1J4
+BOARD 0 14 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEYvYvCHLmLmCEiwizYvYvYvYvi3i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i2uyuwkykzkzkzkzk0k1uyOGuwi1J4
+BOARD 0 15 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEvCvBuxuxuxuxvBvBvBvBk2k2hghjcYcZcYcZhghjcYcZcYcZhghjcYcZcYcZlklmlklmjijjuyuwiwixixOGOHiyizuyOHuwi1J4
+BOARD 0 16 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyOHvAvBvBvCOGOHOGOHk2nZhwhzhThUhThUhwhzhThUhThUhwhzhThUhThUl0l2l0l2jijjuyvAvBvBvBvBvBvBvBvCOGuwi1J4
+BOARD 0 17 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyOGOHOGOHOGOHOGOHOGk2nJiAiDYtYtYtYtiAiDYtYtYtB0B1B2B1B2B3YtlklllmlklllmuyOHOHOGOHOGOHOGOHOGOHuwi1J4
+BOARD 0 18 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyOHOGOHOGOHOGOHOGOHk2nZigiTYvYvYvYvigijYvYvYvCEIdIdIdIdCHYvl0l1l2l0l1l2uyOGOGOHOGOHOGOHOGuguhugi1J4
+BOARD 0 19 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuhuhKpKquhuhuiOGOHOGk2k2iwizYvjCjDYviwizvBvBYvCUItItItItCXYvjijjjijjjijjkDkFOHOGOHOGOHOGOHuwkCkEi1J4
+BOARD 0 20 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEkCkDK5K6kEkFuyOHOGOHOGOHOGOHvBkSklvCvBvBvBvBvBvBvBvBvBvBvBvBvBvBvBvBvA3PkSklOGOHOGOHOGOHOGuwkSkki1J4
+BOARD 0 21 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEkikjkkkjkkkluyOGOHOGOHOGOHOG3PkSkVuyOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGuwL6kSklOGOHOGOHOGOHOGuwkikki1J4
+BOARD 0 22 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEkSkTkUkTkUkVuyOHOGOHOGOHOGOHL6kSkluyOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHugL6kSklOHOGOHOGOHOGOHuwkikki1J4
+BOARD 0 23 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEkikjkkkjkkkluyOGOHOGOHOGOHOGL6kSkVuiuhuhuhuhuhuhuhuhuhuhuhuhuiOGOHOGuwL6kSklOGOHOGOHOGOHOGuwkSkki1J4
+BOARD 0 24 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEkykzk0kzk0k1uyOHOGOHOGOHOGOHL6kSkTkDkDkDkDkDkDkDkDkDkDkDkDjDuiuhuhuhugL6kSklOHOGOHOGOHOGOHuwkSkki1J4
+BOARD 0 25 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEiwixKpKqiyizuyOGOHOGOHOGOHOGL6kykzk0k0k0k0k0k0k0k0k0k0k0kTkTkDkDkDkF/AL6kSklOGOHOGOHOGOHOGuwkikki1J4
+BOARD 0 26 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEvBvBK5K6vBvBvCOHOGOHOGOHOGOH3fMwLmLmLmLmLmLmLmLmLmLmLmNlkykzk0k0k0k1LbL6kyk1OHOGOHOGOHOGOHuwkyk0i1J4
+BOARD 0 27 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOH3fMwLmLmLmLmMz/Q3fiwizOGOHOGOHOGOHOGuwiwixi1J4
+BOARD 0 28 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOHOGOHOGOHOGOHvAvBvAi1J4
+BOARD 0 29 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOGOHOGOHOGOHOGOHOGuwi1J4
+BOARD 0 30 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyuguhuhKpKquhuhuiOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOHOGOHOGOHOGOHOGOHuwi1J4
+BOARD 0 31 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyuwkCkDK5K6kEkFuyOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGjHjGOGOHOGOHOGOHOGOHOGuwi1J4
+BOARD 0 32 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyuwkikjkkkjkkkluyOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGugi1jEOHOGOHOGOHOGOHOGOHuwi1J4
+BOARD 0 33 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyuwkSkTkUkTkUkVuyOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGkCkDcicjcicjcicjciOGi1jEugkCcicjcicjcikFuiuwi1J4
+BOARD 0 34 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyuwkikjkjkkkkkluyOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHkSkTkUkTkUkTkUkTkUOHi1jEuwkSkUkTkUkTkUkUkluwi1J4
+BOARD 0 35 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyuwkykzk0kzk0k1uyOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGOHOGkykzk0kzk0kzk0kzk0OGi1jEuwkyk0kzk0kzk0k0k1uwi1J4
+BOARD 0 36 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyuwiwixKpKqiyizuyOHOGOHOGOHOGugLrK5K6K5K6K5K6LruiOHizuxuxuxuxuxuxuxuyOHi1jEuwiwixuxuxuxvCixizuwi1J4
+BOARD 0 37 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuyvAvBvBK5K6vBvBvCOGOHOGOHOGOHuwL7K5K6K5K6K5K6L7uyOGvAvBvBvBvBvBvBvBvCuwi1jEvAvBvBvBvBvBvBvBvCuwi1J4
+BOARD 0 38 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jEuiuhuhuhuhuhuhuhuhuhuhuhuhuhuhugMKMKMLMKMLMKMLL7uiuhuhuhuhuhuhuhuhuhuhugi1jEuhuhuhuhuhuhuhuhuhugi1J4
+BOARD 0 39 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4jUjFjFjFjFjFjFjFjFjFjGuxuxuxuxjHjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjkjUjFjFjFjFjFjFjFjFjFjFjkJ4
+BOARD 0 40 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jUjFjFjFjFjkJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 41 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 42 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 43 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 44 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 45 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 46 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 47 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 48 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 49 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 50 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 51 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 52 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 53 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 54 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 55 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 56 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 57 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 58 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 59 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 60 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 61 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 62 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 63 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+LINK staghornnew_c2.nw 24 39 4 1 11.5 59
+LINK newgreendaleint_staglakefishing2.nw 24 7 1 2 25 36.5
+LINK newgreendaleint_staglakefishingcellar.nw 44 19 2 1 9.5 49.5
+LINK newgreendaleint_staglakefishingbath.nw 26 15 1 3 30 17
+NPC val_rp-barrel.png 14 15
+// NPC made by Doctor Duranjaya Nehru
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 14 14
+// NPC made by Doctor Duranjaya Nehru
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel2.png 14 13
+
+NPCEND
+NPC bookopen.gif 33 25
+// NPC made by Omake OOC (Staghorn)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 47 20
+// NPC made by Doctor Duranjaya Nehru
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 46 18
+// NPC made by Doctor Duranjaya Nehru
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 48 18
+// NPC made by Doctor Duranjaya Nehru
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-wine1.gif 46 33
+// NPC made by Doctor Duranjaya Nehru
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-wine2.gif 48 33
+// NPC made by Doctor Duranjaya Nehru
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-wine2.gif 42 33
+// NPC made by Doctor Duranjaya Nehru
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_beermug.gif 19 32
+// NPC made by Doctor Duranjaya Nehru
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_beermug.gif 16 33
+// NPC made by Doctor Duranjaya Nehru
+if (created) {drawoverplayer
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_beermug.gif 16 31
+// NPC made by Doctor Duranjaya Nehru
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-wine2.gif 36 24
+// NPC made by Doctor Duranjaya Nehru
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_beermug.gif 29 22
+// NPC made by Doctor Duranjaya Nehru
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_oldchair.gif 34 18
+//#CLIENTSIDE
+function onCreated()
+  {
+  drawunderplayer();
+  setshape2 2,3,{
+    55,55,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC tay-barstool.gif 44 27
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 2,3,
+    {3,3,3,3,55,55};
+}
+NPCEND
+NPC tay-barstool.gif 39 26
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 2,3,
+    {3,3,3,3,55,55};
+}
+NPCEND
+NPC tay-barstool.gif 35 26
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 2,3,
+    {3,3,3,3,55,55};
+}
+NPCEND
+NPC tay-barstool.gif 27 25
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 2,3,
+    {3,3,3,3,55,55};
+}
+NPCEND
+NPC tay-barstool.gif 27 22
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 2,3,
+    {3,3,3,3,55,55};
+}
+NPCEND
+NPC tay-barstool.gif 31 26
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 2,3,
+    {3,3,3,3,55,55};
+}
+NPCEND
+NPC ghost-shelf.gif 37 14
+// NPC made by Midas Antilles
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dragonsblood-pint.png 41 15
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+NPCEND
+NPC dragonsblood-pint.png 39 15
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+NPCEND
+NPC teapot.gif 45 25
+//#CLIENTSIDE
+if (created) {
+  y -= .5;
+  dontblock;
+  drawunderplayer;
+}
+NPCEND
+NPC val_tatteredcloth.gif 37 15
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+NPCEND
+NPC val_rp-grandfatherclock1.gif 23 11
+//#CLIENTSIDE
+if (created) {
+x=x-.5;
+y=y-.5;
+  dontblock;
+}
+NPCEND
+NPC candle.mng 26 15
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC candle.mng 14 11
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC candle.mng 20 5
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC candle.mng 20 11
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC val_frost-insides.png 18 31
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_frost-insides.png,48,256,32,16;
+  dontblock;drawoverplayer;
+}
+NPCEND
+NPC val_candle.gif 18 32
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.25;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+if (created) {x=x-.5;}
+NPCEND
+NPC val_candle.gif 31 23
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.25;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+if (created) {x=x-.5;}
+NPCEND
+NPC val_candle.gif 43 24
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.25;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+if (created) {x=x-.5;}
+NPCEND
+NPC val_rp-wordtable1.gif 40 33
+//#CLIENTSIDE
+// NPC made by Rominus Auraelius, Chief Marine of (Bridgeton)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_candle.gif 43 33
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.25;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+if (created) {x=x-.5;}
+NPCEND
+NPC midas-workbenchh.gif 43 36
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {dontblock; drawunderplayer;x=x-.5;
+}
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 5,2,
+    {3,3,3,3,3,3,3,3,3,3};
+}
+NPCEND
+NPC midas-workbenchh.gif 43 32
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {dontblock; drawunderplayer;x=x-.5;
+}
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 5,2,
+    {3,3,3,3,3,3,3,3,3,3};
+}
+NPCEND
+NPC tay-couch.gif 30 36
+//#CLIENTSIDE
+// NPC made by Samuel -Chief- (LAT)
+if (created){
+setimgpart tay-couch.gif,0,0,128,52;dontblock;drawunderplayer; y=y-.2;
+}
+NPCEND
+NPC val_frost-insides.png 16 20
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_frost-insides.png,48,256,32,16;
+  dontblock;drawoverplayer;
+}
+NPCEND
+NPC val_candle.gif 15 19
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.25;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+if (created) {x=x-.5;}
+NPCEND
+NPC val_beermug.gif 17 22
+// NPC made by Doctor Duranjaya Nehru
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-wine1.gif 38 23
+// NPC made by Doctor Duranjaya Nehru
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-wine1.gif 30 20
+// NPC made by Doctor Duranjaya Nehru
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-wine1.gif 15 21
+// NPC made by Doctor Duranjaya Nehru
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-wine2.gif 18 21
+// NPC made by Doctor Duranjaya Nehru
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-wine2.gif 16 23
+// NPC made by Doctor Duranjaya Nehru
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC brownbottle1.gif 17 21
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC brownbottle1.gif 32 23
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC brownbottle1.gif 41 23
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC brownbottle1.gif 19 33
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-window.png 17 3
+// NPC made by Wyand (Valikorlia)
+//#SERVERSIDE
+if (playerchats&&strequals(#c,Lights Out)) {
+  setimg val_valcastle-window-night.gif;
+}
+if (playerchats&&strequals(#c,Lights On)) {
+  setimg val_valcastle-window.png;
+}
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-hammerforge-bearmounted.gif 27 15
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawunderplayer;
+}
+NPCEND
+NPC firepit.mng 40 18
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+}
+if (playerchats)
+  {
+  {if (strequals(#c,/glassesboylover))
+    {
+      hide;
+      sleep 3;
+      show;
+    }
+  }
+}
+NPCEND
+NPC lerhyn-gates.gif 38 18
+//#CLIENTSIDE
+  setimgpart lerhyn-gates.gif,6,4,15,30;
+NPCEND
+NPC lerhyn-gates.gif 41 18
+//#CLIENTSIDE
+  setimgpart lerhyn-gates.gif,6,4,15,30;
+NPCEND
+NPC dragonsblood-pint.png 30 18
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+NPCEND
+NPC dbi-wine1.gif 38 14
+// NPC made by Doctor Duranjaya Nehru
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hotspringfence2.gif 34 18
+//#CLIENTSIDE
+function onCreated()
+  {
+  //y -= .1;
+  setimgpart("val_hotspringfence2.gif",0,16,16,32);
+  dontblock();
+  drawunderplayer();
+}
+NPCEND
+NPC val_hotspringfence2.gif 35 18
+//#CLIENTSIDE
+function onCreated()
+  {
+  //y -= .1;
+  setimgpart("val_hotspringfence2.gif",0,16,16,32);
+  dontblock();
+  drawunderplayer();
+}
+NPCEND
+NPC firepit.mng 38 18
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+}
+if (playerchats)
+  {
+  {if (strequals(#c,/glassesboylover))
+    {
+      hide;
+      sleep 3;
+      show;
+    }
+  }
+}
+NPCEND
+NPC val_candle.gif 51 22
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC dbi-stew.gif 50 19
+// NPC made by Arwind
+//#CLIENTSIDE
+if (playertouchsme){
+dontblock;drawunderplayer;
+NPCEND
+NPC dragonsblood-pint.png 51 20
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+NPCEND
+NPC brownbottle1.gif 50 24
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC tay-barstool.gif 52 24
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 2,3,
+    {3,3,3,3,55,55};
+}
+NPCEND
+NPC tay-barstool.gif 52 20
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 2,3,
+    {3,3,3,3,55,55};
+}
+NPCEND
+NPC midas-workbenchh.gif 55 36
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {dontblock; drawunderplayer;x=x-.5;
+}
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 5,2,
+    {3,3,3,3,3,3,3,3,3,3};
+}
+NPCEND
+NPC midas-workbenchh.gif 55 32
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {dontblock; drawunderplayer;x=x-.5;
+}
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 5,2,
+    {3,3,3,3,3,3,3,3,3,3};
+}
+NPCEND
+NPC val_frost-insides.png 55 12
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_frost-insides.png,48,256,32,16;
+  dontblock;drawoverplayer;
+}
+NPCEND
+NPC gal-redchairup2-remake.gif 55 14
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC gal-redchairup2-remake.gif 16 24
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC gal-redchairup2-remake.gif 18 35
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC val_dragaeris-woodenchair-down.png 16 18
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-down.png 18 29
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-down.png 55 10
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-right.png 50 12
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-left.png 22 32
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-left.png 59 12
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-left.png 20 21
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-right.png 14 32
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC candle.mng 50 5
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC candle.mng 60 5
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 16 24
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 18 35
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_candle.gif 54 12
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.25;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+if (created) {x=x-.5;}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 55 14
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_frost-insides.png 55 33
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_frost-insides.png,48,256,32,16;
+  dontblock;drawoverplayer;
+}
+NPCEND
+NPC val_frost-insides.png 59 33
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_frost-insides.png,48,256,32,16;
+  dontblock;drawoverplayer;
+}
+NPCEND
+NPC val_frost-insides.png 57 33
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_frost-insides.png,48,256,32,16;
+  dontblock;drawoverplayer;
+}
+NPCEND
+NPC dbi-stew.gif 53 34
+// NPC made by Arwind
+//#CLIENTSIDE
+if (playertouchsme){
+dontblock;drawunderplayer;
+NPCEND
+NPC val_candle.gif 58 33
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.25;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+if (created) {x=x-.5;}
+NPCEND
+NPC dbi-wine1.gif 55 33
+// NPC made by Doctor Duranjaya Nehru
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-wine1.gif 59 33
+// NPC made by Doctor Duranjaya Nehru
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_beermug.gif 60 33
+// NPC made by Doctor Duranjaya Nehru
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC tay-barstool.gif 58 20
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 2,3,
+    {3,3,3,3,55,55};
+}
+NPCEND
+NPC tay-barstool.gif 58 24
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 2,3,
+    {3,3,3,3,55,55};
+}
+NPCEND
+NPC val_candle.gif 61 22
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC brownbottle1.gif 60 24
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC brownbottle1.gif 61 19
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_beermug.gif 60 20
+// NPC made by Doctor Duranjaya Nehru
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 57 12
+// NPC made by Jug
+if (created) {
+  dontblock;
+ }
+NPCEND
+NPC val_cardhand2.gif 18 35
+// NPC made by Dart Eriseiken, Mage of the (Ignis Fatuus)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cardhand2.gif 19 32
+// NPC made by Dart Eriseiken, Mage of the (Ignis Fatuus)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cardhand1.gif 21 33
+// NPC made by Dart Eriseiken, Mage of the (Ignis Fatuus)
+if (created) {drawoverplayer
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cardhand1.gif 17 33
+// NPC made by Dart Eriseiken, Mage of the (Ignis Fatuus)
+if (created) {drawoverplayer
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp_dishshelf.gif 52 4
+// NPC made by Gabriel Vander
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-barbarrel2.gif 56 5
+// NPC made by Lord Mordred Draven of (Athedia)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-barbarrel2.gif 58 5
+// NPC made by Lord Mordred Draven of (Athedia)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragaeris-airshippottedtree.png 58 7
+// NPC made by Shylock
+//#CLIENTSIDE
+NPCEND
+NPC dbi-steak.gif 15 21
+// NPC made by Lord Mordred Draven of (Athedia)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-steak.gif 60 24
+// NPC made by Lord Mordred Draven of (Athedia)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wine.gif 52 12
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+  x=x+0.5;
+}
+NPCEND
+NPC val_wine.gif 33 23
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+  x=x+0.5;
+}
+NPCEND
+NPC val_dragonsblood.gif 29 23
+// NPC made by Jug
+if (created) {
+  dontblock;
+ }
+NPCEND
+NPC val_dragonsblood.gif 60 21
+// NPC made by Jug
+if (created) {
+  dontblock;
+ }
+NPCEND
+NPC val_candle.gif 58 11
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.25;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+if (created) {x=x-.5;}
+NPCEND
+NPC val_beermug.gif 56 12
+// NPC made by Doctor Duranjaya Nehru
+if (created) {drawoverplayer;
+dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_beermug.gif 54 12
+// NPC made by Doctor Duranjaya Nehru
+if (created) {drawoverplayer
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_frost-insides.png 54 33
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_frost-insides.png,48,256,32,16;
+  dontblock;drawoverplayer;
+}
+NPCEND
+NPC - 36 10
+if (client.bdisuite_access) {
+if (playerchats&&strequals(#c,/fireroom)) {
+    setlevel2 newgreendaleint_staglakecave.nw,39.5,55;
+
+}
+
+}
+NPCEND
+NPC tay-barstool.gif 27 19
+// NPC made by Richard Dietrich, Master Carpenter
+//#CLIENTSIDE
+if (created) {drawunderplayer;
+  setshape2 2,3,
+    {3,3,3,3,55,55};
+}
+NPCEND
+NPC val_caverndoorlightright.gif 56 27
+// NPC made by Sam OOC
+if (created) {
+  setimg val_caverndoorlightright.gif;
+  dontblock;
+
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0.8,0.7,0.8,0.5;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_caverndoorlightleft.gif 14 26
+// NPC made by Sam OOC
+if (created) {
+  setimg val_caverndoorlightleft.gif;
+  dontblock;
+
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0.8,0.7,0.8,0.5;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_caverndoorlightdown.gif 37 19
+// NPC made by Sam OOC
+if (created) {
+  setimg val_caverndoorlightdown.gif;
+  dontblock;
+
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,.6,.4,0.65;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC arwind-shelves.gif 31 15
+//#CLIENTSIDE
+if(created){
+x=x+.5;}
+NPCEND
+NPC lolstove2.gif 42 17
+// NPC made by jc the pm
+if (created) {x=x+.5}
+dontblock;
+NPCEND
+NPC val_caverndoorlightright.gif 56 14
+// NPC made by Sam OOC
+if (created) {
+  setimg val_caverndoorlightright.gif;
+  dontblock;
+
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0.8,0.7,0.8,0.5;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val-motoliquortable.gif 31 18
+// NPC made by Samuel
+if (created) {y=y+.8;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 17 4
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 17 5
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND

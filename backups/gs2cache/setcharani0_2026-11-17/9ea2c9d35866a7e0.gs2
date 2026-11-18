@@ -1,0 +1,27 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.x = this.x-.5;
+  showcharacter();
+  this.attr[1] = "hat.png";
+  this.head = "valp_graal708483_head3.gif";
+  this.body = "valp_graal708483_body3.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("val_sit", NULL);
+  this.swordpower = 1;
+  this.shield = "no-shield.gif";
+  this.shieldpower = 1;
+  this.ap = 100;
+  this.nick = "Shelly Oakjumper, Cleric of Singalot";
+  this.dir = 1;
+}
+
+function onPlayerTouchsMe() {
+  message("Well, I tried...");
+  sleep(4);
+  message();
+}

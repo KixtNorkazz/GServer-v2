@@ -1,0 +1,22 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.attr[1] = "hat.gif";
+  this.head = "val-nadrion-valikorliansoldier.png";
+  this.body = "zangus-newvalbody202.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.swordpower = 1;
+  this.shield = "no-shield.gif";
+  this.shieldpower = 1;
+  this.ap = 100;
+  this.nick = "Valikorlia Soldier";
+  this.dir = 2;
+  setcharani("otachbehead", NULL);
+  this.hearts = 0;
+}

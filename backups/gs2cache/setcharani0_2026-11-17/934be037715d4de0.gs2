@@ -1,0 +1,22 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "moneypouch-shield.gif";
+  this.head = "theblindone-samold.gif";
+  this.body = "moto-bridgetonbody100.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.nick = "";
+  setcharani("idle", NULL);
+  this.dir = 2;
+  this.ap = 100;
+  this.x = this.x-.5;
+}
+
+function onPlayerTouchsMe() {
+  say2("The Throne Room is through#bthese doors.");
+}

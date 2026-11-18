@@ -1,0 +1,15 @@
+//#CLIENTSIDE
+function onPlayerEnters() {
+  drawaslight();
+  setimg("galviongrave5-grass.gif");
+  setshape2(4, 6, {
+    0,0,0,0,
+0,0,0,0
+0,0,0,0
+0,0,0,0
+0,0,0,0
+    22,22,22,
+
+
+        });
+}

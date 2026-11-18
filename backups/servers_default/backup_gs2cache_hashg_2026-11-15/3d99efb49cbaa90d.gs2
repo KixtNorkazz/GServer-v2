@@ -1,0 +1,59 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+}
+
+function onPlayerChats() {
+  gs1_always();
+  if ("sethat".starts(player.chat)) {
+    if (("#t(1)" == "hat92.png")) {
+      if (!("#g" == "NAT Chief") && !("#g" == "Owner") && !("#g" == "Police Chief") && !("#g" == "Admin")) {
+        player.chat = "You are not a Police Officer!";
+      } else {
+        client.hatimg = "hat92.png";
+        setani("hatoff", NULL);
+        player.chat = "Hat set to Police Hat.";
+        sleep(.6);
+        player.attr[1] = (client.hatimg);
+        client.hat = "1";
+        setani("haton", NULL);
+      }
+    } else {
+      client.hatimg = "#t(1)";
+      setani("hatoff", NULL);
+      player.chat = "Hat set to " @ (client.hatimg) @ ".";
+      sleep(.6);
+      player.attr[1] = (client.hatimg);
+      client.hat = "1";
+      setani("haton", NULL);
+    }
+  }
+}
+
+function onWeaponFired() {
+  gs1_always();
+  if (float((client.hat))==0) {
+    client.hat = "1";
+    player.attr[1] = (client.hatimg);
+    setani("haton", NULL);
+    freezeplayer(0.6);
+    sleep(0.6);
+  } else {
+    client.hat = "0";
+    setani("hatoff", NULL);
+    freezeplayer(0.6);
+    sleep(0.6);
+    player.attr[1] = "";
+    setani("idle", NULL);
+  }
+}
+
+function gs1_always() {
+  if ((player.chat == "hat help")) {
+    say2("#i(haticon.png) Hat #i(haticon.png)#b
+ To put the hat on, fire the#bweapon.#b
+ To take it off, fire the#bweapon again.#b
+ To switch hats, say#b\"sethat hat#.png\".#b
+ -- --");
+  }
+}

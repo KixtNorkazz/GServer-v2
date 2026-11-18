@@ -1,0 +1,615 @@
+GLEVNW01
+BOARD 0 0 64 0 ESEiESEiESEHEIEJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCPMPNO9DyDy
+BOARD 0 1 64 0 EiESEiESEiEXEYEZFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCPMPNO9DyDyDy
+BOARD 0 2 64 0 ESEiESEiESEHEIEJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCPMPNO9DyDyDyDy
+BOARD 0 3 64 0 EiESEiESEiEXEYEZFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHODTDjDTDjDT
+BOARD 0 4 64 0 EDEDEDEDEDEDExEyEzFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeDjDTDjDTDj
+BOARD 0 5 64 0 EDEDEDEDEDEDEDExEyEzFCFCFCFCFCFCFCFCFCFCG5HJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHODTDjDTDjDT
+BOARD 0 6 64 0 EiESESEiESEiESEHEIEJFCFCFCFCFCFCFCFCFCG5GOHIFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeDjDTDjDTDj
+BOARD 0 7 64 0 ESEiEiESEiESEiEXEYEZFCFCFCFCFCFCFCFCGbGOGOHJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCPMPNO9DyDyDyDyDy
+BOARD 0 8 64 0 EDEDEDEDEDEDEDEDExEyEzFCFCFCFCFCFCFCGrGOGOGOHJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCPMPNO9DyDyDyDyDyDy
+BOARD 0 9 64 0 ESEiESESEiESEiESEHEIEJFCFCFCFCFCFCFCFCH6GOGOGOGoFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHODTDjDTDjDTDTDj
+BOARD 0 10 64 0 EiESEiEiESEiESEiEXEYEZFCFCFCFCFCFCFCFCFCH6GOGOG4FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeDjDTDjDTDjDjDT
+BOARD 0 11 64 0 ESEiESESEiESEiESEHEIEJFCFCFCFCFCFCFCFCFCGbGOGOHJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHODTDjDTDjDTDTDj
+BOARD 0 12 64 0 EiESEiEiESEiESEiEXEYEZFCFCFCFCFCFCFCFCFCGrGOGOGOHJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeDjDTDjDTDjDjDT
+BOARD 0 13 64 0 ESEiESESEiESEiESEHEIEJFCFCFCFCFCFCFCFCFCFCH6GOGOGOHJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHODTDjDTDjDTDTDj
+BOARD 0 14 64 0 EiESEiEiESEiESEiEXEYEZxSxUFCFCFCFCFCFCFCFCxSxUGOGOGOHJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeDjDTDjDTDjDjDT
+BOARD 0 15 64 0 EDEDEDEDEDEDEDEDEDExEyxixkFCFCFCFCFCFCFCFCxixkH6GOGOGOHJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2EDEDEDEDEDED
+BOARD 0 16 64 0 EDEDEDEDEDEDEDEDEDEDExlElGFCFCFCFCFCFCFCFClElGGbGOGOGOGOHJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2EDEDEDEDED
+BOARD 0 17 64 0 DyDyDyDyDyDyDyDyDyDyDylUlWqKqLqKqKqLqKqLqKlUlWGrGOGOGOGOGOHJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2EDEDEDED
+BOARD 0 18 64 0 DyDyDyDyDyDyDyDyDyDyEmlUlWqaqbqaqaqbqaqbqalUlWGbGOGOGOGOGOGOGoFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHODTDjDTDj
+BOARD 0 19 64 0 EiESEiESEiESEiESEiEHEImEmGpapbpapapbpapbpamEmGGrGOGOGOGOGOGOG4FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeDjDTDjDT
+BOARD 0 20 64 0 ESEiESEiESEiESEiESEXEYEZQYpqprpqpqprpqprpqQXQYFCH6xSxSplplplplplplplplplplxUxUFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2EDEDED
+BOARD 0 21 64 0 EiESEiESEiESEiESEiEHEIEJFCp6p7p6FCFCp6p7p6FCFCFCFCxSxixjxjxjxjxjxjxjxjxjxjxkxUFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCPMPNO9DyDyDy
+BOARD 0 22 64 0 ESEiESEiESEiESEiESEXEYEZFCi5i6i6FCFCqLqKqLFCFCFCFCxixjxjxjxjxjxjxjxjxjxjxjxjxkFCFCFCFCxSxUxSxUxSxUxSxUFCFCFCFCFCFCPMPNO9DyDyDyDy
+BOARD 0 23 64 0 EixSxUESEiESxSxUEiEHEIxSxUi5i6i6xSxUprpqprxSxUFCFCGrlUlWm3484848484848m2lUlWFCFCFCxSxUxixkxixkxixkxixkxSxUFCFCFCxSxUHODTDjxSxUDj
+BOARD 0 24 64 0 plxixkplplplxixkplplplxixkplplplxixki5i6i6xixkplplpllUlWmmmnmmmnmmmnmmmnlUlWplplplxixklElGlElGlElGlElGxixkplplplxixkplplplxixkpl
+BOARD 0 25 64 0 xjlElGxjxjxjlElGxjxjxjlElGxjxjxjlElGi5i6i6lElGxjxjxjlUlWZ3Z3Z3Z3Z3Z3Z3Z3lUlWxjxjxjlElGmEmGmEmGmEmGmEmGlElGxjxjxjlElGxjxjxjlElGxj
+BOARD 0 26 64 0 m2mEmGm3m2m3mEmGm2m3m2mEmGm3m2m3mEmGi5i6i6mEmGm3m2m3mEmGaHaHaHaHaHaHaHaHmEmGm2m3m2mEnGptptptpcptpcptptnGmGm3m2m3mEmGm2m3m2mEmGm3
+BOARD 0 27 64 0 qKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKnGnGp9p9p9psp9p9p9p9nHnGqLqKqLqKqLqKqLqKqLqKqL
+BOARD 0 28 64 0 qaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqanGnGpcqNqNqNqNqNqNqNnHnGqbqaqbqaqbqaqbqaqbqaqb
+BOARD 0 29 64 0 qaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqanGnGpsqdqdqdqdpcqdqdnHnGqbqaqbqaqbqaqbqaqbqaqb
+BOARD 0 30 64 0 papbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpanGnGpdpdpdpdpdpspdpdnHnGpbpapbpapbpapbpapbpapb
+BOARD 0 31 64 0 pqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqnGnGptptpcptptptptptnHnGprpqprpqprpqprpqprpqpr
+BOARD 0 32 64 0 p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6nGnGp9p9p9p9p9p9p9p9nHnGp7p6p7p6p7p6p7p6p7p6p7
+BOARD 0 33 64 0 qKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKqLqKnGnGpcqNqNqNqNqNqNqNnHnGqLqKqLqKqLqKqLqKqLqKqL
+BOARD 0 34 64 0 qaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqaqbqanGnGqdqdpcqdqdqdqdqdnHnGqbqaqbqaqbqaqbqaqbqaqb
+BOARD 0 35 64 0 papbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpapbpanGnGpdpdpspdpdpcpdpdnHnGpbpapbpapbpapbpapbpapb
+BOARD 0 36 64 0 pqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqprpqnGnGptptptptptptptptnHnGprpqprpqprpqprpqprpqpr
+BOARD 0 37 64 0 p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p6p7p6p6p7p6p6p7p6p6p7p6p7p6p7p6nGnGxSxUxSxUxSxUxSxUnHnGp7p6p7p6p7p6p7p6p7p6p7
+BOARD 0 38 64 0 qLxSxUqLqKqLxSxUqLqKqLxSxUqKqLqKxSxUqLqKqLxSxUqKqLqKqLqKqKqLqKqKqLqKqKqLqKqLqKqLqKxSxUxixkxixkxixkxixkxSxUqLqKqLxSxUqKqLqKxSxUqL
+BOARD 0 39 64 0 plxixkplplplxixkprpqprxixkplplplxixkplplplxixkplplplqaqbqaqbqaqbqaqbqaqbqaqbplplplxixklElGlElGlElGlElGxixkplplplxixkplplplxixkpl
+BOARD 0 40 64 0 xjlElGxjxjxjlElGi5i6i6lElGxjxjxjlElGxjxjxjlElGxjxjxjlUlWZ3Z3Z3Z3Z3Z3Z3Z3lUlWxjxjxjlElGlUlWlUlWlUlWlUlWlElGxjxjxjlElGxjxjxjlElGxj
+BOARD 0 41 64 0 lFlUlWlFlFlFlUlWi5i6i6lUlWlFlFlFlUlWlFlFlFlUlWlFlFlFlUlWaHaHaHaHaHaHaHaHlUlWlFlFlFlUlWmEmGmEmGmEmGmEmGlUlWlFlFlFlUlWlFlFlFlUlWlF
+BOARD 0 42 64 0 mFlUlWlVlVlVlUlWi5i6i6lUlWmFmFmFlUlWmFmFmFlUlWmFmFmFlUlWpGpGpGpGpGpGpGpGlUlWmFmFmFlUlWmFmFmFmFmFmFmFmFlUlWmFmFmFlUlWlVlVlVlUlWmF
+BOARD 0 43 64 0 ESmElWlVlVlVlUlWi5i6i6lUlWoqoroqlUlWororoqlUlWoroqorlUlWIdIdCHlUlWKjpUpUlUlWpUpUpUlUlW4848484848484848lUlWpUpUpUlUlWlVlVlVlUmGDy
+BOARD 0 44 64 0 EiESmGlVlVlVlUmGi5i6i6mEmGo6o7o6mEmGo7o7o6mEmGo7o6o7mEmGItItCXxSxUKzKzKjB3lWpGpGpGlUlW4848484848484848lUlWpGpGpGlUlWlVlVlVmEDyDy
+BOARD 0 45 64 0 ESEiESmFlVlVlUCUpbpapbpapbpapbpapbpapbpapbpapbpapbpapapbpapbpapbpapbpaYKCUlWpUpUpUlUlW484tFCFCFCFC4s48lUlWpUpUpUlUlWlVlVmFDyDyDy
+BOARD 0 46 64 0 EiESEiESmFlVlUCUprpqprpqprpqprpqprpqprpqprpqprpqprpqpqprpqprpqprpqprpqprCUmG4tFC4smEmG4tFCFCFCFCFCFC4smEmG4tFC4smEmGmFmFDyDyDyDy
+BOARD 0 47 64 0 ESEiESEiESmFlUCUp7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p7p6p6p7p6p7p6p7p6p7p6p7CUQYFCFCFCQXQYFCFCFCFCFCFCFCFCQXQYFCFCPM48O9DyDyDyDyDyDy
+BOARD 0 48 64 0 EiESEiESEiESmECQCRCRCRCRCRCRCRCRCRCRCRCRCRCRCRBzqKqLqKqLqKqLqKqLqKqLqKqLCUFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCPMPNO9DyDyDyDyDyDyDy
+BOARD 0 49 64 0 ESEiESEiESEiESEHB0B1B2B1B2B1B2B1B2B1B2B1B2B1B2B3qaqbqaqbqaqbqaqbqaqbqaqbCUFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCPMPNO9DyDyDyDyDyDyDyDy
+BOARD 0 50 64 0 EiESEiESEiESEiEXCXm2m3m2m3m2m3m2m3m2m3m2m3m2m3CUpapbpapbpapbpapbpapbpapbCUFCFCFCG5GOHJFCFCFCFCFCFCFCFCFCFCHNHODTDjDTDjDTDTDjDTDj
+BOARD 0 51 64 0 ESEiESEiESEiESEHEIEJQXQYQXQYQXQYQXQYQXQY4s4848CUpqprpqprpqprpqprpqprpqprCUFCFCG5G3GWGOFCFCFCFCFCFCFCFCFCFCHdHeDjDTDjDTDjDjDTDjDT
+BOARD 0 52 64 0 EiESEiESEiESEiEXEYEZFCFCFCFCFCFCFCFCG5HJFC4s48CQCRCRCRCRCRprpqCRCRCRCRCRBzG5GOG3G2HGHIFCFCFCFCFCFCFCFCFCFCHNHODTDjDTDjDTDTDjDTDj
+BOARD 0 53 64 0 EDEDEDEDEDEDEDEDExEyEzFCFCFCFCFCFCG5GOHIFCFC4sB0B1B2B1B2B1prpqB2B1B2B1B2B3GOGOHnHGHIFCFCFCFCFCFCFCFCFCFCFCHdHeDjDTDjDTDjDjDTDjDT
+BOARD 0 54 64 0 EDEDEDEDEDEDEDEDEDExEyEzFCFCFCFCGbGOGOHJFCFC4cCXm2m3m2m3YvF3F2YvF3F2YvF3CUGOHIHYHZFCFCFCFCFCFCFCFCFCFCFCPMPNO9DyDyDyDyDyDyDyDyDy
+BOARD 0 55 64 0 ESEiESEiESEiESEiESEHEIEJFCFCFCFCGrGOGOGOHJFC4s4tQXQYQXQYHnFpGIF5FpGIF5FpHGGOFCFCFCFCFCFCFCFCFCFCFCFCFCPMPNO9DyDyDyDyDyDyDyDyDyDy
+BOARD 0 56 64 0 EiESEiESEiESEiESEiEXEYEZFCFCFCFCFCH6GOGOGOGoFCFCFCFCFCFCGPHnHEHEHEHEHEHGGOHIFCFCFCFCFCFCFCFCFCFCFCFCFCHNHODTDjDTDjDTDTDjDTDjDTDj
+BOARD 0 57 64 0 ESEiESEiESEiESEiESEHEIEJFCFCFCFCFCFCH6GOGOG4FCFCFCFCFCFCFCGPGOGOGOGOGOGOHIFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeDjDTDjDTDjDjDTDjDTDjDT
+BOARD 0 58 64 0 EiESEiESEiESEiESEiEXEYEZFCFCFCFCFCFCGbGOGOHJFCFCFCFCFCFCFCFCHYHZHYHZHYHZFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHODTDjDTDjDTDTDjDTDjDTDj
+BOARD 0 59 64 0 EDEDEDEDEDEDEDEDEDEDExEyEzFCFCFCFCFCGrGOGOGOHJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeDjDTDjDTDjDjDTDjDTDjDT
+BOARD 0 60 64 0 EDEDEDEDEDEDEDEDEDEDEDExEyEzFCFCFCFCFCH6GOGOGOHJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHNHODTDjDTDjDTDTDjDTDjDTDj
+BOARD 0 61 64 0 ESEiESEiESEiESEiESEiESEHEIEJFCFCFCFCFCFCH6GOGOGOHJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCHdHeDjDTDjDTDjDjDTDjDTDjDT
+BOARD 0 62 64 0 EiESEiESEiESEiESEiESEiEXEYEZFCFCFCFCFCFCFCHYHZH6GOHJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2EDEDEDEDEDEDEDEDEDED
+BOARD 0 63 64 0 ESEiESEiESEiESEiESEiESEHEIEJFCFCFCFCFCFCFCFCFCFCH6GOHJFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCI0I1I2EDEDEDEDEDEDEDEDED
+LINK worldmapkharlia_f04.nw 0 25 1 14 29 33
+LINK worldmapkharlia_f04.nw 63 25 1 14 31 33
+LINK eonos-bridgeint-01.nw 28 43 2 1 37 38
+LINK eonos-bridge1secondfloor.nw 13 23 3 1 playerx playery
+NPC - 1 1
+//#CLIENTSIDE
+if(playerenters){
+addtiledef valikorlia-newtileslor2.png,eonos-bridge1.nw,0;
+addtiledef2 valtiles-nmdeditfromsetzers-addedmore.gif,eonos-bridge,1024,0;
+}
+NPCEND
+NPC val-plants-plant2.png 32 54
+// NPC made by Nomad
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-plants-plant2.png 39 51
+// NPC made by Nomad
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC bridgeton-crate.gif 32 49
+// NPC made by Nomad
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC bridgeton-barrel.gif 33 49
+// NPC made by Nomad
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dalmarcrate.gif 34 48
+// NPC made by Nomad
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbicrate5.gif 34 45
+// NPC made by Nomad
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbicrate1.gif 32 45
+// NPC made by Nomad
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbicrate4.gif 32 43
+// NPC made by Nomad
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbicrate2.gif 34 44
+// NPC made by Nomad
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbicrate3.gif 30 44
+// NPC made by Nomad
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbicrate6.gif 30 45
+// NPC made by Nomad
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbicrate7.gif 34 46
+// NPC made by Nomad
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd-container19.gif 33 46
+// NPC made by Nomad
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd-container12.gif 31 46
+// NPC made by Nomad
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd-eonos-bridgecharthing.gif 25 36
+//#CLIENTSIDE
+if(created){dontblock;drawoverplayer;}
+NPCEND
+NPC valnmd-shrubs.gif 53 41
+// NPC made by Nomad (GAT Chief)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd-shrubs1.gif 0 42
+//#CLIENTSIDE
+if(created){dontblock;drawunderplayer;}
+NPCEND
+NPC valnmd_trollspubsign.gif 16 34
+//#CLIENTSIDE
+if(created){dontblock;drawoverplayer;}
+NPCEND
+NPC val_valcastle-torch.png 26 41
+//#CLIENTSIDE
+function onCreated() {
+  emit();
+}
+function emit(){
+ with (findimg(200)) {
+    // Shadow
+
+    // Emitter attributes
+    layer = 1;
+    emitter.delaymin = 0.05;
+    emitter.delaymax = 0.05;
+    emitter.nrofparticles = 2;
+    emitter.firstinfront = false;
+    emitter.emissionoffset = {0.1, -.25, 0.3};
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 0.4;
+    emitter.particle.image = "g4_animation_fire.gif";
+
+    // Color
+    emitter.particle.alpha = 0.3;
+    emitter.particle.zoom = .3;
+    emitter.particle.mode = 2; // subtract
+
+    // Movement
+    emitter.particle.angle = pi / 2;
+    emitter.particle.speed = 4;
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.1, 0.1);
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -0.3, 0.3);
+    emitter.addlocalmodifier("range", 0, 0.6, "alpha", "replace", 0.3, 0);
+    emitter.addlocalmodifier("range", 0, 0.2, "zoom", "replace", .5, 1);
+    emitter.addlocalmodifier("range", 0.2, 0.4, "zoom", "replace", 1, .5);
+    emitter.addlocalmodifier("range", 0, 0.6, "speed", "replace", 4, 8);
+  }
+
+  with (findimg(201)) {
+    // Fire
+
+    // Emitter attributes
+    layer = 2;
+    emitter.delaymin = 0.05;
+    emitter.delaymax = 0.05;
+    emitter.nrofparticles = 2;
+    emitter.firstinfront = false;
+    emitter.emissionoffset = {0.1, -.25, 0};
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 0.4;
+    emitter.particle.image = "g4_animation_fire.gif";
+
+    // Color
+    emitter.particle.red = 1;
+    emitter.particle.green = 0.5;
+    emitter.particle.blue = 0.5;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.zoom = .1;
+    emitter.particle.mode = 0; // add like a light
+
+    // Movement
+    emitter.particle.angle = pi / 2;
+    emitter.particle.speed = 4;
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.1, 0.1);
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -.2, .5);
+    emitter.addlocalmodifier("range", 0, 0.4, "alpha", "replace", 0.4, 0);
+    emitter.addlocalmodifier("range", 0, 0.2, "zoom", "replace", .35, .85);
+    emitter.addlocalmodifier("range", 0.2, 0.4, "zoom", "replace", .85, 1.25);
+    emitter.addlocalmodifier("range", 0, 0.4, "speed", "replace", 4, 8);
+  }
+}
+NPCEND
+NPC val_valcastle-torch.png 11 40
+//#CLIENTSIDE
+function onCreated() {
+  emit();
+}
+function emit(){
+ with (findimg(200)) {
+    // Shadow
+
+    // Emitter attributes
+    layer = 1;
+    emitter.delaymin = 0.05;
+    emitter.delaymax = 0.05;
+    emitter.nrofparticles = 2;
+    emitter.firstinfront = false;
+    emitter.emissionoffset = {0.1, -.25, 0.3};
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 0.4;
+    emitter.particle.image = "g4_animation_fire.gif";
+
+    // Color
+    emitter.particle.alpha = 0.3;
+    emitter.particle.zoom = .3;
+    emitter.particle.mode = 2; // subtract
+
+    // Movement
+    emitter.particle.angle = pi / 2;
+    emitter.particle.speed = 4;
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.1, 0.1);
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -0.3, 0.3);
+    emitter.addlocalmodifier("range", 0, 0.6, "alpha", "replace", 0.3, 0);
+    emitter.addlocalmodifier("range", 0, 0.2, "zoom", "replace", .5, 1);
+    emitter.addlocalmodifier("range", 0.2, 0.4, "zoom", "replace", 1, .5);
+    emitter.addlocalmodifier("range", 0, 0.6, "speed", "replace", 4, 8);
+  }
+
+  with (findimg(201)) {
+    // Fire
+
+    // Emitter attributes
+    layer = 2;
+    emitter.delaymin = 0.05;
+    emitter.delaymax = 0.05;
+    emitter.nrofparticles = 2;
+    emitter.firstinfront = false;
+    emitter.emissionoffset = {0.1, -.25, 0};
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 0.4;
+    emitter.particle.image = "g4_animation_fire.gif";
+
+    // Color
+    emitter.particle.red = 1;
+    emitter.particle.green = 0.5;
+    emitter.particle.blue = 0.5;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.zoom = .1;
+    emitter.particle.mode = 0; // add like a light
+
+    // Movement
+    emitter.particle.angle = pi / 2;
+    emitter.particle.speed = 4;
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.1, 0.1);
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -.2, .5);
+    emitter.addlocalmodifier("range", 0, 0.4, "alpha", "replace", 0.4, 0);
+    emitter.addlocalmodifier("range", 0, 0.2, "zoom", "replace", .35, .85);
+    emitter.addlocalmodifier("range", 0.2, 0.4, "zoom", "replace", .85, 1.25);
+    emitter.addlocalmodifier("range", 0, 0.4, "speed", "replace", 4, 8);
+  }
+}
+NPCEND
+NPC val_horizontalrailforpub.gif 8 48
+// NPC made by Chris (RP Admin)
+//#CLIENTSIDE
+if(created){
+  setimgpart val_HorizontalRailForPub.gif,0,16,7*16,16;
+}
+NPCEND
+NPC val_valcastle-balcony2.png 23 47
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,80,48,16,16;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 7 47
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 23 51
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 23 52
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,0,32,16,16;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 7 48
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,0,32,16,16;
+  drawunderplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 36 52
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,16,32,16,16;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 36 51
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 9 27
+function onCreated()
+{
+  this.newdir = 3;
+  join("world_wagonman");
+}
+NPCEND
+NPC door.png 28 43
+function onCreated()
+{
+  //Do not change this name once it has been set
+  this.lockname="thetrollspub";
+
+  //These people can lock/unlock the door
+  this.allowedlist={"Spit_Fire99","zectra_f21","Trooper43G"};
+
+  join("world_doorlock");
+}
+//#CLIENTSIDE
+function onCreated()
+{
+  //The door will hide for only these people if they touch it while it's locked
+  this.allowedlist={"Spit_Fire99","zectra_f21","Trooper43G","sra_link","fullmetalfan","sniperjoe10","karoaurionroamer"};
+}
+NPCEND
+NPC val_horizontalrailforpub.gif 8 47
+// NPC made by Chris (RP Admin)
+//#CLIENTSIDE
+if(created){
+  setimgpart val_HorizontalRailForPub.gif,0,0,7*16,16;
+ dontblock;drawoverplayer;
+}
+NPCEND
+NPC val_valcastle-balcony2.png 16 21
+// NPC made by Chris (RP Admin)
+
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,32,64,32,16;
+  drawoverplayer();
+}
+NPCEND
+NPC val_valcastle-balcony2.png 16 20
+// NPC made by Chris (RP Admin)
+
+//#CLIENTSIDE
+if (created) {
+ setimgpart val_valcastle-balcony2.png,32,48,32,16;
+ drawoverplayer();
+ dontblock();
+}
+NPCEND
+NPC val_horizontalrailforpub.gif 15 47
+// NPC made by Chris (RP Admin)
+//#CLIENTSIDE
+if(created){
+  setimgpart val_HorizontalRailForPub.gif,0,0,8*16,16;
+ dontblock;drawoverplayer;
+}
+NPCEND
+NPC val_horizontalrailforpub.gif 15 48
+// NPC made by Chris (RP Admin)
+//#CLIENTSIDE
+if(created){
+  setimgpart val_HorizontalRailForPub.gif,0,16,8*16,16;
+}
+NPCEND
+NPC val_horizontalrailforpub.gif 24 52
+// NPC made by Chris (RP Admin)
+//#CLIENTSIDE
+if(created){
+  setimgpart val_HorizontalRailForPub.gif,0,16,5*16,16;
+}
+NPCEND
+NPC val_horizontalrailforpub.gif 31 52
+// NPC made by Chris (RP Admin)
+//#CLIENTSIDE
+if(created){
+  setimgpart val_HorizontalRailForPub.gif,0,16,5*16,16;
+}
+NPCEND
+NPC val_verticalrails.gif 36 44
+// NPC made by Chris (RP Admin)
+
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_VerticalRails.gif,16,0,16,7*16;
+  drawoverplayer;
+}
+NPCEND
+NPC val_verticalrails.gif 23 48
+// NPC made by Chris (RP Admin)
+
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_VerticalRails.gif,0,16,16,3*16;
+  drawoverplayer;
+}
+NPCEND
+NPC val_horizontalrailforpub.gif 24 51
+// NPC made by Chris (RP Admin)
+//#CLIENTSIDE
+if(created){
+  setimgpart val_HorizontalRailForPub.gif,0,0,5*16,16;
+ dontblock;drawoverplayer;
+}
+NPCEND
+NPC val_horizontalrailforpub.gif 31 51
+// NPC made by Chris (RP Admin)
+//#CLIENTSIDE
+if(created){
+  setimgpart val_HorizontalRailForPub.gif,0,0,5*16,16;
+ dontblock;drawoverplayer;
+}
+NPCEND
+NPC val_verticalrails.gif 7 44
+// NPC made by Chris (RP Admin)
+
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_VerticalRails.gif,0,0,16,3*16;
+  drawoverplayer;
+}
+NPCEND
+NPC val_verticalrails.gif 12 17
+// NPC made by Chris (RP Admin)
+
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_VerticalRails.gif,0,0,16,6*16;
+  drawoverplayer;
+}
+NPCEND
+NPC val_valcastle-balcony2.png 16 22
+// NPC made by Chris (RP Admin)
+
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,32,64,32,16;
+  drawoverplayer();
+}
+NPCEND
+NPC val_verticalrails.gif 21 17
+// NPC made by Chris (RP Admin)
+
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_VerticalRails.gif,16,0,16,6*16;
+  drawoverplayer;
+}
+NPCEND
+NPC val_horizontalrailforpub.gif 13 15
+// NPC made by Chris (RP Admin)
+//#CLIENTSIDE
+if(created){
+  setimgpart val_HorizontalRailForPub.gif,0,0,8*16,16;
+ dontblock;drawoverplayer;
+}
+NPCEND
+NPC val_horizontalrailforpub.gif 13 16
+// NPC made by Chris (RP Admin)
+//#CLIENTSIDE
+if(created){
+  setimgpart val_HorizontalRailForPub.gif,0,16,8*16,16;
+}
+NPCEND
+NPC - 13 14
+// NPC made by Chris (RP Admin)
+
+
+//#CLIENTSIDE
+function onCreated()
+{
+ setshape(1,8*16,2*16);
+}
+NPCEND
+NPC - 11 20
+// NPC made by Chris (RP Admin)
+
+
+//#CLIENTSIDE
+function onCreated()
+{
+ setshape(1,2*16,3*16);
+}
+NPCEND
+NPC val_undyingbanner.gif 2 32
+// NPC made by Dreadmoore, Duke of the (Undying Court)
+if (created) {dontblock; drawoverplayer;}
+NPCEND
+NPC val_undyingbanner.gif 37 32
+// NPC made by Dreadmoore, Duke of the (Undying Court)
+if (created) {dontblock; drawoverplayer;}
+NPCEND

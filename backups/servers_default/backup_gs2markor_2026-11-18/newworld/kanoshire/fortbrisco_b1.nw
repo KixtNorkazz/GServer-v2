@@ -1,0 +1,802 @@
+GLEVNW01
+BOARD 0 0 64 0 QAQBQCQDQAQBQCQDQAQBQCQDQAHQGhHRGgGwGxHRHAiRGhiDQRQSQVHQHRQBQCQDQFQBGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGh
+BOARD 0 1 64 0 QQQRQSQTQQQRQSQTQQQRQSQTQQGgGxQhQiGwhxGxiTHAhxiAQShxQQGxGgQQQSQiQCHAGxGwGxGwGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGx
+BOARD 0 2 64 0 QgQhQiQjQgQhQiQjQgQhQiQjQgGwGxGwGxGxGwGwGxiTiTQTQjQgafhxQQafhxQQQSHQGxGgGhGgGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGh
+BOARD 0 3 64 0 QwQxQyQzQwQxQyQzQwQxQyQzQwHAHBHAHBGgiThwhxGxGxHRHAiRQiQCafiAQSafHBHAGhGwGxGwGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGx
+BOARD 0 4 64 0 QAQBQCQDQAQBQCQDQAQBQCQDQAHQHRHQHRGwQhiAiBGwhxiSGxiTQTQjQgiAQSQiQCHQGxGgRIGgGwGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGh
+BOARD 0 5 64 0 HAHBGwGxGwGxQSQTQQQRQSQTQQQRQSGwafGwGhGgQhGxGwZlGwGxHRHAiRGgGoGpQSQQGxGgGhGgRIGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGiGjGxGwGxGwGx
+BOARD 0 6 64 0 HQHRHAHBHAHBQiQjQgQhQiQjGoGpQiHAHBQghxQQiTGgHAQQQRQSQTQQHAQSG4G5hxafhxGhGwGxGwGwGxGwGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGyGzGhGgGhGgGh
+BOARD 0 7 64 0 GgGhHQHRHQHRQyQzQwQxQyQzG4G5QyHQHRQjhxQQGgGwHRQgRERFQjQgiTGhGhQSQRiDQRGxRIGhZgZhGhGgGwGxGwRIGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGx
+BOARD 0 8 64 0 GwGxQQHAQQHAQCQDQAQBQCQDQAQSQTQQQhQzafhxQQQSHAQFHAHBQkRFGxGxHRhxiAQShwhxQCGhZwZxZgZhRIGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGh
+BOARD 0 9 64 0 HAHBGwGxHQHRQSQTQQQRQSQTQQVpQjQgREQDGhGwafHBGhGwGwGxHAHBGwGhHEHFQRQAiAQCQSGxGxRIZwZxGxGwGxGwGwGxGwGxGwGxGwGxGwGxGwGxGwGxGqGrGwGx
+BOARD 0 10 64 0 HQHRHAHBQQHAQiQjQgQhQiQjQgV5QzQFHAHBQkHQHRHQGxiThwhxHQHRQiHRHUHVQDhxQQQShxQQQSQiRIGhGxRIGhHRHQHRGgQDGgGhGgGhGgGhGgGhGgGhG6G7GgGh
+BOARD 0 11 64 0 QQHAHQHRGgGhQyHCHDQxQyQzQwV5QDQlHQHRHAHBQEQxHQQhiAGwGhGgQjQSQiQCQSQCafhxQCafhxQQQSGxGhGwGxQlGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGx
+BOARD 0 12 64 0 GgGhQQHAGwGxQCHSHTQBQCQDQAWJQlHAQkRFQxHBQAQBQhGhGgQghxQQhxiSGxiTQTQjQgQSQAQRQSafHBGwGxGgGhHAHAHEHFHBHRGgQDGhGgGhGgGhGgGhGgGhGgGh
+BOARD 0 13 64 0 GwGxHQQDHRHQQSQTQQQRQSQTQQQFHAHBHAHBQEHRafHRQVHQHRQjhxQQQCZlGwGxHRHAiRGhiDiTQTQjQgQSQAiAQCHQHQHUHVHRGxGwGxGxGwGxGwGxGwGxGwGxGwGx
+BOARD 0 14 64 0 QgQhQiQjQgQhQiQjQgQhQiQjQgQFHQHAHQHRQEQjHAHBGwQhQhhxQQiThwiTGwhxGxiTHAhxiAGxHRHAiRGhiDQRQSQVHQHRGwRIHBRIHBGhGgGhGgGhGgGhGgGhGgGh
+BOARD 0 15 64 0 QwQxQyQzQwQxQyQzQwQxQyQzQwQCQVHQHBQUQhQzHQHRafHAQjhxQQGgGwQhGxGwGwGxiTHAQQQRQSQTQQhxiAQShxQQGxGgHQHQHRZgZhHRGgQDGwGxGwGxGwGxGwGx
+BOARD 0 16 64 0 SSSTQCQDQAQBQCQDQBHQHRHQQAQSHQHRGgHRHQHRGgGhHQHRHQHRGgHAQgiTGgiTGwGhGgHRQgRERFQjQgiTQTQjQgafhxQQQVHQRIZwZxRIZgZhRIGhZgZhGgGhGgGh
+BOARD 0 17 64 0 atTTRgRhQQQRQSQDQBHAHBGgiqirGgGhGwHBGgGhGwGxGoGpQQHAGwHQhwGgGwQhGoGpQQHAQFHAHBQkRFGxHRHAiRQiQCafGwRIGwHARIHBZwZxGwGxZwZxGwGxGwGx
+BOARD 0 18 64 0 a9TTRwRxRhQhQi+i+j+j+j+j+j+j+j+j+j+j+j+j+j+j+j+j+j+j+j+kiAGhGwGhG4G5QQGhQlGwGwGxHEHFiSGxiTQTQjQgQRiDQRHQHQHRHQRIQDRIGgGhGgGhGgGh
+BOARD 0 19 64 0 TTTTTTRwRxRhQy+h0M0M0M0M0M0M0M0M0M0M0M0M0M0M0M0M0M0M0M+hQQQjQghxQQiTGgGxHAiThwhxHUHVZlGwGxHRHAiRiAQShwQVHQRIGwGxGxGxGwGxGwGxGwGx
+BOARD 0 20 64 0 S0TTS1TTRwRxRh+hZ9Z8Z9Z9Z8Z9Z8Z9Z8Z9Z8Z9Z8Z9Z8Z9Z9Z8Z9+hafHAQjhxQQGgGwHQHBQhiAiBQUiTiTGwhxGxiTHAGgGhiAHRHQHRHBHAHBGhGgGhHEHFGgGh
+BOARD 0 21 64 0 WQTTTTasatRwRx+haNaMaNaNaMaNaMaNaMaNaMaNaMZ9Z8ULU+U+UM+hQVafHRHBHAHBafQhHAGhGgQhQEQhQhGxGwGwGxiTGwGxQQQlHAHAHRHQHRGxGwGxHUHVGwGx
+BOARD 0 22 64 0 WSWQTTa8a9TTTT+hZ9Z8Z9Z9Z8Z9Z8Z9Z8Z9Z8Z9Z8aNaMU9fHfHUu+hQgQhQiHAHBHAHBQVHQHRQUQ0QAHAiTGgiThwhxGxGgGhafHAQVHQHRGwGxGhGgGhGgGhGgGh
+BOARD 0 23 64 0 WSWSWQWQWQWQWQ+hZ9Z8Z9Z9Z8Z9Z8Z9Z8Z9Z8Z9Z8Z9Z8U9fHfHUu+hQwGoGpHQHRHQHRGxGwZlQhiAHBHQGgGwQhiAiBGwQiHRHQHQHQHRHQHRGwGxGwGxGwGxGwGx
+BOARD 0 24 64 0 WBWSWBWBWBWBWB+haNaMaNaNaMaNaMaNaMaNaMaNaMaNaMUbU+U+Uc+hQAG4G5QDafGgGxGgiTiTGhGgQAiAQCafiAQCafhxQQQlGwQVHCHDGwGxGgGhGgGhGgGoGpGh
+BOARD 0 25 64 0 WSWSWSWSWSWSWS+hZ9Z8Z9Z9Z8Z9Z8Z9Z8Z9Z8Z9Z8Z9Z8Z9Z9Z8Z9+hQSQRQSQTHAGwGxGwQhQhhxQQGhGgGhiAQCafHBHQHBHAHAHBHSHTGxGxGhWQGwGxWQG4G5WQ
+BOARD 0 26 64 0 WSWSWSWSWSWSWS+haNaMaNaNaMaNaMaNaMaNaMaNaMaNaMaNaNaMaN+hHQQzQiQjHQHAHBafHBHQGxGwGxGwGxQjQgGhGgGhGgHQHQHRHQHRGhGhGxWyebebWyebebWy
+BOARD 0 27 64 0 WSWSWBWBWBWBWB+hZ9Z8Z9Z9Z8Z9Z8Z9Z8Z9Z8Z9Z8Z9Z8Z9Z9Z8Z9+hGgQDQyQzQQHQHRHQHRGgGhGgGhGgGhQzQwGxGwGxGwQVHQHRGwGxGwGxGhWQVoVoVoVoVoWQ
+BOARD 0 28 64 0 WyWSWSWSWSWSWS+haNaMaNaNaMaNaMaNaMaNaMaNaMaNaMaNaNaMaN+hQhQiQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAGhGgGhGgGhQCQDQFHQHRGwGxWiV4V4V4V4V4Wi
+BOARD 0 29 64 0 RTWyWSWSWSWSWS/C+j+j+j+j+j+kZ8Z9Z8Z9Z8Z9Z8Z9Z8Z9+i+j+j/EGwGxQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQVHAGgGhWQWIWIWQWIWIWQ
+BOARD 0 30 64 0 RjTTWyWyWyWyWy0K0L0L0L0M0M+haMaNaMaNaMaNaMaNaMaN+h0M0M0NQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQFHQGwGxWiebebWSebebWi
+BOARD 0 31 64 0 TTTTTTRgRjTTRQkA0f0fereuk1+hZ8Z9Z8Z9Z8Z9Z8Z9Z8Z9+hk0k1kBhqhrhsQzQwisitQzQwQxQyQzhqhrhsQzQwisitQzQwQxQyQzhqhrhsGiGjWSthtiWStltmWS
+BOARD 0 32 64 0 TTTTTTTTTTTTRgkQ8A8Ae7e+kl+haMaNaMaNaMaNaMaNaMaN+hkkklkRh6h7h8QDiMi8i9QDQAQBQCQDh6h7h8QDiMi8i9QDQAQBQCQDh6h7h8GyGzWStxtyWSt1t2WS
+BOARD 0 33 64 0 TTTTTTTTTTTTTTkgkzkzfLfOk1+hZ8Z9Z8Z9Z8Z9Z8Z9Z8Z9+hk0k1khT7T9TuiaT7T7T7T7T7T7T9TrTuT7T9TuiaT7T7T7T7T7T7T9TrTuT7T7z+WyW0W0WSW0W0Wy
+BOARD 0 34 64 0 TUTsTtTuTrTsTTkw0P0PfMfNkl+haMaNaMaNaMaNaMaNaMaN+hkkklkxTrTsTtTuT9TrTrTuiNiMT7T8T7TrTsTtTuT9TrTrTuiNiMT7T8T7T7T70Oz+WStyWSt1WSWN
+BOARD 0 35 64 0 TkT8T9T+T7T8TTlA0f0f0fk0k1+hZ8Z9Z8Z9Z8Z9Z8Z9Z8Z9+hk0k1lBTrTuT7T7htT7T9TuiaiNiMT7T9TrTuT7T7htT7T9TuiaiNiMT7T9Trz+z+z+WStxWSt2WSVJ
+BOARD 0 36 64 0 TUTsTtTuTrTsTTlQ8A8A8Akkkl+haMaNaMaNaMaNaMaNaMaN+hkkkllRhahdT7heT7T7T7T7iNiMhtT9TrhahdT7heT7T7T7T7iNiMhtT9TrTrh60O0OWCt0WitzWCWN
+BOARD 0 37 64 0 TTT8T9T+T7T7TTlQkzkzkzk0k1+hZ8Z9Z8Z9Z8Z9Z8Z9Z8Z9+hk0k1lhHRiMiNQTQQQRisisitQRQSiMh6h7h8h9h8h9h6QTiMiNQSQTQQiMiNQi7xz+WCuEWiuDWCVJ
+BOARD 0 38 64 0 TTT7T7WQW1W1TTlwkjkjkjkkkl+haMaNaMaNaMaNaMaNaMaN+h7xkllxGhQhQiQjQgQhQiQjQgQhQiQjQgQhiMiNiMiNQiQjQgQhQiQjQgQhidz+7x0OWyW0W0W0WyWN
+BOARD 0 39 64 0 V3aqT+V3T+T7V3f00+0+0+0/8w+hZ8Z9Z8Z9Z8Z9Z8Z9Z8Z9+h8B7xf3GxQxQyQzQwQxQyQzQwQxQyQzQwQxicisitidQyQzQwQxQyQzQwQxQB0O7x7xRTRBShSiShSi
+BOARD 0 40 64 0 RDblasatTTTUTTTUTTa8a9TUTT+haMaNaMaNaMaNaMaNaMaN+h7x8BGhHBQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCVp7x8BRSRRGiGjQCQD
+BOARD 0 41 64 0 RTbla8a9TjTkTjTkTjTkb1blas+hZ8Z9Z8Z9Z8Z9Z8Z9Z8Z9+h8BGxGxHRQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSV58BQRQSQTGyGzQSQT
+BOARD 0 42 64 0 SQTUTTTUTTTUTTTUTTTUb1ata8+haMaNaMaNaMaNaMaNaMaN+hGgGhHBGhQhQiQjGiGjQiiqirQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiWJQgQhQiQjQgQhQiQj
+BOARD 0 43 64 0 SARQRTTkTjS0TjTkTjTkTjTkTj+hZ8Z9Z8Z9Z8Z9Z8Z9Z8Z9+hGwGxHRGxQxQyQzGyGzQyi6i7QxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQz
+BOARD 0 44 64 0 SQRgRjTUTTTUTTTUTTTUTTTUTT+haMaNaMaNaMaNaMaNaMaN+hGgGgGhHBHBQCQDQAQBQCQDQAQBQCQDHRHQHRGgGhHQHRHQHRQBQCQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 45 64 0 RjTkblTkb1TkTjTkTjTkTjTkTj+hZ8Z9Z8Z9Z8Z9Z8Z9Z8Z9+hGgGhGxHRHRHAHBQQQRQSQTQQQRQSQTHBGgGhGwGxQQHAQQHAQQQRQSQTQQQRQTQQQRQSQTQQQRQSQT
+BOARD 0 46 64 0 TTTUb1TUS0TUTTTUTTTUTTTUTT+haMaNaMaNaMaNaMaNaMaN+hGwGxGgGhGgGhHAHBQhQiQjQgQhQiQjHRGwGxHAHBGwGxHQHRQgRERFQjQgQhQjQgQhQiQjQgQhQiQj
+BOARD 0 47 64 0 TjSySzblTTTkTjTkTjTkTjTkTj+hZ8Z9Z8Z9Z8Z9Z8Z9Z8Z9+hGoGpGwGxGwGxGgGhHAHBQzQwQxQyQzGhGgGhHQHRHAHBQQHAQFHAHBQkRFQxQzQwQxQyQzQwGoGpQz
+BOARD 0 48 64 0 blTCTDatTTTUTTTUTTTUTTTUTT+haMaNaMaNaMaNaMaNaMaN+hG4G5GgGhGhGgGwGxGgGhHBHAHBQCQDGxGwGxQQHAHQHRVpGhQlHQHRHAHBiqirQAQBQCQDQAG4G5QD
+BOARD 0 49 64 0 b1TUS0acTjaZTUTsTtTuTrTsTj+hZ8Z9Z8Z9Z8Z9Z8Z9Z8Z9+hGgGhGwGxGxGwGxGwGwGxGgGhHAHBHRHQHRGgGhHQHRHQV5GxHAHBHAHQHRi6i7HBGwGxHQHRQhHAQT
+BOARD 0 50 64 0 b1blTTa8TTaqTkT8T9T+T7T8TT+haMaNZ8Z9Z8Z9Z8Z9Z8aN+hHJGxGgHEHFGgGhGgGhGgGwGxGgGhHBGgGhGwGxQQHAQQWJHQHBHRHAHBQUQhHQHRHAHBQQHAQVHQQj
+BOARD 0 51 64 0 atTkblTkTja3TUTsTtTuTrTsTj+hZ8Z9Z8Z9Z8Z9Z8Z9Z8Z9+hHZQhGwHUHVGwGxGwGxGwGxGwHAHBGgGwHQHRGgGwGxHQHRQhHAHBHQHRQEQxQQHAHQHRGgGhHRHQQz
+BOARD 0 52 64 0 a9a9a8TUTTaZTTT8T9T+T7aYTT+haMaNaMaNaMaNaMaNaMaN+hGx7xGhGgGhGgGhGgGhGgGhGgHQHRGwHAQQHAGwHEHFQQHAQVHQHRQUQ0QAQBGgGhQQHAGwGxHAQQQD
+BOARD 0 53 64 0 TkblTkTkaoaZTTT7T7T7T7T7Tj+hZ8Z9Z8Z9Z8Z9Z8Z9Z8Z9+hHB8B7x7xGxGwGxGwGxz+GxGwGgGhHIHJS5GgGhHUHVGgGhHRHQHRQSQTQQQRGwGxHQQDHRHQGxHQQT
+BOARD 0 54 64 0 TTTUTTTUTTaoV3aqTTz+TTz+7x+haMZ9Z8Z9Z8Z9Z8Z9Z8aN+hHR8B8B8B7xGgGhGgGh0Oz+GgGwS5HYHZHAGwGxQQHAGwGxHAQQHAQjQgQhQiQgQhQiQjQgQhHBQQQj
+BOARD 0 55 64 0 RBRCRQRTTkb1TjTkTj0Oz+0O8Bz+z+aNaMaNaMaNaMaNaM+i/Ez+kgmUmT8BGwGxGwGx0O0OGwHAHBQQHAGwGxHBHQQDHRHQGxHQHAHBGwGxHQGxGwGxQQHAHQHRGgQz
+BOARD 0 56 64 0 RRSARgRjTUasatTUri0O0O0e8R0O0O0M0M0M0M0M0M0M0M7xz+0Okw0L0M8BGgGhGgGhzezfGgGhGgQhQiQjQgQhQiQjQgQhHBQQHQHRHAHBQQHBGwGxGgGhQQHAGwQD
+BOARD 0 57 64 0 QQQRRCb1bla8a9aseaZ8Z9Z8Z9z+7x0O0O0P8A0P8A0P8A8A8A8BlA0b0c0b0cGxGw0dz+7xGwGxGwGgGhHRGxGwGxQQHAHQHRGgQQHAHQHRGgHRGgGhGwGxHQQDHRQT
+BOARD 0 58 64 0 QgQhRSRCTTTUTTa8eaaMaNaMaN0O8B0e0e0f8Q0f8Q0f8Q8Q8Q8RlQ0r0s0r0sGgGh0t7x8BGgGhGgGwGxQhHBGwGxGgGhQQHAGwGgGhQQHAGwGxHAQQQiQjQgQhQiQj
+BOARD 0 59 64 0 QwQxQyRSShRCTjTkeaZ8Z9Z8z+7x8R0P0P0P8A8A0P0P8A0P0P8Alg07080708GwGx09z+7xGwGxGwGgGhHBHRGgGhGwGxHQQDHRGwGxHQQDHRHQGxHQQyQzQwQxQyQz
+BOARD 0 60 64 0 HAHBHAHBQARSShSieaaMaNz+0O8B0O0f0f0f8Q8Q0f0f8Q0f0f8QlQmUmTmU0sGhGg0t0O8BGgGhGgGwGxHRQhQiQjQgQhQiQjQgQgQhQiQjQgQhHBQQQiQjQAHCHDQD
+BOARD 0 61 64 0 GgGhGgGhHAHBQSQTeaZ8Z90O0Oz+7xWQ8A8AWQeresWQeu8A8A0Plg0M0M0L08GxGw09zuzvGwGxGgGhQQQRQSQTQQQRQSQTQQQRGxGwGxQQHAHQHRGgQyQzQQHSHTQT
+BOARD 0 62 64 0 GwGxGwGxGgGhHAHBeaaMaNaMz+7x8BWyeKeKWyeKeKWye+k1k1kzlQ0c0c0b0cGgGh0dzezfGgGhGwGxHBQhQiQjQgQhQiQjQgQhHBGwGxGgGhQQHAGwQiQiQjQhQiQj
+BOARD 0 63 64 0 GgGhGgGhGwGxGgGheaZ8Z9Z80O8BZ9WQTcTdTbTcTdWQfOklklkjlg0s0s0r0sGwGx0tzuzvGwGxGgGhHRQxQyQzQwQxQyz+7xQxHRGgGhGwGxHQQDHRQyQyQzQxQyQz
+LINK fortbrisco_int1.nw 9 39 3 1 18 22
+NPC val_wooden-balconydark2.gif 8 55
+//#CLIENTSIDE
+if (created) {
+setimgpart val_wooden-balconydark2.gif,16,64,16,16;
+dontblock;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wooden-balconydark2.gif 8 54
+//#CLIENTSIDE
+if (created) {
+setimgpart val_wooden-balconydark2.gif,64,48,16,16;
+dontblock;drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wooden-balconydark2.gif 8 56
+//#CLIENTSIDE
+if (created) {
+setimgpart val_wooden-balconydark2.gif,16,64,16,16;
+dontblock;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_elven-ruinedarch4.gif 30 57
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 4,8,{
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    22,00,00,22,
+  };
+}
+NPCEND
+NPC val_osenoverhang.gif 6 43
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {dontblock;drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_doordark.gif 8 36
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (playertouchsme) {
+}
+NPCEND
+NPC val_emptystand.gif 4 40
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 5 63
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 49 49
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 49 45
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 15 12
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 16 9
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 59 2
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 32 48
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 37 61
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 17 11
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 45 1
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 50 4
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 58 13
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 58 18
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 45 9
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp_rack2.gif 4 49
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-worktable2.gif 1 34
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-anvil.gif 0 37
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_osenoverhang.gif 0 28
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {dontblock;drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel2.png 6 54
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_otachmerchantcart2singledir.gif 55 41
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Champion of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 54 12
+join("levelitem_tree");
+//#CLIENTSIDE
+function onPlayerenters() {
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree1.gif";
+}
+NPCEND
+NPC - 41 4
+join("levelitem_tree");
+//#CLIENTSIDE
+function onPlayerenters() {
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree1.gif";
+}
+NPCEND
+NPC - 0 9
+join("levelitem_tree");
+//#CLIENTSIDE
+function onPlayerenters() {
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree1.gif";
+}
+NPCEND
+NPC val_kanoshire-hollowlog.gif 47 39
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 50 39
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_rp-tent.png 28 36
+//#CLIENTSIDE
+if (created) {
+  drawoverplayer();
+  dontblock();
+  this.mode = 1;
+  timeout = 0.05;
+
+}
+if(timeout){
+ if(playerx in |x,x+7|&&playery in |y,y+9|){
+    drawaslight;
+    this.alpha = 0.3;
+  } else {
+    blockagain;
+    this.alpha = 1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 48 40
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 44 56
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 46 55
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_rp-tent.png 54 48
+drawunderplayer;
+NPCEND
+NPC val_kanoshire-hollowlog.gif 43 55
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+NPCEND
+NPC val_elven-ruinedarch3.gif 28 28
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 7,8,{
+    00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,
+    22,22,22,22,22,22,22,
+  };
+}
+NPCEND
+NPC val_elven-arch2.gif 35 28
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 4,8,{
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    22,22,22,22,
+  };
+}
+NPCEND
+NPC val_elven-arch-rightend2.gif 55 28
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 1,8,{
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+  };
+}
+NPCEND
+NPC val_elven-ruinedarch4.gif 39 28
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 4,8,{
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    22,00,00,22,
+  };
+}
+NPCEND
+NPC val_elven-arch2.gif 43 28
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 4,8,{
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    22,22,22,22,
+  };
+}
+NPCEND
+NPC val_elven-ruinedarch4.gif 51 28
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 4,8,{
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    22,00,00,22,
+  };
+}
+NPCEND
+NPC val_elven-arch2.gif 47 28
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 4,8,{
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    00,00,00,00,
+    22,22,22,22,
+  };
+}
+NPCEND
+NPC val_rp-barrel.png 37 46
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  drawunderplayer;
+}
+NPCEND
+NPC val_rp-barrel.png 54 58
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  drawunderplayer;
+}
+NPCEND
+NPC lampanimation.gif 37 45
+join world_lamp;
+
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+x=x+.34;y=y+.4;
+drawoverplayer;dontblock;}
+NPCEND
+NPC lampanimation.gif 54 57
+join world_lamp;
+
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+x=x+.34;y=y+.4;
+drawoverplayer;dontblock;}
+NPCEND
+NPC boltcrate.gif 8 18
+// Created by fireball1000
+NPCEND
+NPC val-dalmararbalest.gif 12 17
+// Created by fireball1000
+NPCEND
+NPC val_rp-crate-arrows.gif 16 18
+// Created by fireball1000
+NPCEND
+NPC val_rp-crate-arrows.gif 18 18
+// Created by fireball1000
+NPCEND
+NPC val_rp-crate-arrows.gif 17 19
+// Created by fireball1000
+NPCEND
+NPC val_rp-crate-arrows.gif 25 18
+// Created by fireball1000
+NPCEND
+NPC ladderdown.gif 24 22
+// Created by fireball1000
+NPCEND
+NPC val-dalmararbalest.gif 20 17
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel2.png 9 49
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel2.png 10 51
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel2.png 8 51
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton, Knight Champion of (The Vanguard of Steel)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 50 48
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 51 47
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord Protector of (Swathmore)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-sack.gif 25 45
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 27 45
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 26 44
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 27 43
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 8 27
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 10 27
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 9 26
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 11 26
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 12 27
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 4 52
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 6 52
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 5 51
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 26 42
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 26 44
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 22 51
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 22 53
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 14 41
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 11 57
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 14 43
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 15 42
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 22 30
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 21 31
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 22 32
+// Created by fireball1000
+NPCEND
+NPC val_rp-crate-arrows.gif 14 39
+// Created by fireball1000
+NPCEND
+NPC val_rp-crate-arrows.gif 22 32
+// Created by fireball1000
+NPCEND
+NPC val_rp-crate-arrows.gif 22 49
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 21 52
+// Created by fireball1000
+NPCEND
+NPC val_rp-sack.gif 10 58
+// Created by fireball1000
+NPCEND
+NPC - 25 48
+
+// Graal2002 NPC by Stefan Knorr
+if (created) {
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,no-head.png;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+   setcharprop #2,val-jeddrickhalberd-shield.gif;
+setcharprop #8,val_vanguardofsteel_body100.gif;
+setcharprop #P1, val_vanguardofsteel_hat100.gif;
+
+  shieldpower = 1;
+  dir = 3;
+}
+NPCEND
+NPC - 17 47
+// Created by racil
+function onCreated() {
+  showcharacter();
+  this.head = "val_hotsumasparda-greendalesoldier-head.gif";
+  this.shield = "bow-shield2.gif";
+  this.body = "valp_nomad_p2p_body130.gif";
+  this.shieldpower = 1;
+  this.dir = 1;
+  this.x += 0.5;
+  setcharani("idle",NULL);
+}
+NPCEND
+NPC - 51 53
+// Created by ajf10209
+//#CLIENTSIDE
+if (created) {
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #P1,none.gif;
+  setcharprop #3,val_seanchannif_head7.gif;
+  setcharprop #C0,darkgreen;
+  setcharprop #C1,brown;
+  setcharprop #C2,brown;
+  setcharprop #C3,darkgreen;
+  setcharprop #C4,lightgray;
+  setcharprop #n,Refugee;
+  setcharprop #2,no-shield.png;
+  setcharprop #8,val_graal1468508_body100.gif;
+  shieldpower = 0;
+  ap = 100;
+    dontblock;
+
+         this.originx = x;
+
+ }
+ if (playertouchsme) {message "What will we ever do..."; sleep 1; message ;;
+  }
+ if (playerenters || timeout) {
+   setstring this.name,tamachan;
+   setcharani idle, idle;
+
+   this.randomx=int(random(-2,2));
+
+        if (((this.randomx + x) in |(this.originx - 2),(this.originx + 2)|) == false)
+        {
+          this.randomx = int(this.originx - x);
+        }
+
+
+        if (this.randomy == 0 && this.randomx == 0){
+            dir = int(random(0,3));
+            setcharani idle, idle;
+        }
+
+   elseif (!onwall(x+1.5*this.randomx,y+2*this.randomy) && !onwater(x+1.5*this.randomx,y+2*this.randomy )) {
+              move this.randomx,this.randomy,1,4+8+16+32;
+        setcharani walk,walk;
+   }
+   sleep 1;
+
+   setcharani idle, idle;
+   timeout = 1,3;
+
+ }
+NPCEND
+NPC val_rp-crate-arrows.gif 23 18
+// Created by fireball1000
+NPCEND
+NPC - 16 22
+// Created by racil
+function onCreated() {
+  showcharacter();
+  this.head = "val_hotsumasparda-greendalesoldier-head.gif";
+  this.shield = "bow-shield2.gif";
+  this.body = "valp_nomad_p2p_body130.gif";
+  this.shieldpower = 1;
+  this.dir = 4;
+  this.x += 0.5;
+  setcharani("idle",NULL);
+}
+NPCEND

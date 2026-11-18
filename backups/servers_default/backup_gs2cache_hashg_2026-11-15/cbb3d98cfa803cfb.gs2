@@ -1,0 +1,275 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  setcharani("val-mon-zombie2-idle", NULL);
+  this.dir = 2;
+  this.name = "Bear";
+  this.aniidle = "arthysbear-idle,";
+  this.aniwalk = "arthysbear-walk,";
+  this.aniattack = "arthysbear-attack,";
+  this.anihurt = "arthysbear-hurt,";
+  this.anidead = "arthysbear-dead,";
+  this.shieldpower = 1;
+  this.swordpower = 3;
+  this.hp = 35;
+  this.maxhp = 35;
+  this.place = 2;
+  this.walkmode = 1;
+  this.speed = 0.1;
+  this.huntspeed = 0.2;
+  showcharacter();
+  this.hurtdx = 0;
+  this.hurtdy = 0;
+  setTimer(0.05);
+}
+
+function onTimeOut() {
+  gs1_always();
+  showimg(1, "val_gui-onscreen.png", 0, 48*this.place);
+  changeimgpart(1, 0, 0, 80, 48);
+  changeimgvis(1, 4);
+  showtext(2, 40, "(48*this.place)+16", "Arial", "bc", (this.name));
+  showtext(5, 41, "(48*this.place)+17", "Arial", "bc", (this.name));
+  showtext(3, 40, "(48*this.place)+32", "Arial", "bc", "HP: " @ (this.hp) @ "/" @ (this.maxhp));
+  showtext(6, 41, "(48*this.place)+33", "Arial", "bc", "HP: " @ (this.hp) @ "/" @ (this.maxhp));
+  for (this.k = 2; this.k<5; this.k++) {
+    if (this.mode==1 || this.mode==2) {
+      changeimgcolors(this.k, 1, 0, 0, 1);
+    } else {
+      changeimgcolors(this.k, 1, 1, 1, 1);
+    }
+    changeimgvis(this.k, 6);
+    changeimgzoom(this.k, .5);
+  }
+  for (this.l = 5; this.l<9; this.l++) {
+    changeimgcolors(this.l, 0, 0, 0, 1);
+    changeimgvis(this.l, 5);
+    changeimgzoom(this.l, .5);
+  }
+  if (this.mode==0) {
+    if (this.walkmode==1) {
+    }
+    this.newx = this.x+vecx(this.dir)*this.speed;
+    this.newy = this.y+vecy(this.dir)*this.speed;
+    this.runcounter--;
+    if (this.walkmode==1) {
+      if (this.runcounter>0) {
+        this.testx = this.newx+1.5+vecx(this.dir);
+        this.testy = this.newy+2+vecy(this.dir);
+        if (onwall(this.testx, this.testy)) {
+          this.dir = (this.dir+2)%4;
+          this.runcounter = int(random(0, 60));
+        } else {
+          this.x = this.newx;
+          this.y = this.newy;
+        }
+      } else {
+        this.runcounter = int(random(10, 40));
+        this.dir = (this.dir+1+int(random(0, 2))*2)%4;
+      }
+    }
+    if (this.walkmode>1 && this.runcounter<=0) {
+      this.runcounter = 20;
+    }
+    setTimer(0.05);
+  }
+  if ((this.mode==0 || this.mode==2)) {
+    this.mindist = 1000;
+    for (this.i = 0; this.i<playerscount; this.i++) {
+      if (players[this.i].hearts>0 && players[this.i].id>=0) {
+        this.dx = players[this.i].x - this.x;
+        this.dy = players[this.i].y - this.y;
+        if (abs(this.dx)>abs(this.dy)) {
+          if (this.dx>0) {
+            this.pdir = 3;
+          } else {
+            this.pdir = 1;
+          }
+        } else {
+          if (this.dy>0) {
+            this.pdir = 2;
+          } else {
+            this.pdir = 0;
+          }
+        }
+        if (this.pdir==this.dir) {
+          this.dist = (this.dx*this.dx+this.dy*this.dy)^0.5;
+          if (this.dist<this.mindist) {
+            this.cansee = 1;
+            if (abs(this.dx)>abs(this.dy)) {
+              this.k = int(abs(this.dx));
+            } else {
+              this.k = int(abs(this.dy));
+            }
+            for (this.j = 0; this.j<=this.k-2; this.j++) {
+              if (onwall(this.x+1.5+this.dx*this.j/this.k, this.y+2+this.dy*this.j/this.k)) {
+                this.cansee = 0;
+              }
+            }
+            if (this.cansee!=0) {
+              this.mindist = this.dist;
+              this.aimplayer = this.i;
+              this.aimx = players[this.i].x;
+              this.aimy = players[this.i].y;
+            }
+          }
+        }
+      }
+    }
+    if (this.mindist<=3) {
+      this.runcounter = -1;
+      this.mode = 3;
+      this.hitchance = int(random(0, 5));
+      if (this.hitchance==3) {
+        triggeraction(this.x+1.5+vecx(this.dir)*2, this.y+2+vecy(this.dir)*2, "attack", this.swordpower/float((clientr.armorpower)), this.baddy, (player.dir), 0);
+      }
+      setTimer(0.05);
+    } else if (this.mindist<20) {
+      this.runcounter = 100;
+      this.mode = 2;
+    } else {
+      setTimer(0.05);
+    }
+  }
+  if (this.mode==3) {
+    this.runcounter++;
+    if (this.runcounter>4) {
+      this.runcounter = 100;
+      this.mode = 2;
+    }
+    setTimer(0.05);
+  }
+  if (this.mode==2) {
+    this.runcounter--;
+    if (this.runcounter>0 && this.aimplayer<playerscount && players[this.aimplayer].hearts>0) {
+      this.dx = players[this.aimplayer].x-this.x;
+      this.dy = players[this.aimplayer].y-this.y;
+      if (abs(this.dx)>abs(this.dy)) {
+        if (this.dx>0) {
+          this.dir = 3;
+        } else {
+          this.dir = 1;
+        }
+      } else {
+        if (this.dy>0) {
+          this.dir = 2;
+        } else {
+          this.dir = 0;
+        }
+      }
+      this.dx = this.aimx-this.x;
+      this.dy = this.aimy-this.y;
+      if (abs(this.dx)<=1 && abs(this.dy)<=1) {
+        this.aimx = players[this.aimplayer].x;
+        this.aimy = players[this.aimplayer].y;
+        this.dx = this.aimx-this.x;
+        this.dy = this.aimy-this.y;
+      }
+      if (abs(this.dx)>abs(this.dy)) {
+        if (this.dx>0) {
+          this.testdir = 3;
+        } else {
+          this.testdir = 1;
+        }
+      } else {
+        if (this.dy>0) {
+          this.testdir = 2;
+        } else {
+          this.testdir = 0;
+        }
+      }
+      this.len = (this.dx*this.dx+this.dy*this.dy)^0.5;
+      this.addx = (this.dx/this.len)*this.huntspeed;
+      this.addy = (this.dy/this.len)*this.huntspeed;
+      this.testx = this.x + 1.5;
+      this.testy = this.y + 2;
+      if (!onwall(this.testx+this.addx, this.testy+this.addy)) {
+        this.x += this.addx;
+        this.y += this.addy;
+      } else if (!onwall(this.testx+this.addx, this.testy)) {
+        this.x += this.addx;
+      } else if (!onwall(this.testx, this.testy+this.addy)) {
+        this.y += this.addy;
+      }
+    } else {
+      this.mode = 0;
+      this.walkmode = 1;
+      this.runcounter = int(random(10, 40));
+      this.dir = (this.dir+2)%4;
+    }
+    setTimer(0.05);
+  }
+  if (this.mode==1) {
+    this.runcounter--;
+    if (this.runcounter>10) {
+      this.testx = this.x+1.5+this.hurtdx*2;
+      this.testy = this.y+2+this.hurtdy*2;
+      if (!onwall(this.testx, this.testy)) {
+        this.x += this.hurtdx;
+        this.y += this.hurtdy;
+      }
+    }
+    if (this.runcounter<=0) {
+      if (this.swordpower>0) {
+        this.mode = 2;
+      } else {
+        this.mode = 0;
+      }
+      this.runcounter = 100;
+    }
+    setTimer(0.05);
+  }
+  if (this.mode==4 && ("#g" == "Bloodmaul Tribe")) {
+    client.bearparts = 1;
+    say2("You kill the bear, and drag#balong it's carcass");
+    sleep(.5);
+    if (this.respawn>0) {
+      this.mode = 5;
+      setTimer(this.respawn);
+    } else {
+    }
+  }
+  if (this.mode==5) {
+    this.mode = 0;
+    this.runcounter = int(random(10, 40));
+    setTimer(0.05);
+    this.hearts = 3;
+  }
+}
+
+function gs1_always() {
+  if ((this.washit || this.actionattack || this.actionprojectile) && this.mode!=1 && this.hp>0) {
+    this.dx = this.x-player.x;
+    this.dy = this.y-player.y;
+    this.len = (this.dx*this.dx+this.dy*this.dy)^0.5;
+    this.hurtdx = this.dx/this.len;
+    this.hurtdy = this.dy/this.len;
+    hideimg(1);
+    this.hp -= float((clientr.weaponpower))/this.shieldpower;
+  }
+  if ((this.exploded || this.waspelt || this.wasshot) && this.mode!=1 && this.hp>0) {
+    this.hurtdx = -vecx(this.dir)*0.2;
+    this.hurtdy = -vecy(this.dir)*0.2;
+    if (this.peltwithsign || this.peltwithvase || this.peltwithstone || this.peltwithnpc) {
+      this.hp -= 1;
+    } else if (this.peltwithblackstone) {
+      this.hp -= 1.5;
+    } else {
+      this.hp -= 0.5;
+    }
+  }
+  if ((this.hurtdx!=0 || this.hurtdy!=0) && this.mode!=4) {
+    this.hurtdx = this.hurtdx;
+    this.hurtdy = this.hurtdy;
+    this.hurtdx = 0;
+    this.hurtdy = 0;
+    if (this.hp<=0) {
+      this.mode = 4;
+      setTimer(1.2);
+    } else {
+      this.mode = 1;
+      this.runcounter = 20;
+      setTimer(0.05);
+    }
+  }
+}

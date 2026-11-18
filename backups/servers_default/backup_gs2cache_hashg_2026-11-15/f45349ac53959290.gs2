@@ -1,0 +1,7 @@
+//#CLIENTSIDE
+function onPlayerTouchsMe() {
+  if ((("#g" == "Imperial Warholm")||("#g" == "Basilica Confederation")||("#g" == "Freikorps"))) {
+    drawoverplayer();
+    dontblock();
+  }
+}

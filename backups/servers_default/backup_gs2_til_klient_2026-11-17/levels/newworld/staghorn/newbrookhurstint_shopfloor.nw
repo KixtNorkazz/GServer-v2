@@ -1,0 +1,1752 @@
+GLEVNW01
+BOARD 0 0 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 1 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 2 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 3 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 4 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 5 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 6 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 7 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+AgAgAgAgAgAg2+2+2+2+AgAgAgAgAg2+2+2+2+2+2+2+2+AgAgAgAgAgAg2+2+2+2+2+2+2+2+
+BOARD 0 8 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+AgAgAgAgAgAgAg2+2+2+2+AgAgAgAgAgAg2+2+2+2+AgAgAgAgAg2+2+2+2+2+2+2+2+AgAgAgAgAgAg2+2+2+2+2+2+2+2+
+BOARD 0 9 64 0 2+2+2+2+AgAgAgAgAgAgAg2s2+2+2+2+AgAgAgAgAgAgAg2+2+2+2+AgAgAgAgAgAg2+2+2+2+AgAgAgAgAg2+2+2+2+2+2+2+2+AgAgAgAgAgAg2+2+2+2+AgAgAgAg
+BOARD 0 10 64 0 2+2+2+2+AgAgAgAgAgAgAg2s2+2+2+2+AgAgAgAgAgAgAg2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+AgAgAgAg
+BOARD 0 11 64 0 2+2+2+2+AgAgAgAgAgAgAg2s2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+AgAgAgAgAgAg2+2+2+2+AgAgAgAgAg2+2+2+2+2+2+2+2+AgAgAgAgAgAg2+2+2+2+AgAgAgAg
+BOARD 0 12 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+AgAgAgAgAgAgAg2+2+2+2+AgAgAgAgAgAg2+2+2+2+AgAgAgAgAg2+2+2+2+2+2+2+2+AgAgAgAgAgAg2+2+2+2+2+2+2+2+
+BOARD 0 13 64 0 2+2+2+2+AgAgAgAgAgAgAg2s2+2+2+2+AgAgAgAgAgAgAg2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+AgAgAgAg
+BOARD 0 14 64 0 2+2+2+2+AgAgAgAgAgAgAg2s2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+AgAgAgAg
+BOARD 0 15 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 16 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+AgAg2+2+2+2+2+2+2+2+Ag2+2+2+2+2+2+2+2+2+2+2+2+AgAg2+2+2+2+2+2+2+2+
+BOARD 0 17 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+AgAgAgAg2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 18 64 0 2+2+2+2+2+2+2+2+AgAgAgAgAgAg2s2s2s2s2s2s2s2s2s2s2s2s2s2s2sAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg2+2+2+2+2+2+2+2+
+BOARD 0 19 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 20 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 21 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 22 64 0 2+2+2+2+2+2+2+2+2+2+2+3t3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u39Ag2+2+2+2+2+2+2+
+BOARD 0 23 64 0 2+2+2+2+2+2+2+2+2+2+2+3+lSlTlUlVlWWQWzW0WQlXlYlZlalbWQWzW0WQlaWQrxrxWQlTWQWzW0WQlXlYlZlalbWQWzW0WQlSlTlUlVlWWQ3vAg2+2+2+2+2+2+2+
+BOARD 0 24 64 0 2+2+2+2+2+2+2+2+2+2+2+3+liljlklllmWCdydzWClnlolplqlrWCdydzWClqWQrxrxWQljWCdydzWClnlolplqlrWCdydzWCliljlklllmWC3vAg2+2+2+2+2+2+2+
+BOARD 0 25 64 0 2+2+2+2+2+2+2+2+2+2+2+3+lylzl0l1l2WSUZUHWSl3l4l5l6l7WSUHUHWSl6WQrxrxWQlzWSUHUHWSl3l4l5l6l7WSUZUHWSlylzl0l1l2WS3vAg2+2+2+2+2+2+2+
+BOARD 0 26 64 0 2+2+2+2+2+2+2+2+2+2+2+3+mCmDmEmFmGWiUIUIWimHmImJmKmLWiUIUIWimKWQrxrxWQmDWiUIUIWimHmImJmKmLWiUIUIWimCmDmEmFmGWi3vAg2+2+2+2+2+2+2+
+BOARD 0 27 64 0 2+2+2+2+2+2+2+2+2+2+2+3+mSmTmSmTmUWyVDVEWymSmTmSmTmUWyVDVEWymTWCrxrxWCmTWyVDVEWymSmTmSmTmUWyVDVEWymSmTmSmTmUWy3vAg2+2+2+2+2+2+2+
+BOARD 0 28 64 0 AgAg2+2+2+2+2+2+2+2+2+3+6G6H6Jaza0TcTdTbTcTdTbTcTdTbTcTdTbTcTdTbalanTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbayaz6G6H6J3vAg2+2+2+2+2+2+2+
+BOARD 0 29 64 0 2sAg2+2+2+2+2+2+2+2+2+3+6m6Y6ZbDbETdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcbCbD6W6Y6Z3vAg2+2+2+2+2+2+2+
+BOARD 0 30 64 0 2+2+2+2+2+2+2+2+2+2+2+3+6W6X6ZbDbETcTdTbTcTdTbayaz6G6H6H6I6H6I6H6I6H6H6I6H6H6H6H6H6Jaza0TcTdTbTcTdTbbCbD6m6X6Z3vAg2+2+2+2+2+2+2+
+BOARD 0 31 64 0 2+2+2+2+2+2+2+2+2+2+2+3+6m6Y6ZbDbETdTbTcTdTbTcbCbD6W6X6Y6X6Y6X6Y6X6Y6X6Y6X6Y6Y6X6Y6ZbDbETdTbTcTdTbTcbCbD6m6Y6Z3vAg2+2+2+2+2+2+2+
+BOARD 0 32 64 0 2+2+2+2+2+2+2+2+2+2+2+3+6m6X6ZbDbETcTdTbTcTdTbbCbD6W6X6Y6Y6X6Y6Y6X6Y6X6Y6X6Y6X6Y6X6ZbDbETcTdTbTcTdTbbCbD6W6X6Z3vAg2+2+2+2+2+2+2+
+BOARD 0 33 64 0 2+2+2+2+2+2+2+2+2+2+2+3+6m6n6pbDbETdTbTcTdTbTcbCbD6W6n6Y63636463646363646363646Y6n6pbDbETdTbTcTdTbTcbCbD6m6n6p3vAg2+2+2+2+2+2+2+
+BOARD 0 34 64 0 2+2+2+2+2+2+2+2+2+2+2+3+6W6X6ZbDbETcTdTbTcTdTbbCbD6m6X6p/G/H/I/H/I/H/I/H/I/I/J6W6X6ZbDbETcTdTbTcTdTbbCbD6m6X6Z3vAg2+2+2+2+2+2+2+
+BOARD 0 35 64 0 2+2+2+2+2+2+2+2+2+2+2+3+6m6n6pbDbETdTbTcTdTbTcbCbD6W6n6ZTdTbTcTdTbTcTdTbTcTdTb6m6n6pbDbETdTbTcTdTbTcbCbD6W6n6p3vAg2+2+2+2+2+2+2+
+BOARD 0 36 64 0 2+2+2+2+2+2+2+2+2+2+Ag3+6m6n6pbDbETcTdTbTcTdTbbCbD6W6n6ZTcaCaDaDaDaDaDaDaDaETd6m6n6pbDbETcTdTbTcTdTbbCbD6m6n6p3vAg2+2+2+2+2+2+2+
+BOARD 0 37 64 0 2+2+2+2+2+2+2+2+2+2+Ag3+6m6n6pbDbETdTbTcTdTbTcbCbD6m6n6pTdaSaTaTaTaTaTaTaTaUTb6m6n6pbDbETdTbTcTdTbTcbCbD6m6n6p3vAg2+2+2+2+2+2+2+
+BOARD 0 38 64 0 2+2+2+2+2+2+2+2+2+2+Ag3+6m6X6pbDbETcTdTbTcTdTbbCbD6m6X6pTcaSaTaTaTaTaTaTaTaUTd6m6X6pbDbETcTdTbTcTdTbbCbD6m6X6p3vAg2+2+2+2+2+2+2+
+BOARD 0 39 64 0 2+2+2+2+2+2+2+2+2+2+Ag3+6W6n6ZbDbETdTbTcTdTbTcbCbD6m6n6pTdaSaTaTaTaTaTaTaTaUTb6m6n6pbDbETdTbTcTdTbTcbCbD6W6n6Z3vAg2+2+2+2+2+2+2+
+BOARD 0 40 64 0 2sAgAg2+2+2+2+2+2+2+2s3+6m6X6pbDbETcTdTbTcTdTbbCbD626365TcaSaTaTaTaTaTaTaTaUTd626365bDbETcTdTbTcTdTbbCbD6m6X6p3vAg2+2+2+2+2+2+2+
+BOARD 0 41 64 0 2s2s2s2+2+2+2+2+2+2+2s3+6W6n6ZbDbETdTbTcTdTbTcbSbT/G/H/JTdaiajajajajajajajakTb/G/H/JbTbUTdTbTcTdTbTcbCbD6W6n6Z3vAg2+2+2+2+2+2+2+
+BOARD 0 42 64 0 2s2s2s2+2+2+2+2+2+2+2s3+6m6X6pbDbETcTdTbTcTdTbTcTdayaza0TcTdTbTcTdTbTcTdTbTcTdayaza0TdTbTcTdTbTcTdTbbCbD6m6X6p3vAg2+2+2+2+2+2+2+
+BOARD 0 43 64 0 2s2s2s2+2+2+2+2+2+2+2s3+6W6n6ZbDbETdTbTcTdTbTcTdTbbSbTbUTdTbTcTdTbTcTdTbTcTdTbbSbTbUTbTcTdTbTcTdTbTcbCbD6W6n6Z3vAg2+2+2+2+2+2+2+
+BOARD 0 44 64 0 2s2s2s2+2+2+2+2+2+2+2s3+6m6X6pbDbETcTdTbTcTdTbayaz6W6n6ZTcTdTbTcTdTbTcTdTbTcTd6W6n6Zaya0TcTdTbTcTdTbbCbD6m6X6p3vAg2+2+2+2+2+2+2+
+BOARD 0 45 64 0 2s2s2s2+2+2+2+2+2+2+2s3+6W6n6ZbDbETdTbTcTdTbTcbCbD6G6I6JTdTbTcTdTbTcTdTbTcTdTb6G6I6JbDbETdTbTcTdTbTcbCbD6W6n6Z3vAg2+2+2+2+2+2+2+
+BOARD 0 46 64 0 2s2s2s2+2+2+2+2+2+2+2s3+6m6n6pbDbETcTdTbTcTdTbbCbD6m6n6pTcTdTbTcTdTbTcTdTbTcTd6m6n6pbDbETcTdTbTcTdTbbCbD6m6n6p3vAg2+2+2+2+2+2+2+
+BOARD 0 47 64 0 2s2s2s2+2+2+2+2+2+2+2s3+6W6n6ZbDbETdTbTcTdTbTcbCbD6W6n6ZTdTbTcTdTbTcTdTbTcTdTb6W6n6ZbDbETdTbTcTdTbTcbCbD6m6n6Z3vAg2+2+2+2+2+2+2+
+BOARD 0 48 64 0 2s2s2s2+2+2+2+2+2+2+2s3+6W6n6Zayazazazazazazazaza06W6n6ZTcTdTbTcTdTbTcTdTbTcTd6W6n6Zayazazazazazazazaza06W6n6Z3vAg2+2+2+2+2+2+2+
+BOARD 0 49 64 0 2s2s2s2+2+2+2+2+2+2+2s3+6W6X6ZbCbDbDbDbDbDbDbDbDbE6W6X6ZTdTbTcTdTbTcTdTbTcTdTb6W6X6ZbCbDbDbDbDbDbDbDbDbE6m6X6Z3v2s2+2+2+2+2+2+2+
+BOARD 0 50 64 0 2s2s2s2+2+2+2+2+2+2+2s3+6m6n6n6H6H6H6I6H6H6I6H6I6H6n6n6p/x/wTbaFaGaGaGaHTd/x/w6m6n6n6H6H6H6I6H6H6I6H6I6H6n6n6p3v2s2+2+2+2+2+2+2+
+BOARD 0 51 64 0 2s2s2s2+2+2+2+2+2+2+2s3+6m6n6X6Y6X6Y6X6X6Y6X6Y6X6Y6X6n6p3v3+W1W1W1W1W1W1W13v3+6m6n6X6Y6X6Y6X6X6Y6X6Y6X6Y6n6n6p3v2s2+2+2+2+2+2+2+
+BOARD 0 52 64 0 2s2s2s2s2s2+2+2s2s2s2s3+636364636464636464636464636463653v3s3/3/3/3/3/3/3/383+626363646464636464636464636363653v2+2+2+2+2+2+2+2+
+BOARD 0 53 64 0 2s2s2s2s2s2+2+2s2s2s2s3s3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/382+2+2+2+2+2+2+2+2+3s3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/382+2+2+2+2+2+2+2+
+BOARD 0 54 64 0 2+2+2+2+2+2+2+2+2+2+2+2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2+2+2+2+2+2+2+2+2+2+2+2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2+2+2+2+2+2+2+2+
+BOARD 0 55 64 0 2+2+2+2+2+2+2+2+2+2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2+2+2+2+2+2+2+2+2+2+2+2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2+2+2+2+2+2+2+
+BOARD 0 56 64 0 2+2+2+2+2+2+2+2+2+2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2+2+2+2+2+2+2+2+2+2+2+2+2+2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2s2+2+2+2+2+2+2+
+BOARD 0 57 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 58 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+/S2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 59 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 60 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 61 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 62 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+BOARD 0 63 64 0 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+
+LINK newbrookhurst_b3.nw 31 51 5 1 7 24
+NPC val-window.gif 46 25
+NPCEND
+NPC val-window.gif 37 25
+NPCEND
+NPC val-window.gif 27 25
+NPCEND
+NPC val-window.gif 18 25
+NPCEND
+NPC val_wildflowers.gif 27 26
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wildflowers.gif 37 26
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wildflowers.gif 46 26
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wildflowers.gif 18 26
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bottle-06.png 54 28
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bottle-06.png 53 28
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bottle-06.png 52 28
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bottle-06.png 53 29
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bottle-06.png 53 29
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bottle-06.png 52 29
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bow-quiver.gif 12 23
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bow-quiver.gif 13 23
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bow-quiver.gif 14 23
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bow-quiver.gif 15 23
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bow-woodenicon.gif 12 28
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bow-woodenicon.gif 13 28
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bow-woodenicon.gif 12 30
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bow-woodenicon.gif 13 30
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragaeris-airshippottedtree.png 28 24
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_dragaeris-airshippottedtree.png 34 24
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_gelbottle.gif 54 31
+//#CLIENTSIDE
+if (created) {
+    x=x-.5;
+  drawoverplayer; }
+NPCEND
+NPC val_gelbottle.gif 52 31
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ghost-shelf2.gif 49 23
+drawunderplayer;
+NPCEND
+NPC val_ghost-shelf2.gif 11 23
+//#CLIENTSIDE
+if (created) {
+    x=x+.5;
+  drawunderplayer; }
+NPCEND
+NPC val_goblincap.gif 50 24
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ghost-shelf2.gif 39 23
+//#CLIENTSIDE
+if (created) {
+    x=x+.5;
+  drawunderplayer; }
+NPCEND
+NPC val_ghost-shelf2.gif 20 23
+//#CLIENTSIDE
+if (created) {
+  drawunderplayer;
+  x=x+.5;
+}
+NPCEND
+NPC val_goblincap.gif 51 24
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_goblincap.gif 52 24
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_nomad-paintred.png 54 51
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_nomad-paintblack.png 54 50
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_nomad-paintyellow.png 53 51
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_nomad-paintred.png 54 52
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_nomad-paintblack.png 53 50
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_nomad-paintyellow.png 53 52
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_nomad-paintbrushes.png 53 48
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_nomad-paintbrushes.png 53 47
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ore-iron2.png 12 51
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ore-gold2.png 13 51
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ore-iron2.png 12 50
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ore-gold2.png 13 50
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_parchment-1.gif 30 23
+drawunderplayer;
+NPCEND
+NPC val_rp_barrelstackbase.gif 47 27
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp_barrelstacktop.gif 49 27
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel2.png 50 28
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rucksack.png 51 27
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rucksack.png 46 27
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-hammer.gif 53 45
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-hammer.gif 53 44
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-sprocket.gif 53 42
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-sprocket.gif 53 43
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-sprocket.gif 54 43
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-sprocket.gif 54 42
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-screws.gif 53 40
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-screws.gif 52 40
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-hammer.gif 53 46
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-screwdriver.gif 52 45
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-screwdriver.gif 52 43
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wine.gif 52 32
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wine.gif 53 32
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wine.gif 52 33
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wine.gif 53 33
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_beer-stein3.gif 53 35
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_beer-stein3.gif 52 35
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_caverndoorlight.gif 15 44
+// NPC made by Zangus
+if (created) {x=x;
+  setimg val_caverndoorlight.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0.8,0.7,0.8,0.3;
+  drawaslight;
+  setzoomeffect 2;
+}
+NPCEND
+NPC val_caverndoorlight.gif 45 44
+// NPC made by Zangus
+if (created) {x=x;
+  setimg val_caverndoorlight.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0.8,0.7,0.8,0.3;
+  drawaslight;
+  setzoomeffect 2;
+}
+NPCEND
+NPC val_kender-musicbox.gif 53 39
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-musicbox.gif 52 39
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-redfeather.gif 51 50
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-redfeather.gif 51 51
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-juniperbrush.gif 49 51
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-juniperbrush.gif 49 50
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-glasses.gif 53 37
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-glasses.gif 53 38
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-bluesock.gif 50 52
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-bluesock.gif 45 50
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-bluesock.gif 49 52
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-snoggoggles.gif 45 52
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-snoggoggles.gif 45 51
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-carveknife.gif 13 34
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-carveknife.gif 13 33
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-carveknife.gif 12 34
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-carveknife.gif 12 33
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-teddy.gif 43 51
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-teddy.gif 43 50
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 43 27
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-workrack1.gif 12 26
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-workrack1.gif 14 26
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_setzer-clockwork-littlegear.gif 26 45
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_setzer-clockwork-littlegear.gif 25 46
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_setzer-clockwork-littlegear.gif 25 45
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC doorlight-down.gif 16 25
+// NPC made by Zangus
+if (created) {
+  setimg doorlight-down.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0.8,0.7,0.8,0.5;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC doorlight-down.gif 25 25
+// NPC made by Zangus
+if (created) {
+  setimg doorlight-down.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0.8,0.7,0.8,0.5;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC doorlight-down.gif 44 25
+// NPC made by Zangus
+if (created) {
+  setimg doorlight-down.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0.8,0.7,0.8,0.5;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC doorlight-down.gif 35 25
+// NPC made by Zangus
+if (created) {
+  setimg doorlight-down.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0.8,0.7,0.8,0.5;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC - 25 30
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC - 43 30
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC - 39 44
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC - 25 44
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC - 12 37
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC - 52 28
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC - 52 39
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC - 16 50
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 5,5,{
+  22,22,00,00,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  };
+}
+NPCEND
+NPC - 23 50
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 5,5,{
+  22,22,00,00,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  };
+}
+NPCEND
+NPC - 12 50
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 5,5,{
+  22,22,00,00,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  };
+}
+NPCEND
+NPC - 39 50
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 5,5,{
+  22,22,00,00,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  };
+}
+NPCEND
+NPC - 45 50
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 5,5,{
+  22,22,00,00,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  };
+}
+NPCEND
+NPC - 50 50
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 5,5,{
+  22,22,00,00,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  };
+}
+NPCEND
+NPC - 53 45
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 5,5,{
+  22,22,00,00,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  };
+}
+NPCEND
+NPC val_rp-crate.png 45 27
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 40 44
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC - 39 30
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC - 40 30
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC - 26 30
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC - 29 30
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 5,5,{
+  22,22,00,00,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  };
+}
+NPCEND
+NPC - 34 30
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 5,5,{
+  22,22,00,00,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  22,22,22,22,22,
+  };
+}
+NPCEND
+NPC valaxe.gif 12 35
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 13 37
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC valaxe.gif 12 36
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valdagger.gif 12 38
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valdagger.gif 13 38
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valdagger.gif 14 38
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_nmdaxe4levo.gif 12 39
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_nmdaxe4levo.gif 12 41
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 12 33
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC stefanbook.gif 31 32
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC stefanbook.gif 40 38
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC scroll.gif 40 33
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-bookstack13.gif 28 31
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-itemslot-hastescroll.png 25 31
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+  drawoverplayer;
+  nick = "Inventory List";
+    }
+NPCEND
+NPC book16.gif 39 48
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC book16.gif 40 48
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_candle.gif 26 38
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+  timeout=.1;
+  drawoverplayer;
+}
+if (timeout) {
+  showimg 1,light2.png,x-4,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC val_candle.gif 34 30
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+  timeout=.1;
+  drawoverplayer;
+}
+if (timeout) {
+  showimg 1,light2.png,x-4,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC val_candle.gif 40 35
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+  timeout=.1;
+  drawoverplayer;
+}
+if (timeout) {
+  showimg 1,light2.png,x-4,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC plant_29.png 25 34
+// NPC made by Midas Antilles
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rucksack.png 25 35
+//#CLIENTSIDE
+drawoverplayer;dontblock;
+setzoomeffect .7;
+NPCEND
+NPC archforge-repairprongs2.gif 26 48
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC archforge-repairprongs2.gif 26 50
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC archforge-hammer1.gif 39 45
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC archforge-hammer1.gif 40 45
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ore-iron2.png 35 32
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC book3.png 37 31
+NPCEND
+NPC arwind-armor1.gif 24 23
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC arwind-armor1.gif 22 23
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC arwind-armor1.gif 22 24
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC arwind-armor1.gif 24 24
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC arwind-armor1.gif 41 23
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC arwind-armor1.gif 43 23
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC arwind-armor1.gif 41 24
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC arwind-armor1.gif 43 24
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC chainmail.gif 43 25
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC weaponrack2.gif 50 26
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC naginatabarrel.gif 20 24
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC chainmail.gif 41 25
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC chainmail.gif 41 25
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC chainmail.gif 22 25
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC chainmail.gif 24 25
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 12 28
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC - 13 28
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC - 13 33
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC val_brokendoor.gif 25 41
+//CLIENTSIDE
+if (created) {
+  x=x+.5;
+}
+NPCEND
+NPC val_brokendoor.gif 39 41
+//CLIENTSIDE
+if (created) {
+  x=x+.5;
+}
+NPCEND
+NPC valmud_dragonaxe.png 12 44
+// NPC made by Roy Valentine, Squadron Leader of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valmud_dragonaxe.png 13 44
+// NPC made by Roy Valentine, Squadron Leader of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valmud_motorevolver.gif 12 47
+// NPC made by Roy Valentine, Squadron Leader of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valmud_motorevolver.gif 13 47
+// NPC made by Roy Valentine, Squadron Leader of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC alchemybottlered.gif 39 51
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC alchemybottlered.gif 39 50
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seuagen-bluepotion.gif 40 51
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-wine1.gif 42 51
+//#CLIENTSIDE
+dontblock;
+drawoverplayer;
+NPCEND
+NPC stefanbook.gif 47 51
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC map_small.gif 45 50
+//#CLIENTSIDE
+drawunderplayer;dontblock;
+NPCEND
+NPC val_caverndoorlight.gif 20 44
+// NPC made by Zangus
+if (created) {x=x;
+  setimg val_caverndoorlight.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0.8,0.7,0.8,0.3;
+  drawaslight;
+  setzoomeffect 2;
+}
+NPCEND
+NPC val_caverndoorlight.gif 38 44
+// NPC made by Zangus
+if (created) {x=x;
+  setimg val_caverndoorlight.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0.8,0.7,0.8,0.3;
+  drawaslight;
+  setzoomeffect 2;
+}
+NPCEND
+NPC valmud_crossbow.png 16 51
+// NPC made by Roy Valentine, Squadron Leader of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valmud_crossbow.png 17 50
+// NPC made by Roy Valentine, Squadron Leader of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valmud_irongladius.png 23 50
+// NPC made by Roy Valentine, Squadron Leader of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valmud_irongladius.png 21 51
+// NPC made by Roy Valentine, Squadron Leader of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valmud_humanseax.gif 21 50
+// NPC made by Roy Valentine, Squadron Leader of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valmud_crossbow.png 18 51
+// NPC made by Roy Valentine, Squadron Leader of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valmud_unseendagger.gif 23 51
+// NPC made by Roy Valentine, Squadron Leader of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 24 44
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 2,12,{
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+  22,22,
+
+  };
+}
+NPCEND
+NPC - 27 35
+//#CLIENTSIDE
+function onCreated()
+{
+  setshape(1, 16*1, 16*2);
+}
+function onPlayerTouchsMe()
+{
+  ShopsGui.openShop(13);
+}
+NPCEND
+NPC val_gelbottle.gif 52 30
+// NPC made by Don Ulrich
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_gelbottle.gif 54 30
+//#CLIENTSIDE
+if (created) {
+    x=x-.5;
+  drawoverplayer; }
+NPCEND

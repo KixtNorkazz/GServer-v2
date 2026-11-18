@@ -1,0 +1,13 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+}
+
+function gs1_always() {
+  showimg(1, "this.img", this.x, this.y);
+  changeimgpart(1, 0, 0, 16*8, 16*11);
+  showimg(2, "this.img", this.x+8, this.y);
+  changeimgpart(2, 16*8, 0, 16*8, 16*11);
+  changeimgvis(1, 1);
+  changeimgvis(2, 1);
+}

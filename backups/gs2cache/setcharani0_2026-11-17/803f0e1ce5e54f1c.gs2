@@ -1,0 +1,24 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "zarhyn_the_1337-allianceshield.gif";
+  this.ap = 100;
+  this.attr[1] = "hat.gif";
+  this.head = "val-legionhelm2.gif";
+  this.body = "zarhyn_the_1337-alliancebody101.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  this.nick = "Jack Daniels, Legionnaire of (The Legion of Steel)";
+  setcharani("0", NULL);
+  setcharani("dead2", NULL);
+  this.dir = 2;
+}
+
+function onPlayerTouchsMe() {
+  message("Did you hear of the rebuilding?");
+  sleep(5);
+  message();
+}

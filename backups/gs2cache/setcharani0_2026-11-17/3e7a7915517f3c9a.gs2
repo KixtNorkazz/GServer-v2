@@ -1,0 +1,20 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.attr[1] = "hat.png";
+  this.head = "val_nohead.gif";
+  this.body = "no-body.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("merchantcart-idle", NULL);
+  this.swordpower = 1;
+  this.shield = "ryo250-woodenspearshield.gif";
+  this.shieldpower = 1;
+  this.ap = 100;
+  this.nick = "";
+  this.dir = 1;
+}

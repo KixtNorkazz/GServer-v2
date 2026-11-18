@@ -1,0 +1,68 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.attr[1] = "hat-valnation-nadrion-knightpaudrons.png";
+  this.shield = "ryo250-woodenspearshield.gif";
+  this.head = "val-nadrion-valikorliansoldier.png";
+  this.body = "valikorlia-knightbody.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "lightgray";
+  this.colors[2] = "red";
+  this.colors[3] = "darkred";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 2;
+}
+
+function onPlayerEnters() {
+  this.name = "tamachan";
+  setcharani("idle", this.idle);
+  this.randomx = int(random(-2, 2));
+  this.randomy = int(random(-2, 2));
+  if (!onwall(this.x+1.5*this.randomx, this.y+2*this.randomy) && !onwater(this.x+1.5*this.randomx, this.y+2*this.randomy)) {
+    move(this.randomx, this.randomy, 1, 4+8+16+32);
+    setcharani("walk", this.walk);
+  }
+  sleep(1);
+  setcharani("idle", this.idle);
+  setTimer(random(2, 5));
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "The Valikorlian Empire")) {
+    if ((player.nick.pos("Empress") > -1)) {
+      message("::Bows:: My Lady.");
+      sleep(3);
+      message();
+    }
+    if ((player.nick.pos("Lord") > -1)) {
+      message("Hail, Lord.");
+      sleep(3);
+      message();
+    }
+    if ((player.nick.pos("Sir") > -1)) {
+      message("Hail, good knight.");
+      sleep(3);
+      message();
+    } else {
+      message("Underpayed");
+      sleep(3);
+      message();
+    }
+  }
+}
+
+function onTimeOut() {
+  this.name = "tamachan";
+  setcharani("idle", this.idle);
+  this.randomx = int(random(-2, 2));
+  this.randomy = int(random(-2, 2));
+  if (!onwall(this.x+1.5*this.randomx, this.y+2*this.randomy) && !onwater(this.x+1.5*this.randomx, this.y+2*this.randomy)) {
+    move(this.randomx, this.randomy, 1, 4+8+16+32);
+    setcharani("walk", this.walk);
+  }
+  sleep(1);
+  setcharani("idle", this.idle);
+  setTimer(random(2, 5));
+}

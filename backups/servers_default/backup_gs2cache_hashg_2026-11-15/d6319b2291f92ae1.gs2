@@ -1,0 +1,15 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.bookimage = "hammerforgemap";
+  this.pagecount = "0";
+  this.image = 1;
+}
+
+function onPlayerEnters() {
+  this.bookimage = "hammerforgemap";
+  this.pagecount = "0";
+  this.image = 1;
+  if (("#g" == "Hammerforge")) {
+    show();
+  }
+}

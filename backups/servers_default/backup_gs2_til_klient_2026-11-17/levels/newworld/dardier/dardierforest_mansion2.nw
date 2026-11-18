@@ -1,0 +1,290 @@
+GLEVNW01
+BOARD 0 0 64 0 QDXbXcXbXcXbXcXbXcXbXcXbXcXbXbXcXbXbXcXrXbXcXbXcXbXcXbXcXbXcXbXcXbXcXbXbXcXcXbXcXbXcXbXcmuXcXbXcXcXbXcXbXcXbXcXbXbXcXcXbXcXbXcQD
+BOARD 0 1 64 0 QTXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXrXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsmuXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsQT
+BOARD 0 2 64 0 QjWgWhXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXrXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsmuXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsWgWhQj
+BOARD 0 3 64 0 QzWwWxXbXcXbXcXbXcXbXcXbXcXbXbXcXbXbXcXbXbXcXbXcXbXcXbXcXbXcXbXcXbXcXbXbXcXcXbXcXbXcXbXcXbXcXbXcXcXbXcXbXcXbXcXbXbXcXcXbXcWwWxQz
+BOARD 0 4 64 0 QDXAXBXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXrXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsmuXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXAXBQD
+BOARD 0 5 64 0 QTXQXRXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXrXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsmuXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXQXRQT
+BOARD 0 6 64 0 QjXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXrXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsmuXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsQj
+BOARD 0 7 64 0 QzXrXsVJXdXeVJXsXsVJXdXeVJXsXsVJXdXeVJXrXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsmuVJXdXeVJXsXsVJXdXeVJXsXsVJXdXeVJXsXrQz
+BOARD 0 8 64 0 QDXrXs+W+X+Y+ZXsXs+W+X+Y+ZXsXs+W+X+Y+ZXrXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsmu+W+X+Y+ZXsXs+W+X+Y+ZXsXs+W+X+Y+ZXsXsQD
+BOARD 0 9 64 0 QTXrXs+m+n+o+pXsXs+m+n+o+pXsXs+m+n+o+pXrXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsmu+m+n+o+pXsXs+m+n+o+pXsXs+m+n+o+pXsXsQT
+BOARD 0 10 64 0 QjXrXs+2+3+4+5XsXs+2+3+4+5XsXs+2+3+4+5XbXcXbXcXcXbXcXbXcXbXcXbXcXbXcXbXbXcXcXbXcXbXbXbXcXb+2+3+4+5XsXs+2+3+4+5XsXs+2+3+4+5XsXsQj
+BOARD 0 11 64 0 QzXrXs/G/H/I/JXsXs/G/H/I/JXsXs/G/H/I/JXrXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsmu/G/H/I/JXsXs/G/H/I/JXsXs/G/H/I/JXsXsQz
+BOARD 0 12 64 0 QzVJWLVJWLWMVJWLWMVJWLWMVJWLWMVJWLWMVJXrXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsmuVJWLWMVJWLWMVJWLWMVJWLWMVJWLWMVJWLVJQD
+BOARD 0 13 64 0 QD+G+J+G+H+I+H+I+H+I+I+H+I+H+I+H+H+I+HXrXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsXsmu+H+I+H+H+I+H+I+H+I+I+H+I+H+I+H+J+G+JQT
+BOARD 0 14 64 0 QT+W+Z+W+X+Y+X+Y+X+Y+Y+X+Y+X+Y+X+X+Y+XVJVJWMWLWLWMWLWMVJVJWMWLWMWMWLWMVJVJWLWMWMWMWMWMVJVJ+X+Y+X+X+Y+X+Y+X+Y+Y+X+Y+X+Y+X+Z+W+ZQj
+BOARD 0 15 64 0 Qj+W+Z+W+X+Y+X+Y+X+Y+Y+X+Y+X+Y+X+X+Y+X0K0N+Y+X+X+Y+X+Y0K0N+X+Y+X+Y+X+Y0K0N+Y+X+X+Y+X+Y0K0N+X+Y+X+X+Y+X+Y+X+Y+Y+X+Y+X+Y+X+Z+W+ZQz
+BOARD 0 16 64 0 Qz+m+p+m+n+o+n+o+n+o+o+n+o+n+o+n+n+o+n0a0d+Y+X+X+Y+X+Y0a0d+X+Y+X+Y+X+Y0a0d+Y+X+X+Y+X+Y0a0d+X+Y+X+X+Y+X+Y+X+Y+Y+X+Y+X+Y+X+Z+m+pQD
+BOARD 0 17 64 0 QD+m+p+m+n+o+n+o+n+o+o+n+o+n+o+n+n+o+n+G+J+o+n+n+o+n+o+G+J+n+o+n+o+n+o+G+J+o+n+n+o+n+o+G+J+n+o+n+n+o+n+o+n+o+o+n+o+n+o+n+p+m+pQT
+BOARD 0 18 64 0 QT/I/H/I/H/I/H/I/H/I/H/I/H/I/H/I/I/H/I+W+Z+4+3+3+4+3+4+W+Z+3+4+3+4+3+4+W+Z+4+3+3+4+3+4+W+Z/H/I/H/H/I/H/I/H/I/H/I/H/I/H/I/H/I/JQj
+BOARD 0 19 64 0 Qj+G+J+G+H+I+H+I+H+I+I+H+I+H+I+H+H+I+H+m+p/I/H/H/I/H/I+m+p/H/I/H/I/H/I+m+p/H/I/H/I/I/H+m+p+H+I+H+H+I+H+I+H+I+I+H+I+H+I+H+J+G+JQz
+BOARD 0 20 64 0 Qz+W+Z+W+X+Y+X+Y+X+Y+Y+X+Y+X+Y+X+X+Y+X+W+Z+I+H+H+I+H+I+W+Z+J+G+H+I+J+G+W+Z+I+H+H+I+H+I+W+Z+X+Y+X+X+Y+X+Y+X+Y+Y+X+Y+X+Y+X+Z+W+ZQD
+BOARD 0 21 64 0 QD+W+Z+W+X+Y+X+Y+X+Y+Y+X+Y+X+Y+X+X+Y+X+m+p+Y+X+X+Y+X+Y+m+p+Z+2+3+4+5+W+m+p+Y+X+Y+X+X+Y+m+p+X+Y+X+X+Y+X+Y+X+Y+Y+X+Y+X+Y+X+Z+W+ZQT
+BOARD 0 22 64 0 QT+m+p+m+n+o+n+o+n+o+o+n+o+n+o+n+n+o+n+W+Z+Y+X+X+Y+X+Y+W+Z+ZfHfIfHfI+W+W+Z+Y+X+Y+X+X+Y+W+Z+n+o+n+n+o+n+o+n+o+o+n+o+n+o+n+p+m+pQj
+BOARD 0 23 64 0 Qj+2+5+2+3+4+3+4+3+4+4+3+4+3+4+3+3+4+3+m+p+o+n+n+o+n+o+m+p+pfXfYfXfY+m+m+p+o+n+o+n+n+o+m+p+3+4+3+3+4+3+4+3+4+4+3+4+3+4+3+5+2+5Qz
+BOARD 0 24 64 0 Qz/I/H/I/H/I/H/I/H/I/H/I/H/I/H/I/I/H/I+W+Z+4+3+3+4+3+4+W+Z+5fHfIfHfI+2+W+Z+4+3+4+3+3+4+W+Z/H/I/H/H/I/H/I/H/I/H/I/H/I/H/I/H/I/JQD
+BOARD 0 25 64 0 QDbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbiTuT9+m+p/I/H/H/I/H/I+m+p/Hrxrxrxrx/I+m+p/H/I/H/I/I/H+m+pTuT9bhbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjQT
+BOARD 0 26 64 0 QTQhQiQjQghyHQHRhzZlHBhjRiRyTEblbzTuT9+2+5TrTrTrTrTrTr+2+5TrTrTrTrTrTr+2+5TrTrTrTrTrTr+2+5TuT9b0hiZiGgGhZzhzQiQjhzhihjSOhzZyZzQj
+BOARD 0 27 64 0 QwQxQyQzQwQxhzQzhyhzhjHASQTERQSgbzTuT8T7T8T7T8T7T8T7T8T7T8T7T8T7T8T7T8T7T8T7T8T7T8T7T8T7T8T7T9b0ZlZyGwGxZjZjhzhjhzZjhzhjhzQxQyQz
+BOARD 0 28 64 0 HQHRQCQDhihjQChiHBZiZjHBRSShRRSOT/TvbgTuT7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T7T9TvbgbwhihhhzZyZzZzZiZjZiZzZiZjZiQBQCQD
+BOARD 0 29 64 0 HAHBHQHRhyQRQSQTHAZyZzRiSTZlZlHQHRT/bwT+TuT9TuT9TuT9TuT9TuT9TuT9TuT9TuT9TuT9TuT9TuT9TuT9T+T/bwhzZlhzhihyhzhzZyZzZyhzZyZzZyQRQSQT
+BOARD 0 30 64 0 HQHRHAHBQgQhhjZiZjRiSTRyb1SBhihyhzZlT/bjTvbgbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjTvbgbjbwSOhzZiZjhiZiZjGwGxGwGxZzhhhjhzhzZyQj
+BOARD 0 31 64 0 QwQxQyQzQwhyhzZyZzRyTETERBRRhihjhiHQHRRiT/bwS1TUTkTkTkTkTkTkTkTkTkTkTkTkTkTkTTTkTTTTT/bwTkRxSDRhZyZzhiZyZzhjZyZzhjZlSOhjhhZiZjST
+BOARD 0 32 64 0 QAQBQCQDQAQBHQHRRSSjSgShRRQBhjhiHQHRRiRyTkTUTkTkTkTkTkTkTUTkTkTkTkTkTkTkTkTkTkTkTkTkTkTkS0TkTkSRhjZiZjGxGwhzhjhzhzhihjSOhzZyZzUw
+BOARD 0 33 64 0 QQQRhiQTQQS2RiSCRhQRSYQTZlQRZlhjhzRiRyTkTUTkTkTUTkTkTUTkTkTkTkTkTkTUTkTkTUTUTkTkTkTkTkTkTkTkTkSRhzZyZzZyZzZiZjhyhzhiZlhzhihzZiat
+BOARD 0 34 64 0 STSCRhRiSTSCRyblRxSTZlQjQgQhHQHRRiRyTkTUTkTkTkTkTkTkTkTkTkTkTUTkTUTkTUTUTkTUTkTUTkTkTUTkTkTkTkRxRhQhS2GxGwZyZzhzhihihjhihjZlZya9
+BOARD 0 35 64 0 RXRWRgRyb1TEbVTEb1bVSBQzS2hyS5QzSQTkTTTkTTTkTkTkTkTkTkRQSgShRTRQSgShSgSgShRTTUTkTUTkTkTkTUTUTkTUSRQxQyZyZzhzhiZlZiZjhzhjhzhjhzTE
+BOARD 0 36 64 0 asatTEasatRBSjRCTEblSRQDQAQBQCRiSQTkTkTkTkTkTkTkTkTkRQZiZjQBhjhzhjhzhzhiRSRSRTS0TkTUTUTkTkTUTUS0SRHQHRGxGwZlhjSOZyZzZiZjZiZjHBSh
+BOARD 0 37 64 0 a8a9asa8a9SRQSRSSgShRRQTQQQRQSRSSQTkTUTkTkTkTkTkRQSgHAZyZzQRhzZiZjhyhzhiZlhzRSShRTTUTkTUTkTkTUTkSRhyZiZyZzhihihyZlhzZyZzZyZzhyQT
+BOARD 0 38 64 0 b1TEa8a9RQRRHQHRHBQhQiQjQghyhzhiSQTkTUTkTkTkTkTkSBhzhiRjRxSDhjZyZzhzhihihjhihjZlRSRTTUTkTUTkTUTkSRhjZyZzQghjZlhjZlhjZiZjHAQhQiQj
+BOARD 0 39 64 0 UwRQRCRBRRHAZiZjHAQxQyQzQwQxhiQzRyTkTUTkTkTkTkRQRRZlSORCTEUwSBhzhiZlZiZjhzhjhzhjhzZiRTTUTkTUTkTUSRZjhjhzQwhzSOhhZiZjZlhiSOhihjQz
+BOARD 0 40 64 0 ShRRRSRRHQHRZyQQQQQRQSQTQQQRQSQTSgTkTUTkTkTkRQRRHBZzSSSTSgShhiZlhjZyGwGxGwGxZzhhhjhzSATkTUTkTUTURxZyZzGwGxZzhzQTQQhjQSQTQQQRQSQD
+BOARD 0 41 64 0 QQQRHAZiZjZiZjQgQgQhQiQjhihySOhySQTkTUTkTkTkSRZzSSRyTETESBhihzhihihihjZyZzhjZlSOhjhhSQTUTUTUTUTkRQSOhiZzhyZiZjQjQghzQiQjQgQhQiQT
+BOARD 0 42 64 0 QgQhQiZyZzZyZzQwQwQxQyQzQwSOhihjSATkTUTkTkTkRxRyTETETERQRRhyhihjZlhjhzhjhzhzhihjSOhzRyTkTkTkTUTkSRhjhyhihhZyZzHAHBQxQyQzQwQxQyQj
+BOARD 0 43 64 0 QwQxZiZjZiZjZiQAQAhiQCQDQAhzhyZlSQS0TUTkTkTkRQSgShSgShRRZiZjhjZlSOhzZiZjhyhzhiZlhzhiSgTUTUTUTUTUSRZlZiSOhzhjhzhyhzQBQCQDQAQBQCQz
+BOARD 0 44 64 0 QAQBZyZzZyHBHQQQQQQRQShiZlhyhzHQRyTkTUTkTkTkZlHBZiGgGhGgZyZzZiZjhihjZyZzhzhihihjhihjSATkTkTTTkTTSRSOZyhzhzhjSOZiZjZiZjQTQQQRQSQD
+BOARD 0 45 64 0 QQQRQSHAHQHRHAQgQghyHQHRhzZlHBhjSgTkTUTkTkTkSBHAZyGwGxGwZiZjZyZzhzZlhzhiZlZiZjhzhjhzRyTUTkTkTkTkSRhhZlhyhiZiGgGhZzZyZzQjQgQhQiQT
+BOARD 0 46 64 0 QgQhQiQjQgQxQyQwQwQxhzQzhyhzhjHASATkTUTkTkTkRRhzhihjZyZzZyZzSOhjhhhiZlhjSOZyZzZiZjZiSgTkTUTkTkTkSRhjhzhiZlZyGwGxZjhzQyQzQwQxQyQj
+BOARD 0 47 64 0 QwQxQyQzQwQBQChihihjQChiHBZiZjHBRSRCTkTkTkTkRgRhhjhzhjhzhzhihjSOhzhzhihihyZlhzZyZzZyRyTUTUTkTUTkRxZjhjhjhihhhzZyZzQBQCQDQAQBQCQz
+BOARD 0 48 64 0 QAQBQCHAZyGwGxhyhyQRQSQTHAZyZzRiSTRSRCTkTkTkTkRgSTSCSnhyhzhiZlhzhihihjZlhjZlhjZiZjHASgTkTUTkTUTURQhzhihzZiZjZyZzhyhzZlZiSOhzSSQD
+BOARD 0 49 64 0 ZlHQHRhzhihjZyQgQgQhhjZiZjRiSTRyb1ZlZlRCTkTkTkTkRXSghjZjSOZyZzZiZjZiZjHBZyZzZiZjZzHBSQTUTUTUTkTkSRhihjZlZyZzhzSOhzZlSOZyhzhzTEQT
+BOARD 0 50 64 0 hihyhzhihjhzhjQwQwhyhzZyZzRyTETERBRRhiSQTkTkTkTkTkRgZyZzhyZlhzZyZzZyZzhyHAHBZyRiSTSTRjTkTkTkTUTUSRhjhzhjhzZiZjhhhhhihhZlhyhiTEQj
+BOARD 0 51 64 0 hiSOZihjhzZiZjQAQAQBHQHRRSSjSgShRRQBQCRSRCTkTkTkTkTkRgSTRhZlhjZiZjHAQhQiQjHARiRyTUTUTUTkTkTkTkRQZiZjZiZjHBZyZzZiZjZlhjhzhiZlRXQz
+BOARD 0 52 64 0 GxGwGxZzhhhjhzhzZyZzZiZjhzhiZyZzZlQRQShzRSRCTkTkTkTkTkS1RgRhZjZyZzHBQxQyQzRiRyTUTUTUTUTUTkTkRQRRZyZzZyZzhyHAHBZyZzZiZjhjhjhiRBQD
+BOARD 0 53 64 0 ZyZzhjZlSOhjhhZiZjhyZyZzhzhjSOhiQgQhQiQjhjRSRCTkTkTkTkTkTkRgZzhjZiZjQBQCRiRyTUTUTUTUTUTkTkRQRRhjSOZjHAQhQiQjHAHBQiZyZzhjhzZlRRQT
+BOARD 0 54 64 0 hjhzhzhihjSOhzZyZzhhZiZjSOhzhjhyS2hyS5QzhzSOhyTkTkTkTkTkTkTkRgSTRyRgSSSTRyTUTUTUTUTUTkTkRQRRhjZlZlZzHBQxQyQzhyQxHQHRHQHRhzZiQyQj
+BOARD 0 55 64 0 ZjhyhzhiZlhzhihzZiZjZyZzhyhzZlZiQAQBQCRiRjRxRSRCTkTkTkTkTkTkTkTkTkTkTkTkTkTkTkTkTkTkRQShRRhyhzhjhzZiZjQBQCQDhzQBHAHBHAHBZjZyQCQz
+BOARD 0 56 64 0 ZzhzhihihjhihjZlZyZzhzSOhzZlSOZyQQQRQSRSRCTERxRyTkTkTkTkTkTkTkTkTkTkTkTkTUTUTUTkTkRQRiSSSTRhZiZjhjhjhzZlZyZzhyhzhzZiGwGxZzhjSOQD
+BOARD 0 57 64 0 hiZlZiZjhzhjhzhjhzZiZjhhhhhihhZlQghyhzhiRSSgRCRBRCTkTkTTTkTTTkTkTkTkTkTkTUTUTUTkRQRiRyRXRCRxZyZzZiZjhiZyZzhjZyZzQgQhQiQjQgQhQiQT
+BOARD 0 58 64 0 hjSOZyZzZiZjZiZjHBZyZzZiZjZlhjhzQwQxhiQzQwhyhzhiRSRCTkTkTkTkTkTkTkTkTkTkTkTkb1TkRxRyTES1RmRQRRHBZyZzhjhzZiZjhjhzQwQxQyQzQwQxQyQj
+BOARD 0 59 64 0 hihyZlhzZyZzZyZzhyHAHBZyZzZiZjhjhyQBQCQDQAhjhihjhiRSRCTkTkTkTkTkTkTkTkTkTkblTkTkTkTkTERQShRRHQHRHAHBZlhyZyZzHQHRHQQBQCQDQAQBQCQz
+BOARD 0 60 64 0 ZlhjZlhjZiZjHAQhQiQjHAHBQiZyZzhjQQhiQSHAhyZiZjhzhihjZySgRCTkTkTkTkTkTkTkTkTkTkTkTkTERBRRQQHBZiZjhzhihiZiZjhjQSQTQQQBQCQDQAQBQCQD
+BOARD 0 61 64 0 SOhyZiZjZyZzHBQxQyQzhyQxHQHRHQHRQghyhzZiZjZyZzZiZjZiZjhiSQbVTkTkTkTkTkRQSgSjRCS0UwRQRRQjHQHRZyGgGhSOhyZyZzhzQiQjQgQRQSQTQQQRQSQT
+BOARD 0 62 64 0 hihjZyZzhjZiZjQBQCQDhzQBHAHBHAHBQwQxQyZyZzhjhiGgGhGgGhZlSQTkTkTkTkTkTkSRhiQxRSSgShRRQyQzQwhihyGwGxhzSOHQHRQxQyQzQwQhQiQjQgQhQiQj
+BOARD 0 63 64 0 QwQxQyQzQwQxQyQzQwQxQyQzQwhihihihjZyZzhjhihihihjZyZzhjSOSATkTkTkTkTkTkSRhjQxZlhihjZlhjZlhjZiZjHAQhQiQyQzQwQxQyQzQwQxQyQzQwQxQyQz
+LINK dardier_int_okibi1.nw 30 25 4 1 30.5 41.5
+NPC - 57 39
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree8.png";
+NPCEND
+NPC - 2 25
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree11.png";
+NPCEND
+NPC - 2 45
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree1.gif";
+NPCEND
+NPC - 58 60
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_mediumtree.png";
+NPCEND
+NPC - 62 46
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree1.gif";
+NPCEND
+NPC - 9 60
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_mediumtree.png";
+NPCEND
+NPC val_estate_window_tall1_black.png 39 21
+NPCEND
+NPC val_estate_window_tall2_shut.png 38 21
+NPCEND
+NPC val_estate_window_tall2_shut.png 41 21
+NPCEND
+NPC val_estate_window_tall2_shut.png 15 14
+NPCEND
+NPC val_estate_window_tall2_shut.png 18 14
+NPCEND
+NPC val_estate_window_medium1_black.png 16 8
+NPCEND
+NPC val_estate_window_top1a.png 4 18
+NPCEND
+NPC val_estate_window_top1a.png 10 18
+NPCEND
+NPC val_estate_window_top1a.png 10 12
+NPCEND
+NPC val_estate_window_top1a.png 4 12
+NPCEND
+NPC val_estate_window_top1a.png 16 12
+NPCEND
+NPC val_estate_window_top1a.png 23 19
+NPCEND
+NPC val_estate_window_top1a.png 16 18
+NPCEND
+NPC val_estate_window_top1a.png 39 19
+NPCEND
+NPC val_estate_pediment_swanneck.png 30 20
+NPCEND
+NPC val_victoriandoors.png 30 22
+NPCEND
+NPC val_ironstreetlamp-off.gif 20 24
+join("world_streetlamp");
+function onCreated() {
+y += 0.1;
+}
+NPCEND
+NPC val_ironstreetlamp-off.gif 42 24
+join("world_streetlamp");
+function onCreated() {
+y += 0.1;
+}
+NPCEND
+NPC val_capital_corinthian3.png 43 15
+NPCEND
+NPC val_capital_corinthian3.png 35 15
+NPCEND
+NPC val_capital_corinthian3.png 27 15
+NPCEND
+NPC val_capital_corinthian3.png 19 15
+NPCEND
+NPC val_estate_window_tall2_shut.png 38 15
+NPCEND
+NPC val_estate_window_tall2_shut.png 41 15
+NPCEND
+NPC val_estate_window_tall1_black.png 39 15
+NPCEND
+NPC val_estate_window_tall1_black.png 31 15
+NPCEND
+NPC val_estate_window_tall2_shut.png 30 15
+NPCEND
+NPC val_estate_window_tall2_shut.png 33 15
+NPCEND
+NPC val_estate_window_tall2_shut.png 22 15
+NPCEND
+NPC val_estate_window_tall2_shut.png 25 15
+NPCEND
+NPC val_estate_window_tall1_black.png 23 15
+NPCEND
+NPC val_estate_window_tall1_black.png 23 21
+NPCEND
+NPC val_estate_window_tall2_shut.png 22 21
+NPCEND
+NPC val_estate_window_tall2_shut.png 25 21
+NPCEND
+NPC val_estate_window_tall1_black.png 46 14
+NPCEND
+NPC val_estate_window_tall1_black.png 52 14
+NPCEND
+NPC val_estate_window_tall1_black.png 58 14
+NPCEND
+NPC val_estate_window_tall1_shut.png 58 20
+NPCEND
+NPC val_estate_window_top1a.png 46 18
+NPCEND
+NPC val_estate_window_top1a.png 52 18
+NPCEND
+NPC val_estate_window_top1a.png 58 18
+NPCEND
+NPC val_estate_window_top1a.png 58 12
+NPCEND
+NPC val_estate_window_top1a.png 52 12
+NPCEND
+NPC val_estate_window_top1a.png 46 12
+NPCEND
+NPC val_estate_window_tall1_black.png 46 20
+NPCEND
+NPC val_estate_window_tall1_black.png 52 20
+NPCEND
+NPC val_estate_window_tall2_shut.png 45 20
+NPCEND
+NPC val_estate_window_tall2_shut.png 48 20
+NPCEND
+NPC val_estate_window_tall2_shut.png 51 20
+NPCEND
+NPC val_estate_window_tall2_shut.png 54 20
+NPCEND
+NPC val_estate_window_tall2_shut.png 54 14
+NPCEND
+NPC val_estate_window_tall2_shut.png 51 14
+NPCEND
+NPC val_estate_window_tall2_shut.png 48 14
+NPCEND
+NPC val_estate_window_tall2_shut.png 45 14
+NPCEND
+NPC val_estate_window_tall2_shut.png 57 14
+NPCEND
+NPC val_estate_window_tall2_shut.png 60 14
+NPCEND
+NPC val_estate_window_tall1_black.png 16 20
+NPCEND
+NPC val_estate_window_tall2_black.png 11 20
+NPCEND
+NPC val_estate_window_tall2_shut.png 10 20
+NPCEND
+NPC val_estate_window_tall2_shut.png 12 20
+NPCEND
+NPC val_estate_window_tall2_shut.png 6 20
+NPCEND
+NPC val_estate_window_tall2_shut.png 3 20
+NPCEND
+NPC val_estate_window_tall1_black.png 4 20
+NPCEND
+NPC val_estate_window_medium1_black.png 10 8
+NPCEND
+NPC val_estate_window_medium1_black.png 4 8
+NPCEND
+NPC val_estate_window_medium1_black.png 46 8
+NPCEND
+NPC val_estate_window_medium1_black.png 52 8
+NPCEND
+NPC val_estate_window_medium1_black.png 58 8
+NPCEND
+NPC val_estate_window_top2a.png 15 6
+NPCEND
+NPC val_estate_window_top2a.png 9 6
+NPCEND
+NPC val_estate_window_top2a.png 3 6
+NPCEND
+NPC val_estate_window_top2a.png 45 6
+NPCEND
+NPC val_estate_window_top2a.png 51 6
+NPCEND
+NPC val_estate_window_top2a.png 57 6
+NPCEND
+NPC val-ignisbanner4.gif 18 17
+//#CLIENTSIDE
+;
+NPCEND
+NPC sahnetarbanner.png 42 17
+//#CLIENTSIDE
+;
+NPCEND
+NPC val_estate_window_tall1_black.png 16 14
+NPCEND
+NPC val_estate_window_tall1_black.png 10 14
+NPCEND
+NPC val_estate_window_tall2_shut.png 9 14
+NPCEND
+NPC val_estate_window_tall2_shut.png 12 14
+NPCEND
+NPC val_estate_window_tall1_black.png 4 14
+NPCEND
+NPC val_estate_window_tall2_shut.png 3 14
+NPCEND
+NPC val_estate_window_tall2_shut.png 6 14
+NPCEND
+NPC val_estate_window_tall2_shut.png 15 20
+NPCEND
+NPC val_estate_window_tall2_shut.png 18 20
+NPCEND

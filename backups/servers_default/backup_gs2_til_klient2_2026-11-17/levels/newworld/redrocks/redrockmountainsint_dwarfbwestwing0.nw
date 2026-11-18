@@ -1,0 +1,865 @@
+GLEVNW01
+BOARD 0 0 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcSJ4J4J4J4J4J4C7DJDKDJDKC4J4J4C7DJDKDJDKC4J4J4cTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 1 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjciJ4J4J4J4J4J4DLDZDaDZDaDIDJDKDLDZDaDZDaDIDKDJcjcicjcicjcicjciJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 2 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcSJ4J4J4J4J4J4DbDpDqDpDqDYDZDaDbDpDqDpDqDYDaDZcTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 3 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjciJ4J4J4J4J4J4DLDZbibjDaDIDpDqDLDZDaDZDaDIDqDpcjcicjcicjcicjciJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 4 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcSJ4J4J4J4J4J4DbDpbybzDqDYDZDaDbDpDqDpDqDYDaDZcTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 5 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjciJ4J4J4J4J4J4DLBFbibjBGDIDpDqDLBFBGBFBGDIDqDpcjcicjcicjcicjciJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 6 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcSJ4J4J4J4J4J4M4bibybzbjbjBFBGbibjcTcScTBhBGBFcTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 7 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjciC4J4J4J4J4J4bibybzbybzbjbibjbybzcjcicjcicjcicjcicjcicjcicjciJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 8 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcSDIDJDKC4J4J4bybibibjbibjbybzbibjcTcScTcScTcScTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 9 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjciDYDZDaDIJ4J4cjbybybzbybzbjbibjbzcjcicjcicjcicjcicjcicjcicjciJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 10 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcSDIDpDqDYJ4J4cTcSbybibjbybzbybzcScTcScTcSJ4J4cTcScTcScTcScTcSJ4J4C7DJDKDJDKDJDKC4J4J4J4J4J4J4J4J4
+BOARD 0 11 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjciDYDZDaDIJ4J4bibjcjbibjbjcjcicjcicjcicjciJ4J4cjcicjcicjcicjciJ4J4DLDZDaDZDaDZDaDIJ4J4J4J4J4J4J4J4
+BOARD 0 12 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcSDIDpDqDYJ4J4bybzbjbybzbjcTcScTcScTcScTcSJ4J4cTcScTcScTcScTcSJ4J4DbDpDqDpDqDpDqDYJ4J4J4J4J4J4J4J4
+BOARD 0 13 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjciBhBFBGDIJ4J4bibjbibjbibjcjcicjcicjcicjciJ4J4cjcicjcicjcicjciJ4J4DLDZDaDZDaDZDaDIJ4J4J4J4J4J4J4J4
+BOARD 0 14 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTBhJ4J4bybibjbzbybzcTcScTcScTcScTcSJ4J4cTcScTcScTcScTcSJ4J4DbDpDqDpDqDpDqDYJ4J4J4J4J4J4J4J4
+BOARD 0 15 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjcicjcicjciJ4J4bibjbzcicjcicjcicjcicjcicjciJ4J4cjcicjcicjcicjciJ4J4DLBFBGBFBGBFBGDIJ4J4J4J4J4J4J4J4
+BOARD 0 16 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcSJ4J4bybzcTcScTcScTcScTcScTcScTcSJ4J4cTcScTcScTcScTcSJ4J4M4cScTcScTcScTBhJ4J4J4J4J4J4J4J4
+BOARD 0 17 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjcicjcicjciJ4J4cjcicjcicjcicjcicjcicjcicjciJ4J4cjcicjcicjcicjciJ4J4cjcicjcicjcicjciJ4J4J4J4J4J4J4J4
+BOARD 0 18 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcSJ4J4cYcZcTcScTcScTcScTcScTcScTcSJ4J4cTcScTcScTcScTcSJ4J4cTcScTcScTcScTcSJ4J4J4J4J4J4J4J4
+BOARD 0 19 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjcicjcicjciJ4J4cYcZcYcZcjcicjcicjcicjcicjciJ4J4cjcicjcicjcicjciJ4J4cjcicjcicjcicjciJ4J4J4J4J4J4J4J4
+BOARD 0 20 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcSJ4J4cYcZcocpcYcZcTcScTcScTcScTcSJ4J4cTcScTcScTcScTcSJ4J4cTcScTcScTcScTcSJ4J4J4J4J4J4J4J4
+BOARD 0 21 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjcicjcicjciJ4J4cocpc4c5cocpcjcicjcYcZcicjciJ4J4cjcicjcicjcicjciJ4J4cjcicjcicjcicjciJ4J4J4J4J4J4J4J4
+BOARD 0 22 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcSJ4J4cYcZcocpc4c5cYcZcTcocpcScTcSJ4J4cTcScTcScTcScTcSJ4J4cTcScTcScTcScTcSJ4J4J4J4J4J4J4J4
+BOARD 0 23 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjcicjcicjciJ4J4cocpcYcZcocpcYcZcjc4c5cicjciJ4J4cjcicjcicjcicjciJ4J4cjcicjcicjcicjciJ4J4J4J4J4J4J4J4
+BOARD 0 24 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcSJ4J4cYcZcYcZcYcZcocpcTcocpcYcZcSJ4J4cTcScTcScTcScTcSJ4J4cTcScTcScTcScTcSJ4J4J4J4J4J4J4J4
+BOARD 0 25 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjcicjcicjciJ4J4cocpcocpcocpc4cYcZc4c5cocpciJ4J4cjcicjcicjcicjciJ4J4cjcicjcicjcicjciJ4J4J4J4J4J4J4J4
+BOARD 0 26 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcSJ4J4c4c5cYcZc4c5cTcocpcScTc4c5cSJ4J4cTcScTcScTcScTcSJ4J4cTcScTcScTcScTcSJ4J4J4J4J4J4J4J4
+BOARD 0 27 64 0 J4J4J4J4J4J4J4J4J4J4J4C7cjcicjcicjcicjciJ4J4cjcicocpcjcicjc4c5cicjcicjciJ4J4cjcicjcicjcicjciJ4J4cjcicjcicjcicjciJ4J4J4J4J4J4J4J4
+BOARD 0 28 64 0 J4J4J4J4J4J4J4J4C7DJDKDLcTcScTcScTcScTcSJ4J4cTcSc4c5cTcScTcScTcScTcScTcSJ4J4cTcScTcScTcScTcSJ4J4cTcScTcScTcScTcSJ4J4J4J4J4J4J4J4
+BOARD 0 29 64 0 J4J4J4J4J4J4J4J4DLDZDaDbcjcicjcicjcicjciJ4J4cjcicjcicjcicjcicjcicjcicjciJ4J4cjcicjcicjcicjciJ4J4cjcicjcicjcicjciJ4J4J4J4J4J4J4J4
+BOARD 0 30 64 0 J4J4J4J4J4J4J4J4DbDpDqDLcTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcSJ4J4cTcScTcScTcScTcSJ4J4J4J4J4J4J4J4
+BOARD 0 31 64 0 J4J4J4J4J4J4J4J4DLDZDaDbcjcicjcicjcicjciJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4C7cjcicjciC4J4cjcicjcicjcicjciJ4J4J4J4J4J4J4J4
+BOARD 0 32 64 0 J4J4J4J4J4J4J4J4DbDpDqDLcTcScTcScTcScTcSJ4J4J4J4C7DJDKDJDKDJDKC4J4J4C7DJDKDJDKDJDKDLcTcScTcSDIDJDKDJcTcScTcSDKDJDKDJDKDJDKDJDKDJ
+BOARD 0 33 64 0 J4J4J4J4J4J4J4J4DLBFBGM4cjcicjcicjcicjciJ4J4J4J4DLDZDaDZDaDZDaDIDJDKDLDZDaDZDaDZDaDbcjcicjciDYDZDaDZcjcicjciDaDZDaDZDaDZDaDZDaDZ
+BOARD 0 34 64 0 J4J4J4J4J4J4J4J4M4cScTcScTcScTcScTcScTcSJ4J4J4J4DbDpDqDpDqDpDqDYDZDaDbDpDqDpDqDpDqDLcTcScTcSDIDpDqDpcTcScTcSDqDpDqDpDqDpDqDpDqDp
+BOARD 0 35 64 0 J4J4J4J4J4J4J4J4cjcicjcicjcicjcicjcicjciC4J4J4C7DLDZDaDZDaDZDaDIDpDqDLDZDaDZDaDZDaDbcjcicjciDYDZDaDZcjcicjciDaDZDaDZDaDZDaDZDaDZ
+BOARD 0 36 64 0 J4J4J4J4J4J4J4J4cTcScTcScTcScTcScTcScTcSDIDJDKDLDbDpDqDpDqDpDqDYDZDaDbDpDqDpDqDpDqDLcTcScTcSDIDpDqDpcTcScTcSDqDpDqDpDqDpDqDpDqDp
+BOARD 0 37 64 0 J4J4J4J4J4J4J4J4cjcicjcicjcicjcicjcicjciDYDZDaDbDLBFBGBFBGBFBGDIDpDqDLBFBGBFBGBFBGM4cjcicjciBhBFBGBFcjcicjciBGBFBGBFBGBFBGBFBGBF
+BOARD 0 38 64 0 J4J4J4J4J4J4J4J4cTcScTcScTcScTcScTcScTcSDIDpDqDLM4cScTcScTcScTBhBFBGM4cScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcS
+BOARD 0 39 64 0 J4J4J4J4J4J4J4J4cjcicjcicjcicjcicjcicjciDYDZDaDbcjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjci
+BOARD 0 40 64 0 J4J4J4J4J4J4J4J4cTcScTcScTcScTcScTcScTcSDIDpDqDLcTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcS
+BOARD 0 41 64 0 J4J4J4J4J4J4J4J4cjcicjcicjcicjcicjcicjciBhBFBGM4cjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjci
+BOARD 0 42 64 0 J4J4J4J4J4J4J4J4cTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 43 64 0 J4J4J4J4J4J4J4J4cjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjciJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 44 64 0 J4J4J4J4J4J4J4J4cTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 45 64 0 J4J4J4J4J4J4J4J4cjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjciJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 46 64 0 J4J4J4J4J4J4J4J4J4C7DJDKCqCrCqCrDJDKC4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 47 64 0 J4J4J4J4J4J4J4J4C7DLDZDaCrCrCrCqDZDaDIC4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 48 64 0 J4J4J4J4J4J4J4J4DLDbDpDqCqCqCrCrDpDqDYDIJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 49 64 0 J4J4J4J4J4J4J4J4DbDLDZDaCqCrCqCrDZDaDIDYJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 50 64 0 J4J4J4J4J4J4J4J4DLDbDpDqCrCqCrCqDpDqDYDIJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 51 64 0 J4J4J4J4J4J4J4J4DbDLBFBGCqCrCrCrBFBGDIDYJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 52 64 0 J4J4J4J4J4J4J4J4DLM4CrCqCrCrCqCqCrCrBhDIJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 53 64 0 J4J4J4J4J4J4J4J4M4CrCrCqCrCqCrCqCrCrCrBhJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 54 64 0 J4J4J4J4J4J4J4J4CqCrCrCrC5C5C6C5CrCrCqCrJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 55 64 0 J4J4J4J4J4J4J4J4CrCrCqERDrIuIvDoDUCqCrCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 56 64 0 J4J4J4J4J4J4J4J4CrCqCrEhEmI+I/I2DkCrCrCrJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 57 64 0 J4J4J4J4J4J4J4J4CqCrCqEREI4848HODUCqCqCrJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 58 64 0 J4J4J4J4J4J4J4J4CrCqCqEhEY4848HeDkCqCrCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 59 64 0 J4J4J4J4J4J4J4J4CqCrCrERExEeEfO9DkCrCqCrJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 60 64 0 J4J4J4J4J4J4J4J4CrCqCrEgC/C+C/C+CrCqCrCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 61 64 0 J4J4J4J4J4J4J4J4J4CrCqCrCqCrCqCrCqCrCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 62 64 0 J4J4J4J4J4J4J4J4J4J4CrCqCrCqCrCqCrCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 63 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+LINK redrockmountainsint_dwarfbwestwing1.nw 12 0 4 1 playerx 61
+LINK redrockmountainsint_dwarfbwestwing1.nw 38 0 8 1 playerx 61
+LINK redrockmountainsint_dwarfbriver.nw 62 38 1 4 0 46
+NPC valnmd_blackangle.gif 8 28
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 11 27
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 23 35
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 24 32
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 41 31
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 48 10
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 9 46
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 8 47
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 16 7
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 19 8
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 20 35
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 46 31
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 55 10
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val-hammerforge-smallgate-bysam.gif 12 46
+//#SERVERSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val-hammerforge-smallgate-bysam.gif,0,0,32,96;
+}
+if (playertouchsme)
+{setimgpart val-hammerforge-smallgate-bysam.gif,16,0,16,96;
+ sleep 0.2;
+ hide;
+ sleep 3;
+ show;
+ setimgpart val-hammerforge-smallgate-bysam.gif,16,0,16,96;
+ sleep 0.1;
+ setimgpart val-hammerforge-smallgate-bysam.gif,0,0,32,96;
+}
+NPCEND
+NPC val-hammerforge-smallgate-bysam.gif 14 46
+//#SERVERSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val-hammerforge-smallgate-bysam.gif,32,0,32,96;
+}
+if (playertouchsme)
+{setimgpart val-hammerforge-smallgate-bysam.gif,32,0,16,96;
+ x=15;
+ sleep 0.2;
+ hide;
+ sleep 3;
+ show;
+ setimgpart val-hammerforge-smallgate-bysam.gif,32,0,16,96;
+ sleep 0.1;
+ x=14;
+ setimgpart val-hammerforge-smallgate-bysam.gif,32,0,32,96;
+}
+NPCEND
+NPC val-hammerforge-smallgate-bysam.gif 50 32
+//#SERVERSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val-hammerforge-smallgate-bysam.gif,0,0,32,96;
+}
+if (playertouchsme)
+{setimgpart val-hammerforge-smallgate-bysam.gif,16,0,16,96;
+ sleep 0.2;
+ hide;
+ sleep 3;
+ show;
+ setimgpart val-hammerforge-smallgate-bysam.gif,16,0,16,96;
+ sleep 0.1;
+ setimgpart val-hammerforge-smallgate-bysam.gif,0,0,32,96;
+}
+NPCEND
+NPC val-hammerforge-smallgate-bysam.gif 52 32
+//#SERVERSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val-hammerforge-smallgate-bysam.gif,32,0,32,96;
+}
+if (playertouchsme)
+{setimgpart val-hammerforge-smallgate-bysam.gif,32,0,16,96;
+ x=53;
+ sleep 0.2;
+ hide;
+ sleep 3;
+ show;
+ setimgpart val-hammerforge-smallgate-bysam.gif,32,0,16,96;
+ sleep 0.1;
+ x=52;
+ setimgpart val-hammerforge-smallgate-bysam.gif,32,0,32,96;
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 4 44
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawoverplayer; dontblock;setcoloreffect 0,0,0,1;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16,160,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 14 44
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawoverplayer; dontblock;setcoloreffect 0,0,0,1;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16,160,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 24 44
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawoverplayer; dontblock;setcoloreffect 0,0,0,1;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16,160,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 35 40
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawoverplayer; dontblock;setcoloreffect 0,0,0,1;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16,160,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 45 40
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawoverplayer; dontblock;setcoloreffect 0,0,0,1;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16,160,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 55 40
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawoverplayer; dontblock;setcoloreffect 0,0,0,1;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16,160,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 47 30
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawoverplayer; dontblock;setcoloreffect 0,0,0,1;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16,160,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 21 28
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawoverplayer; dontblock;setcoloreffect 0,0,0,1;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16,160,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 27 28
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawoverplayer; dontblock;setcoloreffect 0,0,0,1;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16,160,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 31 28
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawoverplayer; dontblock;setcoloreffect 0,0,0,1;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16,160,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 34 41
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 40 29
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 36 1
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawoverplayer; dontblock;setcoloreffect 0,0,0,1;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16,32,160;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_blackangle.gif 22 0
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 35 0
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC - 37 4
+// NPC made by Dr. Zectra
+function onCreated()
+{
+  setshape(1,16,96);
+  this.sourceXY = {this.x, this.y};
+  this.sImg = "val-hammerforge-smallgate-bysam.gif";
+  this.open = false;
+  setimgpart(this.sImg,32,0,3,96);
+  dontblock();
+}
+
+function onPlayertouchsme()
+{
+  if (!this.open)
+  {
+    this.open = true;
+    if (player.dir == 1)
+    {
+      setimgpart(this.sImg,32,0,32,96);
+      this.x = this.sourceXY[0] - 2;
+    }
+    else if (player.dir == 3)
+    {
+      setimgpart(this.sImg,0,0,32,96);
+    }
+    sleep(1);
+    setimgpart(this.sImg,32,0,3,96);
+    this.x = this.sourceXY[0];
+    this.y = this.sourceXY[1];
+    this.open = false;
+  }
+}
+NPCEND
+NPC val_ganelon_housetop.gif 35 27
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 33 43
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 34 40
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 55 29
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 8 43
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 22 27
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 41 28
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 48 29
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 8 58
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 9 59
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 10 60
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 9 61
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawoverplayer; dontblock;setcoloreffect 0,0,0,1;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16,160,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 7 59
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 8 60
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 18 60
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 19 59
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 19 58
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 18 59
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 17 60
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 18 46
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 19 47
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_hammerforge-ruggedpillar2.gif 25 32
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar2.gif,0,0,16,100;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar2.gif 40 32
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar2.gif,0,0,16,100;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar2.gif 49 32
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar2.gif,0,0,16,100;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar2.gif 54 32
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar2.gif,0,0,16,100;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar2.gif 23 0
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar2.gif,0,0,16,100;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar2.gif 34 0
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar2.gif,0,0,16,100;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar2.gif 49 10
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar2.gif,0,0,16,100;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar2.gif 54 10
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar2.gif,0,0,16,100;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar.gif 17 8
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar.gif,0,0,32,100;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar.gif 21 36
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar.gif,0,0,32,100;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar.gif 9 28
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar.gif,0,0,32,100;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar.gif 10 46
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar.gif,0,0,32,100;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar.gif 16 46
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar.gif,0,0,32,100;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar.gif 32 33
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar.gif,0,0,32,100;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar.gif 28 1
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar.gif,0,0,32,100;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_blackangle.gif 27 0
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 31 32
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 34 32
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 30 0
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val-hammerforge-bigbanner-bysam.gif 26 32
+//#CLIENTSIDE
+NPCEND
+NPC val-hammerforge-bigbanner-bysam.gif 36 32
+//#CLIENTSIDE
+NPCEND
+NPC val_hammerforge-ruggedpillar2.gif 26 0
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar2.gif,0,0,16,100;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar2.gif 31 0
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar2.gif,0,0,16,100;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar2.gif 30 32
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar2.gif,0,0,16,100;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar2.gif 35 32
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar2.gif,0,0,16,100;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar.gif 47 32
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar.gif,0,0,32,100;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-hammerforge-bigbanner-bysam.gif 57 32
+//#CLIENTSIDE
+NPCEND
+NPC val_hammerforge-ruggedpillar.gif 55 32
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar.gif,0,0,32,100;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar.gif 61 32
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar.gif,0,0,32,100;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-hammerforge-bigbanner-bysam.gif 50 10
+//#CLIENTSIDE
+NPCEND
+NPC candle.mng 9 29
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC candle.mng 17 9
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC candle.mng 21 37
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC candle.mng 32 34
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC candle.mng 28 2
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC candle.mng 47 33
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC candle.mng 55 33
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC candle.mng 16 47
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC candle.mng 10 47
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC val-hammerforge-grimforge-rug1.gif 40 -2
+// NPC made by Krolm Stonehewer of (Hammerforge)
+if (created) {x=x+.5; dontblock; drawunderplayer;
+}
+NPCEND
+NPC val-hammerforge-grimforge-rug1.gif 12 -6
+// NPC made by Krolm Stonehewer of (Hammerforge)
+if (created) {x=x+.5; dontblock; drawunderplayer;
+}
+NPCEND
+NPC val-hammerforge-grimforge-rug2.gif 38 38
+// NPC made by Krolm Stonehewer of (Hammerforge)
+if (created) {y=y+.5;dontblock; drawunderplayer;
+}
+NPCEND
+NPC val-hammerforge-grimforge-rug2.gif 15 42
+// NPC made by Krolm Stonehewer of (Hammerforge)
+if (created) {y=y+.5;dontblock; drawunderplayer;
+}
+NPCEND
+NPC val-hammerforge-grimforge-rug1.gif 16 14
+// NPC made by Krolm Stonehewer of (Hammerforge)
+if (created) {x=x+.5; dontblock; drawunderplayer;
+}
+NPCEND
+NPC - 28 19
+// By Masa!
+//#SERVERSIDE
+//#CLIENTSIDE
+if (created){
+  showcharacter;
+  setcharprop #2,no-shield.gif;
+  setcharprop #3,val_arwind_dwarfhead5.gif;
+  setcharprop #C0,orange;
+  setcharprop #C1,black;
+  setcharprop #C2,black;
+  setcharprop #C3,gray;
+  setcharprop #C4,gray;
+  setcharprop #C5,black;
+  setcharprop #C6,white;
+  setcharprop #C7,white;
+  setcharprop #P1,val_hammerforgemechanic-hat.gif;
+  setcharprop #n,Belbir;
+  setcharani val_idle,;
+  swordpower = 1;
+  shieldpower = 3;
+  setcharprop #8,val_hammerforgesiegeengineer-body100.gif;
+  dir=2;
+  ap=100;
+}
+
+if (playertouchsme){message This organization system is murder...; sleep 2.5; message ;}
+NPCEND
+NPC - 33 14
+// By Masa!
+//#SERVERSIDE
+//#CLIENTSIDE
+if (created){
+  showcharacter;
+  setcharprop #2,no-shield.gif;
+  setcharprop #3,val_sam_dwarfhead10.gif;
+  setcharprop #C0,orange;
+  setcharprop #C1,black;
+  setcharprop #C2,black;
+  setcharprop #C3,gray;
+  setcharprop #C4,gray;
+  setcharprop #C5,black;
+  setcharprop #C6,white;
+  setcharprop #C7,white;
+  setcharprop #P1,val_hammerforgemechanic-hat.gif;
+  setcharprop #n,Thrid;
+  setcharani val_idle,;
+  swordpower = 1;
+  shieldpower = 3;
+  setcharprop #8,val_hammerforgesiegeengineer-body100.gif;
+  dir=1;
+  ap=100;
+}
+
+if (playertouchsme){message C'mon! Foreman Thon needed those cogs an hour ago!.; sleep 2.5; message ;}
+NPCEND

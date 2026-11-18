@@ -1,0 +1,230 @@
+function ConfigWarpAreas()
+{
+  //If you edit this go to the TIMEOUT LOOP and uncomment
+  //the "UPDATE" commented for about ten-twenty seconds,
+  //then recomment the two lines.
+  
+  //  {"Command","Level","X","Y"},
+  this.WARP_AREAS = {
+  {"Aerow East", "aerowdwell_b3.nw", 50, 50},
+  {"Aerow West", "aerow_dockcliff2.nw", 28.5, 45},
+  {"Blackwick Bay","blackwick_b04.nw","5.5","34"},
+  {"Buxton Port","buxton_port.nw","51","14.5"},  
+  {"Lerhyn","lerhyn_x3.nw","52","9"},
+  {"Suiriku","eastocean_cj05.nw","50.5","10.5"},
+  {"Opal Harbor","opalharbor_a2.nw","9.5","57"},
+  };
+}
+
+function onCreated()
+{
+  ConfigWarpAreas();
+  BringToLife();
+}
+function BringToLife()
+{
+  
+  showcharacter();
+  setup();
+  this.sign = FormatSign();
+  this.loopSpeed = 10;
+  
+  message("Mmmm. . . I love this fresh air.");
+  
+  setTimer(this.loopSpeed);
+}
+
+//Checks the players chat if starting with ~, then formats it so
+//that it will work with "names" that have spaces when checking for them
+//in the WarpTo function
+function onPlayerchats()
+{
+  if (player.chat.starts("~"))
+  {
+    temp.string = FormatString(player.chat.substring(1).tokenize());
+    
+    WarpTo(string);
+    
+    message(" ");
+    this.msgOn = false;
+  }
+}
+// Makes sure the player didn't touch the wagon from behind then
+// rolls for a random message where "touched" is true
+function onPlayertouchsme()
+{
+  if (player.dir == this.dir)
+    return;
+    
+      if (timevar2 < this.lastTouched + 1) return;
+  
+  this.lastTouched = timevar2;
+  
+  
+  if (GetNick(player.nick) == false)
+    rollMsg(true);
+  else
+    message("G'day " @ GetNick(player.nick) @ "', how can I help you?");
+    
+  Sign.Display(player.account,nick,this.sign);
+  
+  setTimer(this.loopSpeed);
+}
+
+function GetNick(theNick)
+{
+  temp.i = 0;
+  temp.RenderedNick = NULL;
+  temp.tokens = theNick.tokenize();
+  
+  for (i = 0; i < tokens.size(); i++)
+  {
+    if (tokens[i].substring(1,1) in {"a","e","i","o","u","y"})
+    {
+      RenderedNick = tokens[i];
+      break;
+    }
+  }
+  
+  if (RenderedNick != NULL)
+  {
+    if (RenderedNick.substring(3,3) in {"a","e","i","o","u","y"})
+    {
+      return RenderedNick.substring(0,4);
+    }
+    else if (RenderedNick.substring(4,4) in {"a","e","i","o","u","y"})
+    {
+      return RenderedNick.substring(0,5);
+    }
+    else
+    {
+      return RenderedNick.substring(0,3);
+    }
+  }
+  else
+  {
+    return false;
+  }
+}
+//If a message is being displayed, it clears it. If there's no non-touched message
+//being displayed it rolls a random messaged where "touched" is not true
+function onTimeout()
+{
+  //ConfigWarpAreas();  //UPDATE recomment after list updated
+  //BringToLife();      //UPDATE recomment after list updated
+
+  if (this.msgOn == true)
+  {
+    message(" ");
+    this.msgOn = false;
+  }
+  else
+  {
+    this.msgOn = true;
+    rollMsg();
+  }
+  
+  setTimer(this.loopSpeed);
+}
+//If the text array is more than one word this function takes the text
+//and turns it into a string with spaces inbetween the words, then returns
+//it to the main chat function.
+function FormatString(text)
+{
+  if (text.size() > 1)
+  {
+    temp.string = text[0];
+    temp.i = 1;
+    for (i = 1; i < text.size(); i++)
+    {
+      string @= " ";
+      string @= text[i];
+    }
+    return string;
+  }
+  return text[0];
+}
+
+//Creates a list of all possible warp locations/commands
+//using the Sign's ARRAY text-body ability
+function FormatSign()
+{
+  temp.sign = {"G'day mate. Where'ya sailing?","Just say the location and we'll be on our way.","Say(Including the ~ ):"};
+  temp.i = 0;
+  for (i = 0; i < this.WARP_AREAS.size(); i++)
+  {
+    sign.add("~" @ this.WARP_AREAS[i][0]);
+  }
+  return sign;
+}
+
+//Takes the string and checks if it's in the array WARP_AREAS, then if it is,
+//warps the player to that area.
+function WarpTo(string)
+{
+  temp.i = 0;
+  for (i = 0; i < this.WARP_AREAS.size(); i++)
+  {
+    if (string == this.WARP_AREAS[i][0])
+    {
+      setlevel2(this.WARP_AREAS[i][1],this.WARP_AREAS[i][2],this.WARP_AREAS[i][3]);
+      if (this.WARP_AREAS[i][0] == "ignis")
+        Messages.addmsg(10,"#! The Boat Man: This is as close as I can get ya', take the Airship the rest o' the way.");
+      break;
+    }
+  }
+}
+
+//50 change to say a message. Checks which message array should be said depending
+//on if the npc was touched or not
+function rollMsg(touched)
+{
+  temp.roll = int(random(1,100));
+  if (roll >= 50)
+  {
+    if (touched == true)
+      message(randomstring(this.touchMSG));
+    else
+      message(randomstring(this.MSG));
+  }
+}
+
+//Sets up GFX and messages, then ani
+function setup()
+{
+    nick = "The Boat Man";
+    if (this.newnick != NULL)
+      nick @= this.newnick;
+    
+    if (this.newheadimg == NULL)
+      headimg = "val_vinnishhead300.gif";
+    else
+      headimg = this.newheadimg;
+      
+    if (this.newbodyimg == NULL)
+      bodyimg = "val_commoner_body103.png";
+    else
+      bodyimg = this.newbodyimg;
+      
+    if (this.newshieldimg == NULL)
+      shieldimg = "no-shield.gif";
+    else
+      shieldimg = this.newshieldimg;
+    
+    if (this.newdir == NULL)
+      dir = 2;
+    else
+      dir = this.newdir;
+    
+  if (this.newMSG == NULL)
+    this.MSG = {"Going someplace over seas? Come talk to me.","Arrr..","Does anyone need a lift?"};
+  else
+    this.MSG = this.newMSG;
+    
+  if (this.newtouchMSG == NULL)
+    this.touchMSG = {"Greetings mate.","I'm the boat man.. doin' what a boat man can.","How can I help ya'?"};
+  else
+    this.touchMSG = this.newtouchMSG;
+  
+  setcharani("nmd-boat","nmd-boat");
+}

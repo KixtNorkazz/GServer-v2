@@ -1,0 +1,63 @@
+//#CLIENTSIDE
+function onPlayerChats() {
+  if (("#g" == "Imperial Warholm")) {
+    if ((player.chat == "Trooper")) {
+      player.shield = "blackscabbard-shield.gif";
+      player.body = "arwind-mercbody3.gif";
+      player.attr[1] = "hat-dalmartrooper.gif";
+    }
+    if ((player.chat == "Acolyte Ordinator")) {
+      player.shield = "val-hagalistshield.gif";
+      player.body = "xiji-darkarmorbody.gif";
+      player.head = "val_darktemplarhead.gif";
+      player.attr[1] = "hat.png";
+    }
+    if ((player.chat == "Ordinator")) {
+      player.shield = "val-hagalistshield.gif";
+      player.body = "xiji-darkarmorbody.gif";
+      player.head = "val_darktemplarhead.gif";
+      player.attr[1] = "hat-111333.png";
+    }
+    if ((player.chat == "High Ordinator")) {
+      player.shield = "no-shield.gif";
+      player.body = "xiji-darkarmorbody.gif";
+      player.head = "val_darktemplarhead.gif";
+      player.attr[1] = "hat-drow-2222.png";
+    }
+    if ((player.chat == "Lancer")) {
+      player.shield = "val-dalmar-lancershield.gif";
+      player.body = "arwind-barbbody2.gif";
+      player.attr[1] = "hat-dalmartrooper4.gif";
+    }
+    if ((player.chat == "Officer")) {
+      player.shield = "alkmedal1.gif";
+      player.body = "arwind-mercbody2.gif";
+      player.attr[1] = "hat-dalmartrooper2.gif";
+    }
+    if ((player.chat == "Sailor")) {
+      player.shield = "moto-rapier-shield.gif";
+      player.body = "tash-captain-fixed2.gif";
+      player.attr[1] = "hat-dalmartrooper3.gif";
+    }
+    if ((player.chat == "Archer")) {
+      player.shield = "bow-shield2.gif";
+      player.body = "arwind-mercbody3.gif";
+      player.attr[1] = "hat-dalmartrooper.gif";
+    }
+    if ((player.chat == "Legionnaire")) {
+      player.shield = "noctygoria-shield.png";
+      player.body = "xiji-darkarmorbody.gif";
+      player.attr[1] = "hat2199.png";
+    }
+  }
+}
+
+function onPlayerEnters() {
+  level.inside = 1;
+  setTimer(0.05);
+}
+
+function onTimeOut() {
+  seteffect(0, 0, 0, .1);
+  setTimer(0.05);
+}

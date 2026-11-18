@@ -1,0 +1,29 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.y = this.y+.5;
+  showcharacter();
+  this.attr[1] = "hat.png";
+  this.head = "val_eliteknight_head111.gif";
+  this.body = "val_eliteknight_body109.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  // setcharprop #m,0
+  setcharani("val_sit", NULL);
+  this.swordpower = 1;
+  this.shield = "val-jeddrickhalberd-shield.gif";
+  this.shieldpower = 1;
+  this.ap = 100;
+  this.nick = "Soldier";
+  this.dir = 2;
+  setcharani("idle", NULL);
+  this.hearts = 0;
+}
+
+function onPlayerTouchsMe() {
+  message("Hightown's just ahead, so mind yourself.");
+  sleep(2);
+  message();
+}

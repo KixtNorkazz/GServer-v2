@@ -1,0 +1,329 @@
+GRAWP001
+REALNAME -Chat
+IMAGE 
+SCRIPT
+//#CLIENTSIDE
+function onCreated() {
+  echo("-Chat: onCreated");
+  this.lines = {};
+  this.sent = {};
+  this.sentIdx = 0;
+  this.off = 0;
+  this.distance = 40;
+  this.pending = false;
+  this.pdelay = 0;
+  this.open = true;
+  if (client.chatstart != "on") {
+    this.open = false;
+  }
+  this.tick = 0;
+  this.build();
+  this.applySettings();
+  this.catchevent("GraalControl", "onResize", "onGraalResize");
+  setTimer(0.05);
+}
+function applySettings() {
+  this.distance = 40;
+  if (client.chatradius > 0) {
+    this.distance = client.chatradius;
+  }
+  if (client.chatalpha > 0) {
+    Chat_Window.alpha = client.chatalpha;
+  }
+}
+function onGraalResize() {
+  this.build();
+}
+function build() {
+  if (!isObject("ChatTextProfile")) {
+    new GuiTextProfile("ChatTextProfile") {
+      fontcolor = {0, 0, 0};
+    }
+  }
+  if (isObject("Chat_Window"))
+    Chat_Window.destroy();
+  new GuiWindowCtrl("Chat_Window") {
+    clientrelative = true;
+    canclose = false;
+    canmaximize = false;
+    canminimize = false;
+    canmove = false;
+    canresize = false;
+    closequery = false;
+    destroyonhide = false;
+    externalwindow = "";
+    isexternal = false;
+    text = "";
+    new GuiTextCtrl("Chat_L0") {
+      profile = ChatTextProfile;
+      x = 6;
+      y = 2;
+      width = screenwidth - 170;
+      height = 15;
+      text = "";
+    }
+    new GuiTextCtrl("Chat_L1") {
+      profile = ChatTextProfile;
+      x = 6;
+      y = 17;
+      width = screenwidth - 170;
+      height = 15;
+      text = "";
+    }
+    new GuiTextCtrl("Chat_L2") {
+      profile = ChatTextProfile;
+      x = 6;
+      y = 32;
+      width = screenwidth - 170;
+      height = 15;
+      text = "";
+    }
+    new GuiTextCtrl("Chat_L3") {
+      profile = ChatTextProfile;
+      x = 6;
+      y = 47;
+      width = screenwidth - 170;
+      height = 15;
+      text = "";
+    }
+    new GuiTextCtrl("Chat_L4") {
+      profile = ChatTextProfile;
+      x = 6;
+      y = 62;
+      width = screenwidth - 170;
+      height = 15;
+      text = "";
+    }
+    new GuiTextEditCtrl("Chat_Input") {
+      x = 6;
+      y = 79;
+      width = screenwidth - 90;
+      height = 22;
+    }
+    new GuiButtonCtrl("Chat_Up") {
+      x = screenwidth - 150;
+      y = 2;
+      width = 66;
+      height = 24;
+      text = "^";
+    }
+    new GuiButtonCtrl("Chat_Down") {
+      x = screenwidth - 78;
+      y = 2;
+      width = 66;
+      height = 24;
+      text = "v";
+    }
+    new GuiButtonCtrl("Chat_Send") {
+      x = screenwidth - 78;
+      y = 78;
+      width = 66;
+      height = 24;
+      text = "Send";
+    }
+  }
+  Chat_Window.position = {0, screenheight - 129};
+  Chat_Window.extent = {screenwidth, 129};
+  this.catchevent("Chat_Input", "onKeyDown", "onInputKeyDown");
+  this.catchevent("Chat_Window", "onMouseWheelUp", "onWheelUp");
+  this.catchevent("Chat_Window", "onMouseWheelDown", "onWheelDown");
+  this.catchevent("Chat_Input", "onMouseWheelUp", "onWheelUp");
+  this.catchevent("Chat_Input", "onMouseWheelDown", "onWheelDown");
+  this.refresh();
+  if (this.open == false)
+    Chat_Window.hide();
+  echo("-Chat: strip built " @ screenwidth @ "x" @ screenheight);
+}
+function toggle() {
+  if (this.open == false) {
+    client.openwindow = "menuhide";
+    Chat_Window.show();
+    this.open = true;
+    Chat_Input.makefirstresponder(true);
+  } else {
+    Chat_Window.hide();
+    this.open = false;
+    GraalControl.makefirstresponder(true);
+  }
+}
+function onKeyPressed(code, key) {
+  if (code == 9)
+    this.toggle();
+}
+function onInputKeyDown(objn, key, code, keycode) {
+  echo("-Chat: input key " @ code @ "/" @ keycode);
+  if (code == 13 || keycode == 28)
+    this.sendInput();
+  else if (keycode == 73 || code == 33)
+    this.scrollBy(5);
+  else if (keycode == 81 || code == 34)
+    this.scrollBy(-5);
+  else if (keycode == 72 || code == 38)
+    this.recall(-1);
+  else if (keycode == 80 || code == 40)
+    this.recall(1);
+}
+// Arrow up/down in the input field go through the lines you sent before (newest first), like a shell; down past the newest
+// gives an empty field again. PageUp/PageDown and the mouse wheel still scroll the history.
+function recall(dir) {
+  temp.n = this.sent.size();
+  if (temp.n == 0)
+    return;
+  this.sentIdx = this.sentIdx + dir;
+  if (this.sentIdx < 0)
+    this.sentIdx = 0;
+  if (this.sentIdx >= temp.n) {
+    this.sentIdx = temp.n;
+    Chat_Input.text = "";
+    return;
+  }
+  Chat_Input.text = this.sent[this.sentIdx];
+}
+function onWheelUp() {
+  this.scrollBy(1);
+}
+function onWheelDown() {
+  this.scrollBy(-1);
+}
+function addLine(nick, text) {
+  this.lines.add(nick @ ": " @ text);
+  if (this.off > 0)
+    this.off++;
+  while (this.lines.size() > 200)
+    this.lines.delete(0);
+  this.clampOff();
+  this.refresh();
+}
+function clampOff() {
+  temp.max = this.lines.size() - 5;
+  if (temp.max < 0)
+    temp.max = 0;
+  if (this.off > temp.max)
+    this.off = temp.max;
+  if (this.off < 0)
+    this.off = 0;
+}
+function scrollBy(n) {
+  this.off = this.off + n;
+  this.clampOff();
+  this.refresh();
+}
+function line(i) {
+  temp.k = this.lines.size() - 5 - this.off + i;
+  if (temp.k < 0 || temp.k >= this.lines.size())
+    return "";
+  return this.lines[temp.k];
+}
+function refresh() {
+  Chat_L0.text = this.line(0);
+  Chat_L1.text = this.line(1);
+  Chat_L2.text = this.line(2);
+  Chat_L3.text = this.line(3);
+  Chat_L4.text = this.line(4);
+  if (this.off > 0)
+    Chat_Up.text = "^" @ this.off;
+  else
+    Chat_Up.text = "^";
+}
+function checkPlayer(p) {
+  if (p.chat == "" || p.chat == this.(@ "c_" @ p.account))
+    return;
+  this.(@ "c_" @ p.account) = p.chat;
+  // v6 gets starts() wrong (found with -Outfit): every chat of the other players was skipped as a "/" command
+  if (p.chat.substring(0, 1) == "/")
+    return;
+  this.addLine(p.nick, p.chat);
+}
+function onTimeOut() {
+  temp.pm = "" @ client.pmline;
+  if (temp.pm.length() > 0) {
+    client.pmline = "";
+    this.addLine("PM", temp.pm);
+  }
+  this.tick = this.tick + 1;
+  if (this.tick >= 20) {
+    this.tick = 0;
+    this.applySettings();
+  }
+  if (client.openwindow == "chat") {
+    client.openwindow = "";
+    this.toggle();
+  }
+  // The text over your head stays until you walk away from where you said it (more than a tile), say something new, or 30 s pass.
+  if (this.pending) {
+    this.pdelay = this.pdelay - 0.05;
+    if (this.pdelay <= 0 || abs(player.x - this.cx) > 1 || abs(player.y - this.cy) > 1) {
+      player.chat = "";
+      this.pending = false;
+    }
+  } else
+    this.checkPlayer(player);
+  setTimer(0.05);
+}
+function sendInput() {
+  temp.t = Chat_Input.text;
+  if (temp.t == "")
+    return;
+  Chat_Input.text = "";
+  this.sent.add(temp.t);
+  while (this.sent.size() > 50)
+    this.sent.delete(0);
+  this.sentIdx = this.sent.size();
+  this.(@ "c_" @ player.account) = temp.t;
+  if (temp.t.substring(0, 1) != "/")
+    this.addLine(player.nick, temp.t);
+  player.chat = temp.t;
+  if (client.chatbubble != 1) {
+    this.pending = true;
+    this.pdelay = 30;   // CHAT_HOLD: at most 30 s, less if you walk away
+    this.cx = player.x;
+    this.cy = player.y;
+  }
+}
+// The server sends what the players near you say: clientside,-Chat,chat,<account>,<nick>,<text> (reading players[].chat in the
+// client never gave the other players' lines in v6).
+function onActionClientSide(dataname) {
+  temp.pr = params;
+  if (params.size() <= 1)
+    temp.pr = this.splitCsv(params[0]);
+  if (temp.pr[0] == "chat") {
+    temp.who = temp.pr[2];
+    if (temp.who == "")
+      temp.who = temp.pr[1];
+    this.addLine(temp.who, this.joinFrom(temp.pr, 3));
+  }
+}
+function splitCsv(text) {
+  temp.res = {};
+  temp.cur = "";
+  temp.len = text.length();
+  for (temp.ci = 0; temp.ci < temp.len; temp.ci++) {
+    temp.ch = text.substring(temp.ci, 1);
+    if (temp.ch == ",") {
+      temp.res.add(temp.cur);
+      temp.cur = "";
+    } else
+      temp.cur = temp.cur @ temp.ch;
+  }
+  temp.res.add(temp.cur);
+  return temp.res;
+}
+function joinFrom(pr, start) {
+  temp.o = "";
+  for (temp.i = start; temp.i < pr.size(); temp.i++) {
+    if (temp.i > start)
+      temp.o = temp.o @ ",";
+    temp.o = temp.o @ pr[temp.i];
+  }
+  return temp.o;
+}
+function Chat_Up.onAction() {
+  scrollBy(5);
+}
+function Chat_Down.onAction() {
+  scrollBy(-5);
+}
+function Chat_Send.onAction() {
+  sendInput();
+}
+SCRIPTEND

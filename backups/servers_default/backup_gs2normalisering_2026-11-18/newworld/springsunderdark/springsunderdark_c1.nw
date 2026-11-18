@@ -1,0 +1,1238 @@
+GLEVNW01
+BOARD 0 0 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0E2L1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y2K0I1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 1 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0E2L1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y2K0I1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 2 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0W1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 3 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0W1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 4 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0W1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C
+BOARD 0 5 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0D1Y1Y1Y1Y1Y1Y1Y1Y0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0W1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0S0S0D0C0S
+BOARD 0 6 64 0 1Y1Y1Y0E0D1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0S0j0l0l0l0D1Y1Y1Y1Y0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0W1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0S0D0C0S0i0i0j0S0i
+BOARD 0 7 64 0 0l0l0l0S0j0l0l0l0D1Y1Y1Y1Y1Y1Y0C0S0i0T0Q0Q0R0j0D1Y1Y1Y0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0W1Y1Y1Y1Y1Y1Y1Y1Y0C0S0i0j0S0i0S0S0Q0i0S
+BOARD 0 8 64 0 0h0g1C1U000g0h0T0j0D1Y1Y0C0l0l0S0i0S0j0g0g0h0T0j0Dz+1Y0k0D1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0m1Y1Y1Y1Y1Y1Y0C0l0S0i0S0Q0i0S0i0i0g0S0i
+BOARD 0 9 64 0 0RvOvPvP000Q0R0T0T0j0l0l0S0Q0Q0i0S0i0T0Q0Q0R0j0T0j0O1Y000j0D1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0S021Y1Y1Y1Y1Y0C0S0Q0i0S0i0g0S0i0S0S0Q0i0S
+BOARD 0 10 64 0 sP000Q0R000g0h0T0j0T0Q0Q0i0g0g0S0i0S0j0g0g0h0T0j0T0Oz+000T0j0D1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0S0i021Y1Y0C0S0l0S0i0g0S0i0S0Q0i0S0i0i0g0S0i
+BOARD 0 11 64 0 0R000g0g000g0g0T0j0T0g0g0S0Q0Q0S0i0S0j0Q0Q0R0T0j0Tz+0O000j0T0j0l0l0l0l0l0l0l0l0l0l0S0i0S021Y0C0S0i0Q0i0S0Q0i0S0i0g0S0iz+z+0Q0iz+
+BOARD 0 12 64 0 sP000Q0Q000Q0Q0T0j0T0Q0Q0i0g0g0S0i0S0j0g0g0h0T0j0T0O0O000T0j0T0Q0Q0R0Q0Q0R0Q0Q0R0Q0i0S0i020l0S0i0S0g0S0i0g0S0iz+0Q0iz+0O0OsOz+z+
+BOARD 0 13 64 0 0R000g0g000g0g0T0j0T0g0g0S0Q0Q0S0i0S0j0Q0Q0R0T0j0Tz+0Oz+0j0T0j0g0g0h0g0g0h0g0g0h0g0S0i0S020Q0i0S0i0Q0i0S0Q0iz+0OsOz+z+0OkAkB0O0O
+BOARD 0 14 64 0 sP0g1C1U000Q0Q0T0j0T0Q0Q0i0g0g0S0i0S0j0g0g0h0T0j0T0Oz+0Oz+0j0T0Q0Q0R0Q0Q0R0Q0Q0R0Q0i0S0iz+0g0S0i0S0g0S0isOz+z+0O0c0N0O0OkQkR8A8A
+BOARD 0 15 64 0 0RvOvPvP000g0g0T0j0T0g0g0S0Q0Q0S0i0S0j0Q0Q0R0T0j0Tz+0O0O0Oz+0j0g0g0h0g0g0h0g0g0h0g0S0iz+0O0Q0i0S0i0Q0iz+0ckAkB8A8A0Pz+zukgkh8Q8Q
+BOARD 0 16 64 0 sP000Q0R000Q0Q0g1C1U0Q0Q0i0g0g0S0i0S0j0g0g0h0T0j0T0OkAkB0O0Oz+0Q0Q0R0Qz+z+0Q0Q0R0Q0iz+0O0O0g0S0iz+sOz+z+0OkQkR0d8Q0f0dz+kwkxz+z+
+BOARD 0 17 64 0 0R000Q0Q000g0hvOvPvP0g0g0S0g0g0S0i0S0j0Q0Q0R0T0j0T00kQkR0Oz+0OsOsOsPsO0O0OsOsOsPsOz+z+0Oz+0Q0iz+0O0c0N0O0Okgkh0R0Q0R0Q0RmAmB0i0Q
+BOARD 0 18 64 0 sP000Q0R000g0g000Q0R0Q0Q0i0Q0Q0S0i0S0j0g0g0h0T0j0T00kgkh0d0O0f0f8A8Q0f8Q0O0P0c0b0c0N0O0O0OsOz+z+0O0S0g0h0Skwkx0h0g0h0gz+8A0P0S0g
+BOARD 0 19 64 0 Rd10sOsP000Q0Q000T0j0g0g0S0Q0Q0i0S0i0T0Q0Q0R0j0T0j00kwkx8A0tkAkB0N8A0P0KkAkB0N8A0P0dzOzP0O0c0N0O0O0i0Q0Rz+mAmB0R0Q0R0Q0O8Q0fz+0Q
+BOARD 0 20 64 0 SNTT2E2F10sOsP000j0T0Q0Q0i0g0g0S0i1C1DsOsOsP0T0j0T00lAlB8Q0dkQkR0d8Q0f0akQkR0d8Q0fzuzezfzP7AT70g0h0S0g0h0O8A0P0h0g0h0g0h0S0i0O0g
+BOARD 0 21 64 0 asat1011TkTjTk100T0j0g0g0S0Q0Q0i0nR6Q4Q5R9TU0o0T0jz+lQlRz+0tkgkh0t8A0P0qkgkh8A8A0Pz+zuzvzf7QT70Q0R0i0Q0R0i8Q0fz+0Q0R0Q0R0i0S0i0Q
+BOARD 0 22 64 0 a8a9TUTTTUTTTUTT0o0T0Q0Q0isOsO0nTjSKSLSMSN2E2F0o0Tz+lglh0Oz+kwkx0d8Q0f0akwkx0d8Q0f0dz+z/zv7g7Q0g0h0S0g0h0S0i0S0O0g0h0g0h0S0i0S0g
+BOARD 0 23 64 0 TkRaRcRdTkTjTkbVTT0osOsO0nTUTTTUTTTUTTTUTT1011TU0o0Olwlxz+0OlAlB0t8A0P0qlAlB0t8A0P8Az+z/z/7w7g0Q0R0i0Q0R0i0S0i0R0Q0R0Q0R0i0S0i0Q
+BOARD 0 24 64 0 TTTUSLSMTjYvhQhQhQggTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTz+mAmB0Oz+lQlR0d8Q0f0alQlR0d8Q0f0dlQlR0O0Oz+0g0h0S0g0h0S0i0S0h0g0h0g0h0S0i0S0g
+BOARD 0 25 64 0 TjTkTjTkYvY/YfYfYfgwTjTkTjTkTjTkTjTkTjTkTjTkTjzOzP0OcQcQz+0Olglh0t8A0P0qlglh0t8A0P0Plglh8A8A0O0Q0R0i0Q0R0i0S0i0R0Q0R0Q0R0i0S0i0Q
+BOARD 0 26 64 0 TTTUTTTUY+gAYfYOYOZeTTTUTTTUTTTUTkasatTjTjTkTTzezf0O0Q0R0Qz+lwlx8Q8Q0f8Qlwlx0O0P8Az+lwlx8Q8Qz+0g0h0S0g0h0S0i0S0h0g0h0g0h0S0i0S0g
+BOARD 0 27 64 0 TjTkTjTkZOZPYfgQYPYuTjTkTkiDiDatasacaca9TTTUz+zuzv000N8A0P0K1K1L1M1L1M1L1L1M1N0Q0R0QmAmBz+z+0O0Q0R0i0Q0R0i0S0i0R0Q0R0Q0R0i0S0i0Q
+BOARD 0 28 64 0 TTTUTTTUTkZOZPYfZeZfTTTUiRhShTiSa8acaca9TkTj0Oz+z/000d8Q0f0akAkB7X7X7X7X7XkAkB0g0h0gcQcQ0O0Q0i0g0h0S0g0h0S0i0S0h0Q0R0Q0R0S0i0S0j
+BOARD 0 29 64 0 TkiDatTkTjTkZOhAZfTkTjTkTkiTiTTUTka82E2FasatkQzuzv000t8A0P0qkQkR7X7X7X7X7XkQkR0Q0R0QlQlR020g0S0Q0R0i0Q0R0i0S0R0R1F1F1F0R0i0S0i0T
+BOARD 0 30 64 0 iRhTiSTUTTTUTTTURaRbRbRcRdTUTkiData91011a9a9kg0O0O000d8Q0f0akgkhUIUIUIUIUIkgkh0g0h0g0d8Q020Q0i0g0h0S0g0h0S0i0j020yKzKz0z000i0S0j
+BOARD 0 31 64 0 TkiTTUTkTjTkTjRaQ4QpQ4Q5R7TkiRhTiSasacacaca8kw8Q0O000t8A0P0qkwkxT3T4T3T4T5kwkx0Q0R0Q0t8A020g0S0Q0R0i0Q0R0i0S0T02KzKzKzKz000S0i0T
+BOARD 0 32 64 0 TTTUasatasatTT2E0F0F0F0F2FTjTkiTTUa8acacacatlAkAkB000d8Q0f0alAlBUIUIUIUIUIlAlBsOsPsO0O0P020Q0i0g0h0S0g0g0S0i0j02KzKzKzKz000i1C1D
+BOARD 0 33 64 0 Tjasatacacacat0U1Y1Y1Y1Y0X2FTjTkTjTkTjTkTjTklQkQkRz+0O8A0P0q0Q0RcQcQcQcQcQcQcQcQcQcQ0Q0Q020g0S0Q0R0i0Q0Q0i0S0T02T7T7T7T7000nR6Q4
+BOARD 0 34 64 0 S0acacacacaca90k0I1Y1Y1Y1Y0WTTTUTTTUTTTUTTTUlgkgkh0O0O8Q0f8Q0g0h0g0h0g0h0g0h0g0h0g0hkAkB020Q0i0g0h0S0g0g0S0i1D0na3T7T7T7arTjSKSL
+BOARD 0 35 64 0 a9acacacaca8a9000U1Y1Y1Y1Y0WTjTkiCTkTjTkTjTklwkwkx000N8A0P0K0Q0R8Q0f0dz+0g8Q0f0d8Q0fkQkR020g0S0Q0R0i0Q0Q0i0nR6RbRcRdaqT7arS0TjTk
+BOARD 0 36 64 0 a9acaca8a9TUTT000Uf+f+f+0C0miChChDiCTTTUz+TUmAlAlB000d8Q0f0a0g0h8A0P8Az+0g8A0P0t8A0Pkgkh020Q0i0g0h0SsOsO0nTjSKSLSMSNTjaoa3a5TTTU
+BOARD 0 37 64 0 a9acacatTjTkaq000k0l0l0l0S02hRhShThUTjTk0Oz+cQlQlR000t8A0P0q0Q0R8Q0f0dlglh8Q0f0d8Q0fkwkx020g0S0Q0R0iTjTkTjTkTjTkTjTkTjTkTjTkTjTk
+BOARD 0 38 64 0 a9a8a9a9TTTUaq00000R0Q0Q0i02hhhihjhkTTTUz+0Oz+lglh000d8Q0f0asOsP8A0P0Plwlx8A0P0t8A0PlAlB020Q0isOsO0nTTTUTTTUTkiDatTUTTTUTTTUTTTU
+BOARD 0 39 64 0 TjTkTjTkTjTkTj00000h0g0g0S02hxhyhzTkiCTk0OiC0Olwlx000t8A0P0qu+u/u/u/u/u/u/u/u/u/u/2wlQlR02sO0nz+TTTUTjTkTjTkiRhTiSTkTjTkTjTkTjTk
+BOARD 0 40 64 0 TTTUTTTkiDiDat10000Q0Q0Q0i11TTiCTTTUz+TUTTz+0OmAmB000d8Q0f0avOvPvPvPvPvPvPvPvPvPvP3Alglhz+TUTT0OTTTUTTTUTTTUTkiTTUasatTjTjTkTkS0
+BOARD 0 41 64 0 TjTkTjiRhShTiSTk10sOsOsO0nS1TjTkTjTk0OiCTj0O0OcQcQ000t8A0P0q000Q0R0Q0Q0R0R0Q0Q0R0Q02lwlxz+z+TjTkTjTkTjTkTjTkTjTkasacaca9TTTUTUa8
+BOARD 0 42 64 0 TTTUTTTkiTiTTUTUTTTUTTTUTTTUTTTUTTTUTTTUTTiCTTTUTTTU8Qz+0f8Q000g0h0g0g0h0h0g0g0h0g02mAmB0O0Oz+TUTTTUTTTUTTTUTTTUa8acaca9TkTjTkTj
+BOARD 0 43 64 0 TjTkTjTkTjTkTjTkTjTkTjiCTjTkTjTkTjTkTjTkTjTkTjTkTjTkTj0OcQcQ000Q0R0Q0Q0R0R0Q0Q0R0Q02cQcQ0O0O0OTkTjTkTjhChDiCTjTkTka82E2Fasatasac
+BOARD 0 44 64 0 TTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUYvY/gwggTTTUTTTUTUTUTTTUTTTU0osOsPsOsOsPsPsOsOsPsO0nTTTUTTTUTTTUTTiChChShThUhETUasa91011a9a9a8ac
+BOARD 0 45 64 0 ggYvhQhQhQggYvY/gwhQhQggYvhQhQhQY/YfYfgwhQggYvhQhQhQhQhQhQhQhQhQhQhQhQhQhQhQggTjTjTkTjTkTjTkiDiDiDhRgRgSiBgUhUTka8a9asacaca8a9ac
+BOARD 0 46 64 0 YfYOYfYOYPYfYfYeYeYfYfYOYOYOYfYPYPYOYPYfYfYOYOYOYOYOYOYOYOYOYOYOYOYOYOYOYOYfgwggTTTUTTTUiChCgRgSgTgUghgigjgkhkTUasata8acacatasat
+BOARD 0 47 64 0 YeYfYeYfYfYOYOYOYfYPYPYOYPYeYeYfYfYfYfYPYOYPYPYOYOYPYOYfYOYPYfYfYfYegQYfYfYeYfYuTjTkiDiDhChSghiBgjgkgkhihjhkTkS0aca9TUTTa9a9a9a9
+BOARD 0 48 64 0 YfYPYfYPYPYOYPYeYeYfYfYfYfYPYOYPYOYPYOYfYfYfYfYOYPYfYPYfYOYPYfYPYOYPYOYOYOYPYOYuiChCgRgSgTgUiTiTiTiTiThyhziCasa9acTjTkasatTjTkTj
+BOARD 0 49 64 0 YeYfYeYfYfYfYfYPYPYeYfYeYfgAYfYeYOYPYOYOYPYOYOYOYPYPYOYfYOYPYfYfYPYfYPYfYfYeYfgwhChSghgihjhkTjiCTjTkTjTkTjTka8a9ata9TUa8acatb1TT
+BOARD 0 50 64 0 YPYegAYeYfYeYfYeYfYPYOYPYOYPYOYPYeYfYegQYPYOYOYPYfYfYeYeYfgAYOYOYfYeYfYPYPYfYfZeiTiTiThyiTh0TTTUTTTUTTTUiCTUTkTj2E2F2E16aca9TkTj
+BOARD 0 51 64 0 YfYPYfYPYOYPgQYPYeYfYeYfYeYfYeYfYPYOYPYeYfYeYfYfYOYOYOYfYPYPYOYPYPYfYPYfYfYfYegwhQhQhQggiCTkTjTkTjYvhQhQggTjTjTk10110U2K0F0F2FTT
+BOARD 0 52 64 0 YeYfYeYfYOYPYfYfYeYeYfYfYOYOYfYeYfYeYfYPYOYPYPYPYOYPYeYeYfYfYfYfYfYeYfYOgAYPYfYPYPYfYfgwggTUTTiCYvY/YfYfgwggTTTUatTU0U1Y1Y1Y0X0F
+BOARD 0 53 64 0 YfYOYfYeYfYfYOYOYOYfYPYPYOYPYfYPYOYPYOYPYOYeYfgAYfYfYPYOYPYOYPYOYOYPYOYOYfYfYeYfYfYfYfYfgw2E2FYvY/YfYOYPYOYuiCTka9Yv0k0I1Y1Y1Y1Y
+BOARD 0 54 64 0 YeYfYeYfYPYPYOYPYeYeYfYfYfYfYfYeYfYeYOYPYOYPYeYfYeYfYeYfYeYOYPYOYPYfYPgQYOYOYPYOYOYPYPYfZe1011Y+YfYPYfYeYOgwggTUTjY+000U1Y1Y1Y1Y
+BOARD 0 55 64 0 YfYPYfYeYfYfYfYfYPYOYPYOYPYOYeYfYfYOYOYfYeYeYfYfYOYOYPYOYPgAYfYeYfYeYfYPYOYPYfYOYPYfgQYeYuTkiCZOZPYfYOYPYeYfgwTkTTZO000Uf+f+f+0C
+BOARD 0 56 64 0 YeYfYeYPYeYfYeYfYeYfYeYOgQYOYfYPYPYOYPYOYOYfYPYPYOYPYfYeYfYPYOYPZehAZPYfYfYfYeYfYfYOYOYPYuTUTTTkZOZPZehAZPZeiCTUuuuvu/0k0l0l0l0S
+BOARD 0 57 64 0 YPYeYPYfYPYOYPYOYPYOYPYeYfYeYeYfYfYfYfYPYeYeYfYfZeZfZOZPYPgQYfZeZfTjZOZPYPYPYeYfYfYfYfYfYuTkTjTkS0TkTjTkTjTkTjYvu+u/u/000R0Q0Q0i
+BOARD 0 58 64 0 YfYPgQYeYfYeYfYeYfYeYfYPYOYPYOYPYOYPYOYfgQYOYPYOYuiCTkZOZPZeZfRbRbRcRdZOZPYfYPgQYOYPYPYeYuTUTTasa9TUTTTUTTTUTTY+u+u/u/1U0h0g0g0S
+BOARD 0 59 64 0 YeYfYPYfYPYOYPYOYPYeYfYeYfYeYfYeYOYPYOYfYeYfYeYOgwggTUTTTURaQ4QpQ4Q5R7RdTjZOZPYOYPYfYfYfYuTkasacacatTTTUTTTUS0ZOvOvKu/u/2w0Q0Q0i
+BOARD 0 60 64 0 YfYPYfYeYfYeYfYeYfgAYOYPYOYPYOYPYeYfYeYOYPYOYPYeYfgwTkRaR8Q5Q4Q5QoQpQoRtTTYvY/YfYfYOYOZeZfTUa8a8a9a9TjTkTjRaRbRb1UvavPvP3AsOsO0n
+BOARD 0 61 64 0 YeYfYPZeZfZOZPZehAhAZfZOhAhAhAhAZfZOZPZehAZfZOZPZeZfTURqQoQpQoQpQ4Q5Q4R9TjY+YfYPYPYOYPYuTjTkiDTjTkTkTTTURaQ4QpQ4Qo1DsOsP11TUbVb1
+BOARD 0 62 64 0 gAYPZeZfTTTUTTTUTTTUTTTURaRbRdTUTTTUTTTUTTiCTTTUTT2E2FR6Q4Q5Q4Q5Q5Q4Q4R9TTZOZPYfYfYfZeZfiChCgChDiCTURaR8Q5Q4Q5QoQpR7RbTUTTTUTTTU
+BOARD 0 63 64 0 YeZeZfTTTUTTaqaraoblbVTjSKSLSNTTTUblTjTkTjYvggYkYj1011R6Q4Q5Q4Q5Q5Q4SMSNTjTkZOhAhAhAZfTkhRiBgChThUTkRqQoQpQoQpQ4Q5Q4R8blbVTkTjTk
+NPC val_stalagmiteblack2.gif 5 28
+NPCEND
+NPC val_stalagmiteblack.gif 0 25
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 32 28
+//#CLIENTSIDE
+if (created) {
+dontblock();
+}
+NPCEND
+NPC longfellow-shadow-webgif.gif 34 29
+//#CLIENTSIDE
+if (created) {
+dontblock();
+}
+NPCEND
+NPC longfellow-shadow-webgif.gif 34 28
+//#CLIENTSIDE
+if (created) {
+dontblock();
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 35 28
+//#CLIENTSIDE
+if (created) {
+dontblock();
+}
+NPCEND
+NPC draack_bottomoceantest1.gif 34 34
+// NPC made by Stefan Knorr
+if (created) {
+  setimg draack_bottomoceantest1.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0,0,1,0.1;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC draack_bottomoceantest1.gif 0 34
+// NPC made by Stefan Knorr
+if (created) {
+  setimg draack_bottomoceantest1.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0,0,1,0.1;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC draack_bottomoceantest1.gif 0 2
+// NPC made by Stefan Knorr
+if (created) {
+  setimg draack_bottomoceantest1.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0,0,1,0.1;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC draack_bottomoceantest1.gif 31 2
+// NPC made by Stefan Knorr
+if (created) {
+  setimg draack_bottomoceantest1.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0,0,1,0.1;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_coralgroup1.gif 5 63
+NPCEND
+NPC val_coralgroup2.gif 11 63
+NPCEND
+NPC val_coralgroup3.gif 29 60
+NPCEND
+NPC val_coralgroup5.gif 27 41
+NPCEND
+NPC val_coralgroup6.gif 62 32
+drawunderplayer;
+NPCEND
+NPC val_coralgroup9.gif 41 43
+drawunderplayer;
+NPCEND
+NPC val_coralgroup7.gif 36 42
+drawunderplayer;
+NPCEND
+NPC val_coralgroup8.gif 22 38
+NPCEND
+NPC val_coralgroup7.gif 32 59
+NPCEND
+NPC val_coralgroup8.gif 31 41
+drawunderplayer;
+NPCEND
+NPC val_coralgroup5.gif 16 18
+NPCEND
+NPC val_coralgroup8.gif 47 35
+NPCEND
+NPC val_coralgroup2.gif 62 59
+NPCEND
+NPC val_coralgroup2.gif 30 44
+NPCEND
+NPC val_coralgroup2.gif 6 19
+NPCEND
+NPC val_coralgroup1.gif 9 19
+NPCEND
+NPC val_coralgroup2.gif 6 38
+NPCEND
+NPC val_coralgroup2.gif 7 39
+NPCEND
+NPC val_coralgroup2.gif 14 21
+NPCEND
+NPC val_coralgroup2.gif 13 39
+NPCEND
+NPC val_coralgroup2.gif 19 38
+NPCEND
+NPC val_coralgroup8.gif 33 61
+NPCEND
+NPC val_coralgroup6.gif 45 38
+drawunderplayer;
+NPCEND
+NPC val_coralgroup6.gif 45 38
+drawunderplayer;
+NPCEND
+NPC val_coralgroup8.gif 57 58
+NPCEND
+NPC val_coralgroup6.gif 35 45
+drawunderplayer;
+NPCEND
+NPC draack_seaweed1b.gif 21 33
+dontblock;
+NPCEND
+NPC draack_seaweed1c.gif 29 43
+dontblock;
+NPCEND
+NPC draack_seaweed1.gif 45 40
+dontblock;
+NPCEND
+NPC draack_seaweed1.gif 19 38
+dontblock;
+NPCEND
+NPC draack_seaweed1b.gif 46 38
+dontblock;
+NPCEND
+NPC draack_seaweed1.gif 6 38
+dontblock;
+NPCEND
+NPC val_coralgroup1.gif 8 37
+NPCEND
+NPC draack_seaweed1b.gif 20 39
+dontblock;
+NPCEND
+NPC draack_seaweed1.gif 28 44
+dontblock;
+NPCEND
+NPC draack_seaweed1b.gif 11 39
+dontblock;
+NPCEND
+NPC - 24 41
+//#CLIENTSIDE
+
+function onCreated() {
+  with(findimg(10)) {
+    emitter.attachposition=false;
+    emitter.delaymin=.6;
+    emitter.delaymax=.6;
+    emitter.emit();
+    emitter.cliptoscreen=true;
+    emitter.maxparticles=5;
+    emitter.nrofparticles=1;
+
+
+    emitter.particle.image="g4_particle_bubble.png";
+    emitter.particle.speed=1;
+    emitter.emit();
+    emitter.particle.zoom = 0.1;
+    emitter.particle.mode=1;
+    emitter.particle.lifetime=3;
+    emitter.particle.angle = pi / 2;
+
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -1.5, 1.5);
+    emitter.addlocalmodifier("once", 0, 0, "y", "add", -0.5, 0.5);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.2, 0.2);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("range", 1, 3, "alpha", "replace", 0.8, 0);
+    emitter.addlocalmodifier("range", 0, 3, "zoom", "add", 0.2, 0.2);
+    emitter.addlocalmodifier("range", 0, 0.5, "speed", "replace", 12, 4);
+    emitter.addlocalmodifier("range", 0.5, 3, "speed", "replace", 4, 1.5);
+  }
+}
+NPCEND
+NPC - 58 59
+//#CLIENTSIDE
+
+function onCreated() {
+  with(findimg(10)) {
+    emitter.attachposition=false;
+    emitter.delaymin=.6;
+    emitter.delaymax=.6;
+    emitter.emit();
+    emitter.cliptoscreen=true;
+    emitter.maxparticles=5;
+    emitter.nrofparticles=1;
+
+
+    emitter.particle.image="g4_particle_bubble.png";
+    emitter.particle.speed=1;
+    emitter.emit();
+    emitter.particle.zoom = 0.1;
+    emitter.particle.mode=1;
+    emitter.particle.lifetime=3;
+    emitter.particle.angle = pi / 2;
+
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -1.5, 1.5);
+    emitter.addlocalmodifier("once", 0, 0, "y", "add", -0.5, 0.5);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.2, 0.2);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("range", 1, 3, "alpha", "replace", 0.8, 0);
+    emitter.addlocalmodifier("range", 0, 3, "zoom", "add", 0.2, 0.2);
+    emitter.addlocalmodifier("range", 0, 0.5, "speed", "replace", 12, 4);
+    emitter.addlocalmodifier("range", 0.5, 3, "speed", "replace", 4, 1.5);
+  }
+}
+NPCEND
+NPC - 12 21
+//#CLIENTSIDE
+
+function onCreated() {
+  with(findimg(10)) {
+    emitter.attachposition=false;
+    emitter.delaymin=.6;
+    emitter.delaymax=.6;
+    emitter.emit();
+    emitter.cliptoscreen=true;
+    emitter.maxparticles=5;
+    emitter.nrofparticles=1;
+
+
+    emitter.particle.image="g4_particle_bubble.png";
+    emitter.particle.speed=1;
+    emitter.emit();
+    emitter.particle.zoom = 0.1;
+    emitter.particle.mode=1;
+    emitter.particle.lifetime=3;
+    emitter.particle.angle = pi / 2;
+
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -1.5, 1.5);
+    emitter.addlocalmodifier("once", 0, 0, "y", "add", -0.5, 0.5);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.2, 0.2);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("range", 1, 3, "alpha", "replace", 0.8, 0);
+    emitter.addlocalmodifier("range", 0, 3, "zoom", "add", 0.2, 0.2);
+    emitter.addlocalmodifier("range", 0, 0.5, "speed", "replace", 12, 4);
+    emitter.addlocalmodifier("range", 0.5, 3, "speed", "replace", 4, 1.5);
+  }
+}
+NPCEND
+NPC val_coralgroup2.gif 43 42
+NPCEND
+NPC - 56 33
+// (the GS2 code that stood here was moved to the client part on 17 Nov 2026)
+//#CLIENTSIDE
+function onCreated() {
+  // from the server part (GS2, which the server does not run)
+  setshape(1, 64, 16);
+  this.w = 64;
+  showimg(1,"val_fakecavewall.gif",x,y-3);
+  changeimgpart(1,0,0,64,64);
+  changeimgvis(1, 1);
+
+  setshape 1,64,16;
+}
+function onActionLeftMouse() {
+  if (this.w==64) {
+    dontblock();
+    this.m = 1;
+    this.setTimer(.05);
+  }
+  else {
+    blockagain();
+    this.m = 2;
+    this.setTimer(.05);
+  }
+}
+function onTimeout() {
+  showimg(1,"val_fakecavewall.gif",x,y-3);
+  changeimgpart(1,0,64-this.w,64,this.w);
+  if (this.m==1) {
+    if (this.w>=8) {
+      this.w -= 4;
+    }
+    else {
+      hideimg(1);
+      this.m==0;
+    }
+  }
+  else if (this.m==2) {
+    if (this.w<=60) {
+      this.w += 4;
+    }
+    else {
+      this.m==0;
+    }
+  }
+  this.setTimer(.05);
+  changeimgvis(1, 1);
+}
+NPCEND
+NPC val_coralgroup4.gif 63 31
+NPCEND
+NPC val_coralgroup1.gif 24 42
+NPCEND
+NPC val_coralgroup6.gif 57 55
+drawunderplayer;
+NPCEND
+NPC val_stalagmiteblack2.gif 15 35
+NPCEND
+NPC val_stalagmiteblack2.gif 4 39
+NPCEND
+NPC val_stalagmiteblack.gif 45 49
+NPCEND
+NPC val_stalagmiteblack.gif 16 23
+NPCEND
+NPC val_stalagmiteblack.gif 7 14
+NPCEND
+NPC val_stalagmiteblack.gif 51 40
+NPCEND
+NPC val_stalagmiteblack2.gif 49 46
+NPCEND
+NPC val_fog.png 16 63
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 24 39
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 55 40
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC draack_underwaterbubble2.gif 31 28
+//#CLIENTSIDE
+if (created)
+{
+  setzoomeffect((.6));
+  this.my = .1; //distance per loop(movement y)
+  this.steptillflip = 0; //step counter
+  this.msteptillflip = 5; //max steps
+  this.loopspeed = 1; //pause between loops
+  this.dpause = 0; //pause between direction change
+
+  drawoverplayer;
+  dontblock;
+
+  x-=.0;
+  y+=.2;
+  setshape2 1,2,{
+  0,
+  22
+  };
+  timeout = this.loopspeed;
+}
+if (timeout)
+{
+  x-=this.my;
+  this.steptillflip += 1;
+  if (this.steptillflip >= this.msteptillflip)
+  {
+    this.my *= -1;
+    this.steptillflip = 0;
+    sleep this.dpause;
+  }
+  timeout = this.loopspeed;
+}
+NPCEND
+NPC draack_underwaterbubble2.gif 56 58
+//#CLIENTSIDE
+if (created)
+{
+  setzoomeffect((.6));
+  this.my = .1; //distance per loop(movement y)
+  this.steptillflip = 0; //step counter
+  this.msteptillflip = 5; //max steps
+  this.loopspeed = 1; //pause between loops
+  this.dpause = 0; //pause between direction change
+
+  drawoverplayer;
+  dontblock;
+
+  x-=.0;
+  y+=.2;
+  setshape2 1,2,{
+  0,
+  22
+  };
+  timeout = this.loopspeed;
+}
+if (timeout)
+{
+  x-=this.my;
+  this.steptillflip += 1;
+  if (this.steptillflip >= this.msteptillflip)
+  {
+    this.my *= -1;
+    this.steptillflip = 0;
+    sleep this.dpause;
+  }
+  timeout = this.loopspeed;
+}
+NPCEND
+NPC - 58 29
+//#CLIENTSIDE
+
+function onCreated() {
+  with(findimg(10)) {
+    emitter.attachposition=false;
+    emitter.delaymin=.6;
+    emitter.delaymax=.6;
+    emitter.emit();
+    emitter.cliptoscreen=true;
+    emitter.maxparticles=5;
+    emitter.nrofparticles=1;
+
+
+    emitter.particle.image="g4_particle_bubble.png";
+    emitter.particle.speed=1;
+    emitter.emit();
+    emitter.particle.zoom = 0.1;
+    emitter.particle.mode=1;
+    emitter.particle.lifetime=3;
+    emitter.particle.angle = pi / 2;
+
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -1.5, 1.5);
+    emitter.addlocalmodifier("once", 0, 0, "y", "add", -0.5, 0.5);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.2, 0.2);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("range", 1, 3, "alpha", "replace", 0.8, 0);
+    emitter.addlocalmodifier("range", 0, 3, "zoom", "add", 0.2, 0.2);
+    emitter.addlocalmodifier("range", 0, 0.5, "speed", "replace", 12, 4);
+    emitter.addlocalmodifier("range", 0.5, 3, "speed", "replace", 4, 1.5);
+  }
+}
+NPCEND
+NPC - 35 28
+//#CLIENTSIDE
+
+function onCreated() {
+  with(findimg(10)) {
+    emitter.attachposition=false;
+    emitter.delaymin=.6;
+    emitter.delaymax=.6;
+    emitter.emit();
+    emitter.cliptoscreen=true;
+    emitter.maxparticles=5;
+    emitter.nrofparticles=1;
+
+
+    emitter.particle.image="g4_particle_bubble.png";
+    emitter.particle.speed=1;
+    emitter.emit();
+    emitter.particle.zoom = 0.1;
+    emitter.particle.mode=1;
+    emitter.particle.lifetime=3;
+    emitter.particle.angle = pi / 2;
+
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -1.5, 1.5);
+    emitter.addlocalmodifier("once", 0, 0, "y", "add", -0.5, 0.5);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.2, 0.2);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("range", 1, 3, "alpha", "replace", 0.8, 0);
+    emitter.addlocalmodifier("range", 0, 3, "zoom", "add", 0.2, 0.2);
+    emitter.addlocalmodifier("range", 0, 0.5, "speed", "replace", 12, 4);
+    emitter.addlocalmodifier("range", 0.5, 3, "speed", "replace", 4, 1.5);
+  }
+}
+NPCEND
+NPC val_cloud-lightbeam2.gif 23 27
+//#CLIENTSIDE
+ setcoloreffect .2,.4,.5,.2;
+dontblock;
+setzoomeffect 6;
+drawoverplayer;
+NPCEND
+NPC val_fog.png 35 23
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 24 56
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC - 36 47
+join("akiltest1");
+// was rp_hiddenmove (shown only with enough skill in ZazenRPSkills, which this server does not have)
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Swim up", "springsunderdark_c1.nw", 33, 30, 0 };
+  this.warpArea = { 2, 2 };
+  this.akStart();
+}
+NPCEND
+NPC - 57 30
+join("akiltest1");
+// (rewritten 18 Nov 2026 like the other entrances: setupInfo in the server part stopped the GS1 lexer, so join never ran, and akStart was never called)
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Swim up the shaft.", "springsunderdark_tunnel1.nw", 22.5, 50, 0 };
+  this.warpArea = { 2, 2 };
+  this.akStart();
+}
+NPCEND
+NPC - 33 32
+join("akiltest1");
+// was rp_hiddenmove (shown only with enough skill in ZazenRPSkills, which this server does not have)
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Hop down", "springsunderdark_c1.nw", 41, 49, 2 };
+  this.warpArea = { 2, 2 };
+  this.akStart();
+}
+NPCEND
+NPC draack_underwaterbubble2.gif 55 48
+//#CLIENTSIDE
+if (created)
+{
+  setzoomeffect((.6));
+  this.my = .1; //distance per loop(movement y)
+  this.steptillflip = 0; //step counter
+  this.msteptillflip = 5; //max steps
+  this.loopspeed = 1; //pause between loops
+  this.dpause = 0; //pause between direction change
+
+  drawoverplayer;
+  dontblock;
+
+  x-=.0;
+  y+=.2;
+  setshape2 1,2,{
+  0,
+  22
+  };
+  timeout = this.loopspeed;
+}
+if (timeout)
+{
+  x-=this.my;
+  this.steptillflip += 1;
+  if (this.steptillflip >= this.msteptillflip)
+  {
+    this.my *= -1;
+    this.steptillflip = 0;
+    sleep this.dpause;
+  }
+  timeout = this.loopspeed;
+}
+NPCEND
+NPC draack_underwaterbubble2.gif 4 24
+//#CLIENTSIDE
+if (created)
+{
+  setzoomeffect((.6));
+  this.my = .1; //distance per loop(movement y)
+  this.steptillflip = 0; //step counter
+  this.msteptillflip = 5; //max steps
+  this.loopspeed = 1; //pause between loops
+  this.dpause = 0; //pause between direction change
+
+  drawoverplayer;
+  dontblock;
+
+  x-=.0;
+  y+=.2;
+  setshape2 1,2,{
+  0,
+  22
+  };
+  timeout = this.loopspeed;
+}
+if (timeout)
+{
+  x-=this.my;
+  this.steptillflip += 1;
+  if (this.steptillflip >= this.msteptillflip)
+  {
+    this.my *= -1;
+    this.steptillflip = 0;
+    sleep this.dpause;
+  }
+  timeout = this.loopspeed;
+}
+NPCEND
+NPC draack_underwaterbubble2.gif 5 26
+//#CLIENTSIDE
+if (created)
+{
+  setzoomeffect((.6));
+  this.my = .1; //distance per loop(movement y)
+  this.steptillflip = 0; //step counter
+  this.msteptillflip = 5; //max steps
+  this.loopspeed = 1; //pause between loops
+  this.dpause = 0; //pause between direction change
+
+  drawoverplayer;
+  dontblock;
+
+  x-=.0;
+  y+=.2;
+  setshape2 1,2,{
+  0,
+  22
+  };
+  timeout = this.loopspeed;
+}
+if (timeout)
+{
+  x-=this.my;
+  this.steptillflip += 1;
+  if (this.steptillflip >= this.msteptillflip)
+  {
+    this.my *= -1;
+    this.steptillflip = 0;
+    sleep this.dpause;
+  }
+  timeout = this.loopspeed;
+}
+NPCEND
+NPC val_coralgroup6.gif 52 35
+drawunderplayer;
+NPCEND
+NPC val_coralgroup2.gif 8 63
+NPCEND
+NPC val_fog.png 42 38
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 8 28
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 42 48
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 41 61
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_cloud-lightbeam2.gif 59 36
+//#CLIENTSIDE
+ setcoloreffect .2,.4,.5,.2;
+dontblock;
+setzoomeffect 6;
+drawoverplayer;
+NPCEND
+NPC val_tempshell.png 31 47
+drawunderplayer;dontblock;
+NPCEND
+NPC val_fog.png 6 46
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 4 60
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_shell_clam2.gif 9 42
+// Created by fireball1000
+NPCEND
+NPC val_shell_clam.gif 13 24
+// Created by fireball1000
+NPCEND
+NPC val_shell_conch.gif 24 47
+NPCEND
+NPC val_shell_clam4.gif 63 62
+// Created by fireball1000
+NPCEND
+NPC val_tempshell.png 55 60
+drawunderplayer;dontblock;
+NPCEND
+NPC val_tempshell.png 12 42
+drawunderplayer;dontblock;
+NPCEND
+NPC val_tempshell.png 7 22
+drawunderplayer;dontblock;
+NPCEND
+NPC val_tempshell.png 47 41
+drawunderplayer;dontblock;
+NPCEND
+NPC val_shell_clam4.gif 52 38
+// Created by fireball1000
+NPCEND
+NPC ripple.gif 0 48
+//#CLIENTSIDE
+// Created by ajf10209
+ setcoloreffect .2,.2,.2,.99;
+setzoomeffect 3;
+dontblock;
+drawaslight;
+if (created){x=x-7;
+}
+NPCEND
+NPC ripple.gif 0 48
+//#CLIENTSIDE
+// Created by ajf10209
+ setcoloreffect .2,.2,.2,.99;
+setzoomeffect 3;
+dontblock;
+drawaslight;
+if (created){x=x-7;
+}
+NPCEND
+NPC - 33 27
+join("akiltest1");
+// (rewritten 18 Nov 2026 like the other entrances: setupInfo in the server part stopped the GS1 lexer, so join never ran, and akStart was never called)
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Swim up.", "springsunderdark_temple3.nw", 14, 40, 3 };
+  this.warpArea = { 2, 2 };
+  this.akStart();
+}
+NPCEND
+NPC - 63 45
+this.setupInfo = { "religion", 7, "Guardians of Syren", "These pure guardians continues to fight on Syren's behalf. Perhaps they can be swayed to help?" };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+this.setupInfo = { "religion", 7, "Guardians of Syren", "These pure guardians continues to fight on Syren's behalf. Perhaps they can be swayed to help?" };
+NPCEND
+NPC - 39 52
+this.setupInfo = { "religion", 7, "Guardians of Syren", "These pure guardians continues to fight on Syren's behalf. Perhaps they can be swayed to help?" };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+this.setupInfo = { "religion", 7, "Guardians of Syren", "These pure guardians continues to fight on Syren's behalf. Perhaps they can be swayed to help?" };
+NPCEND
+NPC - 8 56
+this.setupInfo = { "insight", 0, "Powerful Tide", "The waters beyond this point are too swift to swim against." };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+this.setupInfo = { "insight", 0, "Powerful Tide", "The waters beyond this point are too swift to swim against." };;
+NPCEND
+NPC - 56 27
+this.setupInfo = { "engineering", 6, "Sealed Gate", "There seems to be subtle series of patterns leading away from this door to the east." };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+this.setupInfo = { "engineering", 6, "Sealed Gate", "There seems to be subtle series of patterns leading away from this door to the east." };
+;
+NPCEND

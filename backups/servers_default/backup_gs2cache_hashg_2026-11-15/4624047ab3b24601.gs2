@@ -1,0 +1,47 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.head = "val-arbitrary-head.gif";
+  this.colors[0] = "orange";
+  this.colors[1] = "yellow";
+  this.colors[2] = "white";
+  this.attr[1] = "hat.png";
+  this.colors[3] = "red";
+  this.colors[4] = "cynober";
+  this.nick = "Ordinator of (Imperial Warholm)";
+  this.shield = "no-shield.gif";
+  this.shieldpower = 1;
+  this.dir = 2;
+  this.ap = 100;
+  this.body = "xiji-darkarmorbody.gif";
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "Imperial Warholm")) {
+    if ((player.nick.pos("Emperor") > -1)) {
+      message("*Bows Low* Your Grace.");
+      sleep(3);
+      message();
+    }
+    if ((player.nick.pos("Trooper") > -1)) {
+      message("Why are you away from your post?");
+      sleep(3);
+      message();
+    }
+    if ((player.nick.pos("Officer") > -1)) {
+      message("Good day, Officer.");
+      sleep(3);
+      message();
+    }
+    if ((player.nick.pos("Ordinator") > -1)) {
+      message("Be ever watchful.");
+      sleep(3);
+      message();
+    }
+    if ((player.nick.pos("Commander") > -1)) {
+      message("*Salute* Commander.");
+      sleep(3);
+      message();
+    }
+  }
+}

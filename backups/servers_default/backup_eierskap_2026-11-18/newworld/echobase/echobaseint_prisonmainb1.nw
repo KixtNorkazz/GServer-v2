@@ -1,0 +1,804 @@
+GLEVNW01
+BOARD 0 0 64 0 1+1+1+1+1+1+1+1+1+1+1tJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 1 64 0 C5C66I6H6I6I6GC5C66E1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 2 64 0 DJDK6Y6X6Y6YDK6Y6Y6U1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 3 64 0 DZDaDa6n6oDZDa6o6o6k1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 4 64 0 DZDa636363DZDa6464601uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 5 64 0 DZDa7I7H7I7IDa7I7I7E1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 6 64 0 ararKpKqKqKqar4ULFLG1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 7 64 0 a6a5K5K6K6K6a6LULVLW1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 8 64 0 aqapaqapaqapaqLULVLW1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 9 64 0 a6a5a6a5a6a5a6LULVLW1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 10 64 0 aqapaqapaqapaqapaqar1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 11 64 0 a6a5a6a51s1+1+1+1+1+1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 12 64 0 aqapaqap181+1+1+1+1+181+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1tJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 13 64 0 a6a5a6a5hg6F6F6GC6C5C66GC66G6I6I6GC6C56I6I6G6I6I6I6G6G6I6I6G6I6IC6C5C61uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 14 64 0 aqapaqaphw6V6V6WDKDJDKDJ6W6Y6W6Y6Y6W6XDK6Y6W6Y6Y6Y6W6W6Y6W6Y6YDJDKDJDK1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 15 64 0 arararariA6k6lDZDaDZDaDa6m6o6m6o6o6mDaDa6o6m6o6o6o6oDZ6o6o6o6o6oDaDZDa1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 16 64 0 5E4m4m5FiQ606162DaDZDaDa62646264646263Da6462646464DaDZ62626464DZDaDZDa1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 17 64 0 xywCwCwBig7E7F7G7IDZDa7I7G7I7G7I7I7GDZDa7I7G7I7I7I7IDZ7I7I7G7G7I7IDZDa1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 18 64 0 wBwCwCwBwCwCwByCwCwBxwyBxwwCwBwCwByCwByCyCwCwCwBwCwCwByCwCwCwBwCwCwCyC1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 19 64 0 wCwCwByCwSwSwRwSwSwCwBxwwBwSwRwSwRwSwRwSyBxwwCwBwCwSwRwSwCxwxwyBwCwCwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 20 64 0 wCxwwByCxwwSwBwSwRxwxxwCwBwCwBwBwCxywCxyxwwBwByCwSwBwCxywSwBxwxwwRwBxy1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 21 64 0 yCyAwRwSwCwCwBwCwByAyBwCwCwCwBwCwByCwByCyCwCwCwBwCwCwByCxwyBwCwCwCwByC1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 22 64 0 1+1+1+1+1+1+1+1+1+1+1t1+1+1+1+1tn2n3n2n21s1+1+1+1s1+1+1+1+1tn2n3n2n3n21uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 23 64 0 J4J4J4J4J4J4J4J4J4J41u1+1+1+1+19yCyCwCwC181+1+1+1uJ4J4J4J41unmyCyCwCwC1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 24 64 0 J4J4J4J4J4J4J4J4J4J41u181+1+19hgwSwSwSwShg6F6G6H1uJ4J4J4J41uhgwSwSwSwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 25 64 0 J4J4J4J4J4J4J4J4J4J41uDKDJ6X6YhwyCwCwCwChw6V6W6X1uJ4J4J4J41uhwyCwCwCwC1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 26 64 0 J4J4J4J4J4J4J4J4J4J41uDa6n6o6kiAwSwSwSwSiA6l6m6n1uJ4J4J4J41uiAwSwSwSwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 27 64 0 J4J4J4J4J4J4J4J4J4J41uDaDZ6364iQ5E4m4m5FiQ6162631uJ4J4J4J41uiQ5E4m4m5F1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 28 64 0 J4J4J4J4J4J4J4J4J4J41uCgKpKqCDigararararig4ULFLG1uJ4J4J4J41uwSyBwCwCwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 29 64 0 J4J4J4J4J4J4J4J4J4J41uCgKpKqCDara5a6a5a6arLULVLW1uJ4J4J4J41uwSxwwRwBxy1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 30 64 0 J4J4J4J4J4J4J4J4J4J41uCwK5K6CTaqapaqapaqapLULVLW1uJ4J4J4J41uwSwCwCwByC1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 31 64 0 J4J4J4J4J4J4J4J4J4J41uara5a6a5a6a5a6a5a6a5LULVLW1uJ4J4J4J41uyCyCwBwCwC1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 32 64 0 J4J4J4J4J4J4J4J4J4J41uarapaqapaqapaqapaqapaqapar1uJ4J4J4J41uwSyByCwSwS1u1s1+1+1+1+1+1+1+1+1+1+1+1+1tJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 33 64 0 J4J4J4J4J4J4J4J4J4J41uara5a6a5a6a5a6a5a6a5a6a5ar1uJ4J4J4J41uwSwByCxwwS1u1u6F6F6G6H6I6H6I6E6F6G6H6I1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 34 64 0 J4J4J4J4J4J4J4J4J4J41uarKpKqKqKqapaqapaqapaqapar1uJ4J4J4J41uwSwRwSwCwC1u1u6V6V6W6X6Y6X6Y6U6V6W6X6Y1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 35 64 0 J4J4J4J4J4J4J4J4J4J41uarK5K6K6K6a5a6a5a6a5a6a5ar1uJ4J4J4J41uwSwSwRwSwS1u1u6k6l6m6n6o6n6o6k6l6m6n6o1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 36 64 0 J4J4J4J4J4J4J4J4J4J4181+1+1+1+1+1+1+1+1+1+1+1+1+19J4J4J4J41uwSwSwRwSwS18196061626364636460616263641uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 37 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uwSwSwRwSwSYvYv7E7F7G7H7I7H7I7E7F7G7H7I1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 38 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uyCyCyBxwwCYvYvKpKq4W4X4U4V4W4X4U4V4W4X1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 39 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uwSyCxwwBwBYvYvK5K64W4X4U4V4W4X4U4ULFLG1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 40 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uxywSwSwCwBYvYvK5K64W4X4U4V4W4X4ULULVLW1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 41 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uwSwSwSxwxwYvYvK5K64W4X4U4V4W4X4ULULVLW1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 42 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uwSwSwSwBxwwC4V4W4X4X4U4V4W4X4X4ULULVLW1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 43 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uwSwSwBxwxwwR4V4W4X4X4U4V4W4X4X4U4V4W4X1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 44 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uwCwBwCwCwCwC4V4W4X4X4U4V4W4X4X4U4V4W4X1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 45 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uxwxwyBwSwS1s1+1+1+1+1+1+1+1+1+1+1+1+1+19J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 46 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uwBxwxwwSwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 47 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uwSyBwRwSwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 48 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uwSwSwSwSwR1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 49 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uwSwSyCyCwC1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 50 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uwSwSwSyBxw1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 51 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uwSwSxyxwwB1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 52 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uwSwSwRwSwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 53 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41s1+1+1+1+1+1+1+1+1+1+1+1+1t1uwSwSwRwSwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 54 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41u181+1+199p6J6K6L6M6N9l9m1u1uyCwCwCwSwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 55 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uDKDJ6X6Y956Z6a6b6c6d91921u1uyBxwwCwSwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 56 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uDa6n6o6k+J6p6q6r6s6t+F+G1u1uxwwBwBwSwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 57 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uDaDZ6364+Z656667686963641819wSwCwBwSwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 58 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uCgKpKqCD+p7J7K7L7M4ULFLGYvYvwSxwxwwSwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 59 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uCgKpKqCD4E4F4G4H4ELULVLWYvYvwSwBxwwSwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 60 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uCwK5K6CT4U4V4W4X4ULULVLWYvYvwSyBwCwSwS1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 61 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41u4E4F4G4H4E4F4G4H4ULULVLWYvYvwSwSxwxwwC1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 62 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uKpKq4W4X4U4V4W4X4E4F4G4HYvYvwSwSwRxwyB1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 63 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J41uKpKq4G4H4E4F4G4H4U4V4W4V4W4XwSwBwCxwxw1uJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+LINK echobaseint_prisonmaina1.nw 0 0 1 64 61 playery
+LINK echobaseint_prisonmainb2.nw 0 63 64 1 playerx 0
+NPC val-hammerforge-prisonbed.gif 7 3
+//#CLIENTSIDE
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-hammerforge-prisonbed.gif 25 55
+//#CLIENTSIDE
+drawunderplayer;
+dontblock;
+NPCEND
+NPC bridgeton-porticullis.gif 16 24
+//#SERVERSIDE
+// NPC made by Alexander Knowlton, Citizen of (Bridgeton)
+if (created) {
+  drawunderplayer;
+}
+if (playerchats&&strequals(#g,Road Wardens) || strequals(#a,TashGraal)) {
+  if (strequals(#c,Close Cell 3)){
+    sleep 0.5;
+    setcharprop #c,*clink clink clink*;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,32,200,200;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,16,200,200;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,0,200,200;
+    blockagain;
+    drawunderplayer;
+    sleep 0.2;
+    setcharprop #c, *boom*;
+    sleep 2;
+    setcharprop #c,;
+}
+}
+
+if (playerchats&&strequals(#g,Road Wardens) || strequals(#a,TashGraal)) {
+
+  if (strequals(#c,Open Cell 3)){
+    sleep 0.5;
+    setcharprop #c,*clink clink clink*;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,16,200,200;
+    dontblock;
+    drawoverplayer;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,32,200,200;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,46,200,200;
+    sleep 0.2;
+    setcharprop #c, *ka-chak*;
+    sleep 1;
+    setcharprop #c,;
+}
+}
+NPCEND
+NPC val_rp-crate.png 2 11
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 16 22
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 0 11
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 34 22
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC bridgeton-porticullis.gif 0 13
+//#SERVERSIDE
+// NPC made by Alexander Knowlton, Citizen of (Bridgeton)
+if (created) {
+  drawunderplayer;
+}
+if (playerchats&&strequals(#g,Road Wardens) || strequals(#a,TashGraal)) {
+  if (strequals(#c,Close Cell 2)){
+    sleep 0.5;
+    setcharprop #c,*clink clink clink*;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,32,200,200;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,16,200,200;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,0,200,200;
+    blockagain;
+    drawunderplayer;
+    sleep 0.2;
+    setcharprop #c, *boom*;
+    sleep 2;
+    setcharprop #c,;
+}
+}
+
+if (playerchats&&strequals(#g,Road Wardens) || strequals(#a,TashGraal)) {
+
+  if (strequals(#c,Open Cell 3)){
+    sleep 0.5;
+    setcharprop #c,*clink clink clink*;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,16,200,200;
+    dontblock;
+    drawoverplayer;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,32,200,200;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,46,200,200;
+    sleep 0.2;
+    setcharprop #c, *ka-chak*;
+    sleep 1;
+    setcharprop #c,;
+}
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 4 7
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawunderplayer; dontblock;
+setimgpart val_hammerforge-redrockhalltable.gif,16*8,16*25,32,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 4 6
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawunderplayer; dontblock;
+setimgpart val_hammerforge-redrockhalltable.gif,16*8,0,32,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 2 7
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawunderplayer; dontblock;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16*25,32,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 2 6
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawunderplayer; dontblock;
+setimgpart val_hammerforge-redrockhalltable.gif,0,0,32,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC bridgeton-porticullis.gif 31 24
+//#SERVERSIDE
+// NPC made by Alexander Knowlton, Citizen of (Bridgeton)
+if (created) {
+  drawunderplayer;
+}
+if (playerchats&&strequals(#g,Road Wardens) || strequals(#a,TashGraal)) {
+  if (strequals(#c,Close Gate 4)){
+    sleep 0.5;
+    setcharprop #c,*clink clink clink*;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,32,200,200;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,16,200,200;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,0,200,200;
+    blockagain;
+    drawunderplayer;
+    sleep 0.2;
+    setcharprop #c, *boom*;
+    sleep 2;
+    setcharprop #c,;
+}
+}
+
+if (playerchats&&strequals(#g,Road Wardens) || strequals(#a,TashGraal)) {
+
+  if (strequals(#c,Open Gate 4)){
+    sleep 0.5;
+    setcharprop #c,*clink clink clink*;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,16,200,200;
+    dontblock;
+    drawoverplayer;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,32,200,200;
+    sleep 0.1;
+    setimgpart bridgeton-porticullis.gif,0,46,200,200;
+    sleep 0.2;
+    setcharprop #c, *ka-chak*;
+    sleep 1;
+    setcharprop #c,;
+}
+}
+NPCEND
+NPC val_rp-crate.png 18 22
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 32 22
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val-runicwall1.gif 38 32
+// NPC made by Gaz ooc
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-runicwall1.gif 40 32
+// NPC made by Gaz ooc
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-runicwall1.gif 42 32
+// NPC made by Gaz ooc
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-runicwall1.gif 44 32
+// NPC made by Gaz ooc
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-runicwall1.gif 46 32
+// NPC made by Gaz ooc
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-runicwall2.gif 43 38
+// NPC made by Gaz ooc
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-runicwall2.gif 37 38
+// NPC made by Gaz ooc
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-runicwall1.gif 48 32
+// NPC made by Gaz ooc
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-hammerforge-prisonbed.gif 21 25
+//#CLIENTSIDE
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val_rp-crate.png 30 22
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 35 37
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 35 39
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 35 41
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val-hammerforge-prisonbed.gif 46 36
+//#CLIENTSIDE
+drawunderplayer;
+dontblock;
+NPCEND
+NPC knowltonhouse-privy.gif 11 25
+// NPC made by Ebra Conaway, Road Warden
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 37 38
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawunderplayer; dontblock;
+setimgpart val_hammerforge-redrockhalltable.gif,16*4,32,32,64;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 35 43
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 28 58
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 28 60
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 28 62
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC knowltonhouse-privy.gif 16 55
+// NPC made by Ebra Conaway, Road Warden
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 16 62
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawunderplayer; dontblock;
+setimgpart val_hammerforge-redrockhalltable.gif,16*4,32,32,64;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 14 34
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawunderplayer; dontblock;
+setimgpart val_hammerforge-redrockhalltable.gif,16*8,0,32,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 14 35
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawunderplayer; dontblock;
+setimgpart val_hammerforge-redrockhalltable.gif,16*8,16*25,32,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 12 35
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawunderplayer; dontblock;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16*25,32,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 12 34
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawunderplayer; dontblock;
+setimgpart val_hammerforge-redrockhalltable.gif,0,0,32,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 57 25
+// NPC made by Denton 'Van Zant' Railman
+//#CLIENTSIDE
+if (playerenters) {
+  level.inside=1;
+  timeout=0.05;
+}
+if (timeout) {
+  seteffect 0,0,0,.7;
+  timeout=0.05;
+}
+NPCEND
+NPC val_valcastle-torch.png 6 14
+//#CLIENTSIDE
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val_valcastle-torch.png 18 14
+//#CLIENTSIDE
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val_valcastle-torch.png 31 14
+//#CLIENTSIDE
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-haystacklor1.gif 1 13
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-haystacklor1.gif 15 29
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-haystacklor1.gif 16 30
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-haystacklor1.gif 11 31
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-haystacklor1.gif 20 33
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-haystacklor1.gif 20 60
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-haystacklor1.gif 18 61
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-haystacklor1.gif 25 63
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-runicwall2.gif 37 44
+// NPC made by Gaz ooc
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-runicwall2.gif 43 44
+// NPC made by Gaz ooc
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_roadwardenbanner.gif 12 13
+// NPC made by zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_roadwardenbanner.gif 25 13
+// NPC made by zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC archforge-bucket.gif 0 6
+
+NPCEND
+NPC val-haystacklor1.gif 4 8
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC archforge-bucket.gif 16 34
+
+NPCEND
+NPC archforge-bucket.gif 20 59
+
+NPCEND
+NPC - 42 34
+ //#CLIENTSIDE
+if (created) {
+x+=.5;
+setarray this.floatx,18;
+setarray this.floaty,18;
+for(i=0;i<19;i++){
+this.floatx[i] = x + random(-10,1-);
+this.floaty[i] = y + random(-15,1);
+}
+}
+for (i=0;i<19;i++) {
+this.floaty[i] = this.floaty[i]- .2;
+showimg i,light2.png,this.floatx[i],this.floaty[i];
+changeimgzoom i,1-((y/this.floaty[i])/1.5);
+changeimgcolors i,0,12,.91,random(.1,.2);
+if (this.floaty[i] <= y-random(2,16)) {
+this.floatx[i] = x + random(-12,11);
+this.floaty[i] = y + random(-12,11);
+}
+}
+timeout = 0.08
+NPCEND
+NPC - 29 30
+ if (created) {
+dontblock;
+drawoverplayer;
+}
+if (timeout) {
+showimg 1,light2.png,x-3,y-2;
+changeimgvis 1,3;
+changeimgcolors 1,1,.7,0,.75;
+changeimgzoom 1,random(1.3,1.5);
+}
+timeout=.1;
+NPCEND
+NPC - 29 41
+ if (created) {
+dontblock;
+drawoverplayer;
+}
+if (timeout) {
+showimg 1,light2.png,x-3,y-2;
+changeimgvis 1,3;
+changeimgcolors 1,1,.7,0,.75;
+changeimgzoom 1,random(1.3,1.5);
+}
+timeout=.1;
+NPCEND
+NPC - 34 51
+ if (created) {
+dontblock;
+drawoverplayer;
+}
+if (timeout) {
+showimg 1,light2.png,x-3,y-2;
+changeimgvis 1,3;
+changeimgcolors 1,1,.7,0,.75;
+changeimgzoom 1,random(1.3,1.5);
+}
+timeout=.1;
+NPCEND
+NPC - 34 61
+ if (created) {
+dontblock;
+drawoverplayer;
+}
+if (timeout) {
+showimg 1,light2.png,x-3,y-2;
+changeimgvis 1,3;
+changeimgcolors 1,1,.7,0,.75;
+changeimgzoom 1,random(1.3,1.5);
+}
+timeout=.1;
+NPCEND
+NPC fire2.gif 31 14
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC fire2.gif 18 14
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC fire2.gif 6 14
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC - 31 13
+ if (created) {
+dontblock;
+drawoverplayer;
+}
+if (timeout) {
+showimg 1,light2.png,x-3,y-2;
+changeimgvis 1,3;
+changeimgcolors 1,1,.7,0,.75;
+changeimgzoom 1,random(1.3,1.5);
+}
+timeout=.1;
+NPCEND
+NPC - 18 13
+ if (created) {
+dontblock;
+drawoverplayer;
+}
+if (timeout) {
+showimg 1,light2.png,x-3,y-2;
+changeimgvis 1,3;
+changeimgcolors 1,1,.7,0,.75;
+changeimgzoom 1,random(1.3,1.5);
+}
+timeout=.1;
+NPCEND
+NPC - 6 13
+ if (created) {
+dontblock;
+drawoverplayer;
+}
+if (timeout) {
+showimg 1,light2.png,x-3,y-2;
+changeimgvis 1,3;
+changeimgcolors 1,1,.7,0,.75;
+changeimgzoom 1,random(1.3,1.5);
+}
+timeout=.1;
+NPCEND
+NPC val_valcastle-torchside.gif 29 32
+//#CLIENTSIDE
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val_valcastle-torchside.gif 29 43
+//#CLIENTSIDE
+drawunderplayer;
+dontblock;
+NPCEND
+NPC fire2.gif 29 31
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC fire2.gif 29 42
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC val_valcastle-torchside2.gif 34 53
+//#CLIENTSIDE
+drawunderplayer;
+dontblock;
+NPCEND
+NPC fire2.gif 34 52
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC fire2.gif 34 62
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawoverplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND

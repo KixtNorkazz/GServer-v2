@@ -1,0 +1,13 @@
+--- a/server/src/scripting/gs1/ScriptEngineGS1.cpp
++++ b/server/src/scripting/gs1/ScriptEngineGS1.cpp
+@@ -410,7 +410,9 @@
+ 	if (!hasCreated && !hasInitialized && (event.type != ScriptEventType::TIMEOUT || !wrapper->visitor->hasSleepStack()))
+ 	{
+ 		const auto& eventName = determineEventName(event);
+-		bool hasEvent = wrapper->parser->identifiers.contains(eventName);
++		// The flag of a trigger action is set lower case (GS1Flags: actionwarp), so "if (actionwarp)" must also be found for
++		// triggeraction(x, y, "Warp"); it was looked up only as "actionWarp" and never ran (Kixt, 17 Nov 2026).
++		bool hasEvent = wrapper->parser->identifiers.contains(eventName) || wrapper->parser->identifiers.contains(string::toLower(eventName));
+ 		size_t idx = 0;
+ 		while (hasEvent == false && additionalEventTypes != nullptr && idx < additionalEventTypes->size())
+ 		{

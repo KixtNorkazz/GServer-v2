@@ -1,0 +1,2257 @@
+GLEVNW01
+BOARD 0 0 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CXCXB1B2B1B2B1B2B1B2CXCXB1B2B1B2B1B2B1B2CXCXB1B2B1B2B1B2B1B2CXCXB1B2B1B2B1B2B1B2CXCX
+BOARD 0 1 64 0 J4J4CXB1B2B1B2B1B1B2B1B2B2B1B2B1B2CXJ4J4J4J4CXCX6L6Lk4iLiLk46L6LCXCX6L6Lk4iLiLk46L6LCXCX6L6Lk4iLiLk46L6LCXCX6L6Lk4iLiLk46L6LCXCX
+BOARD 0 2 64 0 J4J4CX6L6L6L6L6L6L6L6L6L6L6L6L6L6LCXJ4J4J4J4CXCX6L6Lk4ibibk46L6LCXCX6L6Lk4ibibk46L6LCXCX6L6Lk4ibibk46L6LCXCX6L6Lk4ibibk46L6LCXCX
+BOARD 0 3 64 0 J4J4CX6L6L6L6L6L6L6L6L6L6L6L6L6L6LCXJ4J4J4J4CXCXQIQHQIQIQHQHQIQHCXCXQIQHQIQIQHQHQIQHCXCXQIQHQIQIQHQHQIQHCXCXQIQHQIQIQHQHQIQHCXCX
+BOARD 0 4 64 0 J4J4CX6U6U6U6U6U6U6U6U6U6U6U6U6U6UCXJ4J4J4J4CXCXcScTcSk4k4cTcScTCXCXcScTcSk4k4cTcScTCXCXcScTcSk4k4cTcScTCXCXcScTcSk4k4cTcScTCXCX
+BOARD 0 5 64 0 J4J4CXcjcicjcicjcicjcicjciZ3Z3Z3ciCXJ4J4J4J4CXCXKpKqcik4k4cjKpKqCXCXKpKqcik4k4cjKpKqCXCXKpKqcik4k4cjKpKqCXCXKpKqcik4k4cjKpKqCXCX
+BOARD 0 6 64 0 J4J4CXcTcScTcScTcScTcScTcSaHaHaHcSCXJ4J4J4J4CXCXK5K6cScTcScTK5K6CXCXK5K6cScTcScTK5K6CXCXK5K6cScTcScTK5K6CXCXK5K6cScTcScTK5K6CXCX
+BOARD 0 7 64 0 J4J4CXcjcicjcicjcicjdldmcicjciciciCXJ4J4J4J4CXCXcicjciKpKqcjcicjCXCXcicjciKpKqcjcicjCXCXcicjciKpKqcjcicjCXCXcicjciKpKqcjcicjCXCX
+BOARD 0 8 64 0 J4J4CXcTcScTcScTcScTdDdEdEdEdEdEdGCXJ4J4J4J4CXCXcScTcSK5K6cTcScTCXCXcScTcSK5K6cTcScTCXCXcScTcSK5K6cTcScTCXCXcScTcSK5K6cTcScTCXCX
+BOARD 0 9 64 0 J4J4CXcjcicjcicjcicjdTdUdUdUdUdUdWCXJ4J4J4J4CXCXcicjcicjcicjcicjCXCXcicjcicjcicjcicjCXCXcicjcicjcicjcicjCXCXcicjcicjcicjcicjCXCX
+BOARD 0 10 64 0 J4J4CXcTcScTcScTcScTdkdkdkdkdkdkdkCQCQBzCQBzCQBzCRCRcScScTcSCRCRCQBzCRCRcTcScTcSCRCRCQBzCRCRcScTcTcSCRCRCQBzCRCRcTcScTcSCRCRCQBz
+BOARD 0 11 64 0 J4J4CXcjcicjcicjcicjcicj4V4X4X4WciCH6L6L6L6LCHCH6LbzCHcjciCH6L6LCHCH6L6LCHcjciCH6L6LCHCH6LbzCHcjciCH6L6LCHCH6L6LCHcjciCH6L6L6LCX
+BOARD 0 12 64 0 J4J4CXcTcScTcScTcScTcScT4k5H5H4EcSCX6L6L6L6LCXCX6LcCCXcTcSCX6L6LCXCX6L6LCXcTcSCX6L6LCXCX6LcCCXcTcSCX6L6LCXCX6L6LCXcTcSCX6L6L6LCX
+BOARD 0 13 64 0 J4J4CXcjcicjcicjcicjcicj4F4X4X4GciCX6U6U6U6UCXCX6UbzCXcjciCX6U6UCXCX6U6UCXcjciCX6U6UCXCX6UbzCXcjciCX6U6UCXCX6U6UCXcjciCX6U6U6UCX
+BOARD 0 14 64 0 J4J4CXcTcScTcScTcScTcScTcScTcScTcS4VbQbQbRcScTcScTcS51535352cTcScTcScT5153535352cTcScTcScTcS51535352cTcScTcScTcS51535352cTcScTCX
+BOARD 0 15 64 0 J4J4CXCXio6/6/6/6/6/6/ioCXcj4241414141414143cjcicjci4p5H5H45cjcicjcicj4p5H5H5H45cjcicjcicjci4p5H5H45cjcicjcicjci4p5H5H45cjcicjCX
+BOARD 0 16 64 0 J4J4CXCXi4i5i6i5i6i5i6i4CXcT4l4o4o4o4o4o4o4lcTcScTcS5l53535mcTcScTcScT5l5353535mcTcScTcScTcS5l53535mcTcScTcScTcS5l53535mcTcScTCX
+BOARD 0 17 64 0 J4J4CXCXjIjJjKjJjKjJjKjICXcj4l4o4o4o4o4o4o4lcjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjCX
+BOARD 0 18 64 0 J4J4CXB1B1B2B1B1B1B2CXCXCXcT4l4o4o4o4o4V4X4X4WcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTCX
+BOARD 0 19 64 0 J4J4CXl2l2l3l2l2l2l3CXCXcicj4m414141414k5H5H4EcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjCX
+BOARD 0 20 64 0 J4J4CXl2l2l3l2l2l2l3CXcicjcTcScTcScTcS4k5H5H4EcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTCX
+BOARD 0 21 64 0 J4J4CXMBMCMBMCMDQIQHCXcScTCRB1B2B1cicjB2B1B2CRCRCRB1B2B1cicjB2B1B2CRCRCRB1B2B1cicjB2B1B2CRCRCRB1B2B1cicjB2B1B2CRCRCRCRcjciCRCRCX
+BOARD 0 22 64 0 J4J4CXGOGOGOGOMTcjcicjcicjCX6L6LCXcScTCX6L6LCXJ4CX6L6LCXcScTCX6L6LCXJ4CX6L6LCXcScTCX6L6LCXJ4CX6L6LCXcScTCX6L6LCXJ4CX6Lcicj6LCXJ4
+BOARD 0 23 64 0 J4J4CXGOGOGOGObRcTcScTcScTCX6L6LCXcicjCX6L6LCXJ4CX6L6LCXcicjCX6L6LCXJ4CX6L6LCXcicjCX6L6LCXJ4CX6L6LCXcicjCX6L6LCXJ4CX6LcScT6LCXJ4
+BOARD 0 24 64 0 J4J4CXGOGOGOGObxbRcicjciCXCX6U6UCXcScTCX6U6UCXJ4CX6U6UCXcScTCX6U6UCXJ4CX6U6UCXcScTCX6U6UCXJ4CX6U6UCXcScTCX6U6UCXJ4CX6Ucicj6UCXJ4
+BOARD 0 25 64 0 J4J4CXLBLCLBLCLDbxcScTcSCXCXcjcicjcicjcicjciCXJ4CXcjcicjcicjcicjciCXJ4CXcjcicjcicjcjcicjCXJ4CXcjcicjcicjcicjciCXJ4CXcTcScTcSCXJ4
+BOARD 0 26 64 0 J4J4CXMgG8G8MjCXcjcicjciCXCXcTcScTcScTcScTcSCXJ4CXcTcScTcScTcScTcSCXJ4CXcTcScTcScTLELFLHCXJ4CXcTcScTcScTcScTcSCXJ4CX4V4X4X4WCXJ4
+BOARD 0 27 64 0 J4J4CXMwcTcSMzCXcTcScTcSCXCXLELFLHcicjcicjciCXJ4CXcjcicjcicjLELFLHCXJ4CXcjcicjcicjLULVLXCXJ4CXLELFLHcicjcicjciCXJ4CX4k5H5H4ECXJ4
+BOARD 0 28 64 0 J4J4CXcicjcicjcicjcicjciCXCXLULVLXcScTcScTcSCXJ4CXcTcScTcScTLULVLXCXJ4CXcTcScTcScTLULVLXCXJ4CXLULVLXcScTcScTcSCXJ4CX4k5H5H4ECXJ4
+BOARD 0 29 64 0 J4J4CXcScTcScTcScTcScTcSCXCXLULVLXcicjcicjciCXJ4CXcjcicjcicjLULVLXCXJ4CXcjcicjcicjLkLlLnCXJ4CXLULVLXcicjcicjciCXJ4CX4F4X4X4GCXJ4
+BOARD 0 30 64 0 J4J4CRCRCRCRCRCRCRCRCRCRCXCXLkLlLncScTcScTcSCXJ4CXcTcScTcScTLkLlLnCXJ4CXcTcScTcScTcScTcSCXJ4CXLkLlLncScTcScTcSCXJ4CXcjcicjciCXJ4
+BOARD 0 31 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4CRCRCRCRCRCRCRCRCRCRJ4CRCRCRCRCRCRCRCRCRCRJ4CRCRCRCRCRCRCRCRCRCRJ4CRCRCRCRCRCRCRCRCRCRJ4CXcTcScTcSCXJ4
+BOARD 0 32 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CX4V4X4X4WCXJ4
+BOARD 0 33 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CX4k5H5H4ECXJ4
+BOARD 0 34 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CXCRCRCRCRCRCRCRCRCRCRCRCX4F4X4X4GCXJ4
+BOARD 0 35 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CX6L6L6L6L6L6L6L6L6L6L6LbycTcScTcSCXJ4
+BOARD 0 36 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CX6L6L6L6L6L6L6L6L6L6L6LcBcjcicjciCXJ4
+BOARD 0 37 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CX5f5f5f5f5f5f5f5f5f5f5fbycTcScTcSCXJ4
+BOARD 0 38 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CXcjci4V4X4X4X4Wcicjcicjci4V4X4X4WCXJ4
+BOARD 0 39 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CX42414k5H5H5H4E414143cTcS4k5H5H4ECXJ4
+BOARD 0 40 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CX4l4o4k5H5H5H4E4o4o4l52CX4F4X4X4GCXJ4
+BOARD 0 41 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CX4l4o4F4X4X4X4G4o4o4l45CXcTcScTcSCXJ4
+BOARD 0 42 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CX4l4o4o4o4o4o4o4o4o4l45CXcjcicjciCXJ4
+BOARD 0 43 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CX4m41414141414141414n45CRCRCRCRCRCRJ4
+BOARD 0 44 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CXcj5l534k5H5H4E5353535mCXJ4J4J4J4J4J4
+BOARD 0 45 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CXcTcScT4F4X4X4GcScTcScTCXJ4J4J4J4J4J4
+BOARD 0 46 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CRCRCRCRCRCRCRCRCRCRCRCRCRJ4J4J4J4J4J4
+BOARD 0 47 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 48 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 49 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 50 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 51 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 52 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 53 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 54 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 55 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 56 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 57 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 58 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 59 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 60 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 61 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 62 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 63 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+LINK lerhynint_inn1.nw 4 17 7 1 12.5 31
+NPC suiriku-archtop.gif 16 21
+// NPC made by Irvine Eldewin
+if (created) {
+dontblock;
+drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC suiriku-archtop.gif 36 10
+// NPC made by Irvine Eldewin
+if (created) {
+dontblock;
+drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC suiriku-archtop.gif 46 10
+// NPC made by Irvine Eldewin
+if (created) {
+dontblock;
+drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC suiriku-archtop.gif 56 10
+// NPC made by Irvine Eldewin
+if (created) {
+dontblock;
+drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hookahpad1.gif 24 4
+// NPC made by Kahina Xavon, Citizen of (Lerhyn)
+if (created) {
+}
+if (playertouchsme) {
+}
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_hookahpad1.gif 34 4
+// NPC made by Kahina Xavon, Citizen of (Lerhyn)
+if (created) {
+}
+if (playertouchsme) {
+}
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_hookahpad1.gif 44 4
+// NPC made by Kahina Xavon, Citizen of (Lerhyn)
+if (created) {
+}
+if (playertouchsme) {
+}
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_hookahpad1.gif 54 4
+// NPC made by Kahina Xavon, Citizen of (Lerhyn)
+if (created) {
+}
+if (playertouchsme) {
+}
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC ambient_light.png 39 61
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.6;
+seteffectmode 2;
+setzoomeffect 1;
+}
+NPCEND
+NPC ambient_light.png 29 61
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.6;
+seteffectmode 2;
+setzoomeffect 1;
+}
+NPCEND
+NPC val_smoke-ambience.gif 40 5
+//#CLIENTSIDE
+dontblock;
+if (created) {
+  this.moving=int(random(0,2));
+}
+
+setcoloreffect 1,0,1,.15;
+setzoomeffect 4+(playerscount/2);
+timeout=.1;
+if (this.moving==0) x-=.1;
+else if (this.moving==1) x+=.1;
+drawoverplayer;
+
+if (x=<0) {
+  this.moving=1;
+}
+else if (x=>60) {
+  this.moving=0;
+}
+NPCEND
+NPC val_smoke-ambience.gif 57 9
+//#CLIENTSIDE
+dontblock;
+if (created) {
+  this.moving=int(random(0,2));
+}
+
+setcoloreffect 1,0,1,.15;
+setzoomeffect 4+(playerscount/2);
+timeout=.1;
+if (this.moving==0) x-=.1;
+else if (this.moving==1) x+=.1;
+drawoverplayer;
+
+if (x=<0) {
+  this.moving=1;
+}
+else if (x=>60) {
+  this.moving=0;
+}
+NPCEND
+NPC val-jdrowecabinet.png 60 11
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-jdrowedrawer.png 44 13
+// NPC made by ooc
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 42 12
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 42 13
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 40 12
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 60 15
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 61 16
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 61 17
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC brownpot.gif 24 14
+NPCEND
+NPC brownpot.gif 50 14
+NPCEND
+NPC hellsinging-royalchest.gif 52 13
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC lampanimation.gif 50 11
+//#CLIENTSIDE
+if (created) {
+dontblock; drawoverplayer;
+setimgpart lampanimation.gif,0,0,20,36;
+}
+NPCEND
+NPC suirikurack.gif 36 2
+// NPC made by Lance Vanekria
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC suirikurack.gif 49 2
+// NPC made by Lance Vanekria
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_candle.gif 38 1
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC val_candle.gif 28 1
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC val_candle.gif 48 1
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 25 0
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 27 1
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 26 3
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 36 1
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 37 2
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 36 3
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 46 1
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 48 2
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 46 3
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 49 11
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 48 10
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 50 10
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 44 5
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 49 5
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC teahouseroof1.gif 34 1
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-1,x+9|&&playery in |y,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 44 1
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-1,x+9|&&playery in |y,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 54 1
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-1,x+9|&&playery in |y,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC suiriku-archtop.gif 4 17
+// NPC made by Irvine Eldewin
+if (created) {
+dontblock;
+drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hookahpadpillow1.gif 13 5
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,4,{
+    0,0,
+    4,4,
+    4,4,
+      };
+}
+NPCEND
+NPC val_candle.gif 10 6
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 8 4
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 9 5
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 10 7
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC suiriku-archtop.gif 8 17
+// NPC made by Irvine Eldewin
+if (created) {
+dontblock;
+drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC suiriku-archtop.gif 4 16
+// NPC made by Irvine Eldewin
+if (created) {
+dontblock;
+drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 3 14
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 6 14
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 9 14
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.1;
+  changeimgzoom 1,random(1,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC suiriku-coinjadec.gif 10 7
+// NPC made by Zazen, OOC in (Suiriku)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC stefanbook.gif 14 8
+if (playerchats) {
+
+  if (strequals(#a,Clash)) {
+
+    if (startswith(/room,#c)) {
+      play sign.wav;
+      tokenize #c;
+      setstring this.data,#t(1);
+      setstring this.account,#t(2);
+      replacestring serverr.tarumeishu-inn,strtofloat(#s(this.data)),#s(this.account);
+      replacestring serverr.tarumeishu-inn,0,#a;
+
+    };
+
+    if (startswith(/set,#c)) {
+    tokenize #c;
+    setstring serverr.tarumeishu-inn,0,1,2,3,4,5,6,7,8;
+    }
+
+    if (startswith(/manager,#c)) {
+    tokenize #c;
+    setstring serverr.tarumeishu-inn-manager,#a;
+    replacestring serverr.tarumeishu-inn,0,#a;
+    }
+
+    if (startswith(/read,#c)) {
+    message #s(serverr.tarumeishu-inn);
+    sleep 2;
+    message ;
+    timeout = 0.5;
+    }
+
+
+
+  }
+
+}
+NPCEND
+NPC ghost-shelf.gif 2 1
+//#CLIENTSIDE
+// NPC made by Jack Fowler
+if (created) {dontblock; drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ghost-shelf.gif 7 1
+//#CLIENTSIDE
+// NPC made by Jack Fowler
+if (created) {dontblock; drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ghost-shelf.gif 12 1
+//#CLIENTSIDE
+// NPC made by Jack Fowler
+if (created) {dontblock; drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_tatteredcloth.gif 29 11
+// NPC made by Christopher Marshall
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_tatteredcloth.gif 39 11
+// NPC made by Christopher Marshall
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_tatteredcloth.gif 49 11
+// NPC made by Christopher Marshall
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_tatteredcloth.gif 59 11
+// NPC made by Christopher Marshall
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 2 1
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 3 1
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 4 1
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 5 1
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 8 1
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 9 1
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 12 1
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 14 1
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 16 1
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 15 1
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 13 2
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 11 2
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 10 2
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 8 2
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 5 2
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragonsblood.gif 3 2
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {x=x-.5; y=y-.3; drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dragonsblood-pint.png 8 1
+// NPC made by unknown (GP Chief)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dragonsblood-pint.png 11 1
+// NPC made by unknown (GP Chief)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dragonsblood-pint.png 14 1
+// NPC made by unknown (GP Chief)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-wine1.gif 16 1
+//#CLIENTSIDE
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_valcastle-torch.png 42 10
+//#CLIENTSIDE
+if (created)
+{showimg 0,fire.gif,x+.1,y-1.2;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1.2,.4,.1,.8;
+  changeimgcolors 1,2,.4,.1,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_rp-barrel.png 3 4
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 5 3
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 3 5
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 3 7
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 3 9
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC bag1.gif 4 5
+// NPC made by Gaz ooc
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 53 13
+
+
+//#CLIENTSIDE
+if (created) {
+  // Initialize the attributes
+ showcharacter;
+  setcharprop #3,johnnyspond-aralhead.gif;
+  setcharprop #C0,brown;
+  setcharprop #C1,black;
+  setcharprop #C2,darkred;
+  setcharprop #C3,lightgray;
+  setcharprop #C4,brown;
+  setcharprop #C5,brown;
+  setcharprop #C6,brown;
+  setcharprop #C7,brown;
+  setcharprop #2,no-shield.png;
+  setcharprop #P1,nohat.png;
+  setcharprop #8,val-naisrep-body100.gif;
+  setcharani idle,;
+  setcharprop #P(8),cccc.png;
+  dir = 2;
+  timeout=0.05;
+}
+
+
+if (playertouchsme) {message Don't be causing any trouble!; sleep 3; message ;;
+}
+NPCEND
+NPC - 39 13
+
+
+//#CLIENTSIDE
+if (created) {
+  // Initialize the attributes
+ showcharacter;
+  setcharprop #3,johnnyspond-aralhead.gif;
+  setcharprop #C0,brown;
+  setcharprop #C1,black;
+  setcharprop #C2,darkred;
+  setcharprop #C3,lightgray;
+  setcharprop #C4,brown;
+  setcharprop #C5,brown;
+  setcharprop #C6,brown;
+  setcharprop #C7,brown;
+  setcharprop #2,no-shield.png;
+  setcharprop #P1,nohat.png;
+  setcharprop #8,val-naisrep-body100.gif;
+  setcharani idle,;
+  setcharprop #P(8),cccc.png;
+  dir = 2;
+  timeout=0.05;
+}
+
+
+if (playertouchsme) {message Don't be causing any trouble!; sleep 3; message ;;
+}
+NPCEND
+NPC val-motoliquortable.gif 18 12
+// NPC made by Avaran, of (The Wayward)
+if (created) {dontblock;drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC arwind-shelves.gif 30 11
+drawunderplayer;
+NPCEND
+NPC - 0 10
+//#CLIENTSIDE
+function onCreated() {
+   level.effect = {0,0,0,.60};
+
+}
+NPCEND
+NPC val_valcastle-torch.png 20 22
+//#CLIENTSIDE
+if (created)
+{showimg 0,fire.gif,x+.1,y-1.2;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1.2,.4,.1,.8;
+  changeimgcolors 1,2,.4,.1,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC teahouseroof1.gif 14 22
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-1,x+9|&&playery in |y,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC suiriku-archtop.gif 26 10
+// NPC made by Irvine Eldewin
+if (created) {
+dontblock;
+drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC suiriku-archtop.gif 38 21
+// NPC made by Irvine Eldewin
+if (created) {
+dontblock;
+drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC suiriku-archtop.gif 49 21
+// NPC made by Irvine Eldewin
+if (created) {
+dontblock;
+drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-torch.png 31 22
+//#CLIENTSIDE
+if (created)
+{showimg 0,fire.gif,x+.1,y-1.2;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1.2,.4,.1,.8;
+  changeimgcolors 1,2,.4,.1,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val-motoliquortable.gif 41 23
+// NPC made by Avaran, of (The Wayward)
+if (created) {dontblock;drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 47 23
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 14 23
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragaeris-airshipbench1.png 19 26
+// NPC made by Shylock
+//#CLIENTSIDE
+if (created){
+  drawunderplayer;
+  setshape2 4,5,{
+    0,0,22,22,
+    0,3,3,22,
+    0,3,3,22,
+    0,3,3,22,
+      0,22,22,22
+        };
+}
+NPCEND
+NPC val_dragaeris-airshipbench1.png 52 24
+// NPC made by Shylock
+//#CLIENTSIDE
+if (created){
+  drawunderplayer;
+  setshape2 4,5,{
+    0,0,22,22,
+    0,3,3,22,
+    0,3,3,22,
+    0,3,3,22,
+      0,22,22,22
+        };
+}
+NPCEND
+NPC gal-redchairright-remake.gif 25 28
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC gal-redchairright-remake.gif 36 26
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC lampanimation.gif 53 22
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart lampanimation.gif,0,0,19,35;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.4,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC ambient_light.png 39 28
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.8;
+seteffectmode 2;
+setzoomeffect 2;
+}
+NPCEND
+NPC ambient_light.png 32 28
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.8;
+seteffectmode 2;
+setzoomeffect 2;
+}
+NPCEND
+NPC ambient_light.png 27 27
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.8;
+seteffectmode 2;
+setzoomeffect 2;
+}
+NPCEND
+NPC ambient_light.png 10 26
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.8;
+seteffectmode 2;
+setzoomeffect 2;
+}
+NPCEND
+NPC ambient_light.png 44 27
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.8;
+seteffectmode 2;
+setzoomeffect 2;
+}
+NPCEND
+NPC ambient_light.png 57 61
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.8;
+seteffectmode 2;
+setzoomeffect 2;
+}
+NPCEND
+NPC ambient_light.png 50 62
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.8;
+seteffectmode 2;
+setzoomeffect 2;
+}
+NPCEND
+NPC ambient_light.png 54 3
+// NPC made by Stefan Knorr
+if (created) {
+  setimg ambient_light.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.8;
+seteffectmode 2;
+setzoomeffect 2;
+}
+NPCEND
+NPC teahouseroof1.gif 25 22
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-1,x+9|&&playery in |y,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 36 22
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-1,x+9|&&playery in |y,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 47 22
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-1,x+9|&&playery in |y,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC suiriku-archtop.gif 8 16
+// NPC made by Irvine Eldewin
+if (created) {
+dontblock;
+drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC suiriku-archtop.gif 27 21
+// NPC made by Irvine Eldewin
+if (created) {
+dontblock;
+drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC suiriku-archtop.gif 58 21
+// NPC made by Irvine Eldewin
+if (created) {
+dontblock;
+drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-sushibar-table.gif 49 40
+//#CLIENTSIDE
+if(created){
+
+drawunderplayer;
+
+  setshape2 4,4,{
+    22,22,22,22,
+    4,4,4,4,
+    22,22,22,22,
+    0,0,0,0
+    };
+}
+NPCEND
+NPC teahouseroof1.gif 56 22
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-1,x+9|&&playery in |y-2,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 58 31
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-1,x+9|&&playery in |y-11,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 58 40
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-1,x+9|&&playery in |y-20,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 50 34
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-5,x+9|&&playery in |y,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 56 25
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-1,x+9|&&playery in |y-5,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 50 43
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-5,x+9|&&playery in |y-9,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC val_rp-barrel.png 55 43
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 53 43
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC teahouseroof1.gif 42 43
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-5,x+18|&&playery in |y-9,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 42 34
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-5,x+18|&&playery in |y,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC asca-door.gif 25 11
+// Scripted by Chris (RP Admin)
+// (the GS2 code that stood here was moved to the client part on 17 Nov 2026)
+//#CLIENTSIDE
+function onCreated() {
+  // from the server part (GS2, which the server does not run)
+this.gate1 = 1;
+
+  setshape2(2, 3, {
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+    });
+}
+function onPlayerChats() {
+if (player.account == "hellsinging" || player.account == "BurningStarlight" || player.account == "PloKoonDS") {
+
+if (player.chat == "/opensmoke1" && this.gate1 == 0) {
+move(0,0,0,0);
+sleep(2);
+move(-2,0,-3,0);
+sleep(1);
+this.gate1 = 1;
+}
+
+if (player.chat == "/closesmoke1" && this.gate1 == 1) {
+move(0,0,0,0);
+sleep(2);
+move(2,0,3,0);
+sleep(1);
+this.gate1 = 0;
+}
+}
+}
+NPCEND
+NPC asca-door.gif 35 11
+// Scripted by Chris (RP Admin)
+// (the GS2 code that stood here was moved to the client part on 17 Nov 2026)
+//#CLIENTSIDE
+function onCreated() {
+  // from the server part (GS2, which the server does not run)
+this.gate1 = 1;
+
+  setshape2(2, 3, {
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+    });
+}
+function onPlayerChats() {
+if (player.account == "hellsinging" || player.account == "BurningStarlight" || player.account == "PloKoonDS" || player.account == "EviloFisho") {
+
+if (player.chat == "/opensmoke2" && this.gate1 == 0) {
+move(0,0,0,0);
+sleep(2);
+move(-2,0,-3,0);
+sleep(1);
+this.gate1 = 1;
+}
+
+if (player.chat == "/closesmoke2" && this.gate1 == 1) {
+move(0,0,0,0);
+sleep(2);
+move(2,0,3,0);
+sleep(1);
+this.gate1 = 0;
+}
+}
+}
+NPCEND
+NPC asca-door.gif 45 11
+// Scripted by Chris (RP Admin)
+// (the GS2 code that stood here was moved to the client part on 17 Nov 2026)
+//#CLIENTSIDE
+function onCreated() {
+  // from the server part (GS2, which the server does not run)
+this.gate1 = 1;
+
+  setshape2(2, 3, {
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+    });
+}
+function onPlayerChats() {
+if (player.account == "hellsinging" || player.account == "BurningStarlight" || player.account == "PloKoonDS") {
+
+if (player.chat == "/opensmoke3" && this.gate1 == 0) {
+move(0,0,0,0);
+sleep(2);
+move(-2,0,-3,0);
+sleep(1);
+this.gate1 = 1;
+}
+
+if (player.chat == "/closesmoke3" && this.gate1 == 1) {
+move(0,0,0,0);
+sleep(2);
+move(2,0,3,0);
+sleep(1);
+this.gate1 = 0;
+}
+}
+}
+NPCEND
+NPC asca-door.gif 55 11
+// Scripted by Chris (RP Admin)
+// (the GS2 code that stood here was moved to the client part on 17 Nov 2026)
+//#CLIENTSIDE
+function onCreated() {
+  // from the server part (GS2, which the server does not run)
+this.gate1 = 1;
+
+  setshape2(2, 3, {
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+    });
+}
+function onPlayerChats() {
+if (player.account == "hellsinging" || player.account == "BurningStarlight" || player.account == "PloKoonDS") {
+
+if (player.chat == "/opensmoke4" && this.gate1 == 0) {
+move(0,0,0,0);
+sleep(2);
+move(-2,0,-3,0);
+sleep(1);
+this.gate1 = 1;
+}
+
+if (player.chat == "/closesmoke4" && this.gate1 == 1) {
+move(0,0,0,0);
+sleep(2);
+move(2,0,3,0);
+sleep(1);
+this.gate1 = 0;
+}
+}
+}
+NPCEND
+NPC asca-door.gif 15 22
+// Scripted by Chris (RP Admin)
+// (the GS2 code that stood here was moved to the client part on 17 Nov 2026)
+//#CLIENTSIDE
+function onCreated() {
+  // from the server part (GS2, which the server does not run)
+this.gate1 = 1;
+
+  setshape2(2, 3, {
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+    });
+}
+function onPlayerChats() {
+if (player.account == "hellsinging" || player.account == "BurningStarlight" || player.account == "PloKoonDS") {
+
+if (player.chat == "/openbed1" && this.gate1 == 0) {
+move(0,0,0,0);
+sleep(2);
+move(-2,0,-3,0);
+sleep(1);
+this.gate1 = 1;
+}
+
+if (player.chat == "/closebed1" && this.gate1 == 1) {
+move(0,0,0,0);
+sleep(2);
+move(2,0,3,0);
+sleep(1);
+this.gate1 = 0;
+}
+}
+}
+NPCEND
+NPC asca-door.gif 26 22
+// Scripted by Chris (RP Admin)
+// (the GS2 code that stood here was moved to the client part on 17 Nov 2026)
+//#CLIENTSIDE
+function onCreated() {
+  // from the server part (GS2, which the server does not run)
+this.gate1 = 1;
+
+  setshape2(2, 3, {
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+    });
+}
+function onPlayerChats() {
+if (player.account == "hellsinging" || player.account == "BurningStarlight" || player.account == "PloKoonDS") {
+
+if (player.chat == "/openbed2" && this.gate1 == 0) {
+move(0,0,0,0);
+sleep(2);
+move(-2,0,-3,0);
+sleep(1);
+this.gate1 = 1;
+}
+
+if (player.chat == "/closebed2" && this.gate1 == 1) {
+move(0,0,0,0);
+sleep(2);
+move(2,0,3,0);
+sleep(1);
+this.gate1 = 0;
+}
+}
+}
+NPCEND
+NPC asca-door.gif 37 22
+// Scripted by Chris (RP Admin)
+// (the GS2 code that stood here was moved to the client part on 17 Nov 2026)
+//#CLIENTSIDE
+function onCreated() {
+  // from the server part (GS2, which the server does not run)
+this.gate1 = 1;
+
+  setshape2(2, 3, {
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+    });
+}
+function onPlayerChats() {
+if (player.account == "hellsinging" || player.account == "BurningStarlight" || player.account == "PloKoonDS") {
+
+if (player.chat == "/openbed3" && this.gate1 == 0) {
+move(0,0,0,0);
+sleep(2);
+move(-2,0,-3,0);
+sleep(1);
+this.gate1 = 1;
+}
+
+if (player.chat == "/closebed3" && this.gate1 == 1) {
+move(0,0,0,0);
+sleep(2);
+move(2,0,3,0);
+sleep(1);
+this.gate1 = 0;
+}
+}
+}
+NPCEND
+NPC asca-door.gif 59 22
+// Scripted by Chris (RP Admin)
+// (the GS2 code that stood here was moved to the client part on 17 Nov 2026)
+//#CLIENTSIDE
+function onCreated() {
+  // from the server part (GS2, which the server does not run)
+this.gate1 = 0;
+
+  setshape2(2, 3, {
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+    });
+}
+function onPlayerChats() {
+if (player.account == "hellsinging" || player.account == "BurningStarlight" || player.account == "PloKoonDS" || player.account == "EviloFisho") {
+
+if (player.chat == "/openhidden" && this.gate1 == 0) {
+move(0,0,0,0);
+sleep(2);
+move(-2,0,-3,0);
+sleep(1);
+this.gate1 = 1;
+}
+
+if (player.chat == "/closehidden" && this.gate1 == 1) {
+move(0,0,0,0);
+sleep(2);
+move(2,0,3,0);
+sleep(1);
+this.gate1 = 0;
+}
+}
+}
+NPCEND
+NPC asca-door.gif 48 22
+// Scripted by Chris (RP Admin)
+// (the GS2 code that stood here was moved to the client part on 17 Nov 2026)
+//#CLIENTSIDE
+function onCreated() {
+  // from the server part (GS2, which the server does not run)
+this.gate1 = 1;
+
+  setshape2(2, 3, {
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+    });
+}
+function onPlayerChats() {
+if (player.account == "hellsinging" || player.account == "BurningStarlight" || player.account == "PloKoonDS") {
+
+if (player.chat == "/openbed4" && this.gate1 == 0) {
+move(0,0,0,0);
+sleep(2);
+move(-2,0,-3,0);
+sleep(1);
+this.gate1 = 1;
+}
+
+if (player.chat == "/closebed4" && this.gate1 == 1) {
+move(0,0,0,0);
+sleep(2);
+move(2,0,3,0);
+sleep(1);
+this.gate1 = 0;
+}
+}
+}
+NPCEND
+NPC asca-door.gif 11 19
+// Scripted by Chris (RP Admin)
+// (the GS2 code that stood here was moved to the client part on 17 Nov 2026)
+//#CLIENTSIDE
+function onCreated() {
+  // from the server part (GS2, which the server does not run)
+this.gate1 = 0;
+
+  setshape2(2, 3, {
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  22,22,22,
+    });
+}
+function onPlayerChats() {
+if (player.account == "hellsinging" || player.account == "BurningStarlight" || player.account == "PloKoonDS" || player.account == "EviloFisho") {
+
+if (player.chat == "/openbath" && this.gate1 == 0) {
+move(0,0,0,0);
+sleep(2);
+move(-2,0,2,0);
+sleep(1);
+this.gate1 = 1;
+}
+
+if (player.chat == "/closebath" && this.gate1 == 1) {
+move(0,0,0,0);
+sleep(2);
+move(2,0,2,0);
+sleep(1);
+this.gate1 = 0;
+}
+}
+}
+NPCEND
+NPC firepit.mng 4 26
+//#CLIENTSIDE
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC teahouseroof1.gif 5 19
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-4,x+7|&&playery in |y-3,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 61 18
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-1,x+13|&&playery in |y-3,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 2 23
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-7,x+8|&&playery in |y-7,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 61 25
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-5,x+13|&&playery in |y-5,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 24 1
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-1,x+9|&&playery in |y,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 0 20
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-4,x+7|&&playery in |y-3,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 2 19
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-4,x+7|&&playery in |y-3,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC teahouseroof1.gif 5 25
+// NPC made by Saeyn (LAT)
+//#CLIENTSIDE
+if (created) {
+  setimg Teahouseroof1.gif;
+  drawoverplayer;
+  dontblock;
+  timeout = 0.05;
+
+}
+if(timeout){
+  if(playerx in |x-7,x+8|&&playery in |y-7,y+10|){
+    drawaslight;
+    setcoloreffect 1,1,1,0.2;
+  } else {
+    blockagain;
+    setcoloreffect 1,1,1,1;
+    dontblock;
+  }
+  timeout = 0.05;
+}
+NPCEND

@@ -1,0 +1,24 @@
+//#CLIENTSIDE
+function onCreated() {
+}
+
+function onPlayerChats() {
+  if (("#g" == "Bridgeton")) {
+    if ((player.chat == "Unlock Door1")) {
+      hide();
+      sleep(3);
+      show();
+    }
+  }
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "Bridgeton")) {
+    hide();
+    sleep(1);
+    show();
+  }
+  if (!("#g" == "Bridgeton")) {
+    say2("Bridgeton Officials Only!");
+  }
+}

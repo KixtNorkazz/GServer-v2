@@ -1,0 +1,22 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "suirikuhalberdshield2.gif";
+  this.head = "val-bridgeton-executioner.gif";
+  this.body = "arwind-racoonbody2.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.nick = "Executioner Garrick";
+  setcharani("dead2", NULL);
+  this.dir = 2;
+  this.ap = 100;
+  this.x = this.x+.5;
+}
+
+function onPlayerTouchsMe() {
+  say2("And where're -you- going?");
+}

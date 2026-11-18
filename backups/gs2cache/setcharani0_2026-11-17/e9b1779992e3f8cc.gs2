@@ -1,0 +1,32 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  showtext(1, this.x+1.78, "y+.55", "Comic Sans MS", "bc", "Prelate");
+  changeimgzoom(1, .75);
+  changeimgvis(2, 2);
+}
+
+function onPlayerChats() {
+  gs1_always();
+  if ((player.chat == "Prelate")) {
+    player.shield = "valikorlia-shield1.gif";
+    player.body = "chris1polly-aeglosbody.gif";
+    player.attr[1] = "hat882b.png";
+  }
+}
+
+function gs1_always() {
+  showcharacter();
+  this.shield = "valikorlia-shield1.gif";
+  this.attr[1] = "hat882b.png";
+  this.head = "head1172.png";
+  this.body = "chris1polly-aeglosbody.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 2;
+}

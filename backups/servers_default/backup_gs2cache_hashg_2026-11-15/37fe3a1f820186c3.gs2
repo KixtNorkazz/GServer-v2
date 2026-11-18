@@ -1,0 +1,12 @@
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("valcascourtgate.gif", 0, 0, 32, 32);
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "Bridgeton")) {
+    hide();
+    sleep(1);
+    show();
+  }
+}

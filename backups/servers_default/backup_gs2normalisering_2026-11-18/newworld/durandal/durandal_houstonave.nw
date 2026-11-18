@@ -1,0 +1,1160 @@
+GLEVNW01
+BOARD 0 0 64 0 q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1VGTTTUTURxQSSAS00bq1q1q1q1q1q1q1q1q1q1q1q1sbscscscscscscscscscscscscscscscscsc
+BOARD 0 1 64 0 0p0Kq1q1q1q1q1q1q10J0p0p0p0Kq1q1q1q1q1q10J0p0p0p0KVGcPTUTTRzRxQQRT0bq1q1q1q1q10s0s0sq1q1q1q1sbscscscscscscscscscscscscscscscscsc
+BOARD 0 2 64 0 060aq1q1q1q1q1q1q10Z0606060aq1q1q1q1q1q10Z0606060aVGcbTkTTTjRQQQQy0r0s0s0s0s0ts4s8s80bq1q1q1srssssssssssssssssssssssssssssssssss
+BOARD 0 3 64 0 sK+hq1q1q1q1q1q1q1+hsIsJsK+hq1q1q1q1q1q1+hsIsJsK+hVGcbTURBShRiQCQCs3s4s7s8s5s6s4s8s80bq1q1q1s3s4s8s8s8s8s8s8s8s8s8s8s8s8s8s8s8s8
+BOARD 0 4 64 0 sq+xq1q1q1q1q1q1q1+xsospsq+xq1q1q1q1q1q1+xsospsq+xVGcbTURgSTVWVWVWs3s6s8s8s3s6s4s8s80bq1q1q1s3s6s8s8s8s8+Ts8s8s8s8s8s8s8s8s8s8s8
+BOARD 0 5 64 0 qlqlq1q1q1q1q1q1q1qlqlqlqlqlq1q1q1q1q1q1qlqlqlqlqlVGcbTjTjasatTjTks3s4s8s8s5s6s4s8s80bq1q1q1s3s4s8s8s8s8s8s8s8s8s8s8s8s8s8s8s8s8
+BOARD 0 6 64 0 q1q1q1q1VlVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVWVYcbRCRDa8acatbVs3s6s8s8s3s6s4s8s80bq1q1q1s3s6s8s8s8s8s8s8s8s8s8s8s8s8s8s8s8s8
+BOARD 0 7 64 0 q1q1q1q1VG+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+SfqVWVWRCRDa8a9TUs3s4s8s8s5s6s4s8s80bq1q1q1s3s4s8s8s8s8s8s8s8s8s8s8s8s8s8s8s8s8
+BOARD 0 8 64 0 q1q1q1q1VG+k+z+z+z+i+j+j+k+z+z+z+i+j+j+k+z+z+z+i+kfqcbRiRSRTTTTTTTs3s6s8s7s3s6s4s8s80bq1q1q1s3s6s8s8s8s8s8s8s8s8s8s8s8s8s8s8s8s8
+BOARD 0 9 64 0 q1q1q1q1VG+0+z+z+z+y+z+z+0+z+z+z+y+z+z+0+z+z+z+y+0fqcbRgRiRjTjTjTjs3s4s8s8s5s6s4s8s80bq1q1q1s3s4s8s8s8s8s8s8s8s8s8s8s8s8s8s8s8s8
+BOARD 0 10 64 0 q1q1q1q1VG+0+z+z+z+y+z+z+0+z+z+z+y+z+z+0+z+z+z+y+0fqcbTjRyRzTjTjTjs3s6s8s8s3s6s4s8s80bq1q1q1s3s6s7s7s7s7s7s7s7s7s7s7s7s7s7s7s7s7
+BOARD 0 11 64 0 q1q1q1q1VG/E+z+z+z/C/D/D/E+z+z+z/C/D/D/E+z+z+z/C/EfqcbTkTTTTTTTTTTs3s4s8s8s5s6s4s8s80bq1q1q1qlqlqlqlqlqlqlqlqlqlqlqlqlqlqlqlqlql
+BOARD 0 12 64 0 q1q1q1q1VG+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+SfqcbTUTUTUTUTUTUs3s6s8s8s3s6s4s8s80bq1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1
+BOARD 0 13 64 0 q1q1q1q1VG+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+SfqcbTUTUTUTUTUTUs3s4s8s8s5s6+j+j+j0bq1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1q1
+BOARD 0 14 64 0 q1q1q1q1VG+j+j+j+j+j+j+j+j+j+j+j+j+j+j+j+j+j+j+j+kfqcbTkTTTTTTTTTT+i+j+j+j+j+k/D/D/D0bq1q1q1q1q1q1q1q10s0s0s0s0s0s0s0s0sq1q1q1q1
+BOARD 0 15 64 0 q1q1q1q1VG+z+z+z+z+z+z+z+z+z+z+z+z+z+z+z+z+z+z+z+0fqcbTUTjTjTjTjTj/C/D/D/D/D/ETkTkTk0r0s0s0s0s0s0s0s0ts4s8s8s8s8s8s8s8s50r0s0s0s
+BOARD 0 16 64 0 VWVWVWVWVY+z+z+z+z+z+z+z+z+z+z+z+z+z+z+z+z+z+z+z+0fqcbQQQQQSQTQQQRQSQTQQQRQSQTSiRCS0s3s4s8s8s8s7s8s5s6s4s8s8s8s8s8s7s8s5s3s4s8s8
+BOARD 0 17 64 0 +S+S+S+Sfq/D/D/D/D/D/D/D/D/D/D/D/D/D/D/D/D/D/D/D/EfqcbQgQgQiQjQgQhQiQjQgQhQiQjQgRSRTs3s6s8s8s8s8s8s3s6s4s8s8s8s8s8s8s8s5s3s6s8s8
+BOARD 0 18 64 0 +i+j+k+Sfq+T+T+T+T+T+T+T+T+T+T+T+T+T+T+T+T+T+T+T+TfqcbQjQgQgQiQjQgQhQiQjQgQhQiQjQgQhs3s4s8s8s8s8s8s5s6s4s8s8s8s8s8s8s8s5s3s4s8s8
+BOARD 0 19 64 0 +y+z+0+Sfq+T+T+T+T+T+T+T+T+T+T+T+T+T+T+T+T+T+T+T+Tf6cbRgQwQwQyQzQwQxQyQzQwQxQyQzQwQxs3s6s8s8s8s8s8s3s6s4s8s8s8s8s8s8s8s5s3s6s8s8
+BOARD 0 20 64 0 +y+z+0+SfqTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTbTccaRQQAQAQCQDQAQBQCQDQAQBQCQDQAQBs3s4s7s8s8s8s8s5s6s4s8s8s8s8s8s8s8s5s3s4s8s8
+BOARD 0 21 64 0 /C/D/E+SfqTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdcaQTQQQQQSQTQQQRQSQTQQQRQSQTQQQRs3s6s8s8s8s8s7s3s6s4s8s8s7s7s8s8s8s5s3s6s8s8
+BOARD 0 22 64 0 +S+S+S+Sfq6G6I6I6JTcTcTdTbTcTcTdTbTcTcTd6GTcTc6JTbTccaQjQgQgQiQjQgQhQiQjQgQhQiQjQgQhs3s4s8s8s8s8s8s5s6s4s8s8s8s8s8s8s8s5s3s4s8s8
+BOARD 0 23 64 0 +S+S+S+Sfq6W6Y6Y6ZTdTbTcTcTdTbTcTcTdTbTc6W6Y6Y6ZTcTdcaSTQAQCQDQAQBQhQDQyGoGpQxQzQwQxs3s6s8s7s8s8s8s3s6s4s8s8s8s8s8s8s8s5s3s6s8s8
+BOARD 0 24 64 0 +i+j+k+Sfq62646465TcTcTdTbTcTcTdTbTcTcTd6W6Y6Y6ZTbTccaTURgSCSCRjRgRhQwQwG4G5QzQDQAQBs3s4s8s8s8s8s8s5s6s4s8s8s8s8s8s8+Ts5s3s4s8s8
+BOARD 0 25 64 0 +y+z+0+Sfq8GTcTc8JTdTbTcTcTdTbTcTcTdTbTc62646465TcTdcaS1TjRQSiRTRQQDQASOQBQCQDQTQQQDs3s6s8s8s8s8s8s3s6s4s8s8s8s8s8s8s8s5s3s6s8s8
+BOARD 0 26 64 0 +y+z+0+SfqTcTcTdTbTcTcTdTbTcTcTdTbTcTcTd82TcTc85TbTccaTkTURgSCRjRgQBQzQzQDQAQBQDSCRjs3s4s8s8s8s8s8s5s6+jq0qlqlqlqlqlq2+js3s4s8s8
+BOARD 0 27 64 0 /C/D/E+SfqTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdcaTjasatS0RzRwRxSDQDQDSCSCRjTUTU+i+j+j+j+j+j+j+j+k/Dq0q1q1q1q1q1q2/D+i+j+j+j
+BOARD 0 28 64 0 +S+S+S+SfqTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTbTcTcTdTbTccaTUa8a9TUTjTjTkTjRxRjTURzTTTUTU/C/D/D/D/D/D/D/D/EcZrErFrFrFrFrFrGcZ/C/D/D/D
+BOARD 0 29 64 0 +S+S+S+Sf6cKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcdcZcZcZcZcZcZcZcZcZrErFrFrFrFrFrGcZcZcWcIcJ
+BOARD 0 30 64 0 cHcIcJcZcZcZcZcZcZcZcZcZcZcZcGcHcZcZcZcZcZcZcHcIcJcZcZcZcZcZcWcXcYcZcZcZcGcHcZcZcZcZcZcZcHcIcJcZcZcZcZcZrErFrFrFrFrFrGcHcZcZcZcZ
+BOARD 0 31 64 0 cXcYcZcZcZcZcYcZcZcZcZcIcJcZcWcXcGcZcZcZcHcZcXcYcZcZcZcGcYcZcZcZcZcIcJcZcWcXcGcZcZcZcZcZcXcYcZcZcZcZcYcZcZcZcZcIcJcZcWcHcGcZcZcZ
+BOARD 0 32 64 0 cZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcWcZcGcHcWcZcZcZcZcZcZcWcZcZcZcZcZcZcZcZcZcZcWcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcGcHcWcWcZcZcZ
+BOARD 0 33 64 0 cZcZcZcZcZcZcZcZcZcZcZcHcZcZcZcZcZcZcWcXcYcZcZcZcZcYcZcZcZcZcZcZcZcHcZcZcZcZcZcZcGcZcZcZcZcZcZcZcZcZcZcZcZcZcZcHcZcWcXcYcZcZcGcZ
+BOARD 0 34 64 0 cZcZcZcZcZcZcZcZcZcGcHcWcZcZcZcZcZcZcWcZcZcZcZcZcZcZcZcZcZcZcZcGcHcWcZcZcZcYcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcGcHcWcZcZcZcZcZcZcWcZ
+BOARD 0 35 64 0 cZcYcZcZcZcZcZcZcZcWcXcYcZcZcZcZcYcZcZcZcZcZcZcZcZcZcZcZcZcZcZcWcXcYcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcWcXcYcZcZcZcZcYcZcZcZ
+BOARD 0 36 64 0 cGcZcZcMcLcLcNcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcGcZcZcGcHcMcLcLcNcHcIcJcZcZcZcHcZcZcZcZcZcZcGcZcZcGcHcIcJcMcLcLcNcZcZcZcZcZcZcZcZcZ
+BOARD 0 37 64 0 cLcLcLcfcLcLcecLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcfcLcLcecLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcfcLcLcecLcLcLcLcLcLcLcLcL
+BOARD 0 38 64 0 cvcvcvcrcvcvcqcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcrcvcvcqcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcrcvcvcqcvcvcvcvcvcvcvcvcv
+BOARD 0 39 64 0 cmcmcmc8cvcvc9cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmc8cvcvc9cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmc8cvcvc9cmcmcmcmcmcmcmcmcm
+BOARD 0 40 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 41 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 42 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 43 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 44 64 0 ctcscucucucuctcscucucucuctcscucucucuctcscucucucuctcscucucucuctcscucucucuctcscucucucuctcscucucucuctcscucucucuctcscucucucuctcscucu
+BOARD 0 45 64 0 c9c8cvcvcvcvc9c8cvcvcvcvc9c8cvcvcvcvc9c8cvcvcvcvc9c8cvcvcvcvc9c8cvcvcvcvc9c8cvcvcvcvc9c8cvcvcvcvc9c8cvcvcvcvc9c8cvcvcvcvc9c8cvcv
+BOARD 0 46 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 47 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 48 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 49 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 50 64 0 cmcmcmcscucuctcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcscucuctcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcscucuctcmcmcmcmcmcmcmcmcm
+BOARD 0 51 64 0 cucucuc7TUTUc6cucucucucucucucucucucucucucucucucucucucuc7TUTUc6cucucucucucucucucucucucucucucucucucucucuc7TUTUc6cucucucucucucucucu
+BOARD 0 52 64 0 cKcKcKcPTUTUcOcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcPTUTUcOcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcPTUTUcOcKcKcKcKcKcKcKcKcK
+BOARD 0 53 64 0 cZcZcZcccKcKcdcZcZcGcHcWcZcZcZcZcZcZcWcZcZcZcZcZcZcZcZcccKcKcdcGcHcWcZcZcZcZVHVFVFVFVFVFVIcZcZcZcZcZcZcccKcKcdcWcZcZcZcZcZcZcWcZ
+BOARD 0 54 64 0 cZcZcZcZcZcZcZcZcZcWcXcYcZcZcZcZcYcZcZcZcZcZcZcZcZcZcZcZcZcZcZcWcXcYcZcZcZcZVXVWVWVWVWVWVYcZcZcZcZcZcZcZcZcWcXcYcZcZcZcZcYcZcZcZ
+BOARD 0 55 64 0 cGcZcZcGcHcIcJcZcZcZcZcZcZcZcZVHVFVFVFVFVIcZcGcZcZcGcHcIcJcZcZcZcZcZcZcZcZcZsG1v9g9hsIsKsHcZcZcGcHcIcJcZcZcZcZcZcZcZcZcZcZcZcZcZ
+BOARD 0 56 64 0 cWcZcZcWcXcYcZcZcZcZcZcZcZcZcZVVS/awawaxVGcZcWcZcZcWcXcYcZcZcZcZcZcZcZcZcZcZsW1/9w9xsYsasXcZcZcWcXcYcZcZcZcZcZcZcZcZcZcZcZcIcJcZ
+BOARD 0 57 64 0 cZcZcZcHcZcZcZcZcZcZcGcZcZcYcZVVTPbAbAbBVGcJcZcZcZcHcZcZcZcZcZcZcGcZcZcZcZcZsm2P+A+BsosqsncZcZcHcZcZcZcZcZcZcGcZcZcZcZcZcZcZcZcH
+BOARD 0 58 64 0 cZcGcHcWcZcZcZcZcZVHVFVFVFVFVFVVTPbAbAbBVGVFVIcGcHcWcZcZcZcZcZcZcWcZcZcHcZcZcZcZcZcXcYcZcZcGcHcWcZcZcZcZcZcZcWcZcZcHcZcZcZcZcZcX
+BOARD 0 59 64 0 cZcWcXcYcZcZcZcZcYVVVHVFVFVFVIVVTfbQbQbRVG2NVGcWcXcYcZcZcZcZcYcZcZcZcZcXcZcZcZcZcZcZcZcZcZcWcXcYcZcZcZcZcYcZcZcZcZcXcZcZcZcZcZcZ
+BOARD 0 60 64 0 XcXcXcXcXcXcXcXcXcVVVXVWVWVWVYVXVWVWVWVWVY4FVGcZcZcZcZcYcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZXdXdX+XeXbXcXcXcXcXcXcXcXcXcXcXc
+BOARD 0 61 64 0 XsXsXsXsXsXsXsXsXtVVfqsIsJsKfqfqsospspsqfq4VVG0M0M0M0M0M0M0M0M0NcJcZcZcZcZcIcJcZcZcZcZcZcZcZcZWgWhXdX+XeXrXsXsXsXsXsXsXsXsXsXsXt
+BOARD 0 62 64 0 XsXsXsXsXsXsXsXsXtVVfqsospsqfqfqsXfTfUsWfq4lVGq1q1q1q1q1q1q1q10dcLcLcLcLcNcZcZcZcZcZcZcZcYcZXgWwWxXdX+XeXrXsXsXsXsXsXsXsXsXsXsXt
+BOARD 0 63 64 0 XsXsXsXsXsXsXsXsXtVV4y4z404142fqsXfjfksWfq41VGq1q1q1q1q1q1q1q10dQSSiRCRDcacZcGcHcIcJcZcZcZcZXgXIXJXdX+XeXrXsXsXsXsXsXsXsXsXsXsXt
+LINK durandal_endlesstap1.nw 13 19 3 1 50 39
+LINK worldmapkharlia_f08.nw 0 30 0 30 50.5 10
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 49 30
+join("world_streetlamp");
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 25 30
+join("world_streetlamp");
+NPCEND
+NPC val-steamvent.gif 28 37
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+
+  drawunderplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 51 36
+//#CLIENTSIDE
+function onCreated()
+  {drawaslight;
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.4;
+    emitter.delaymax=.8;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val_durandalwindow-stone.png 6 7
+// NPC made by Vergoth the Forgelord
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandalwindow-stone.png 13 7
+// NPC made by Vergoth the Forgelord
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandalwindow-stone.png 20 7
+// NPC made by Vergoth the Forgelord
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandalwindow-stone.png 45 18
+// NPC made by Vergoth the Forgelord
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_smeewntree4.gif 24 6
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,val_smeewntree-shadow1.png,x=x,y=y;
+  changeimgvis 0,0;
+  setshape2 18,22,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,22,22,22,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,22,22,22,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC val_durandal-regaldoor2.png 53 22
+
+if (created) {
+}
+NPCEND
+NPC val_brookhurst-housetop2.gif 48 57
+drawoverplayer;dontblock;
+NPCEND
+NPC val_brookhurst-housetop.gif 47 60
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 46 61
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val-steamvent.gif 28 51
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+
+  drawunderplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandalwindow-stone.png 63 18
+// NPC made by Vergoth the Forgelord
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-durandal-door2.gif 12 15
+
+dontblock;drawunderplayer;
+NPCEND
+NPC durandal-inn.gif 13 12
+NPCEND
+NPC girder-ns.gif 3 8
+//#CLIENTSIDE
+NPCEND
+NPC ky-metalcrate.gif 0 28
+//#CLIENTSIDE
+NPCEND
+NPC val_durandalbanner.gif 57 17
+//#CLIENTSIDE
+NPCEND
+NPC ky-metalcrate.gif 0 30
+//#CLIENTSIDE
+NPCEND
+NPC durandal-window2.gif 6 15
+// NPC made by Vergoth (Imperial Dalmar)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 1 29
+join("world_streetlamp");
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 1 46
+join("world_streetlamp");
+NPCEND
+NPC val-steamvent.gif 52 37
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+
+  drawunderplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-steamvent.gif 52 51
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+
+  drawunderplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-steamvent.gif 4 51
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+
+  drawunderplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-steamvent.gif 4 37
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+
+  drawunderplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 49 46
+join("world_streetlamp");
+NPCEND
+NPC - 46 60
+//#CLIENTSIDE
+function onCreated()
+  {drawaslight;
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.2;
+    emitter.delaymax=.6;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC - 3 50
+//#CLIENTSIDE
+function onCreated()
+  {drawaslight;
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.4;
+    emitter.delaymax=.8;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val_rp-barrel2.png 40 17
+//#CLIENTSIDE
+NPCEND
+NPC val_durandalbanner.gif 50 17
+//#CLIENTSIDE
+NPCEND
+NPC val_durandal-caferunner.gif 5 13
+drawoverplayer;dontblock;
+NPCEND
+NPC val_durandal-caferunner.gif 18 13
+drawoverplayer;dontblock;
+NPCEND
+NPC val_ironfence1.gif 38 27
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 33 60
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 34 60
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 29 27
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 27 27
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 26 27
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*2,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 36 62
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 52 24
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 58 26
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 26 4
+//#clientside
+setcharani val_copper-biggearleftsidesplit,;
+dontblock;
+drawoverplayer;
+NPCEND
+NPC - 30 0
+//#clientside
+setcharani val_copper-biggear2,;
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_ironfence2.gif 30 27
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 39 27
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 36 27
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 35 27
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 33 27
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 32 27
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 41 27
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-hellsinging-gage1.gif 39 55
+// NPC made by Abacus, Machinator of (Imperial Dalmar)
+if (created) {x=x+.5;y=y+.4;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 41 52
+this.setupInfo = { "engineering", 0, "Pressure Station", "The backbone of Durandalite runic technology relies on pressure stations like this one. Its rudimentary gauges monitor the flow of steam pressure through the pipes running beneath the city streets. This pressure is channeled to the cities various gears and other moving parts, and a break in the line can cause localized shutdown." };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+
+this.setupInfo = { "engineering", 0, "Pressure Station", "The backbone of Durandalite runic technology relies on pressure stations like this one. Its rudimentary gauges monitor the flow of steam pressure through the pipes running beneath the city streets. This pressure is channeled to the cities various gears and other moving parts, and a break in the line can cause localized shutdown." };
+NPCEND
+NPC val_ironfence1.gif 52 26
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 58 24
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 58 28
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,0,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 52 28
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,0,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 26 24
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 26 21
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 26 18
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-durandal-ladder.gif 34 9
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-woodenchair-down.png 6 20
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_brookhurst-bartop.gif 6 22
+dontblock;drawoverplayer;
+NPCEND
+NPC val_brookhurst-bartop.gif 21 22
+dontblock;drawoverplayer;
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 6 24
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 21 25
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC gal-redchairup2-remake.gif 21 25
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC gal-redchairup2-remake.gif 6 24
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC val_dragaeris-woodenchair-left.png 24 23
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-left.png 9 22
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-right.png 18 22
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC - 5 22
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 4,3,{
+  22,3,3,22,
+  22,22,22,22,
+  22,22,22,22,
+  };
+}
+NPCEND
+NPC - 20 22
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 4,4,{
+  22,3,3,22,
+  22,22,22,22,
+  22,22,22,22,
+  22,22,22,22,
+  };
+}
+NPCEND
+NPC val_beer-stein3.gif 20 22
+dontblock;drawoverplayer;
+NPCEND
+NPC val_beer-stein3.gif 7 23
+dontblock;drawoverplayer;
+NPCEND
+NPC val_beer-stein.gif 22 23
+dontblock;drawoverplayer;
+NPCEND
+NPC val_beer-stein.gif 5 22
+dontblock;drawoverplayer;
+NPCEND
+NPC val_clockcarrier_front.gif 19 58
+//#CLIENTSIDE
+function onCreated() onTimeOut();function onTimeOut() {  this.chat = randomstring("Coo coo.","-vrrr... click-","Coo... -click-");  setTimer(2,4);}
+NPCEND
+NPC - 14 21
+this.setupInfo = { "streetwise", 0, "The Endless Tap", "One of the very first establishments built in the city, The Endless Tap was heavily scrutinized by the Forgelord as a detrimental addition. The prohibition of alcohol followed as the first public vote put forth to High Society, where it was overwhelmingly overturned. While the Endless Tap isn't the only bar in Durandal, it holds a special place in the heart of the city." };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+
+this.setupInfo = { "streetwise", 0, "The Endless Tap", "One of the very first establishments built in the city, The Endless Tap was heavily scrutinized by the Forgelord as a detrimental addition. The prohibition of alcohol followed as the first public vote put forth to High Society, where it was overwhelmingly overturned. While the Endless Tap isn't the only bar in Durandal, it holds a special place in the heart of the city." };
+NPCEND
+NPC durandal-window.gif 51 4
+// NPC made by Vergoth (Imperial Dalmar)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC durandal-window.gif 56 4
+// NPC made by Vergoth (Imperial Dalmar)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC durandal-window.gif 60 4
+// NPC made by Vergoth (Imperial Dalmar)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC durandal-window2.gif 19 15
+// NPC made by Vergoth (Imperial Dalmar)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 44 27
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 4,2,{
+  22,22,22,22,
+  22,22,22,22,
+  };
+}
+function onCreated()
+{
+  this.nick = "Iron Dedication";
+}
+function onPlayertouchsme()
+{
+Sign.Display(this.nick,
+
+          " \"In memory of those brave souls sacrificed in the imperial war. You burdened our future upon your backs, in that your children may never toil beneath dalmarite tyranny.\" -The Forgelord "
+  );
+}
+NPCEND
+NPC durandal-window.gif 47 4
+// NPC made by Vergoth (Imperial Dalmar)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-gimbaltbillboard.gif 53 60
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawoverrplayer;}
+NPCEND
+NPC durandal-steelsignup.gif 53 59
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawoverrplayer;}
+NPCEND
+NPC val_dragaeris-woodenchair-down.png 21 20
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC hellsinging-durandalmotivational2.gif 0 23
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+NPCEND
+NPC ky-metalcrate.gif 2 29
+//#CLIENTSIDE
+NPCEND
+NPC val_rp-barrel2.png 24 18
+//#CLIENTSIDE
+NPCEND
+NPC val_rp-barrel2.png 40 13
+//#CLIENTSIDE
+NPCEND
+NPC val_rp-barrel2.png 40 15
+//#CLIENTSIDE
+NPCEND
+NPC val_durandal-piping.gif 45 55
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,16,32,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 45 54
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,16,96,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 45 55
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,80,32,16,16;
+drawunderplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 45 57
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,112,32,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 45 56
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,112,32,16,16;
+drawunderplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 45 56
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,144,32,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 37 54
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,0,32,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 37 55
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,0,96,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 37 55
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,80,32,16,16;
+drawunderplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 37 56
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,112,32,16,16;
+drawunderplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 37 56
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,80,96,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 37 57
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,112,96,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 57 56
+this.setupInfo = { "streetwise", 0, "Gimbalt Industries Advertisement", "A recently repainted advertisement inquiring about one of Durandal's largest artificing organizations, Gimbalt Industries. This corporation was established since the dawn of the airborne metropolis by entrepreneurial innovator Mariak Gimbalt originally with the dream of renewing trust in engineering in a society fearful of it. It has since expanded into multiple fields ranging beyond research and development such as metal foundry, manufacturing, defense and general contracting, airship aeronautics, and architectural designs. This particular sign also includes clockwork carrier pigeon P.O. addresses and job inquiries." }
+join("rp_skillicon");
+
+//#CLIENTSIDE
+
+this.setupInfo = { "streetwise", 0, "Gimbalt Industries Advertisement", "A recently repainted advertisement inquiring about one of Durandal's largest artificing organizations, Gimbalt Industries. This corporation was established since the dawn of the airborne metropolis by entrepreneurial innovator Mariak Gimbalt originally with the dream of renewing trust in engineering in a society fearful of it. It has since expanded into multiple fields ranging beyond research and development such as metal foundry, manufacturing, defense and general contracting, airship aeronautics, and architectural designs. This particular sign also includes clockwork carrier pigeon P.O. addresses and job inquiries." };
+NPCEND
+NPC val_durandal-piping.gif 60 28
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,0,64,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 62 28
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,16,64,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 61 28
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,144,80,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 60 29
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,112,64,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 62 29
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,112,64,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 24 63
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,112,64,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 23 62
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,144,80,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 24 62
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,16,64,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 45 5
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,0,64,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 45 5
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,112,64,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-plaque.gif 44 25
+// NPC made by Vergoth the Forgelord
+if (created) {x=x+.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_smeewntreecap2.gif 24 6
+dontblock;drawoverplayer;
+NPCEND
+NPC val_ironfence1.gif 36 60
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,32,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 32 60
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence2.gif,0,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 31 60
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence2.gif,0,0,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 30 60
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,32,0,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 31 33
+join("world_durandalwagon");
+NPCEND
+NPC val_golempullcart.gif 30 28
+//#CLIENTSIDE
+NPCEND
+NPC val_house-cookpot-nohandle.gif 17 19
+NPCEND
+NPC val_setzer-clockwork-screws.gif 17 58
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawoverrplayer;
+NPCEND
+NPC val_setzer-clockwork-winder.gif 16 58
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawoverrplayer;
+NPCEND
+NPC val_clockcarrier_front.gif 16 57
+//#CLIENTSIDE
+function onCreated() onTimeOut();function onTimeOut() {  this.chat = randomstring("Coo coo.","-vrrr... click-","Coo... -click-");  setTimer(2,4);}
+NPCEND
+NPC val_shaff_clockworkarm.gif 17 58
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawoverrplayer;
+NPCEND
+NPC val_setzer-clockwork-littlegear.gif 18 59
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawoverrplayer;
+NPCEND
+NPC val_setzer-clockwork-screws.gif 15 59
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawoverrplayer;
+NPCEND
+NPC npc_placeholder.png 25 46
+join("world_streetlamp");
+NPCEND
+NPC val_durandal-piping.gif 45 4
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,0,64,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_durandal-piping.gif 45 6
+//#CLIENTSIDE
+if (created) {
+setimgpart val_durandal-piping.gif,112,64,16,16;
+}
+if (playertouchsme) {
+}
+NPCEND

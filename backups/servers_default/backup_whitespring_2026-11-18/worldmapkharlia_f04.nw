@@ -1,0 +1,754 @@
+GLEVNW01
+BOARD 0 0 64 0 TGQBQAQgRCRDACQwTkTlTlTmSAQBQAQBQAfzf0TURQRTQASISJQBQAQBbEbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbFQQSlSmQASISJQBz0zrznQAQAQBTFW0WxWyVAVB
+BOARD 0 1 64 0 TWQRQQQwSYSZQjRQSYSZTmRTQQQgQiQjQQQgQiQiQjQRQQQRQQQRQQQRazQRQQQRQQQRTwTxQQQRQQQRQQQRQQQRQBQASiShSyQRQQQRz7QRQQSISJQRTVXEXBXCVBVA
+BOARD 0 2 64 0 TDQBQgTkTlTmRTQBRQRRRTQBQgSYSZTmSARQSYSZTmQjSISJQAQBQAQBazQBfFWkWkfGQAQBfFWkfGQBQAQBQAQBTEQQTFSzTCTDQAz2znQBTGQBQAQkQnXXXRXoXnVB
+BOARD 0 3 64 0 SmTERQRRRRRTclQRQgQiQjQgTkTlTmRRSAACRQRRTkTmQjQRQQQRTEQRazQRfVUiUjfWQQQRfVTFfWWkWkWkWkTGTUQATVz2URUBzrznTEQRTWQRQQRUgxXnXoQCQDXn
+BOARD 0 4 64 0 SmTUQAQBQASISJQgTkTmRDRQRRRRRTQgQiQiQiQjRQRRRTQBQAQBTUQBazQBTEUyUzTGQAQBXmTVc/RzSAQAQBTWz2zrzrznTgTDUCUDTUQRQRTjSkSkTBcucvQSQUQD
+BOARD 0 5 64 0 SmQRQQQRQQQRQgTkSYSZQzQgQiQjQQTkTlTlTmRTSISJQQQRQQQRQQQRazQRTUXmX2TWflfmSISJQQcuQQQQQRz2znQkQlQnSlSmUSUTTjSkTSTzS0S0TRa2bTbWQSQT
+BOARD 0 6 64 0 SmSISJQBfGQBRQRRRRRRRTQwTkTmQjRQSYSZRTQgQjQBQAQgQiQjQAQBazQBQATGQAXmf1f2QAQBSSQBz2QYzrznQRRURWRXSlSmQRTSTzS0TiTEfrfsQBc/c9XXXYXX
+BOARD 0 7 64 0 SmQRj5QRfWWkWkWkWkWkfGRQRRSYSZQjRQRTQgSYSZQjQgTkTmRDQQQRazQRQQTWUCUDcuQCcvceRhz2znQRTGQgQiQiQiQjSiSjTSTzQAQRQATUf7f8XXXYXXVAVBVA
+BOARD 0 8 64 0 SmQBUiUjQAQgQiQjQATEfWWkfGRQRRRTRzQiTkTlTmRDRQRRRRRTQAQBazQBQAQBUSUTQSQTz2AzzrznQgQjTWQwSYSZQxRTACSzTCSmQATEQQctTGXXVA0w0xVB0C0D
+BOARD 0 9 64 0 SmQRUyUzQgRCagRDQQTUQQTFfWWkQQcNQQRQRRRRRRRTQQQRQQTEfFjpazTASkSkSkTBc/z2znQgQjRzTkTmQjRQRBRRRTQgQiQjSlSmQQTUQAQBTWXnVB0Q0RVA0S0T
+BOARD 0 10 64 0 SmSSQAQBQwSvawRDQAQBQATVUCUDcPQWQAWkTEWkWkWkTGfFWkTUfVQBazTQS0S0S0TRQQz7RzTkTmQjRQSYSZQjTGQWQgQyQxQzSlSmQAQBQQUkUlXXVAVBVAVB0i0j
+BOARD 0 11 64 0 SmRhQQQRQwS/RBRTQQQRTEQRUSUTTgTDc/QRTUQRQQQRTWfVQQQRQQQRazQRQQTEQQQgQjz4zoQwTkTmQjQwTkTmTWbNQwRCRBRTSlSmQQQRQQU0U1XnVBVAWwW1W20i
+BOARD 0 12 64 0 SmQBQAQBRQRRRTQBQAQBTUQBQAQBTwTxQAQBQAQBQAQBQAQBQAQBQAQBazQBfGTUQgTkTmQjz3ana4RRRTRQRRRTQgana4RCRTTATSTTSISJQAQQb+QWXnVBVAXbXcVB
+BOARD 0 13 64 0 SmQRQQQRQQQRQQQRQQQRTybTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTalQRfWQRSYSZTmRTz7RQRTQgQjc+RzQiTkTmRCRDQQTQTiQRQQQRQQQRQWj5XXVAXqXrXsXp
+BOARD 0 14 64 0 SmSISJQBQAQBTASkSkSkTSTTQAQBQAQBQAQBQAQBQAQBQAQBQAQBQAQBazQBfFQBRQRRRTz2znctQgSYaoQiQjRQTkTlTmRDASQgQjQBQAQBQAQBQAjpXnX6gSQ9Q+XZ
+BOARD 0 15 64 0 ShSkSkSkSkTSTzS0S0S0TiSISJQRQQQRQQQRQQSISJQRQQfFWkWkfGQRazQRfVTGQQQRz2znQgQjRQRRTkTlTmSARQSYSZRTQQQwRTQRSISJQQQRQQQCQDRUX3XaXZWx
+BOARD 0 16 64 0 S0S0S0S0S0TiQAQBQAQBQAQBQAQBQAfFWkQgQjQgQiQiQjfVQATFfWQBazQBfGTWQAQBz7QgTkSYaoQjRQRRRTRzSARQRTSISJRhQAQBQAQAQBQBQAQSQTTFXnVBXAXB
+BOARD 0 17 64 0 QQQBQQQRQQQRVPdEdFQRQQQRSISJfFfVQgRCRDRQSYSZRDSISJTVfFQRazQRfWfGTFQRz7RQRRTkTlTmQjUiUjQQc/QQQQQRfFQRSISJQQQQQRQRQQQRQWTVXXVAVBXR
+BOARD 0 18 64 0 QAQBQgQiSAQBWOWvWvdBdEdFWkWkfVQBQwSYSZQjRQTkTmQjQAQRfVQBazQBQAfWTVWkz4zrzoRQRRRSRTUyUzTGQQcuQAfFfVQBQAQBQAQBQASISJQBTEXXVAXoXnXo
+BOARD 0 19 64 0 QQQBRQRTQQQRW+W/eQWfdQdVQQQgQiQjQwTkTmRTASRQRRRTQQQRQQQRazQRQQQRQQQRQQfGz4zoQQQRQQAiQQTWc+QQWkfVTEQRQQQRQQQkQnQRQQQRTUXnXoQW0W0G
+BOARD 0 20 64 0 TEQBQAQBQASISJQBWOWvegelQgSYSZRDRQRgRiQBSTQiQjTEQAQBQAQBazQBQAQBQAQBQAfWWk3o0GURUB0GAE0JRzSAQAQBTUQBQAQkQmgxRXQBQAQBjpQBQW0W0HXX
+BOARD 0 21 64 0 TUQRQQQRTEQRQQTFW+W/e09xSYSZTkTmQiQjctSDTkTmRDTUQQSISJjpazQRQQQRSISJQQUCUD0IQQQRQQQRcd0Y0JQRQQSISJQRTFRERX0W0JQRQQceQQ0W0G0HXXVA
+BOARD 0 22 64 0 dEdFj5QBTUQQQRTVRzSAQARQRRRRQxTkTmRRSASTSYSZagQjjpQBQAQBazQBVedEdFVPdVUSUT0IQAQBQAQBQATF0IQBQAQBceQBTV0W0G0H0Y0G0GAz0G0HQATEVLVM
+BOARD 0 23 64 0 WvegdFSISJQRQQQRQgQjQQQgQiQjRQRRRTSISJRQRRRRawRDQQQRQQQRazQRWudUVfeSe0QR0W0HQQQRQQQRQQTV0Y0GAE0GAT0G0G0HQQQRQQQRQQQRQQQRQQTUQQQW
+BOARD 0 24 64 0 VfdQdVjpQAQgQjQgTkTmQjQwTkTmfrfsSISJQgQiQiQjRQRTQAQBQAj5azQBW+WOdUdRdFQB0IQBQAQBQAQBQAQBQAQBcdTEQAQBQAQBQAQBQATESISJUCUDQRQBQAXX
+BOARD 0 25 64 0 VvdgelQRQgRCRDRQSYSZRTRQRRRTf7f8TEc+RBSYSZRCQjQRQQQRQQTjazQRVOWedkdkdVQR0Y0JQQQRQQQRQQQRQQQRQQTUQQQRQQQRQQQRQQTUQQQRUSUTQQQRj5Xn
+BOARD 0 26 64 0 V/eFe1QgTkTmRTQRRQRTQgQiQjQBj5bMTUQwTkTmSYSZRDSISJQBTyTzTiTFVeeSdReSe0SISJ0IQAQBQAQBQAQBQAQBQAQBQAQBQAQBUiUjQAQBQAQBSISJQRQBQARM
+BOARD 0 27 64 0 WPeVQgSYSZRTSISJjpQgTkTmRDTEz7TFQQRQSYSZRBRRRTQRQQQRSlSmTGTVVudjdkd10W0G0G0HQQQRQQQRSISJVOVPdFQRQQQRQQQRUyUzQAQRQATGQQjpQQQsQtQc
+BOARD 0 28 64 0 WfelRQRRRTQgQjbMQgSYSZRRRTTUz7TVjpQgahQyRTQBQQTjSkSkTSTTTWQBW/eyeze00IQBTEQBQAQBQAQBQAQBVeeSdVXmQAVedAdEdFTGQAQBQATWj5TEQRRcQeQ+
+BOARD 0 29 64 0 eVe1QQRzQiTkTmQjRQRRRTctWkb/z4zrzoQwaxRTQQQRTyTzS0S0TiQRQQQRQQQRTEXm0ITFTUQRSISJQQQRUiUjVueiejdAdBegeheidVTWSISJQAQRQQTUQQjpXXXa
+BOARD 0 30 64 0 e0QBQAQBRQRRQxRTb+QgQjfGc/QWSISJz7RQRTQBQAQBSlSmQAQBQAQBQAQBSISJTU0W0HTVQAQBQAQBQAQBUyUzV+dSdTdUVfeSdRdSdTdFbcbtQAQBTGQsQtXXVAVB
+BOARD 0 31 64 0 j5QRRzSASISJRhQgQiQxRTfWWkQRQQQRz4zoQQSISJQRSlSmQQQRQQSISJQRQQ0W0G0HQQQRQQQRQQQRQQTFXmVPdhdidjdkVvdgdhdidjdVTFbrTFTETWRcQeXpXoXn
+BOARD 0 32 64 0 QAQAQAQBQAQBQARQQxSYaoQjQAQBQASISJz7QARzSAQBSlSmQATFQAQBQAQBQA0IQAQBSISJQAQBQAQBQATVVedwdxdydzd0V/dwdxdydzdlTVb7TVTUQQQBRcReRfTF
+BOARD 0 33 64 0 QQTFQBQASSQRSISJRQTkTmRTQgQiQiQjQQz7SISJQQQRSlSmQQTVQQQRQQSISJ0ISISJQQQRQQQRQQbLVedAWPeAdheCewexdweAeBeCeDeEdEdFXmTFQQQQQQQQQQTV
+BOARD 0 34 64 0 QATVQAQBRhQBQAQBQARQRTRzTkTmSYSZSAz4zrzoQAQBSlShSkSkSkSkSkTBQBQKj5QBQBQAQAQBTEb7WOeUWfeQdxelcuWkW/eSdRdSeTdyWfeQdFTVQBQBQQTFQAlm
+BOARD 0 35 64 0 QBQAQQVOVPdAdEdFQQQgQiQjRQRRQyRTQgQjQQz40JQRSlSxS0S0S0S0S0TRj5QaQQQRQRQQUiUjTUTFWeekWvegehelfrfsVedkdhdiejekWvegehdEdFUCUDTVlml2
+BOARD 0 36 64 0 SISJQAVeeSeCWvdVQgQyTkTmQiQjRhRzQyQxQiQj0IQBSlSmQAQBQAQBSISJTG0IQAQBQAQBUyUzTFTVWudUVfdQdRdVf7f8WOWvdxeCewexexdwdRdSdVUSUTTFk2k3
+BOARD 0 37 64 0 QQQRQQWOdyeDdydlRQSYSZQyQxRTbMTEQwQyQxRT0IQRSlSmSISJQQQRQQQRTW0IQQSISJQRQQQRTVb+W+W/ewexdheFWkc+WOVfVfelbsbfTGW/dhdidjdEdFTVQQlH
+BOARD 0 38 64 0 VPdAdBdzeCdUeCegdFRQQyQxRTQgQjTURQQyRTTG0Y0JTwTxQA0W13zqQAQB0W0HQAQBQATgThQBQAQRTEUiUjTFWudxdBdCdwdwdxdVbrj5TWVedxdydzd0V/dFQAlX
+BOARD 0 39 64 0 dhdid0dzd0djdhdidVQRRQRTRzSYSZQiQjRhQQTWQQ0YURUB0G0Hz51G0G0o0HQRQQQRQQSlSmQRQQTGTUUyUzTVW+W/eyezexeAeBeFb8bfQWWOeBeCeDeEWPdVlml2
+BOARD 0 40 64 0 dgdye0WudhdSdgdyeDdBdEdFTGRAQyQxRTQBjpoToUoWTgThTESISJQBTG0IjpQBTEQBTGSlSmQBQATWTFQATjSkSkSkTBQBXmVueRdxdBdCdCdweCewexdwWfdlk2k3
+BOARD 0 41 64 0 nje0X2W+W/didheCdUVfeDelTWRQRRRDbMQRTEojh7o2SlSmTUTGoToWTW0IQQQRTUQRTWSlSmQRQQQBTVTyTzS0S0S0TRTEVeegeheiejekWvege1TGQWW/Wvd1bLk2
+BOARD 0 42 64 0 XoSISJVOVPdyeAdieyeze0e1SISJQARQSAQBTUozpFpGSlSmjpTWpDpG0W0HQATGQRQBQRSiSjSkSkSkSkTSTTUiUjbcbfTUW/dQdReSewdwVfeFb+TWVeeSVfeFb7QB
+BOARD 0 43 64 0 XYjpQBVedjdkeBelQgQiQiQjQQQRQQQRoToVoVomjpQRSlSmoToWQQ0W0HQRQQTWQQQQQQQQSzS0S0S0S0TiQRUyUzVPdAdEdFW/dhegj5W/VvdxdBdCdwdkVveVTEQR
+BOARD 0 44 64 0 VBXYXXnjdzd0eFe1QwQyQxQyQjQBoToVokh7h6oloWQBSlSmojo2TE0IQASISJQBQRQBQRQBQRQBQAQBQBQAQBVPdAdydzd0eFVedxeFXmVeV/eSdxdydzd0V/elTUQB
+BOARD 0 45 64 0 n1n2VAVBnleEeVQRQwSYSZRCRBQjpDo0hqhrhqhro2j5TwTxojo2TU0IjpQRUCUDQQQQQQQQTGQRQQVOVPdAdBeAeBeCeDeEWPeAeBdxdBdiWPeAeBeCeDdlW+e1j5QR
+BOARD 0 46 64 0 WPnWVBVAWhnje0QBRQQyQxQyQxRToTpFpEo0h6h7oloWajoTokoloW0Y0JTFUSUTfrfsQBTETWQBQAVeeSewewexdweSeTeSWfdRdSdweCewexdwdxeSeTd1dFTFQAlm
+BOARD 0 47 64 0 WfnmVAWwWxWyW3QRjpRQRBRCRToTombsbfojh7hrh7o2azpDo0hro2QR0ITVQQTEf7f8QQTUQQTEVPeielTETGcvW/eiejekeAdhdieAelTGQWW/eBeiejekelTVlml2
+BOARD 0 48 64 0 Vvn1n2VAXFXGXHQBTFQBRQRTQApDpGb7b+pDo0h7h6o2azQBpDo0omQB0Y0JQATUSISJTEQBQATUV+dSdVTUTWVeeSdSdTdUVfdidhdSdVTWTEVeeRdSdTe0e1lml2l3
+BOARD 0 49 64 0 njdhnWXoXVXWQQQRTVQRQQQRQQTEQQQgQiQjpDi2h7o2azTEbLojo2QRTE0Y0G0G0G0JTUQRTEVPdhdidxdBdCdwdkeCewexexdwdSdieFQWTUWOdhdieVQRTFlHlIlJ
+BOARD 0 50 64 0 VBnjnmXYQgQjTASkSkSkSyj5QATUQgQxQxRDc1ojo1pGazTUb+ojiHoWTUQBQAQBQA0Y0JQBTUW/dxdydzd0V/eSdxelQCRyQDW/dxdydxdBdCdwdxdye0TETVlXlYlZ
+BOARD 0 51 64 0 VAXoXnnyRBRDTQS0S0S0TCTDQQTFQwSYSZRTQQpDpGTEbDQRoToki8itoWTFSISJQQTG0IQRz2zrWeeCeDeEWPeAeBdVRxQGSCVeeBeCeDeEWPeAeBelQQTUQQlHlIlJ
+BOARD 0 52 64 0 VBXYRzQyQxRTQAflfmQBSlSmQATVRQRSRToToWjpQATUajQBpDidh7iXo2TVQAQBQATW3WzrznQAW/eSeTeUWfeQeReFQSSBQTWOeReSeTewexewe0e1VPdVTElXlYlZ
+BOARD 0 53 64 0 WiVBXYRQRTQRQQf1f2TFSlSmQQQRjpoToVo1pGQRu0vZunvZu2pDpFpFoloVoWQRjp0W0HTEQQQRQQW+W/e0WuegehdxdBdCdCdweheielTEb+j5QQQRWOeFTUlHlIlJ
+BOARD 0 54 64 0 WyWzXojpQASISJQBjpTVSlSmQAQBQApDpFpGj5QBv5v/vfv/vJjrQAjppDpFpG0W0G0HQATUQAQBQAQBUCUDW+WedRdSdTdUVfdQdRe0e1TUZjZmQAQBW/e0QAlXlYlZ
+BOARD 0 55 64 0 XCXDXYXXXYQRoToVoUoWSiSjSkSkSkTBTATBa2bTv5v+vPv7vJj7QQQRQQTG0W0HQQSISJQRQQQRQQQRUSUTQQWudhdidjdkVvdgeVXmQQZjmzaFQQQRQQXmlml2l3l4
+BOARD 0 56 64 0 XSVAVBVAXoTGpDo0h7oloWSwSxS0S0TRTQTRjpQBvpvt3wvsu5QBTGQBQATW0ITGQAQBQAQBj5QBQAQBQAQBTGW+W/eyeze0W/ewe0QBQAaTaEaWTFQBQAlml2l3l4kA
+BOARD 0 57 64 0 X0VBVAj4j5TWQQpDpEpFpGSlSmQRjpQRQQoToWj5jqu1bDu1v2QRTWQRTE0W0HTWQQTEQQQRQQQRQQQRQQQRTWQRQQQRQQQRQQXmTEQRQQQRQQQRTVQRlml2l3l4kCkA
+BOARD 0 58 64 0 XzVAXoTASkSkSkSkSkSkSkTSTToToWj5oTokoloWj6j7ajQBjpoToUoWTUzhQAQBQATUQAQBQAjpQAQBQAQBQAQAQBQRQAQBQAQBTUQBQAQBQAQBQAlml2l3l4kAkAkA
+BOARD 0 59 64 0 WAWBXYTQS0S0S0S0S0S0S0TioTo1pGQRojh7hro2TEQRbDQRoToko1pGTEzwTEQRQQQRQQQRQQQRQQQRQQQRQQQQQRTGQQQsQcaAaAaAaAljQvQRlml2l3l4kAkAkAkA
+BOARD 0 60 64 0 VBWRVgzoQAz2zrzrzoQBQATGpDpGjpTEojo1pEomTUjpajoToko1pGQBTU0ITUQBQAQBQAQBQAQBQAQBQAQBQAQAQATWQsQcaSS6S5S6S5Sfl0l1l2l3l4kAkAkAkAkA
+BOARD 0 61 64 0 VAVBXYz4zrznQQTEz4zoTETWQQTFQQTUpDpGTEozoVoWbDpDo0o2QQfFWk0Y0JQRTFQRQQQRQQQRQQQRQQQRQQQQTGQQQcaSTJtct5t6t5t6mEmFl3l4kAlUkAkAkAkA
+BOARD 0 62 64 0 VBVAn0dDdEdFQATUQAz7TUQBQATVQAQBTGQBTUojh7o2TgThpDpGj5fVQgQj0Y0JTVQBQAQBSISJTgThQAQBQAQBTWQ8aCS6tctdmUmVmUmVmUmVl4kAkAkAkAkAkAkA
+BOARD 0 63 64 0 VAnVdRdSdTdVUCUDQQz4zrzojpQRTGbOTWQRTGpDo1pGSlSmQQQRQQQRRARCQj0Y0G0G0G13zqQRTwTxSISJQQTEQQQRaBTKs9lJlFkAkAkAkAkAkAkAkAkAkAkAkAkA
+NPC overworldhill2.gif 12 5
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 22 7
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 17 8
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 17 4
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 9 4
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 14 3
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_worldmap-directionsign.gif 29 8
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawunderplayer();
+}
+NPCEND
+NPC val_worldmap-directionsign.gif 15 12
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+dontblock();
+drawunderplayer();
+}
+NPCEND
+NPC val_worldmap-directionsign.gif 23 33
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+this.y += 0.5;
+dontblock();
+drawunderplayer();
+}
+NPCEND
+NPC val_worldmap-directionsign.gif 27 12
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+dontblock();
+drawunderplayer();
+}
+NPCEND
+NPC val_worldmapkharlia-dungeon5.gif 46 49
+//#CLIENTSIDE
+function onCreated() {
+  y += 0.25;
+  dontblock();
+  drawunderplayer();
+  this.zoom = 0.66;
+
+}
+NPCEND
+NPC val_worldmap-directionsign.gif 11 54
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+this.y += 0.5;
+dontblock();
+drawunderplayer();
+}
+NPCEND
+NPC val_worldmaplabel_midoscopse.png 44 35
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+}
+NPCEND
+NPC val_worldmaplabel_mournglade.png 48 45
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+}
+NPCEND
+NPC val_worldmaplabel_eonos.png 26 40
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  drawunderplayer();
+  this.x += 0.5;
+}
+NPCEND
+NPC val_worldmaplabel_osengrad.png 30 5
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+}
+NPCEND
+NPC val_worldmapkharlia-dungeon3-small.gif 61 2
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawunderplayer();
+this.x += 0.5;
+this.zoom = 0.88;
+}
+NPCEND
+NPC - 47 48
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.y-=.5;
+  this.titleimg = "Castle Duskhallow";
+}
+NPCEND
+NPC - 12 29
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Last Wall";
+}
+NPCEND
+NPC - 16 46
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Siegheim";
+}
+NPCEND
+NPC - 2 56
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Sol Rouge Monastery";
+}
+NPCEND
+NPC - 14 7
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.titleimg = "Ortgeard";
+  this.mode = 2;
+}
+NPCEND
+NPC - 61 2
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Koscheim";
+}
+NPCEND
+NPC - 59 14
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Boneyard";
+}
+NPCEND
+NPC - 61 22
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Lanoth Anûn", "val_drow.nw", 36.5, 60, 0 };
+  this.warpArea = { 2, 2 };
+  this.akStart();
+}
+NPCEND
+NPC - 34 3
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Osengrad", "osengrad_forestexit.nw", 33.5, 0, 2 };
+  this.warpArea = { 2, 2 };
+  this.akStart();
+}
+NPCEND
+NPC - 27 10
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Ganelon Road", "ganelonroad_b1.nw", 9.5, 0, 2 };
+  this.warpArea = { 2, 3 };
+  this.akStart();
+}
+NPCEND
+NPC - 27 14
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Ganelon Road", "ganelonroad_b1.nw", 9.5, 60, 0 };
+  this.warpArea = { 2, 3 };
+  this.akStart();
+}
+NPCEND
+NPC - 32 33
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Troll's Pub", "eonos-bridge1.nw", 60, 32, 1 };
+  this.warpArea = { 1, 2 };
+  this.akStart();
+}
+NPCEND
+NPC - 24 12
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Ganelon Road", "ganelonroad_a1.nw", 1, 36, 3 };
+  this.warpArea = { 3, 2 };
+  this.akStart();
+}
+NPCEND
+NPC - 14 25
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"White Spring Ruins", "whitespring.gmap", 0, 34, 3 };
+  this.warpArea = { 2, 1 };
+  this.akStart();
+}
+NPCEND
+NPC - 18 54
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Bartlett", "bartlett_a3.nw", 23, 30 };
+  this.warpArea = { 1.5, 2.5 };
+  this.akStart();
+}
+NPCEND
+NPC - 21 51
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Bartlett", "bartlett_c1.nw", 30, 25 };
+  this.warpArea = { 2.5, 1.5 };
+  this.akStart();
+}
+NPCEND
+NPC - 27 57
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Eonos Bridge", "worldmapplace_southbridge-1.nw", 1, 32.5, 3 };
+  this.warpArea = { 1, 2 };
+  this.akStart();
+}
+NPCEND
+NPC - 29 33
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Troll's Pub", "eonos-bridge1.nw", 1, 32, 3 };
+  this.warpArea = { 1, 2 };
+  this.akStart();
+}
+NPCEND
+NPC - 21 57
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Bartlett", "bartlett_c5.nw", 30, 35 };
+  this.warpArea = { 2.5, 1.5 };
+  this.akStart();
+}
+NPCEND
+NPC - 46 39
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Mido's Copse", "val_mido-1.nw", 34, 59.5, 0 };
+  this.warpArea = { 2, 2 };
+  this.akStart();
+}
+NPCEND
+NPC - 3 57
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Sol Rouge Monastery", "reddawn_entrance.nw", 31, 60, 0 };
+  this.warpArea = { 2, 3 };
+  this.akStart();
+}
+NPCEND
+NPC - 30 58
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Eonos Bridge", "worldmapplace_southbridge-1.nw", 60, 32.5, 1 };
+  this.warpArea = { 1, 2 };
+  this.akStart();
+}
+NPCEND
+NPC - 4 49
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Laboo Wilderness", "val_laboo_4d.nw", 7.5, 58, 1 };
+  this.warpArea = { 2, 2 };
+  this.akStart();
+}
+NPCEND
+NPC - 58 14
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Boneyard", "boneyard_a2.nw", 1, 24, 3 };
+  this.warpArea = { 2, 4 };
+  this.akStart();
+}
+NPCEND
+NPC - 37 6
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Osengrad", "osengrad_c2.nw", 60, 6, 1 };
+  this.warpArea = { 2, 4 };
+  this.akStart();
+}
+NPCEND
+NPC - 32 7
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Osengrad", "osengrad_a3.nw", 3.5, 7, 3 };
+  this.warpArea = { 2, 3 };
+  this.akStart();
+}
+NPCEND
+NPC val_worldmap_bartlett2.png 19 52
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+}
+NPCEND
+NPC val_worldmaplabel_bartlett.png 16 54
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  drawoverplayer();
+  this.x += 0.35;
+}
+NPCEND
+NPC - 21 0
+//#CLIENTSIDE
+function onCreated() {
+  this.image = "val_blightshadow-3.png";
+  this.red = 0.6;
+  this.green = 0.3;
+  this.blue = 0;
+  this.alpha = 0.8;
+  this.mode = 2;
+  dontblock();
+  drawunderplayer();
+}
+NPCEND
+NPC - 0 31
+//#CLIENTSIDE
+function onPlayerenters() {
+  this.image = "val_worldmap_hellblight.png";
+  this.red = 0;
+  this.green = 1;
+  this.blue = 2;
+  this.alpha = 0.7;
+  this.mode = 2;
+  dontblock();
+  drawunderplayer();
+}
+NPCEND
+NPC val_worldmap_fissure6.gif 1 20
+dontblock();
+drawunderplayer();
+NPCEND
+NPC val_worldmap_fissure3.gif 12 54
+dontblock();
+drawunderplayer();
+NPCEND
+NPC val_worldmap_fissure1.gif 12 53
+dontblock();
+drawunderplayer();
+NPCEND
+NPC val_worldmap_fissure1.gif 1 37
+dontblock();
+drawunderplayer();
+NPCEND
+NPC val_worldmap_fissure1.gif 25 63
+dontblock();
+drawunderplayer();
+NPCEND
+NPC - 38 62
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Fort Brisco", "fortbrisco_a1.nw", 45, 0, 7.5 };
+  this.warpArea = { 2, 2 };
+  this.akStart();
+}
+NPCEND
+NPC - 38 63
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.y-=.5;
+  this.titleimg = "Fort Brisco";
+}
+NPCEND
+NPC - 10 27
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Last Wall", "val_camptown_x2.nw", 1, 22.5, 3 };
+  this.warpArea = { 1, 1 };
+  this.akStart();
+}
+NPCEND
+NPC - 60 3
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Koscheim", "koscheim_court-a2.nw", 0, 58, 3 };
+  this.warpArea = { 3, 4 };
+  this.akStart();
+}
+NPCEND
+NPC - 12 29
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Last Wall", "val_camptown_b2.nw", 60, 55, 1 };
+  this.warpArea = { 2, 1 };
+  this.akStart();
+}
+NPCEND
+NPC - 14 23
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.titleimg = "White Spring Ruins";
+}
+NPCEND
+NPC light2m.png 25 50
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .8;
+  this.green = .4;
+  this.blue = 0;
+  this.alpha = 0.40;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 26 51
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .8;
+  this.green = .4;
+  this.blue = 0;
+  this.alpha = 0.40;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 26 50
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .8;
+  this.green = .4;
+  this.blue = 0;
+  this.alpha = 0.40;
+  drawaslight();
+}
+NPCEND
+NPC light2m.png 24 51
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.red = .8;
+  this.green = .4;
+  this.blue = 0;
+  this.alpha = 0.40;
+  drawaslight();
+}
+NPCEND
+NPC - 22 36
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Cumberlund Bridge", "cumberlund_bridge_01.nw", 30.5, 0, 2 };
+  this.warpArea = { 1, 1 };
+  this.akStart();
+}
+NPCEND
+NPC - 15 47
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Siegheim", "val_siegheim_b1.nw", 54.5, 59.5, 0 };
+  this.warpArea = { 1, 1 };
+  this.akStart();
+}
+NPCEND
+NPC - 8 42
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Crooked Gavel Shrine", "val_templeruins.nw", 32, 60, 0 };
+  this.warpArea = { 1, 1 };
+  this.akStart();
+}
+NPCEND
+NPC - 26 50
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Sinner's Descent", "nuzalsdescent_01.nw", 30.5, 59.5, 0 };
+  this.warpArea = { 1, 1 };
+  this.akStart();
+}
+NPCEND
+NPC - 26 49
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x+=.5;
+  this.titleimg = "Sinner's Descent";
+}
+NPCEND
+NPC - 30 27
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Dark Refuge", "darkrefuge_b1.nw", 38, 59.5, 0 };
+  this.warpArea = { 2, 2 };
+  this.akStart();
+}
+NPCEND
+NPC - 31 26
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.y-=.5;
+  this.titleimg = "Dark Refuge";
+}
+NPCEND
+NPC - 16 39
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.x-=.5;
+  this.titleimg = "Camp Oasis";
+}
+NPCEND
+NPC - 15 40
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Camp Oasis", "val_varicianruins_a2.nw", 31.5, 59.5, 0 };
+  this.warpArea = { 1, 1 };
+  this.akStart();
+}
+NPCEND
+NPC - 2 62
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.y-=1;
+  this.x+=1;
+  this.titleimg = "Pilgrim's Passage";
+NPCEND
+NPC - 29 39
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.mode = 2;
+  this.y-=.5;
+  this.titleimg = "Stoleport on Eonos";
+}
+NPCEND
+NPC - 4 60
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.mode = 2;
+  this.x-=.5;
+  this.titleimg = "Pilgrim's Passage";
+}
+NPCEND
+NPC - 1 60
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.mode = 2;
+  this.x-=.5;
+  this.titleimg = "New Vistara";
+}
+NPCEND
+NPC - 11 62
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.mode = 2;
+  this.x-=.5;
+  this.titleimg = "The Empty Mirror";
+}
+NPCEND
+NPC - 17 51
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_worldmap_durandal2.gif",0,0,14,26);
+dontblock();
+drawunderplayer();
+}
+NPCEND
+NPC - 16 51
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Point Blank", "val_hellsreach_bartlettout_base.nw", 60, 32, 1 };
+  this.warpArea = { 1, 1 };
+  this.akStart();
+}
+NPCEND
+NPC - 17 50
+join("worldmap_icon");
+//#CLIENTSIDE
+function onCreated()
+{
+  this.titleimg = "Point Blank";
+}
+NPCEND
+NPC - 45 55
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Mournglade", "newmournglade_a2.nw", 25.5625, 59.25, 0 };
+  this.warpArea = { 1, 1 };
+  this.akStart();
+}
+NPCEND
+NPC val_worldmaplabel_ortgeard.png 10 7
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawunderplayer();
+this.zoom=(0.9);
+}
+NPCEND
+NPC - 14.5 9.5
+join("akiltest1");
+//#CLIENTSIDE
+function onCreated() {
+  this.setupInfo = {"Ortgeard", "val_ortgeard_outside_b3.nw", 30, 45 };
+  this.warpArea = { 2, 1.5 };
+  this.akStart();
+}
+NPCEND
+

@@ -1,0 +1,20 @@
+//#CLIENTSIDE
+function onCreated() {
+  hide();
+  if (("#g" == "Athedia")) {
+    dontblock();
+  }
+}
+
+function onPlayerChats() {
+  if (("#g" == "Athedia")) {
+    if ((player.chat == "Lock Down")) {
+      show();
+    }
+  }
+  if (("#g" == "Athedia")) {
+    if ((player.chat == "Clear")) {
+      hide();
+    }
+  }
+}

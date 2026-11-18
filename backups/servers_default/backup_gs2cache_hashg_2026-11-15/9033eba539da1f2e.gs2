@@ -1,0 +1,13 @@
+//#CLIENTSIDE
+function onPlayerChats() {
+  if ((player.chat == "open 3")) {
+    if (("#g" == "Valikorlia")) {
+      hide();
+    }
+  }
+  if ((player.chat == "close 3")) {
+    if (("#g" == "Valikorlia")) {
+      show();
+    }
+  }
+}

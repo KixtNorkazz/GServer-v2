@@ -1,0 +1,17 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  dontblock();
+  this.shield = "ryo250-woodenspearshield.gif";
+  this.head = "val-nadrion-valikorliansoldier.png";
+  this.body = "theblindone-eleanorknight-body101.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 1;
+  this.ap = 100;
+}

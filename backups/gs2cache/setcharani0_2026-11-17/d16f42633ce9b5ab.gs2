@@ -1,0 +1,22 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.attr[1] = "hat-lancershoulders.gif";
+  this.head = "val-nadrion-valikorliansoldier.png";
+  this.body = "nadrion_valikorlian-nation-knighttemplar.gif";
+  this.body = "valikorlia-knightbody.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  this.nick = "Guard of (Celdin)";
+  setcharani("idle", NULL);
+  this.swordpower = 1;
+  this.shield = "ryo250-woodenspearshield.gif";
+  this.shieldpower = 1;
+  this.dir = 2;
+  setcharani("idle", NULL);
+  this.hearts = 0;
+}

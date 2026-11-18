@@ -1,0 +1,750 @@
+GLEVNW01
+BOARD 0 0 64 0 WlWlWlB8B8B8COCeCfCZNpNoNqNzNkTASwSxTASxSwSxSwSwUCTyTUTjTjTjTUTUTUTUTUTUTURgSTQgQgQkQlQQRhRiQCQCQAQQQAQAQwQxQAQBQAQBQAQAQAQAQBQA
+BOARD 0 1 64 0 WlWlWlB8B8BACeCfBGC5NZNYNqNzNkTATATBTATBTATBTATATATwTUTjTjTjTjTjTjTjTjTjTjTjTjRgRhQAQwSARxRyRwRxQSQQQwQQRiRjSBQBQQQAQSQTQQQAQAQQ
+BOARD 0 2 64 0 WlWlWlWQB8BvCYCYCZNYNYNlN6NBOESwTASwSxSxSwSxSwSwTAUCTyTTTTTTTjTjTjTjTjTjTjTUTTRwRxRhRiRjTTTUTTRARBQAQwQCRyRzSBQBQgQAQiQjQgQhQAQg
+BOARD 0 3 64 0 WlWlWl6ZB8BvCYBsBWNoNoNqNzN0SwSxTATATBTBTATBTATATBTATwTkTjTkTTTTTTTTTTTUTTTkTjTkTjRxRyTTTkTkTTRQRRQBSTRyTjTjRgQBQwQxQyQzQSQgQQQw
+BOARD 0 4 64 0 VJWlWl6pCOCfCfBGC5NYNYNaNzNkTASxTATBSwSxSwSxSwSwSxSwTwTUTTTUTTTUTTTUTTTUTTTjup0BuqTUTTTUTTRQSiQAQAQwSATjTjTjRwQBQAQBQCQDQAQBQBQA
+BOARD 0 5 64 0 VEVJWl6pCfCfBGC5NpNoNoNqNzN0SwSxSwTBTATBTATBTATATBSxTwTkTjTkTjTkTjTkTjTkTUTTu50Ru6uqTUTkRQQAQAQAQARiRjTjupTUTURxQBQRQSQTQQQRQSQT
+BOARD 0 6 64 0 WMVEVJ6pCfCYCZNZNZNYNYNaNzNkTASxTASxSwTATSTASwSwSxTBUCTyTTTUTTTUTTTUTTTUTkTT000h0Tu7TUTkRgQAQUQVRiRjTjTku9TUTkTkSBQhQiQjQgQhQiQg
+BOARD 0 7 64 0 WLWMVE6pCfCYCpNpNoNpNoNqNjNDNUSwSwTBTASwSxSwTATATBTATBUCTyTkTjTkTjTkTjTkTjTk0osP0jvOuqTTTTSRQkQlSATTTUupvNTUTUTUSBQxQyQzQSQxQyQz
+BOARD 0 8 64 0 WMVEVJ6pCfCoCZNZNYNZNYNqNzNjNkTATASxSwSxSwSxSwSwSxSwSxSwUCTyTTTUTTTUTTTUTTTUTkTk0o00u7TkTkRgRhRiRjTTTku902TUTUTTSBQBQCQDQAQBQCQD
+BOARD 0 9 64 0 WLWMVE6pCfCYCpNpNoNpNoN1NJNzNDNUSwTBTATBTATBTATATBTBTBTBTBUCTyTkTjTkTjTkTjTkTjTkRQ00vLuqTjTjRxRyTTTTupvN02RTTURASBQAQSQTQQQRQSQT
+BOARD 0 10 64 0 WMVEVJ6pBcCYB2BeNYNZNYNpN1NJNjNDNUTASwSwSwSxSwSwSxSxSwSxSwSxTwTUTTTUTTTUTTTUTTTURg0300u6uqTkTkTkTkupu50204RjTURQRRQAQgQRQRQhQiQg
+BOARD 0 11 64 0 WLWMVE6pB+BcCYB2BeNZNoNZNoN1NJNzNDNUTATBTATBTATATBTBTATBTATBUCTyTjTkTjTkTjTkTjTkTjRg000Tu60A0B0A0Bu50S02RjTURQQBQCQQQwQRQSQgQyQw
+BOARD 0 12 64 0 WMVEVJ6pB8B+BcBPB2CINYNpNoNoN1NJNKNDNUSxSwSxSwSwSwC0SwSxSwSxSwTwTTTUTTTUTTTUTTTUTTRQ1r0j0T0Q0y0z0Q0S0i1qRTTTSRQBQCQBQRQRQRQRQBQA
+BOARD 0 13 64 0 6n6o6oWQB8B8B+BcCYCoWQWQNZNYNYNZNJNKNDNUWQWQTATBTATBTATBTATBTAUCTyTkTjTkTjTkTjTkTjRgQA1r0j02fcfd000i1qQARjRBQSQBQCQRQQQQQQQRQRQQ
+BOARD 0 14 64 0 S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+S+SwSwSwSxSwSxSwSxSwTBTwTUTTTUTTTUTTTUTTTTRgQA1r02fcfd001qRiRjRQQhQiQjQgQhQgQjQgQQQRQg
+BOARD 0 15 64 0 TOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTATBTATBTATBTASxTATBUCTyTUTkTjTkTjTkTjTUTTRgQAQARTRQQBRiRjRzRgQxQyQzQwQQQwQzQSQgQQQA
+BOARD 0 16 64 0 TOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOSwSwSwSxSwSxSwSxSxSxTATwTUTTTTTTTTTUTTTURARBVHVIQDQDQiSATTTUTUSBQCQDQAQBQCQDQAQBQBQA
+BOARD 0 17 64 0 TeTeTeTeTeTeTeTeTeTeTeTeTeTeTeTeTeTeTeTeTeTeTATATBTBTATBTATBTATBSwTwTUTkTjTkTTTkTjTkRQRRVXVYQTQTQQQRRCRDRQQRQSQTQQQRQSQTQQQRQSQQ
+BOARD 0 18 64 0 WQWQVJVJVJVJVJVJVJVJWQWQVJVJVJVJVJVJVJVJWQWQSwSwSxSwTBTBSwSxSwSxTATwTUTUTUTUTTTUTTTUSBQAQAQCQjQjQgQhQiSiQgQhQiQjQgQhQiQjQgQgQhQi
+BOARD 0 19 64 0 WSWSBKBLBMBNBcB2BeNYWSWSNoNqNzNzNyNBOETSWyWyTATBTATBTATBTATBTATBUgUhTkTkTTTTTjTkTjRQQzQwQAQAQQQzQBQCQgQzQwQxQwQzQwQxQyQzQSQwQhRy
+BOARD 0 20 64 0 CqCrBaB8B8B8B+BcB2BeOJOKNYN1NJNjNiNgSwSxSwSxSwSxSwSxSwSxSwSxSwSxTwTUTTTUTTTUTTTUTURgQDQARjRgQgQDQBQUQVQDQAGqGrQCQAQBQCQDQAQARyTj
+BOARD 0 21 64 0 BNBOB9B8B8B8B8B+BcB2BeNYNoNpNoNJNyNkTATBTATBTATBTATBTATBTATBTATBTwTkTjTkTjTkTjTUTjTkSBQxRTRwQwQTQBQkQlQTQQG6G7QSQQQRQSQTQQRyTkTk
+BOARD 0 22 64 0 B8B8B8B8B8B8B8B8BvCfCZNYNYNZNpNqNiN0SwSxSwSxSwSxSwSxSwSxSwSxSwSxUCTyTUTUTTTjTTTUTUTUSBQBRyRQQiQjQCQBQiQjQgQhQiQjQgQhQiQjQgRTTjTk
+BOARD 0 23 64 0 B8B8B8B8B8B8B8COCfBGC5NoNoNpNlNzNBOETATBTATBTATBTATBTATBTATBTATBTATwTUTUTjTTTjTkTUTkRxRyRQQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQSSQTjTj
+BOARD 0 24 64 0 B8B8B8B8B8B8COCfBGC5NZNZNYNlN6NjNkSxSwSxSwSxSwSxSwSxSwSxSwSxSwSxSwTwTUTUTTTjTTTUTTTUTTTURgQBQQQDQAQBQCQDQAQBQCQDQAQBQCQDQAQwRCTk
+BOARD 0 25 64 0 B8B8B8B8B8B8BvCYCZNoNpNpNoNqNyNzN0TBTATBTATBTATBTATBTATBTATBTATBTATwTTTUTjTkTjTkTjTkTjTkTjSRQgQTQQQBQBQjQgQQWoWoWoWoWoWoWoWoWoWo
+BOARD 0 26 64 0 B8B8B8B8B8B8BvCoCZNZNYNZNYNqNiNjNkSwSwSxSwSxSwSxSwSxSwSxSwSxSwSxSwTwTjTUTTTUTTTUTTTUTTTUTTRgQwQgQgQhHKHLQQWoWlWlWlWlWlWlWlWlWlWl
+BOARD 0 27 64 0 B8B8B8B8B8B8B/CoCpNpNoNpNoN1NJNzNDNUTATBTATBTATBTATBTATBTATBTATBSwUCTyTUTUTUTjTkTjTkTjTkTURwRgQwQQQxHaHbQAWlWlWlWlWlWlWlWlWlWlWl
+BOARD 0 28 64 0 B8B8B8B8B8B8B+BcB2CJNYNZNYNZNoNqNjN0SwSxSwSxSwSxSwSxSwSxSwSxSwSxSwSxTwTUTUTUTTTUTTTUTTTUTUTURwRxQgQBQSQTQQWlWlWlWlWlWlWlWlWlWlWl
+BOARD 0 29 64 0 B8B8B8B8B8B8B8B+BcB2BeNpNoNpNlNjNjN0TATBTATBTATBTATBTATBTATBTATBTATBUCTyTUTUTUTUTUTkTjTkTjTkTjRwRgQQQiQjQgWlWlWlWlWlWlWlWlWlWlWg
+BOARD 0 30 64 0 B8B8B8B8B8B8B8B8B+CYB2BeNYNlN6NjNBOESwSxSwSxSwSxSwSxSwSxSwSwSxSwSxSwTBUCTyTUTTTTTTTUTTTUTTTUTTRARBQg010101WlWlWlWlWlWlWlWlWlWlWw
+BOARD 0 31 64 0 B8B8B8B8B8B8COCeCoBrBGBuNlN6NyNBOETBTATBTATBTATBTATBTATBTATBTBTiTATBTBTBTwTjTUTjTjTUTjTkTjTkTjRQRRQx6X6H6HWlWlWlWlWlWlWlWlWlWlXA
+BOARD 0 32 64 0 B8B8B8B8B8COCfCfCfBGBuNZNqNjNiN0SwSxSwSxSwSxSwSxSwSxSwSxSwSxSwSxSwSxSwSwUCTyTUTTTTTTTTTUTTTUTTRgRhQA6X6X6XWlWlWlWlWlWlWlWlWlWlWl
+BOARD 0 33 64 0 B8CMCMB8CMBvCfCoBGBuNoNpNqNzNyN0TATBTATBTATBTATBTATBTATBTATBTATBTATBTATBTATwTjTUTjTkTjTkTjTkTjRwRxQB6X6X6XWlWlWlWlWlWlWlWlWlWlWl
+BOARD 0 34 64 0 B8CMCMCMCOCfCYBGBuNZNYNZNqNjNiNDNUSxSwSxSwSxSwSxSwSxSwSxSwSxSwSxSwSxSwSxSwUCTyTUTUTTTUTTTTTTTTTUTTSB6X6X6XWlWlWlWlWlWlWlWlWlWlWl
+BOARD 0 35 64 0 B8CMCMCMBvCYCoBWNoNpNoNpNqNzNzNzNkTBTBTATBTBTATBTATBTATBTATBTATBTATBTATBTBTATwTUTUTkTjTkTjTTTTTTTjSR6X6X6XWlWlWlWlWlWlWlWlWlWlWl
+BOARD 0 36 64 0 B8CMCMCMBvCYCYBWNYNZNYNZN1NJNzNjNDNUSxSwSxSxSwSxSwSxSwSxSwSxSwSxSwSxSwSwSxTAUCTyTTTUTTTUTTTUTTTURQQA6X6X6XWlWlVJVJVJVJVJVJVJVJVJ
+BOARD 0 37 64 0 B8CMCMCMB+BcCYB2CJNpNoNpNoNqNyNzNyNkTBTATBTBTATBTATBTATBSwSwSwSwTATBTBTATBTATBUCTyTUTjTkTjTkTjTkRgQA6X6X6XWlVJWMWLWLWMWMWLWMWLWL
+BOARD 0 38 64 0 B8BABABAB8B+BcCYCZNZNYNZNYNqNiNjNiNDNUSwSxSwSwSwSwSxSwSxSwSwSwSxSwSxSxSwSxSwSxTATwTUTTTUTTTTTTRARBQA6X6X6XVJVDWMWLWLWMWMWLWMWLWL
+BOARD 0 39 64 0 B8BABABAB8B8B+CoB2CJNoNpNoNqNyNzNyNzNkTBTBTBTATBTATBTATBTATBTATBTATBTBTATBTATBSwTwTUTjTkTjTTTjRQRRQQ6n6n6oVDWMWLWLWMWMWLWMWMWLWL
+BOARD 0 40 64 0 B8BABABABABABvCYBGC5NYNZNYN1NJNjNiNjNDNUSxSxSwSxSxSwSxSwSxSwSxSxSwSwSxSwSxSwSxTATwTUTTTUTTTUTURgRhQg6X6X6YVJWMWLVJfHfIVJWLWMWLWL
+BOARD 0 41 64 0 B8BABABABABABvCYB2CJNoNpNoNpN1NJNzNzNyNkTBTBTATBTBTATBTATBTATBTBTBTATBTATBTATBUgUhTkTjTUTjTkTURwRgQQ6n6n6oVDWLWMWMfXfYWMWLWLWMWL
+BOARD 0 42 64 0 B8BABABAB8COCfCnBGC5NYNZNYNZNYN1NJNjNKNDNUSxSwSxSwSwSxSwSxSwSxSwSxSwSxSwSxSwUgUhTTTUTTTUTTTUTTTTRQQg6W6n6YVJWMWMVJfXfYVJWMWLWMWL
+BOARD 0 43 64 0 B8BABAB8COCfCnBGC5C5NoNpNoNpNoNlN6NzNyNzNkTBTATBTATBTBTATBTATBTATBTBTBTATBTATwTkTjTUTjTkTjTkTTTTRg6G6W6n6o6I6ISfaQaQaQaQVgVg6H6I
+BOARD 0 44 64 0 B8BAB8COCfCnBGC5NYNZNYNZNYNZNlN6N6NjNzNzN0SxSwSxSxSwSxSwSxSwSxSwSxSwSxSwSxSwTwTUTTTUTTTUTTTUTTTU6G6W6W6n6n6n6nSvagagagagah6n6n6n
+BOARD 0 45 64 0 B8B8COCfCfBGC5NpNoNpNoNpNoNlN6NzNyNzNBODOETBTATBTATBTBTATBTATBTATBTATBTATBTAUCTyTjTkTjTkTjTkTj6G6W6W6W6n6n6n6n6n6n6n6n6n6n6n6n6n
+BOARD 0 46 64 0 BACOCfCnBGC5NYNZNYNZNYNZNlN6NiNjNzNzOETBSwSxSwSxSxSwSxSwSxSwSxSwSxSwSxSwSxSwTATwTTTUTTTUTTTUTT6W6W626W6n6n6n6n6n6n6n6n6n6n6n6n6n
+BOARD 0 47 64 0 B8BvCfBGC5NpNoNpNoNlN5N4N6NzNyNzNBOETATBTATBTATBTBTATBTATBTATBTATBTATBTATBTATATwTjTkTjTkTjTkTj6W62/H6263636363636363636363636363
+BOARD 0 48 64 0 COCfBGC5NYNZNYNZNlN6NzNjNiNjNiNBOETBSwSxSwSxSwSxSxSwSxSwSxSwSxSwSxSwSxSwSxSwUgUhTTTUTTTUTTTUTT62/G/H/G/HWi/H/H/H/H/H/H/H/H/H/H/H
+BOARD 0 49 64 0 COCfBWNoNpNpNoNlN6NjNzNzNzNiNBOETBTBTATBTATBTATBTBTATBTATBTATBTATBTATBTASxTATwTkTjTkTjTkTTTkRQRRQBQA/G/HWy/H/H/H/H/H/H/H/I070707
+BOARD 0 50 64 0 BvCnBWNpNZNZNYNqNjNzNBODODODOESxSwSxSwSxSwTASwSwSxSwSxSwSxSwSxSwSxSwSxSxUgUSUhTUTTTUTTTUTTRBQiQjQgQSQyQBQCQAQAQQQAQAQgQAQAQQQAQg
+BOARD 0 51 64 0 BvCXBmNZNoNpNoNqNzNBOETBTATBTATBTATBTATBTATBTATATBTiTBTATBTATBTBTATBUgUSUhTTTTTkTjTkTjTkRASBQyQzQwGqGrQCQSQAQQQAQQQAQwQAQSQgQQQw
+BOARD 0 52 64 0 CfCXBmNZNYNZNlNzNBOESwSxSwSxSwSxSwSxSwTASwSxSwSwSxSwSxSwSxSwSwSxSwUgUhTTTTTUTTTUTTTUTTTURQRRQCQDQSG6G7QCQiQQQCQSQgQQQAQAQAQAQBQA
+BOARD 0 53 64 0 CfBGC5NpNoNlN6NzN0TBTATBTATBTATBTATBTATBTATBTATATBTATBTBTATBTATBTATwTTTTTjTkTjTkTjTkTTRBQQQRQSQTQiQiQCQSQAQAQRQAQRQAQQQQQQQAQAQQ
+BOARD 0 54 64 0 BGC5NYNZNYNqNjNzNwSxSwSxSwSxSwSxSwSxTASxSwSxSwSwSxSwSxSwSwSxSwSxSwTwTTTUTTTUTTTUTTRARBQjQgQhQiQjQgQhQiQBQQQQQCQAQAQBQgQAQAQQQAQg
+BOARD 0 55 64 0 BWNoNoNpNoNqNzNzNwTBTATBTATBTATBTATBTATBTATBTATATBTBTBTBTBSxTATBTATwTTTjTjTjTjTkTTRQRRQQQwQxQyQzQwQxQBQAQAQAQAQQQAQAQwQAQSQgQQQw
+BOARD 0 56 64 0 BWNpNYNZNYN1NJNzNgSxSwSxSwSxSwSxSwSxSwSxSwSxSwSwSxSxSwSxSwSxSwSxUgUhTTTjTTTUTTTTRASBQCQBQAQBQCQDQQQBQCQQQQQQQQQAQQQAQAQAQAQAQBQA
+BOARD 0 57 64 0 CYCJNoNpNoNpNqNzNDNUTATBTATBTATBTATBTATBTATBTATSTATBTATBTATBTATBTwTkTjTjTjTkTjTTRQRRQSQBQQQRQSQTQQQQQSQgQAQgQCQSQgQQQQQQQQQAQAQQ
+BOARD 0 58 64 0 CXB2CJNZNYNlNzNzNzNkSwSxSwSxSwSxSwSxSwSxSwSxSwSxSwSxSwSxSwSxSwSxTwTUTjTUTTTURARBQQQhQiQCQgQhQiQCQSQgQQQwQAQwQxQwQxQAQgQAQAQQQAQg
+BOARD 0 59 64 0 CXCXBmNpNlNzNzNzNzN0TATBTATBTATBTATBTATBTATBTATBTATBTATBTASxTAUgUhTkTjTkTjTkRQRRQwQxQyQCQwGoGpQCQiQAQUQVQQQiQiQCQSQQQwQAQSQgQQQw
+BOARD 0 60 64 0 CnBGC5NlN6NzNzNBODOESwSxSwSxSwSxSwSxSwSxSwSxSwSxSwSxSwSxSwUgUSUhTTTUTTTUTTTURgQDQAQBQCQDQAG4G5QSQAQQQkQlQgQyQyQCQiQBQAQAQAQAQBQA
+BOARD 0 61 64 0 BGC5NYNqNjNzNBOETATBTATBTATBTATBTATBTATBTATBTATBTATBTATBTBTwTjTkTjTkTjTkTjTkRBQTQQQRQSQTQQQyQAQBQQQgQwQQQCQCQCQSQAQAQQQQQQQAQAQQ
+BOARD 0 62 64 0 BWNoNlNjNjNBOESxSwSxSwSxSwSxTSTASwSxSwSxSwSxSwSxSwSxSwSxUgUhTUTUTTTUTTTUTTTTRgQjQgQRQSQjQgQhQBQAQAQwQxQgQCQCQAQBQQQAQgQAQAQQQAQg
+BOARD 0 63 64 0 BGC5NqNjNzNwTATBTATBTATBTATBSxSwTATBTATBTATBTATBTATBTATBTwTTTTTUTjTkTjTkTjTkRwRxQiQhQRQSQQQxQyQQQQQwQxQwQxQAQBQAQAQQQwQAQSQgQQQw
+LINK worldmapkharlia_e04.nw 0 0 64 1 29.5 13
+NPC ky-hugecrate.gif 55 9
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-hugecrate.gif 59 9
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC beerkeg.gif 29 12
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC beerkeg.gif 54 11
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC beerkeg.gif 30 13
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC beerkeg.gif 57 11
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC beerkeg.gif 59 11
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC beerkeg.gif 57 12
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC beerkeg.gif 59 12
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC beerkeg.gif 58 13
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-metalcrate.gif 60 15
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-metalcrate.gif 60 14
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-gunpowder.gif 24 11
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-gunpowder.gif 56 14
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-gunpowder.gif 57 15
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_smeewntree1.gif 51 47
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_smeewntree1.gif 55 44
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC smeewntree1.gif 54 50
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_khmunu-tree3.gif 24 36
+//#CLIENTSIDE
+if (created) {
+  drawoverplayer;
+  setshape2 7,11,{
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 22, 22, 22, 0, 0, 0,
+    0, 22, 22, 22, 0, 0, 0,}
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-hugecrate.gif 25 12
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC lerhyn_ropenet2.gif 63 17
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC lerhyn_ropenet2.gif 25 13
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC asca-door.gif 57 40
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  dontblock;
+  drawunderplayer
+    }
+if (playertouchsme) {
+}
+NPCEND
+NPC val-newalosign1.gif 53 41
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+say2 Ganelon Port Tavern;
+}
+NPCEND
+NPC oakburn_window.gif 62 39
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 50 45
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,7,20,16,49;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 51 46
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,23,36,48,33;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 54 46
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,23,36,48,33;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 57 46
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,23,36,48,33;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 60 46
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,23,36,48,33;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 61 46
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,23,36,48,33;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 50 30
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,23,36,48,33;
+  blockagain;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 50 35
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,8,21,7,16;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 50 37
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,8,21,7,16;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 45 41
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,89,14,7,4;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_palmshadow.gif 26 42
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_smeewntree1.gif 44 56
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_palmshadow.gif 38 35
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_palmshadow.gif 23 6
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_khmunu-tree3.gif 35 29
+//#CLIENTSIDE
+if (created) {
+  drawoverplayer;
+  setshape2 7,11,{
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 22, 22, 22, 0, 0, 0,
+    0, 22, 22, 22, 0, 0, 0,}
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_khmunu-tree3.gif 21 0
+//#CLIENTSIDE
+if (created) {
+  drawoverplayer;
+  setshape2 7,11,{
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0,
+    0, 22, 22, 22, 0, 0, 0,
+      0, 22, 22, 22, 0, 0, 0,}
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironstreetlamp.gif 44 10
+join("world_streetlamp");
+NPCEND
+NPC val_ironstreetlamp.gif 60 37
+join("world_streetlamp");
+NPCEND
+NPC seg_balcony2.gif 50 36
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,8,21,7,16;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 50 35
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,8,21,7,16;
+  drawoverplayer;
+  blockagain;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 50 36
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,8,21,7,16;
+  drawoverplayer;
+  blockagain;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 50 38
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,8,21,7,16;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC lampanimation.gif 29 14
+join world_lamp;
+
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+x=x+.34;y=y+.4;
+drawoverplayer;dontblock;}
+NPCEND
+NPC lampanimation.gif 56 12
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart lampanimation.gif,0,0,19,35;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.4,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC - 5 12
+// Graal2002 NPC by Stefan Knorr
+//#CLIENTSIDE
+if (created) {
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,head708.png;
+  setcharprop #8,smeewns-public-body4.gif;
+  setcharprop #C0,orange;
+  setcharprop #C1,gray;
+  setcharprop #C2,gray;
+  setcharprop #C3,brown;
+  setcharprop #C4,black;
+  setcharprop #2,no-shield.gif;
+  setcharprop #n,Xavier Wilson, Fisherman of (Ganelon);
+  setcharani val-fishingrod-fishing,;
+  ap=100;
+  shieldpower = 1;
+  dir = 0;
+}
+if (playertouchsme) {
+say2 Fishing takes a lot of patience,#bbut the reward is well worth it.;
+}
+NPCEND
+NPC - 2 24
+//#CLIENTSIDE
+function onPlayerEnters() {
+  temp.effect = client.timeeffect;
+  temp.i = 1;
+  while(temp.i > temp.effect[3]) {
+    temp.i -= 0.05;
+    seteffect(temp.effect[0], temp.effect[1], temp.effect[2], temp.i);
+    sleep(0.05);
+  }
+  enabledefmovement();
+}
+NPCEND
+NPC - 34 14
+//#CLIENTSIDE
+if (created){
+{
+  showcharacter;
+  setcharprop #3,head855.png;
+  setcharprop #8,evilzero-head855match-body.gif;
+  setcharprop #C0,orange;
+  setcharprop #C1,113;
+  setcharprop #C2,darkred;
+  setcharprop #C3,109;
+  setcharprop #C4,111;
+  setcharprop #2,no-shield.gif;
+  setcharprop #n,'Bones', Sailor of (Ganelon);
+  shieldpower = 1;
+  ap = 0;
+  dir = 2;
+}
+}
+if (playerenters || timeout) {
+  setstring this.name,tamachan;
+  setcharani idle,idle;
+
+  this.randomx=int(random(-2,2));
+  this.randomy=int(random(-2,2));
+
+  if (!onwall(x+1.5*this.randomx,y+2*this.randomy) && !onwater(x+1.5*this.randomx,y+2*this.randomy )) {
+    move this.randomx,this.randomy,1,4+8+16+32;
+    setcharani walk,walk;
+  }
+  sleep 1;
+
+  setcharani idle, idle;
+  timeout = random(2,5);
+}
+
+if (playertouchsme) {
+say2 ::The sailor peers at you from#b
+under his turban with a look of#b
+disgust.::;
+}
+NPCEND
+NPC - 45 30
+//#CLIENTSIDE
+if (created){
+{
+  showcharacter;
+  setcharprop #3,head444.png;
+  setcharprop #8,arwind-watson-body102.png;
+  setcharprop #C0,orange;
+  setcharprop #C1,113;
+  setcharprop #C2,darkred;
+  setcharprop #C3,109;
+  setcharprop #C4,111;
+  setcharprop #P1,hat163.png;
+  setcharprop #2,no-shield.gif;
+  setcharprop #n,Bob Johnson, Merchant of (Ganelon);
+  shieldpower = 1;
+  ap = 100;
+  dir = 2;
+}
+}
+if (playerenters || timeout) {
+  setstring this.name,tamachan;
+  setcharani idle,idle;
+
+  this.randomx=int(random(-2,2));
+  this.randomy=int(random(-2,2));
+
+  if (!onwall(x+1.5*this.randomx,y+2*this.randomy) && !onwater(x+1.5*this.randomx,y+2*this.randomy )) {
+    move this.randomx,this.randomy,1,4+8+16+32;
+    setcharani walk,walk;
+  }
+  sleep 1;
+
+  setcharani idle, idle;
+  timeout = random(2,5);
+}
+
+if (playertouchsme) {
+say2 Hey there, son!  I'd try and#bsell you something, but I've not#byet set up shop!  Come back some#btime when I'm settled in, and we'll#btalk turkey.;
+}
+NPCEND
+NPC - 63 16
+if (created) {
+  setshape 1,16*10,16*1;
+}
+if (actionwarp) {
+  setlevel2 newganelon_wagonway.nw,3,43;
+}
+//#CLIENTSIDE
+if (created) {
+  setshape 1,16*1,16*12;
+}
+if (playertouchsme) {
+  disabledefmovement;
+  setani idle,;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.05;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.15;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.25;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.35;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.45;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.55;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.65;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.75;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.95;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],1;
+  setplayerdir 3;
+  triggeraction x,y,warp,;
+}
+NPCEND
+NPC val_smeewntree5crop.gif 33 0
+//#CLIENTSIDE
+if (created||playerenters) {
+setimgpart val_smeewntree5crop.gif,0,158,216,216;
+};
+NPCEND
+NPC val_smeewntree1.gif 52 0
+//#CLIENTSIDE
+if (created||playerenters) {
+setimgpart val_smeewntree1.gif,0,208,192,216;
+};
+NPCEND
+NPC seg_balcony2.gif 50 39
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,7,20,16,49;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 18 18
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 20 18
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 19 19
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 31 14
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 9 12
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC lampanimation.gif 9 11
+join world_lamp;
+
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+x=x+.34;y=y+.4;
+drawoverplayer;dontblock;}
+NPCEND
+NPC seg_balcony2.gif 50 34
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,8,21,7,16;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 50 33
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,8,21,7,16;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 50 32
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,8,21,7,16;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 50 31
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,8,21,7,16;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 50 30
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+  setimgpart seg_balcony2.gif,8,21,7,16;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND

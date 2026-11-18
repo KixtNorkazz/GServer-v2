@@ -1,0 +1,1198 @@
+GLEVNW01
+BOARD 0 0 64 0 0c0c0c0c0c0c0c0c0c0caCaDaDaE0c0c0c0c0c0c0c0c0c0c0c0caCaDaDaE0c0c0c0c0c0c0c0c0c0c0c0caCaDaDaE0c0c0c0c0c0c0c0c0c0c0c0caCaDaDaE0c0c
+BOARD 0 1 64 0 0c0c0c0c0c0c0c0c0c0caSaTaTaU0c0c0c0c0c0c0c0c0c0c0c0caSaTaTaU0c0c0c0c0c0c0c0c0c0c0c0caSaTaTaU0c0c0c0c0c0c0c0c0c0c0c0caSaTaTaU0c0c
+BOARD 0 2 64 0 0c0c0c0c0c0c0c0c0c0caiajajak0c0c0c0c0c0c0c0c0c0c0c0caiajajak0c0c0c0c0c0c0c0c0c0c0c0caiajajak0c0c0c0c0c0c0c0c0c0c0c0caiajajak0c0c
+BOARD 0 3 64 0 0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c
+BOARD 0 4 64 0 0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s0s
+BOARD 0 5 64 0 9gsGsH1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9g9h
+BOARD 0 6 64 0 9wsWsX1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9w9x
+BOARD 0 7 64 0 9wsWsX1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9w9x
+BOARD 0 8 64 0 +AsWsX2P+A+A+A+A+B2P+A+A+A+A+B2P+A+A+A+A+B2P+A+A+A+A+B2P+A+A+A+A+B2P+A+A+A+A+B2P+A+A+A+A+B2P+A+A+A+A+B2P+A+A+A+A+B2P+A+A+A+A+A+B
+BOARD 0 9 64 0 9psWsX9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p
+BOARD 0 10 64 0 9psWsX9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p
+BOARD 0 11 64 0 9psWsX9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p
+BOARD 0 12 64 0 9psWsX9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p9p
+BOARD 0 13 64 0 9gsWsX1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9h1v9g9g9g9g9g9h
+BOARD 0 14 64 0 9wsWsX1/W5W5W5W59x1/W5W5W5W59x1/9w9w9w9w9x1/W5W5W5W59x1/W5W5W5W59x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9x1/9w9w9w9w9w9x
+BOARD 0 15 64 0 +AsWsX2PW5W5W5W5+B2PW5W5W5W5+B2P+A+A+A+A+B2PW5W5W5W5+B2PW5W5W5W5+B2P+A+A+A+A+B2P+A+A+A+A+B2P+A+A+A+A+B2P+A+A+A+A+B2P+A+A+A+A+A+B
+BOARD 0 16 64 0 +nsWsX+nW5W5W5W5+n+nW5W5W5W5+n+n+n+n+n+n+n+nW5W5W5W5+n+nW5W5W5W5+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n+n
+BOARD 0 17 64 0 /Hsmsn/HW5W5W5W5/H/HW5W5W5W5/H/H/H/H/H/H/H/HW5W5W5W5/H/HW5W5W5W5/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H/H
+BOARD 0 18 64 0 cKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcK
+BOARD 0 19 64 0 cWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcMcLcLcNcWcWcWcWcWcWcWcWcWcWcWcWcWcWcMcLcLcNcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcMcLcLcNcWcWcWcWcWcWcW
+BOARD 0 20 64 0 cLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcfcLcLcecLcLcLcLcLcLcLcLcLcLcLcLcLcLcfcLcLcecLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcfcLcLcecLcLcLcLcLcLcL
+BOARD 0 21 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 22 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 23 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 24 64 0 cucucucuctcmcscucucucuctcmcscucucucuctcmcscucucucuctcmcscucucucuctcmcscucucucuctcmcscucucucuctcmcscucucucuctcmcscucucucuctcmcscu
+BOARD 0 25 64 0 cvcvcvcvc9cmc8cvcvcvcvc9cmc8cvcvcvcvc9cmc8cvcvcvcvc9cmc8cvcvcvcvc9cmc8cvcvcvcvc9cmc8cvcvcvcvc9cmc8cvcvcvcvc9cmc8cvcvcvcvc9cmc8cv
+BOARD 0 26 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 27 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 28 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 29 64 0 cKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcK
+BOARD 0 30 64 0 cWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcW
+BOARD 0 31 64 0 cLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcNcWcWcWcWcWcWcMcLcLcLcLcLcLcNcWcWcMcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcNcWcWcWcWcWcWcMcLcLcLcL
+BOARD 0 32 64 0 8l8l8l8l8l8l8l8l8l8l8l8l8081fqcacWcWcWcWcWcWcbfq8y8z8l8l8lcecLcLcf8l8l8l8l8l8l8l8l8l8l8l8l8l8l8l8l8081fqcacWcWcWcWcWcWcbfq8y8z8l
+BOARD 0 33 64 0 8l8l8l8l8l8l8l8l8l8l8l8l8y81fqcacWcWcWcWcWcWcbfq8y818l8l8lcecLcLcf8l8l8l8l8l8l8l8l8l8l8l8l8l8l8l8l8y81fqcacWcWcWcWcWcWcbfq8y818l
+BOARD 0 34 64 0 8l8l8l8l8l8l8l8l8l8l8l8l8081f6cacWcWcWcWcWcWcbf68y8z8l8lcNcWcWcWcWcWcWcWcb8l8l8l8l8l8l8l8l8l8l8l8l8081f6cacWcWcWcWcWcWcbf68y8z8l
+BOARD 0 35 64 0 BMBMBMBMBLBMBLBLBMBMBMBMBNBLBPcacWcWcWcWcWcWcbBKBMBMBMBPcecLcLcLcLcLcLcLcfBKBMBMBMBLBMBLBLBMBMBMBMBNBLBPcacWcWcWcWcWcWcbBKBMBMBM
+BOARD 0 36 64 0 B8B8B8B8B8B7B8B8B7B8B7B7B8CMBfcacWcWcWcWcWcWcbBqB8B7B7Bff6818l8l8l8l8l8yf6BqB8B8B8B8B7B8B8B7B8B7B7B8CMBfcacWcWcWcWcWcWcbBqB8B7B7
+BOARD 0 37 64 0 CMCLCLCLCMCLCMCMCLCMCLCLB8B8BfcacWcWcWcWcWcWcbB6CMCMCLB+BLBMBMBMBMBLBLBMBMB9CMCLCLCMCLCMCMCLCMCLCLB8B8BfcacWcWcWcWcWcWcbB6CMCMCL
+BOARD 0 38 64 0 B7B7B8B8B7B8B7B7B8B7B8B8CLCMB+cacWcWcWcWcWcWcbB9B8B7B7B7B7B7BAB7BAB7B7B7BAB7B7B8B8B7B8B7B7B8B7B8B8CLCMB+cacWcWcWcWcWcWcbB9B8B7B7
+BOARD 0 39 64 0 B7B7B7B7B7B7B7B7B7B7CMCMB7B8B7cacWcWcWcWcWcWcbB7B8B8BABAB8B7B8B7B8B7B8B8BAB7B7B7B7B7B7B7B7B7B7CMCMB7B8B7cacWcWcWcWcWcWcbB7B8B8BA
+BOARD 0 40 64 0 B7B7B7B7B7B7B7B7B7B7CMCMB7B8CMcacWcWcWcWcWcWcbB7B8B8BABAB8B7B8B7B8B7B8B8BAB7B7B7B7B7B7B7B7B7B7CMCMB7B8CMcacWcWcWcWcWcWcbB7B8B8BA
+BOARD 0 41 64 0 B8B7B8B8B7B8B7B7B8B8B8B8CLCMB8cacWcWcWcWcWcWcbB7CMCMBABACMCLCMCLCMCLCMCMBAB8B7B8B8B7B8B7B7B8B8B8B8CLCMB8cacWcWcWcWcWcWcbB7CMCMBA
+BOARD 0 42 64 0 CMCLCMCMCLCMCLCLCMCMCMCMCLCMCMcacWcWcWcWcWcWcbB7B8B8BAB8B7B8B7B8B7B8BAB8BACMCLCMCMCLCMCLCLCMCMCMCMCLCMCMcacWcWcWcWcWcWcbB7B8B8BA
+BOARD 0 43 64 0 CMBACMCMCLCMCLCLCMCLCMCMCLCMB+cacWcWcWcWcWcWcbCNCMCMBACMCLCMCLCMCLCMBACMCLCMBACMCMCLCMCLCLCMCLCMCMCLCMB+cacWcWcWcWcWcWcbCNCMCMBA
+BOARD 0 44 64 0 B7B8B7B7B8B7B8B8B7B8B7B7B8B7B+cacWcWcWcWcWcWcbBqB8B8B7B7B8B7B8B7B8B8B8B7B8B7B8B7B7B8B7B8B8B7B8B7B7B8B7B+cacWcWcWcWcWcWcbBqB8B8B7
+BOARD 0 45 64 0 CLCMCLCLCMCLCMCMCLCMCLCLCMCLBfcacWcWcWcWcWcWcbBqCMCMCLCLCMCLCMCLCMCMCMCLCMCLCMCLCLCMCLCMCMCLCMCLCLCMCLBfcacWcWcWcWcWcWcbBqCMCMCL
+BOARD 0 46 64 0 cKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcdcWcWcWcWcWcWcccKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcdcWcWcWcWcWcWcccKcKcKcK
+BOARD 0 47 64 0 cMcLcLcNcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcMcLcLcNcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcW
+BOARD 0 48 64 0 cfcLcLcecLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcfcLcLcecLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcL
+BOARD 0 49 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 50 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 51 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 52 64 0 cscucucucuctcmcscucucucuctcmcscucucucuctcmcscucucucuctcmcscucucucuctcmcscucucucuctcmcscucucucuctcmcscucucucuctcmcscucucucuctcmcs
+BOARD 0 53 64 0 c8cvcvcvcvc9cmc8cvcvcvcvc9cmc8cvcvcvcvc9cmc8cvcvcvcvc9cmc8cvcvcvcvc9cmc8cvcvcvcvc9cmc8cvcvcvcvc9cmc8cvcvcvcvc9cmc8cvcvcvcvc9cmc8
+BOARD 0 54 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 55 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 56 64 0 cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+BOARD 0 57 64 0 cKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcPcKcKcOcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcPcKcKcOcKcKcKcKcKcK
+BOARD 0 58 64 0 cWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcccKcKcdcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcccKcKcdcWcWcWcWcWcW
+BOARD 0 59 64 0 cWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcWcW
+BOARD 0 60 64 0 VFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVHVFVIVIcWcWcWcWcWcWcWcWcWVHVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVF
+BOARD 0 61 64 0 nwnwnwnwnwnwnwnwnwnwnwnwnwnwnwnwnwnwnwnwnwnwnwnwVVbAVGVGcWcWcWcWcWcWcWcWcWVVf/nwnwnwnwnwnwnwnwnwnwnwVHVFVFVFVFVFVFVFVFVFVFVInwnw
+BOARD 0 62 64 0 9D9D9D9D9D9D9D9D9D0J0p0p0p0K9D9D9D9D9D9D9D9D9D9DVXVWVYVGcWcWcWcWcWcWcWcWcWVV0L0M0MVHVFVFVFVI0M0M0M0MVV1v1t1t1t1t1t1t1t1t9hVG0M0M
+BOARD 0 63 64 0 9T9T9T9T9T9T9T9TS/0Z0606060aax9T9T9T9T9T9T9T9T9TsGfqsHVGcWcWcWcWcWcWcWcWcWVV0b0c0cVXVWVWVWVY0c0c0c0cVV18aCaDaE1919aCaDaE1+VG0c0c
+NPC val_ironfence1.gif 15 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 15 31
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 15 34
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 15 37
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 15 40
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 15 42
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 15 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 15 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 0 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 3 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 6 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 9 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 12 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 0 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 3 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 6 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 9 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 1 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 4 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 7 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 10 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 13 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 13 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 1 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 4 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 7 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 10 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 22 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 22 31
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 22 34
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 22 37
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 22 40
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 22 42
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 52 40
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 52 37
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 52 34
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 52 31
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 52 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 52 42
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 22 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 52 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 22 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 52 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 25 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 25 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 46 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 28 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 31 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 34 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 37 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 40 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 43 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 49 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 49 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 46 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 43 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 40 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 37 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 34 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 28 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 23 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 23 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 26 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 29 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 32 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 35 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 38 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 41 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 44 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 47 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 50 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 26 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 35 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 38 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 41 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 44 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 47 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 50 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 59 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 59 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 59 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 59 31
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 59 34
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 59 37
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 59 40
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 59 42
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 60 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 60 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 62 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 62 44
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 63 29
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 63 44
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC water32.gif 3 37
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 8 41
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 13 39
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 13 41
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 23 39
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 23 41
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 30 38
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 37 41
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 41 37
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 43 41
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 50 39
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 50 41
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 60 39
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC water32.gif 60 41
+// NPC made by Stefan Knorr
+if (created) {
+  setimg water32.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .5,.5,1,.2;
+setzoomeffect 1;
+  drawaslight;
+}
+NPCEND
+NPC val-durandal-door3closed.gif 28 14
+
+dontblock;drawunderplayer;
+NPCEND
+NPC val-durandal-door3.gif 22 14
+
+dontblock;drawunderplayer;
+NPCEND
+NPC val-durandal-door3closed.gif 10 14
+
+dontblock;drawunderplayer;
+NPCEND
+NPC val-durandal-door3.gif 4 14
+
+dontblock;drawunderplayer;
+NPCEND
+NPC val-durandal-door3closed.gif 40 14
+
+dontblock;drawunderplayer;
+NPCEND
+NPC val-durandal-door3closed.gif 46 14
+
+dontblock;drawunderplayer;
+NPCEND
+NPC girder-ns.gif 63 63
+NPCEND
+NPC val_ironfence1.gif 12 29
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 54 13
+join("world_streetlamp");
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 17 13
+join("world_streetlamp");
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 35 13
+join("world_streetlamp");
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 37 41
+join("world_streetlamp");
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 1 41
+join("world_streetlamp");
+NPCEND
+NPC val-steamvent.gif 1 57
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+
+  drawunderplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-steamvent.gif 37 57
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+
+  drawunderplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 36 55
+//#CLIENTSIDE
+function onCreated()
+  {drawaslight;
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.4;
+    emitter.delaymax=.8;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC - 0 55
+//#CLIENTSIDE
+function onCreated()
+  {drawaslight;
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.4;
+    emitter.delaymax=.8;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 3 23
+join("world_streetlamp");
+if (created) {
+  y=y-.5;
+}
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 41 23
+join("world_streetlamp");
+if (created) {
+  y=y-.5;
+}
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 55 51
+join("world_streetlamp");
+if (created) {
+  y=y-.5;
+}
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 18 51
+join("world_streetlamp");
+if (created) {
+  y=y-.5;
+}
+NPCEND
+NPC val_durandalwindow-metal.png 4 5
+if (created) {x=x+.5;
+}
+NPCEND
+NPC val_durandalwindow-metal.png 52 5
+if (created) {x=x+.5;
+}
+NPCEND
+NPC val_durandalwindow-metal.png 16 5
+if (created) {x=x+.5;
+}
+NPCEND
+NPC val_durandalwindow-metal.png 28 5
+if (created) {x=x+.5;
+}
+NPCEND
+NPC val_durandalwindow-metal.png 40 5
+if (created) {x=x+.5;
+}
+NPCEND
+NPC - 58 14
+join("akiltest1");
+this.setupInfo = {"The Breakdown", "breakdown_a1.nw", 29.5, 53, 0 };
+//#CLIENTSIDE
+this.setupInfo = {"The Breakdown", "breakdown_a1.nw", 29.5, 53, 0 };
+this.warpArea = { 2, 2 };
+dontblock;drawunderplayer;
+NPCEND

@@ -1,0 +1,26 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.attr[1] = "val_tomatohat.gif";
+  this.head = "vhead71.gif";
+  this.body = "val_rakshasa-body100.png";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.swordpower = 1;
+  this.shield = "no-shield.gif";
+  this.shieldpower = 1;
+  this.ap = 100;
+  this.nick = "Mage Jerrod";
+  this.dir = 3;
+}
+
+function onPlayerTouchsMe() {
+  message("If only they could see me now..");
+  sleep(4);
+  message();
+}

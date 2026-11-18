@@ -1,0 +1,457 @@
+ROWS=8
+def label(n,x,y,w,t): return f'new GuiTextCtrl("{n}") {{\nprofile = ChatTextProfile;\nx = {x};\ny = {y};\nwidth = {w};\nheight = 18;\ntext = "{t}";\n}}\n'
+def button(n,x,y,w,t,h=24): return f'new GuiButtonCtrl("{n}") {{\nx = {x};\ny = {y};\nwidth = {w};\nheight = {h};\ntext = "{t}";\n}}\n'
+def edit(n,x,y,w): return f'new GuiTextEditCtrl("{n}") {{\nx = {x};\ny = {y};\nwidth = {w};\nheight = 22;\n}}\n'
+body=label("Gu_Name",10,8,240,"")+button("Gu_Prev",252,4,48,"<")+button("Gu_Next",304,4,48,">")
+for i in range(ROWS): body+=button(f"Gu_R{i}",10,34+i*22,296,"",20)
+body+=button("Gu_Up",312,34,40,"^")+button("Gu_Down",312,62,40,"v")
+by=34+ROWS*22+6
+body+=label("Gu_Msg",10,by,342,"")
+body+=label("Gu_AcctL",10,by+30,56,"Account")+edit("Gu_Acct",70,by+28,110)+label("Gu_NickL",190,by+30,40,"Name")+edit("Gu_Nick",232,by+28,120)
+bb=by+60
+body+=button("Gu_Add",10,bb,60,"Add")+button("Gu_Remove",74,bb,70,"Remove")+button("Gu_Rank",148,bb,66,"Rank")+button("Gu_SetNick",218,bb,70,"Set name")+button("Gu_Leave",292,bb,60,"Leave")
+body+=label("Gu_NewL",10,bb+36,66,"New guild")+edit("Gu_New",80,bb+34,170)+button("Gu_Create",256,bb+33,96,"Create (staff)")
+body+=button("Gu_Wear",10,bb+68,170,"Wear tag")+button("Gu_Unwear",186,bb+68,166,"Tag off")
+EXT=f"376,{bb+156}"
+win=f'''if (isObject("Guild_Window"))
+Guild_Window.destroy();
+new GuiWindowCtrl("Guild_Window") {{
+clientrelative = true;
+clientextent = "{EXT}";
+canclose = true;
+canmaximize = false;
+canminimize = false;
+canmove = true;
+canresize = false;
+closequery = false;
+destroyonhide = false;
+externalwindow = "";
+isexternal = (client.winext != "off");
+text = "Guild";
+{body}}}
+Guild_Window.hide();
+'''
+unroll="".join(f"Gu_R{i}.text = this.rowText({i});\n" for i in range(ROWS))
+vis="".join(f"if (this.rowText({i}) == \"\") {{\nGu_R{i}.hide();\n}} else {{\nGu_R{i}.show();\n}}\n" for i in range(ROWS))
+rowh="".join(f"function Gu_R{i}.onAction() {{\npickRow({i});\n}}\n\n" for i in range(ROWS))
+src=f'''GRAWP001
+REALNAME -Guilds
+IMAGE 
+SCRIPT
+//#CLIENTSIDE
+// v6 guild window (F4). The server (gr.guild trigger commands) keeps the guilds and checks every change; this window asks and shows the answer.
+// The server's replies come back to this weapon, so it must be called -Guilds:  clientside,-Guilds,info,... and clientside,-Guilds,message,text.
+function onCreated() {{
+echo("-Guilds: onCreated");
+this.gnames = {{}};
+this.granks = {{}};
+this.gmembers = {{}};
+this.cur = 0;
+this.top = 0;
+this.sel = -1;
+this.msg = "";
+this.tick = 0;
+this.extgen = int(client.winextgen);
+this.build();
+setTimer(0.2);
+}}
+
+function build() {{
+if (!isObject("ChatTextProfile")) {{
+new GuiTextProfile("ChatTextProfile") {{
+fontcolor = {{0, 0, 0}};
+}}
+}}
+{win}}}
+
+function toggle() {{
+if (Guild_Window.visible) {{
+Guild_Window.hide();
+}} else {{
+if (client.winext == "off") {{
+Guild_Window.position = {{int((screenwidth - 380) / 2), int((screenheight - 420) / 2)}};
+client.openwindow = "menuhide";
+}}
+Guild_Window.show();
+this.ask();
+this.refresh();
+}}
+}}
+
+function ask() {{
+triggeraction(0, 0, "gr.guild", "info");
+}}
+
+function onKeyPressed(code, key) {{
+if (code == 71) {{
+this.toggle();
+}}
+}}
+
+function rankName(r) {{
+if (r >= 2) {{
+return "leader";
+}}
+if (r == 1) {{
+return "officer";
+}}
+return "member";
+}}
+
+function isOnline(account) {{
+if (account == player.account) {{
+return true;
+}}
+for (temp.p: players) {{
+if (temp.p.account == account) {{
+return true;
+}}
+}}
+return false;
+}}
+
+function memberList() {{
+if (this.cur >= this.gmembers.size()) {{
+temp.empty = {{}};
+return temp.empty;
+}}
+return this.gmembers[this.cur];
+}}
+
+function rowText(i) {{
+temp.m = this.memberList();
+temp.k = (this.top + i) * 3;
+if (temp.k + 2 >= temp.m.size()) {{
+return "";
+}}
+temp.t = temp.m[temp.k];
+if (temp.m[temp.k + 2] != "") {{
+temp.t = temp.t @ " (" @ temp.m[temp.k + 2] @ ")";
+}}
+temp.t = temp.t @ "   " @ this.rankName(temp.m[temp.k + 1]);
+if (this.isOnline(temp.m[temp.k])) {{
+temp.t = temp.t @ "   online";
+}}
+if (this.top + i == this.sel) {{
+temp.t = "> " @ temp.t;
+}}
+return temp.t;
+}}
+
+function myRank() {{
+if (this.cur < this.granks.size()) {{
+return this.granks[this.cur];
+}}
+return -1;
+}}
+
+function refresh() {{
+if (this.gnames.size() == 0) {{
+Gu_Name.text = "You are not in a guild";
+}} else {{
+Gu_Name.text = this.gnames[this.cur] @ " - you are " @ this.rankName(this.myRank());
+}}
+{unroll}{vis}Gu_Msg.text = this.msg;
+}}
+
+function pickRow(i) {{
+temp.m = this.memberList();
+temp.k = (this.top + i) * 3;
+if (temp.k + 2 >= temp.m.size()) {{
+return;
+}}
+this.sel = this.top + i;
+Gu_Acct.text = temp.m[temp.k];
+Gu_Nick.text = temp.m[temp.k + 2];
+this.refresh();
+}}
+
+function selAccount() {{
+temp.a = Gu_Acct.text;
+return temp.a;
+}}
+
+function scrollRows(d) {{
+temp.n = int(this.memberList().size() / 3) - {ROWS};
+if (temp.n < 0) {{
+temp.n = 0;
+}}
+this.top = this.top + d;
+if (this.top > temp.n) {{
+this.top = temp.n;
+}}
+if (this.top < 0) {{
+this.top = 0;
+}}
+this.refresh();
+}}
+
+function nextGuild(d) {{
+if (this.gnames.size() == 0) {{
+return;
+}}
+this.cur = this.cur + d;
+if (this.cur >= this.gnames.size()) {{
+this.cur = 0;
+}}
+if (this.cur < 0) {{
+this.cur = this.gnames.size() - 1;
+}}
+this.top = 0;
+this.sel = -1;
+this.refresh();
+}}
+
+function guildName() {{
+if (this.gnames.size() == 0) {{
+return "";
+}}
+return this.gnames[this.cur];
+}}
+
+function doAdd() {{
+if (this.guildName() == "" || this.selAccount() == "") {{
+this.msg = "Type the account to add first.";
+this.refresh();
+return;
+}}
+triggeraction(0, 0, "gr.guild", "add", this.guildName(), this.selAccount(), Gu_Nick.text);
+}}
+
+function doRemove() {{
+if (this.guildName() == "" || this.selAccount() == "") {{
+this.msg = "Pick a member first.";
+this.refresh();
+return;
+}}
+triggeraction(0, 0, "gr.guild", "remove", this.guildName(), this.selAccount());
+}}
+
+function doCreate() {{
+temp.n = Gu_New.text;
+if (temp.n == "") {{
+this.msg = "Type the name of the new guild first.";
+this.refresh();
+return;
+}}
+triggeraction(0, 0, "gr.guild", "create", temp.n);
+Gu_New.text = "";
+}}
+
+function doWear() {{
+if (this.guildName() == "") {{
+return;
+}}
+triggeraction(0, 0, "gr.guild", "wear", this.guildName());
+}}
+
+function doUnwear() {{
+if (this.guildName() == "") {{
+return;
+}}
+triggeraction(0, 0, "gr.guild", "unwear", this.guildName());
+}}
+
+function doLeave() {{
+if (this.guildName() == "") {{
+return;
+}}
+triggeraction(0, 0, "gr.guild", "leave", this.guildName());
+}}
+
+function doNick() {{
+if (this.guildName() == "" || this.selAccount() == "") {{
+this.msg = "Pick a member first.";
+this.refresh();
+return;
+}}
+triggeraction(0, 0, "gr.guild", "nick", this.guildName(), this.selAccount(), Gu_Nick.text);
+}}
+
+function doRank() {{
+temp.a = this.selAccount();
+temp.m = this.memberList();
+temp.r = -1;
+temp.k = 0;
+while (temp.k + 2 < temp.m.size()) {{
+if (temp.m[temp.k] == temp.a) {{
+temp.r = temp.m[temp.k + 1];
+}}
+temp.k = temp.k + 3;
+}}
+if (this.guildName() == "" || temp.r < 0) {{
+this.msg = "Pick a member first.";
+this.refresh();
+return;
+}}
+temp.nr = "officer";
+if (temp.r == 1) {{
+temp.nr = "leader";
+}} else if (temp.r >= 2) {{
+temp.nr = "member";
+}}
+triggeraction(0, 0, "gr.guild", "rank", this.guildName(), temp.a, temp.nr);
+}}
+
+// the reply of the server: params = the fields after clientside,-Guilds (kind, then the data)
+function splitCsv(text) {{
+temp.res = {{}};
+temp.cur = "";
+temp.len = text.length();
+for (temp.ci = 0; temp.ci < temp.len; temp.ci++) {{
+temp.ch = text.substring(temp.ci, 1);
+if (temp.ch == ",") {{
+temp.res.add(temp.cur);
+temp.cur = "";
+}} else {{
+temp.cur = temp.cur @ temp.ch;
+}}
+}}
+temp.res.add(temp.cur);
+return temp.res;
+}}
+
+function onActionClientSide(dataname) {{
+echo("-Guilds: action received, " @ params.size() @ " param(s)");
+temp.pr = params;
+if (params.size() <= 1) {{
+temp.pr = this.splitCsv(params[0]);
+}}
+temp.base = -1;
+for (temp.i = 0; temp.i < temp.pr.size(); temp.i++) {{
+if (temp.pr[temp.i] == "info" || temp.pr[temp.i] == "message") {{
+temp.base = temp.i;
+break;
+}}
+}}
+if (temp.base < 0) {{
+echo("-Guilds: unknown reply " @ params[0]);
+return;
+}}
+if (temp.pr[temp.base] == "message") {{
+temp.m = "";
+for (temp.i = temp.base + 1; temp.i < temp.pr.size(); temp.i++) {{
+if (temp.m != "") {{
+temp.m = temp.m @ ", ";
+}}
+temp.m = temp.m @ temp.pr[temp.i];
+}}
+this.msg = temp.m;
+this.refresh();
+return;
+}}
+this.parseInfo(temp.pr, temp.base);
+}}
+
+function parseInfo(pr, base) {{
+this.gnames = {{}};
+this.granks = {{}};
+this.gmembers = {{}};
+temp.n = int(pr[base + 1]);
+temp.i = base + 2;
+for (temp.g = 0; temp.g < temp.n; temp.g++) {{
+temp.gname = pr[temp.i];
+temp.rk = int(pr[temp.i + 1]);
+temp.cnt = int(pr[temp.i + 2]);
+temp.i = temp.i + 3;
+temp.flat = {{}};
+for (temp.pass = 2; temp.pass >= 0; temp.pass--) {{
+for (temp.k = 0; temp.k < temp.cnt; temp.k++) {{
+temp.at = temp.i + temp.k * 3;
+if (int(pr[temp.at + 1]) == temp.pass) {{
+temp.flat.add(pr[temp.at]);
+temp.flat.add(int(pr[temp.at + 1]));
+temp.flat.add(pr[temp.at + 2]);
+}}
+}}
+}}
+temp.i = temp.i + temp.cnt * 3;
+this.gnames.add(temp.gname);
+this.granks.add(temp.rk);
+this.gmembers.add(temp.flat);
+}}
+if (this.cur >= this.gnames.size()) {{
+this.cur = 0;
+}}
+this.refresh();
+}}
+
+function Gu_Prev.onAction() {{
+nextGuild(-1);
+}}
+
+function Gu_Next.onAction() {{
+nextGuild(1);
+}}
+
+function Gu_Up.onAction() {{
+scrollRows(-1);
+}}
+
+function Gu_Down.onAction() {{
+scrollRows(1);
+}}
+
+function Gu_Add.onAction() {{
+doAdd();
+}}
+
+function Gu_Remove.onAction() {{
+doRemove();
+}}
+
+function Gu_Rank.onAction() {{
+doRank();
+}}
+
+function Gu_SetNick.onAction() {{
+doNick();
+}}
+
+function Gu_Wear.onAction() {{
+doWear();
+}}
+
+function Gu_Unwear.onAction() {{
+doUnwear();
+}}
+
+function Gu_Create.onAction() {{
+doCreate();
+}}
+
+function Gu_Leave.onAction() {{
+doLeave();
+}}
+
+{rowh}function checkWinExt() {{
+if (int(client.winextgen) != this.extgen) {{
+this.extgen = int(client.winextgen);
+temp.was = Guild_Window.visible;
+this.build();
+if (temp.was) {{
+this.toggle();
+}}
+}}
+}}
+
+function onTimeOut() {{
+this.checkWinExt();
+if (client.openwindow == "guild") {{
+client.openwindow = "";
+this.toggle();
+}}
+if (Guild_Window.visible) {{
+this.tick = this.tick + 1;
+if (this.tick >= 50) {{
+this.tick = 0;
+this.ask();
+}}
+}}
+setTimer(0.2);
+}}
+SCRIPTEND
+'''
+import re as _re
+src=_re.sub(r"\n//(?!#)[^\n]*","",src)       # no comments inside the weapon: the server's minifier broke on them
+open("weapon%045Guilds.txt","w").write(src); print(len(src.encode()))

@@ -1,0 +1,25 @@
+//#CLIENTSIDE
+function onPlayerChats() {
+  if ((player.chat == "Fire On")&&("#g" == "The Horde")) {
+    show();
+  }
+  if ((player.chat == "Fire Off")&&("#g" == "The Horde")) {
+    hide();
+  }
+}
+
+function onPlayerEnters() {
+  setcoloreffect(.5, .2, 0, 0.99);
+  drawaslight();
+  this.light = 2;
+  setTimer(0.05);
+}
+
+function onTimeOut() {
+  this.light += random(-0.2, 0.2);
+  if (!false) {
+    this.light = 2;
+  }
+  setzoomeffect(this.light);
+  setTimer(0.05);
+}

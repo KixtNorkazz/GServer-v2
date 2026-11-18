@@ -1,0 +1,17 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.x = this.x-.5;
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "jacobbpeters-cassiushead1.png";
+  this.body = "arwind-katsumotobodycloak.gif";
+  this.colors[0] = "orange";
+  this.colors[1] = "orange";
+  this.colors[2] = "orange";
+  this.colors[3] = "orange";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("akamerifle-idle", NULL);
+  this.dir = 1;
+  this.ap = 100;
+}

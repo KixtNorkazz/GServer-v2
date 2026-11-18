@@ -1,0 +1,402 @@
+GLEVNW01
+BOARD 0 0 64 0 f+f+f+f+f+f+f+f+f+f+f+0WTTTUTTTUTTTU10sOsP0j0Uf+f+f+f+f+0WTUTTTUa8acatTUTTTUS1000k0l0l0l0l0m020Q0R02TTTUasatReR/TTS02E2Lf+f+AgAg
+BOARD 0 1 64 0 f+f+f+f+f+f+f+f+f+f+0C0mTjTkRaRdTjTkblTkTj0o0Uf+f+f+f+f+0WTkTjTkasaca9TkTjTkTj00000Q0R0Q0R0i02sOsP11Tjasaca9TjYmTjTk0UAgAgf+AgAg
+BOARD 0 2 64 0 f+f+f+f+f+f+f+0C0l0l0m02RcRbRqR9TTTUb1TUTTTU0Uf+f+f+f+0C0mTUTTTUa8a9TTTUTTTUTT00000g0h0g0h0S02TUTTTUTTa8a9TUTTYWS12E0Yf+AgAgAgAg
+BOARD 0 3 64 0 f+f+f+f+f+f+f+0W0g0h0S02Q4Q5RrSNTjTkTjTkTjS10Uf+f+f+0C0m02TkTjTkTjTkTjTkTjTkTj10000Q0R0Q0R0i02TkTjTkTjTkasatTjReR/0Uf+f+AgAgAgAg
+BOARD 0 4 64 0 f+f+f+f+f+f+f+0W0Q0R0i11SMSLRtTUTTTUTTS0TT170Yf+f+f+0W0i02TUb1TUTTRaRdTUTTTUTTTU000g0h0g0h0S02RfRfRfRfR/a8a9TTTURe0Uf+f+AgAgAgAg
+BOARD 0 5 64 0 f+f+f+f+f+f+f+0WsOsP0nS0TjR6R9TkTj170F0F0F2Lf+f+f+f+0W0S02TkasatTjRqRtTkTjTkTjTk000Q0R0Q0R0i11TkTjTkTjReRfRfR/TkTj0k0Df+AgAgAgAg
+BOARD 0 6 64 0 f+f+f+f+f+f+f+0WTTTUTTTUTTSLSMTU2E2Lf+f+f+f+f+f+f+f+0W0i02TUa8a9TTR6R9b1TTTUTTTU10sOsPsOsP0nS0TUTTTUTTTUTTTUReRfRf000Uf+AgAgAgAg
+BOARD 0 7 64 0 f+f+f+f+f+f+f+0WTjTkTjTkTjTkTjTk0Uf+f+f+f+f+f+f+f+f+0W0S02TkTjblTjR6R7RbRcRdTjTkTjR6R7R8R9TkTjTkTjTkasatasatTjTkTj000UAgAgAgAgAg
+BOARD 0 8 64 0 f+f+f+f+f+f+f+0WTTTUTTTUTTTUTTTU0k0Df+f+f+f+f+f+f+f+0W0i11TUTTb1TTSKRsRrRsRtTTTUTTSKSLSMSNTUTTTUTTTUa8a9a8acatTUTT000UAgAgAgAgAg
+BOARD 0 9 64 0 f+f+f+f+f+f+f+0WS1TkTjTkTjasatTk000k0Df+f+f+f+f+f+f+0W0nTjTkTjTkTjbVRqR7R8R9TjTkTjTkTjTkTjTkTjTkTjTkTjTkTja8a9TkTj000UAgAgAgAgAg
+BOARD 0 10 64 0 f+f+f+f+f+f+f+0X16TUTTTUbVa8acat000T0Uf+f+f+f+f+f+f+0X2FTTTUTTTUTTblR6QpQoR7RdTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTT100UAgAgAgAgAg
+BOARD 0 11 64 0 f+f+f+f+f+f+f+f+2K2FTjTkblS0a8a9100j0Uf+f+f+f+f+f+f+f+0WTjTkTjTkTjRaR8Q5Q4Q5RtTkTjTkTjTkTjTkTjTkRaRbRcRdTjTkTjTkTjTk0UAgAgAgAgAg
+BOARD 0 12 64 0 f+f+f+f+f+f+f+f+f+0WTTasatTUTTTUTT0o0Uf+f+f+f+f+f+f+f+0WTTTUTTTURaR8QoQpQoQpR9TUTTTUblTUTTRaRbRcR8QpR8R9TTTUTTTUTTTU0UAgAgAgAgAg
+BOARD 0 13 64 0 f+f+f+f+f+f+f+f+f+0WTja8a9bVTjTkTjTk0Uf+f+f+f+f+f+f+f+0WTjTkTjTkRqQ5Q4RrSLSMSNTkTjasatTkTjRqQ4Q5Q4Q5RrSNTjTkTjTkTj170YAgAgAgAgAg
+BOARD 0 14 64 0 f+f+f+f+f+f+f+f+f+0WTTTUTTblTTTUTTTU0Uf+f+f+f+f+f+f+0C0mRcRdTTTUR6QpQoR9S1TUTTTUasaca9TUTTSKSLSMSLSMSNTUTTTUTTTU172Lf+AgAgAgAgAg
+BOARD 0 15 64 0 f+f+f+f+f+f+f+f+f+0WTjTkRaRdTjTkTj170Yf+f+f+f+f+f+0C0m02Q4RtTjTkSKSLSMSNTjTkTjTka8acatTkTjTkTjTkTjTkTjTkTjTk170F2LAgAgAgAgAgAgAg
+BOARD 0 16 64 0 f+f+f+f+f+f+f+f+f+0WTTTURqRtTTTU2E2Lf+f+f+f+f+f+f+0W0i02QoR7RdTUTTTUTTTUTTTUTTTUasaca9TUTTTUTTasatTUTTTUTT2E2Lf+AgAgAgAgAgAgAgAg
+BOARD 0 17 64 0 f+f+f+f+f+f+f+f+f+0X16TkR6R9TjTk0Uf+f+f+f+f+f+f+f+0W0S02Q4Q5RtTkTjTkTjTkTjTkTjasaca9TjTkTjTkbVa8acatTjTkS00Uf+f+Agf+f+AgAgAgAgAg
+BOARD 0 18 64 0 f+f+f+f+f+f+f+f+f+f+2K2FR6R7RdTU0Uf+f+f+f+f+f+f+0C0m0i02QoQpR9bVTTTUTTTUTTTUb1a8a9TUTTTUTTTUblasacacatTUTT0UAgAgf+f+f+AgAgAgAgAg
+BOARD 0 19 64 0 f+f+f+f+f+f+f+f+f+f+f+0WSKRsR7Rd0Uf+f+f+f+f+f+0C0m020S02SLSMSNblTjTkTjTkTjTkTjTkTjRaRdS1TjRaRda8acaca9TkTj0UAgAgf+f+f+AgAgAgAgAg
+BOARD 0 20 64 0 f+f+f+f+f+f+f+f+f+f+f+0WTTRqQ5Rt0Uf+f+f+f+f+f+0W0i020i02vMvMvMuqS0TUTTTUTTTUTTTUTTRqR7RbRcR8R9TUa8a9TTTUTT0UAgAgf+f+f+AgAgAgAgAg
+BOARD 0 21 64 0 f+f+f+f+f+f+f+f+f+f+f+0WTjR6QpR90Uf+f+f+f+f+f+0W0S020S0i0V010Vu6vMvMuqTkTjTkTjTkTjSKSLSMSLSMSNTkTjb1TjTkTj0UAgAgf+f+f+AgAgAgAgAg
+BOARD 0 22 64 0 f+f+f+f+f+f+f+f+f+f+f+0WTTSLSMSN0Uf+f+f+f+f+f+0W0i020i0S1F1F1F000V01u6vMvMvMuqTUTTTUTTTUTTTUTTTUTTTUTTTUTT0UAgAgf+f+f+AgAgAgAgAg
+BOARD 0 23 64 0 f+f+f+f+f+f+f+f+f+f+0C0mTjTkTjTk0Uf+f+f+f+f+f+0W0S020S02f+f+f+0z1F1F00010V01u6uqTjTkTjTkTjTkTjTkTjTkTj170F0YAgAgf+f+f+AgAgAgAgAg
+BOARD 0 24 64 0 f+f+f+f+f+f+f+0C0l0l0m02TTTUTTas0k0Df+f+f+f+0C0m0i020i0yf+f+f+f+f+f+0z1F1F1F00u7TTTUTTTUTTTUTTTUTTTU2E2Lf+f+AgAgf+f+f+AgAgAgAgAg
+BOARD 0 25 64 0 f+f+f+f+f+f+f+0W0g0h0S02TjTkasac000k0l0l0l0l0m020S020yf+f+f+f+f+f+f+f+f+f+f+0zu7TjTkTjTkTjTkTjTkTjTk0Uf+f+f+AgAgf+f+f+AgAgAgAgAg
+BOARD 0 26 64 0 f+f+f+f+f+f+f+0W0Q0R0i11TTbla8a9000T0g0h0g0h0S020i02f+f+f+f+f+f+f+f+f+f+f+f+f+u7170F0F2FTTTUTTTUTTTU0k0Df+f+AgAgf+f+f+AgAgAgAgAg
+BOARD 0 27 64 0 f+f+f+f+f+f+f+0WsOsP0nTkTjb1bVTk100j0Q0R0Q0R0i112U02f+f+f+f+f+f+f+f+f+f+f+f+0C0F2Lf+f+0WTjTkurususus000Uf+f+AgAgf+f+f+AgAgAgAgAg
+BOARD 0 28 64 0 f+f+f+f+f+f+f+0WTTTUTTTUTTTUTTTUS10osOsPsOsP0nTUu90yf+f+f+f+f+f+f+f+f+f+f+0E2Lf+f+f+f+0Wusus2QTUTTTU000Uf+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 29 64 0 f+f+f+f+f+f+f+0WTjTkTjTkRaRbRcRbRcR8R9S0TjTkTjTku9f+f+f+f+f+f+f+f+f+f+f+f+0Uf+f+f+f+f+0WTjTkTjTkTjTk100Uf+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 30 64 0 f+f+f+f+f+f+f+0WblTUTTRaR8QpQoQpQoQpRtTUTTTUTTblu9f+f+f+f+f+f+f+f+f+f+f+f+0Uf+f+f+f+f+0WTTTUblb1TTTUTT0Uf+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 31 64 0 f+f+f+f+f+f+f+0WbVb1RaR8Q4RrSLQ5Q4Q5R9TkTjTkTjTkuf23f+f+f+f+f+f+f+f+f+f+f+0Uf+f+f+f+0C0mTjbVRaRdTjTkTj0Uf+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 32 64 0 f+f+f+f+f+f+f+0WS0blSKSLSMSNTTSKSLSMSNRaRbRcRdTUb1Ynusus23f+f+f+f+f+f+f+240k0Df+f+0C0m02TTblRqRtTTTUTT0Uf+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 33 64 0 f+f+f+f+f+f+f+0X16bVTjTkTjTkTjTkTjTkTjRqQ4Q5R7RdTjTkblTkYn23f+f+f+f+24usYo000k0l0l0m0S02TjTkR6R7RdTkTj0Uf+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 34 64 0 f+f+f+f+f+f+f+f+2K0F0F0F0F2FTTTUTTTUTTR6QoQpQoRtTTTUTTTUS1YnususususYoTUTT000T0g0h0S0i11TTTURqQ5RtTUS00Uf+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 35 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+0WTjTkTjTkTjSKSMSLQ4R9bVTkTjTkTjTkTjTkTjTkTjTkTj100j0Q0R0i0nTkTjb1R6QpR9TkTj0UAgf+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 36 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+0WTTTUTTTUTTTUTTTUSLSMblTUTTTUTTRaRdTUTTTUTTTUTTS00osOsP0nTTTUTTTUSLSMSNTU170YAgf+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 37 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+0X16TkTjTkTjTkTjTkTjTkb1TkTjb1bVRqR7RdTjTkTjTkTjTkRqQ5Q4R7RcRdTjb1blTkTj2E2Lf+Agf+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 38 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+2K16TTTUTTTUTTbVTTTUTTTUTTTUblRqQoR7RcRbRcRdTTTUR6QpQoQ4R8R9TTTUTT170F0YAgf+Agf+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 39 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+2K16TkTjTkTjS0asatTjTkTjTkTjR6Q4Q5Q4RrRsSMTjTkSKSLSMSLSMSNTjTk2E2Lf+f+Agf+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 40 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+2K0F0F16TTasacacatTUTTTUTTRqQoQpRrSNTTTUTTTUTTTUTTTUTTTUTTTU0Uf+f+f+Agf+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 41 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+2K16a8acaca9170F0F16R6Q4RrSNTkTjTkTjTkTjTkTjTkTjTk170F0YAgAgf+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 42 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+2K0F0F0F0F2Lf+f+2K0F0F0F0F16TTTUb1bVbl170F0F0F0F2Lf+f+AgAgf+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 43 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+2K0F0F0F0F0F2Lf+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 44 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 45 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 46 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 47 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 48 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 49 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 50 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 51 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 52 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 53 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 54 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAg
+BOARD 0 55 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAg
+BOARD 0 56 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAg
+BOARD 0 57 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAg
+BOARD 0 58 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAg
+BOARD 0 59 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAg
+BOARD 0 60 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAg
+BOARD 0 61 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 62 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+AgAgAgAgAg
+BOARD 0 63 64 0 f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+
+NPC valnmd_redrock01.gif 56 9
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 42 33
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 19 0
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 47 1
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 34 32
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 28 12
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 29 15
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 39 22
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 38 20
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 48 22
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 42 5
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 44 6
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 41 6
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 48 0
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 38 3
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 29 14
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 51 19
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 55 7
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 54 11
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 22 27
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 28 17
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 8 5
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 31 32
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 44 26
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 26 30
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 35 31
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 20 27
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 49 31
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 15 35
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 8 26
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 16 11
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 9 4
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 9 27
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 16 36
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 35 33
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 46 25
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 27 31
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 48 27
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 49 28
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 33 18
+this.setupInfo = { "acrobatics", 3, "Climb Down", "You have an ability that allows you to climb down this cliff. You can make this action by moving to this point." };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+
+this.setupInfo = { "acrobatics", 3, "Climb Down", "You have an ability that allows you to climb down this cliff. You can make this action by moving to this point." };
+NPCEND
+NPC - 32 19
+    join("rp_hiddenmove");
+
+this.setupInfo = {"Climb Down", "underdark_kingsplains_01.nw", 16.5, 27, 2 };
+//#CLIENTSIDE
+    function onCreated()
+    {
+      hide();
+    }
+    this.skill_requirements = {"acrobatics:3"};
+    this.should_block = true;
+
+this.setupInfo = {"Climb Down", "underdark_kingsplains_01.nw", 16.5, 27, 2 };
+this.warpArea = { 2, 2 };
+NPCEND
+NPC val_fog.png 33 17
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.39);
+  setzoomeffect(random(5,10));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND

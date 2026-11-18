@@ -1,0 +1,23 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+    if (this.treetype == NULL)
+        this.treetype = "";
+    setcharani("val_smeewn" @ this.treetype @ "tree",NULL);
+    setshape 1,48,48;
+    if (this.attr[1] == NULL) {
+    this.attr[1] = "val_smeewn" @ this.treetype @ "tree-shadow1.png";
+    }
+    if (this.attr[2] == NULL) {
+    this.attr[2] = "val_smeewn" @ this.treetype @ "tree-1.gif";
+    }
+}
+
+function gs1_always() {
+  this.treetype = "";
+  this.attr[1] = "val_smeewntree-shadow1.png";
+  this.attr[2] = "val_smeewntree7.gif";
+  this.treetype = "pine";
+  this.attr[1] = "val_smeewnpinetree-shadow1.png";
+  this.attr[2] = "val_smeewnpinetree-1.gif";
+}

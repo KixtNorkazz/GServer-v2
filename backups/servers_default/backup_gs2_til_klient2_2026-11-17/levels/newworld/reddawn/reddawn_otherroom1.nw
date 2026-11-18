@@ -1,0 +1,1017 @@
+GLEVNW01
+BOARD 0 0 64 0 3t3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u39
+BOARD 0 1 64 0 3+dOdOdOdOdOdOdOdOdOdO3vAg3+dOdOdOdOdOdOdOdOdOdO3vAg3+dOdOdOdOdOdOcQcQcQcQ3vAg3+dOdOdOdOdOdOdOdOdOdO3vAg3+dOdOdOdOdOdOdOdOdOdO3v
+BOARD 0 2 64 0 3+dededededededededede3vAg3+dededededededededede3vAg3+dedededededecQcQcQcQ3vAg3+dededededededededede3vAg3+dededededededededede3v
+BOARD 0 3 64 0 3+dededededededededede3vAg3+dededededededededede3vAg3+dedededededecQcQcQcQ3vAg3+dededededededededede3vAg3+dededededededededede3v
+BOARD 0 4 64 0 3+dudududududududududu3vAg3+dudududududududududu3vAg3+dudududududucQcQcQcQ3vAg3+dudududududududududu3vAg3+dudududududududududu3v
+BOARD 0 5 64 0 3+dudududududududududu3vAg3+dudududududududududu3vAg3+dudududududuTvbkbkbg3vAg3+dudududududududududu3vAg3+dudududududududududu3v
+BOARD 0 6 64 0 3+d+d+d+d+d+d+d+d+d+d+3vAg3+d+d+d+d+d+d+d+d+d+d+3vAg3+d+d+d+d+d+cBbzTrTrb03vAg3+d+d+d+d+d+d+d+d+d+d+3vAg3+d+d+d+d+d+d+d+d+d+d+3v
+BOARD 0 7 64 0 3+d+d+d+d+d+d+d+d+d+d+3vAg3+d+d+d+d+d+d+d+d+d+d+3vAg3+d+d+d+d+cBcBbzTrTrb03vAg3+d+d+d+d+d+d+d+d+d+d+3vAg3+d+d+d+d+d+d+d+d+d+d+3v
+BOARD 0 8 64 0 3+VWVWVWVWVWVWVWVWGCGD3vAg3+VWVWVWVWVWVWVWVWGCGD3vAg3+VWVWVWcBcBcBT/bjbjbw3vAg3+VWVWVWVWVWVWVWVWGCGD3vAg3+VWVWVWVWVWVWVWVWGCGD3v
+BOARD 0 9 64 0 3+TvbkbkbkbkbkbkGSGTGU3vAg3+TvbkbkbkbkbkbkGSGTGU3vAg3+TvbkcBcBcBcBdOdOdOdO3vAg3+TvbkbkbkbkbkbkGSGTGU3vAg3+TvbkbkbkbkbkbkGSGTGU3v
+BOARD 0 10 64 0 3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrcBcBcBdedededede3vAg3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3v
+BOARD 0 11 64 0 3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrcBcBdededededede3vAg3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3v
+BOARD 0 12 64 0 3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrcBdududududududu3vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03v
+BOARD 0 13 64 0 3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03v
+BOARD 0 14 64 0 3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03v
+BOARD 0 15 64 0 3s3/3//wTrTrTrTr/x3/3/38Ag3s3/3//wTrTrTrTr/x3/3/38Ag3+bzTrTrTrTrTrTrTrTrb03vAg3s3/3//wTrTrTrTr/x3/3/38Ag3s3/3//wTrTrTrTr/x3/3/38
+BOARD 0 16 64 0 AgAgAg3+TrTrTrTr3vAgAgAgAgAgAgAg3+TrTrTrTr3vAgAgAgAg3+bzTrTrTrTrTrTrTrTrb03vAgAgAgAg3+TrTrTrTr3vAgAgAgAgAgAgAg3+TrTrTrTr3vAgAgAg
+BOARD 0 17 64 0 3t3u3u/gTrTrTrTr/h3u3u3u3u3u3u3u/gTrTrTrTr/h3u3u3u3u/gTrTrTrTrTrTrTrTrTrTr/h3u3u3u3u/gTrTrTrTr/h3u3u3u3u3u3u3u/gTrTrTrTr/h3u3u39
+BOARD 0 18 64 0 3+d/dOd/TrTrTrTrd/dOdOdOdOdOdOdOd/TrTrTrTrd/dOd/d/dOd/TrTrTrTrTrTrTrTrTrTrd/dOd/d/dOd/TrTrTrTrd/dOdOdOdOdOdOdOd/TrTrTrTrd/dOd/3v
+BOARD 0 19 64 0 3+d/ded/TrTrTrTrd/dededededededed/TrTrTrTrd/ded/d/ded/TrTrTrTrTrTrTrTrTrTrd/ded/d/ded/TrTrTrTrd/dededededededed/TrTrTrTrd/ded/3v
+BOARD 0 20 64 0 3+epded/TrTrTrTrd/emepdededeemepd/TrTrTrTrd/deemepded/TrTrTrTrTrTrTrTrTrTrd/deemepded/TrTrTrTrd/emepdededeemepd/TrTrTrTrd/deem3v
+BOARD 0 21 64 0 3+e5dud/TrTrTrTrd/e2e5dududue2e5d/TrTrTrTrd/due2e5dud/TrTrTrTrTrTrTrTrTrTrd/due2e5dud/TrTrTrTrd/e2e5dududue2e5d/TrTrTrTrd/due23v
+BOARD 0 22 64 0 3+fJdud/TrTrTrTrd/fGfJdududufGfJd/TrTrTrTrd/dufGfJdud/TrTrTrTrTrTrTrTrTrTrd/dufGfJdud/TrTrTrTrd/fGfJdududufGfJd/TrTrTrTrd/dufG3v
+BOARD 0 23 64 0 3+fZd+d/TrTrTrTrd/fWfZd+d+d+fWfZd/TrTrTrTrd/d+fWfZd+d/TrTrTrTrTrTrTrTrTrTrd/d+fWfZd+d/TrTrTrTrd/fWfZd+d+d+fWfZd/TrTrTrTrd/d+fW3v
+BOARD 0 24 64 0 3+U6d+d/TrTrTrTrd/U3U6d+d+d+U3U6d/TrTrTrTrd/d+U3U6d+d/TrTrTrTrTrTrTrTrTrTrd/d+U3U6d+d/TrTrTrTrd/U3U6d+d+d+U3U6d/TrTrTrTrd/d+U33v
+BOARD 0 25 64 0 3+VWVWVYTrTrTrTrVXVWVWVWVWVWVWVWVYTrTrTrTrVXVWVWVWVWVYTrTrTrTrTrTrTrTrTrTrVXVWVWVWVWVYTrTrTrTrVXVWVWVWVWVWVWVWVYTrTrTrTrVXVWVW3v
+BOARD 0 26 64 0 3+Tvbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbg3v
+BOARD 0 27 64 0 3+bzTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrb03v
+BOARD 0 28 64 0 3+bzTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTraCaDaDaE3v
+BOARD 0 29 64 0 3+bzaCaDaDaETrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTraSaTaTaU3v
+BOARD 0 30 64 0 3+bzaSaTaTaUTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrWTWUaTaTaU3v
+BOARD 0 31 64 0 3+bzaSaTWTWUTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrWTWUWkaTaTaU3v
+BOARD 0 32 64 0 3+bzaSaTWjWTWUTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrWjWkaiajajak3v
+BOARD 0 33 64 0 3+bzaiajajWjWkaETrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTraSaTaTaTaTaU3v
+BOARD 0 34 64 0 3+bzaSaTaTaTaTaUTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTraSaTaTaTaTaU3v
+BOARD 0 35 64 0 3+bzaSaTaTaTaTaUTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTraSaTaTaTaTaU3v
+BOARD 0 36 64 0 3+bzaSaTaTaTaTaUTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrWTWUajajajak3v
+BOARD 0 37 64 0 3+bzaiajajWTWUakTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrWjWTWUTrTrb03v
+BOARD 0 38 64 0 3+bzTrTrWTWUWkTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrWjWkTrTrb03v
+BOARD 0 39 64 0 3+bzTrTrWjWkTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrb03v
+BOARD 0 40 64 0 3+bzTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrTrb03v
+BOARD 0 41 64 0 3+T/bjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbw3v
+BOARD 0 42 64 0 3s3/3//wTrTrTrTr/x3/3/3/3/3/3/3//wTrTrTrTr/x3/3/3/3/3/3/3//wTrTrTrTr/x3/3/3/3/3/3/3//wTrTrTrTr/x3/3/3/3/3/3/3//wTrTrTrTr/x3/3/38
+BOARD 0 43 64 0 AgAgAg3+TrTrTrTr3vAgAgAgAgAgAgAg3+TrTrTrTr3vAgAgAgAgAgAgAg3+TrTrTrTr3vAgAgAgAgAgAgAg3+TrTrTrTr3vAgAgAgAgAgAgAg3+TrTrTrTr3vAgAgAg
+BOARD 0 44 64 0 3t3u3u/gTrTrTrTr/h3u3u39Ag3t3u3u/gTrTrTrTr/h3u3u39Ag3t3u3u/gTrTrTrTr/h3u3u39Ag3t3u3u/gTrTrTrTr/h3u3u39Ag3t3u3u/gTrTrTrTr/h3u3u39
+BOARD 0 45 64 0 3+dOdOd/TrTrTrTrd/dOdO3vAg3+dOdOd/TrTrTrTrd/dOdO3vAg3+dOdOd/TrTrTrTrd/dOdO3vAg3+dOdOd/TrTrTrTrd/dOdO3vAg3+dOdOd/TrTrTrTrd/dOdO3v
+BOARD 0 46 64 0 3+deded/TrTrTrTrd/dede3vAg3+deded/TrTrTrTrd/dede3vAg3+deded/TrTrTrTrd/dede3vAg3+deded/TrTrTrTrd/dede3vAg3+deded/TrTrTrTrd/dede3v
+BOARD 0 47 64 0 3+deded/TrTrTrTrd/dede3vAg3+deded/TrTrTrTrd/dede3vAg3+deded/TrTrTrTrd/dede3vAg3+deded/TrTrTrTrd/dede3vAg3+deded/TrTrTrTrd/dede3v
+BOARD 0 48 64 0 3+dudud/TrTrTrTrd/dudu3vAg3+dudud/TrTrTrTrd/dudu3vAg3+dudud/TrTrTrTrd/dudu3vAg3+dudud/TrTrTrTrd/dudu3vAg3+dudud/TrTrTrTrd/dudu3v
+BOARD 0 49 64 0 3+dudud/TrTrTrTrd/dudu3vAg3+dudud/TrTrTrTrd/dudu3vAg3+dudud/TrTrTrTrd/dudu3vAg3+dudud/TrTrTrTrd/dudu3vAg3+dudud/TrTrTrTrd/dudu3v
+BOARD 0 50 64 0 3+d+d+d/TrTrTrTrd/d+d+3vAg3+d+d+d/TrTrTrTrd/d+d+3vAg3+d+d+d/TrTrTrTrd/d+d+3vAg3+d+d+d/TrTrTrTrd/d+d+3vAg3+d+d+d/TrTrTrTrd/d+d+3v
+BOARD 0 51 64 0 3+d+d+d/TrTrTrTrd/d+d+3vAg3+d+d+d/TrTrTrTrd/d+d+3vAg3+d+d+d/TrTrTrTrd/d+d+3vAg3+d+d+d/TrTrTrTrd/d+d+3vAg3+d+d+d/TrTrTrTrd/d+d+3v
+BOARD 0 52 64 0 3+VWVWVYTrTrTrTrVXVWVW3vAg3+VWVWVYTrTrTrTrVXVWVW3vAg3+VWVWVYTrTrTrTrVXVWVW3vAg3+VWVWVYTrTrTrTrVXVWVW3vAg3+VWVWVYTrTrTrTrVXVWVW3v
+BOARD 0 53 64 0 3+Tvbkbkbkbkbkbkbkbkbg3vAg3+Tvbkbkbkbkbkbkbkbkbg3vAg3+Tvbkbkbkbkbkbkbkbkbg3vAg3+Tvbkbkbkbkbkbkbkbkbg3vAg3+Tvbkbkbkbkbkbkbkbkbg3v
+BOARD 0 54 64 0 3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03v
+BOARD 0 55 64 0 3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03v
+BOARD 0 56 64 0 3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03v
+BOARD 0 57 64 0 3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03vAg3+bzTrTrTrTrTrTrTrTrb03v
+BOARD 0 58 64 0 3+bzTrTrTrTrTrTrTrGCGD3vAg3+bzTrTrTrTrTrTrTrGCGD3vAg3+bzTrTrTrTrTrTrTrGCGD3vAg3+bzTrTrTrTrTrTrTrGCGD3vAg3+bzTrTrTrTrTrTrTrGCGD3v
+BOARD 0 59 64 0 3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3v
+BOARD 0 60 64 0 3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3v
+BOARD 0 61 64 0 3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3vAg3+bzTrTrTrTrTrTrGSGTGU3v
+BOARD 0 62 64 0 3+T/bjbjbjbjbjbjbjbjbw3vAg3+T/bjbjbjbjbjbjbjbjbw3vAg3+T/bjbjbjbjbjbjbjbjbw3vAg3+T/bjbjbjbjbjbjbjbjbw3vAg3+T/bjbjbjbjbjbjbjbjbw3v
+BOARD 0 63 64 0 3s3/3/3/3/3/3/3/3/3/3/38Ag3s3/3/3/3/3/3/3/3/3/3/38Ag3s3/3/3/3/3/3/3/3/3/3/38Ag3s3/3/3/3/3/3/3/3/3/3/38Ag3s3/3/3/3/3/3/3/3/3/3/38
+NPC - 4 21
+function onCreated() {
+  if(this.open == null) {
+    this.open = 1;
+  }
+  if(this.open == 1) {
+    setimgpart("bridgeton-porticullis.gif",0,54,64,80);
+  }
+  else {
+    setimgpart("bridgeton-porticullis.gif",0,0,64,80);
+  }
+  drawoverplayer;dontblock();
+  this.permissions = {
+    "-_-Lakitu-_-",
+    "fireball1000",
+      };
+}
+function onPlayerChats() {
+  temp.i = 0;
+  if(player.account in this.permissions) {
+    if(player.chat == "/open gate 1") {
+      for(i=0; i < 55; i++) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      dontblock();
+      this.open = 1;
+    }
+    if(player.chat == "/close gate 1") {
+      for(i=54; i > -1; i--) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      blockagain();
+      this.open = 2;
+    }
+  }
+}
+NPCEND
+NPC - 17 21
+function onCreated() {
+  if(this.open == null) {
+    this.open = 1;
+  }
+  if(this.open == 1) {
+    setimgpart("bridgeton-porticullis.gif",0,54,64,80);
+  }
+  else {
+    setimgpart("bridgeton-porticullis.gif",0,0,64,80);
+  }
+  drawoverplayer;dontblock();
+  this.permissions = {
+    "-_-Lakitu-_-",
+    "fireball1000",
+      };
+}
+function onPlayerChats() {
+  temp.i = 0;
+  if(player.account in this.permissions) {
+    if(player.chat == "/open gate 2") {
+      for(i=0; i < 55; i++) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      dontblock();
+      this.open = 1;
+    }
+    if(player.chat == "/close gate 2") {
+      for(i=54; i > -1; i--) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      blockagain();
+      this.open = 2;
+    }
+  }
+}
+NPCEND
+NPC - 43 21
+function onCreated() {
+  if(this.open == null) {
+    this.open = 1;
+  }
+  if(this.open == 1) {
+    setimgpart("bridgeton-porticullis.gif",0,54,64,80);
+  }
+  else {
+    setimgpart("bridgeton-porticullis.gif",0,0,64,80);
+  }
+  drawoverplayer;dontblock();
+  this.permissions = {
+    "-_-Lakitu-_-",
+    "fireball1000",
+      };
+}
+function onPlayerChats() {
+  temp.i = 0;
+  if(player.account in this.permissions) {
+    if(player.chat == "/open gate 3") {
+      for(i=0; i < 55; i++) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      dontblock();
+      this.open = 1;
+    }
+    if(player.chat == "/close gate 3") {
+      for(i=54; i > -1; i--) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      blockagain();
+      this.open = 2;
+    }
+  }
+}
+NPCEND
+NPC - 56 21
+function onCreated() {
+  if(this.open == null) {
+    this.open = 1;
+  }
+  if(this.open == 1) {
+    setimgpart("bridgeton-porticullis.gif",0,54,64,80);
+  }
+  else {
+    setimgpart("bridgeton-porticullis.gif",0,0,64,80);
+  }
+  drawoverplayer;dontblock();
+  this.permissions = {
+    "-_-Lakitu-_-",
+    "fireball1000",
+      };
+}
+function onPlayerChats() {
+  temp.i = 0;
+  if(player.account in this.permissions) {
+    if(player.chat == "/open gate 4") {
+      for(i=0; i < 55; i++) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      dontblock();
+      this.open = 1;
+    }
+    if(player.chat == "/close gate 4") {
+      for(i=54; i > -1; i--) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      blockagain();
+      this.open = 2;
+    }
+  }
+}
+NPCEND
+NPC - 4 48
+function onCreated() {
+  if(this.open == null) {
+    this.open = 1;
+  }
+  if(this.open == 1) {
+    setimgpart("bridgeton-porticullis.gif",0,54,64,80);
+  }
+  else {
+    setimgpart("bridgeton-porticullis.gif",0,0,64,80);
+  }
+  drawoverplayer;dontblock();
+  this.permissions = {
+    "-_-Lakitu-_-",
+    "fireball1000",
+      };
+}
+function onPlayerChats() {
+  temp.i = 0;
+  if(player.account in this.permissions) {
+    if(player.chat == "/open gate 5") {
+      for(i=0; i < 55; i++) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      dontblock();
+      this.open = 1;
+    }
+    if(player.chat == "/close gate 5") {
+      for(i=54; i > -1; i--) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      blockagain();
+      this.open = 2;
+    }
+  }
+}
+NPCEND
+NPC - 17 48
+function onCreated() {
+  if(this.open == null) {
+    this.open = 1;
+  }
+  if(this.open == 1) {
+    setimgpart("bridgeton-porticullis.gif",0,54,64,80);
+  }
+  else {
+    setimgpart("bridgeton-porticullis.gif",0,0,64,80);
+  }
+  drawoverplayer;dontblock();
+  this.permissions = {
+    "-_-Lakitu-_-",
+    "fireball1000",
+      };
+}
+function onPlayerChats() {
+  temp.i = 0;
+  if(player.account in this.permissions) {
+    if(player.chat == "/open gate 6") {
+      for(i=0; i < 55; i++) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      dontblock();
+      this.open = 1;
+    }
+    if(player.chat == "/close gate 6") {
+      for(i=54; i > -1; i--) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      blockagain();
+      this.open = 2;
+    }
+  }
+}
+NPCEND
+NPC - 30 48
+function onCreated() {
+  if(this.open == null) {
+    this.open = 1;
+  }
+  if(this.open == 1) {
+    setimgpart("bridgeton-porticullis.gif",0,54,64,80);
+  }
+  else {
+    setimgpart("bridgeton-porticullis.gif",0,0,64,80);
+  }
+  drawoverplayer;dontblock();
+  this.permissions = {
+    "-_-Lakitu-_-",
+    "fireball1000",
+    "ArkenPXP",
+     "Graal791796"
+      };
+}
+function onPlayerChats() {
+  temp.i = 0;
+  if(player.account in this.permissions) {
+    if(player.chat == "/open gate 7") {
+      for(i=0; i < 55; i++) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      dontblock();
+      this.open = 1;
+    }
+    if(player.chat == "/close gate 7") {
+      for(i=54; i > -1; i--) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      blockagain();
+      this.open = 2;
+    }
+  }
+}
+NPCEND
+NPC - 43 48
+function onCreated() {
+  if(this.open == null) {
+    this.open = 1;
+  }
+  if(this.open == 1) {
+    setimgpart("bridgeton-porticullis.gif",0,54,64,80);
+  }
+  else {
+    setimgpart("bridgeton-porticullis.gif",0,0,64,80);
+  }
+  drawoverplayer;dontblock();
+  this.permissions = {
+    "-_-Lakitu-_-",
+    "fireball1000",
+      };
+}
+function onPlayerChats() {
+  temp.i = 0;
+  if(player.account in this.permissions) {
+    if(player.chat == "/open gate 8") {
+      for(i=0; i < 55; i++) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      dontblock();
+      this.open = 1;
+    }
+    if(player.chat == "/close gate 8") {
+      for(i=54; i > -1; i--) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      blockagain();
+      this.open = 2;
+    }
+  }
+}
+NPCEND
+NPC - 56 48
+function onCreated() {
+  if(this.open == null) {
+    this.open = 1;
+  }
+  if(this.open == 1) {
+    setimgpart("bridgeton-porticullis.gif",0,54,64,80);
+  }
+  else {
+    setimgpart("bridgeton-porticullis.gif",0,0,64,80);
+  }
+  drawoverplayer;dontblock();
+  this.permissions = {
+    "-_-Lakitu-_-",
+    "fireball1000",
+      };
+}
+function onPlayerChats() {
+  temp.i = 0;
+  if(player.account in this.permissions) {
+    if(player.chat == "/open gate 9") {
+      for(i=0; i < 55; i++) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      dontblock();
+      this.open = 1;
+    }
+    if(player.chat == "/close gate 9") {
+      for(i=54; i > -1; i--) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      blockagain();
+      this.open = 2;
+    }
+  }
+}
+NPCEND
+NPC - 33 21
+function onCreated() {
+  if(this.open == null) {
+    this.open = 1;
+  }
+  if(this.open == 1) {
+    setimgpart("bridgeton-porticullis.gif",0,54,64,80);
+  }
+  else {
+    setimgpart("bridgeton-porticullis.gif",0,0,64,80);
+  }
+  drawoverplayer;dontblock();
+  this.permissions = {
+    "-_-Lakitu-_-",
+    "fireball1000",
+      };
+}
+function onPlayerChats() {
+  temp.i = 0;
+  if(player.account in this.permissions) {
+    if(player.chat == "/open gate 10") {
+      for(i=0; i < 55; i++) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      dontblock();
+      this.open = 1;
+    }
+    if(player.chat == "/close gate 10") {
+      for(i=54; i > -1; i--) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      blockagain();
+      this.open = 2;
+    }
+  }
+}
+NPCEND
+NPC - 27 21
+function onCreated() {
+  if(this.open == null) {
+    this.open = 1;
+  }
+  if(this.open == 1) {
+    setimgpart("bridgeton-porticullis.gif",0,54,64,80);
+  }
+  else {
+    setimgpart("bridgeton-porticullis.gif",0,0,64,80);
+  }
+  drawoverplayer;dontblock();
+  this.permissions = {
+    "-_-Lakitu-_-",
+    "fireball1000",
+      };
+}
+function onPlayerChats() {
+  temp.i = 0;
+  if(player.account in this.permissions) {
+    if(player.chat == "/open gate 10") {
+      for(i=0; i < 55; i++) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      dontblock();
+      this.open = 1;
+    }
+    if(player.chat == "/close gate 10") {
+      for(i=54; i > -1; i--) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      blockagain();
+      this.open = 2;
+    }
+  }
+}
+NPCEND
+NPC - 30 21
+function onCreated() {
+  if(this.open == null) {
+    this.open = 1;
+  }
+  if(this.open == 1) {
+    setimgpart("bridgeton-porticullis.gif",0,54,64,80);
+  }
+  else {
+    setimgpart("bridgeton-porticullis.gif",0,0,64,80);
+  }
+  drawoverplayer;dontblock();
+  this.permissions = {
+    "-_-Lakitu-_-",
+    "fireball1000",
+      };
+}
+function onPlayerChats() {
+  temp.i = 0;
+  if(player.account in this.permissions) {
+    if(player.chat == "/open gate 10") {
+      for(i=0; i < 55; i++) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      dontblock();
+      this.open = 1;
+    }
+    if(player.chat == "/close gate 10") {
+      for(i=54; i > -1; i--) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      blockagain();
+      this.open = 2;
+    }
+  }
+}
+NPCEND
+NPC val_jail-arch4.png 17 17
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_jail-arch4.png 4 17
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_jail-arch4.png 27 17
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_jail-arch4.png 33 17
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_jail-arch4.png 30 17
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_jail-arch4.png 43 17
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_jail-arch4.png 56 17
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_jail-arch4.png 56 44
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_jail-arch4.png 43 44
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_jail-arch4.png 30 44
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_jail-arch4.png 17 44
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_jail-arch4.png 4 44
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_valcastle-torch3.gif 23 23
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+      22,22
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-torch3.gif 53 23
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+      22,22
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-torch3.gif 39 23
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+      22,22
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-torch3.gif 48 23
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+      22,22
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-torch3.gif 14 23
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+      22,22
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-torch3.gif 9 23
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+      22,22
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-torch3.gif 34 10
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+    0,0,
+    0,0,
+    0,0,
+      22,22
+        };
+  showimg 0,fire.gif,x+.1,y-1.4;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.2;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val-hammerforge-prisonbed.gif 21 5
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-hammerforge-prisonbed.gif 8 5
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-hammerforge-prisonbed.gif 47 5
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-hammerforge-prisonbed.gif 60 5
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-hammerforge-prisonbed.gif 21 55
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-hammerforge-prisonbed.gif 34 55
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-hammerforge-prisonbed.gif 47 55
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-hammerforge-prisonbed.gif 60 55
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-hammerforge-prisonbed.gif 8 55
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-raijins-cave-hay.gif 1 54
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 16 57
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 5 54
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 0 9
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 2 7
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 16 10
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 2 10
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 42 10
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 15 7
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 14 9
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 40 9
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 41 7
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 55 10
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 53 9
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 54 7
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 3 57
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 14 54
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 27 53
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 18 54
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 43 53
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 31 53
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 29 56
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 40 53
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 42 56
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 53 52
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 57 52
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 55 55
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val_claypot-brown1.gif 1 61
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 1 60
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 14 61
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 14 60
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 27 60
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 27 61
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 40 60
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 40 61
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 53 60
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 53 61
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 14 8
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 40 9
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 53 9
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 1 9
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 14 9
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 1 8
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 53 8
+// Created by fireball1000
+NPCEND
+NPC val_claypot-brown1.gif 40 8
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 1 30
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 1 32
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 2 31
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 1 34
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 2 33
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 1 36
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 1 28
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 3 32
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 2 29
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel2.png 1 26
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 2 37
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 1 38
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 60 25
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel2.png 61 24
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 2 27
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 61 26
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 60 27
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 61 28
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 60 29
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 61 30
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 61 33
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 61 37
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 60 34
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel2.png 3 35
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 59 33
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel2.png 60 32
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 61 35
+// Created by fireball1000
+NPCEND
+NPC val_rp-barrel.png 60 36
+// Created by fireball1000
+NPCEND
+NPC val_dungeoncuffs.gif 4 5
+// Created by fireball1000
+NPCEND
+NPC val_dungeoncuffs.gif 17 5
+// Created by fireball1000
+NPCEND
+NPC val_dungeoncuffs.gif 43 5
+// Created by fireball1000
+NPCEND
+NPC val_dungeoncuffs.gif 56 5
+// Created by fireball1000
+NPCEND

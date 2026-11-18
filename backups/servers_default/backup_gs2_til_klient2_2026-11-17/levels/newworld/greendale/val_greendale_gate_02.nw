@@ -1,0 +1,773 @@
+GLEVNW01
+BOARD 0 0 64 0 WQTrTrTrTrTrTrTrXgXhXiWiXkWCXkXkVyWiXkWSXmXnXocZcZcZcbc1cyczc0c1cyczc0c1cycacZcZcZcbfad6d9fafad6fad6fad6d9d6d9d6d9d6d9d6WTWUXrXs
+BOARD 0 1 64 0 WQTrTrTrTrTrTrTrXwXxXyX0X0X0X0X0X0X0X0X0X2X3X4cZcZcZcbcicjckclcicjckclcicjcacZcZcZcbd6d9d6d9d6AAAAd9d6d9d6d9d6d9d6d9WTWUWjWkXrXs
+BOARD 0 2 64 0 WQTrTrTrTrTrTrTruSuSuTuUuStYtZuSuTuUuStYtZuSuScZcZcqcrcyczc0c1cyczc0c1cyczcqcrcZcZcccKcKcKcKcKcKcKcKcKcKcKWTWUWTWUWTWjWkWTWUX7X8
+BOARD 0 3 64 0 WQTrTrTrTrTrTrTrWCuiujukWCtotpWCujukWCtotptqWCcZcZc6c7cicjckclcicjckclcicjc6c7cZcZcZcZcZcZcZcZcZcZcZcZcZcZWjWTWUWTWUWTWUWjWkXIXI
+BOARD 0 4 64 0 WQTrTrTrTrTrTrTrWSuyuzWSWSWSt5WSuzWSWSWSt5t6WScZcZcKcPcyczc0c1cyczc0c1cyczcOcKcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZWjWkWjWkWTWUWTWUXIXY
+BOARD 0 5 64 0 WQTrTrTrTrTrTrTrWivCWiWiWiWiWiWiWiWiWiWiWiuKWicZcZcZcbclcicjckclcicjckclcicacZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZcZWjWkWjWkXYXd
+BOARD 0 6 64 0 WQTrTrTrTrTrTrTrWyWyWyWyWyWyWyWyWyWyWyWyWyWyWycZcZcZcbc1cyczc0c1cyczc0c1cycecLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcNcZcZcZcbXgXd
+BOARD 0 7 64 0 WQTrTrTrTrTrTrTrVgW0W1WzW0W1WzW0W1WzW0W1WzW0VgcZcZcZcbcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjcacZcZcZcbXgXd
+BOARD 0 8 64 0 WQTrTrTrTrTrTrTrb0W8dOdOW8dOdOdOdOdOW8dOdOVycZcZcZcZcbcyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczcacZcZcZcbXgXd
+BOARD 0 9 64 0 WQTrTrTrTrTrTrTrb0XMdedeXMdededededeXMdedeWQcZcZcZcZcbcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjcacZcZcZcbXgXd
+BOARD 0 10 64 0 WQTrTrTrTrTrTrTrb0XMduduXMdududududuXMduduWQcZcZcZcZcbcyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczcacZcZcZcbXbXc
+BOARD 0 11 64 0 WQTrTrTrTrTrTrTrb0XMd+d+XMd+d+d+d+d+XMd+d+WQcZcZcZcZcbc1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cycacZcZcZcbXrXs
+BOARD 0 12 64 0 WQbjbjbjbjbjbjbjbwXMd+d+XMd+d+d+d+d+XMd+d+WCcZcZcZcZcbcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjcacZcZcZcbXrXs
+BOARD 0 13 64 0 WQaoaoaoaoaoaoaoaoaoaoaoaoTvT+T+T+bgaoaoaoWScZcZcZcZcbcyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczcacZcZcZcbX7X8
+BOARD 0 14 64 0 WQRWb1asatasatbVTETTRYRQRTbzTrTrTrb0blTThlWicZcZcZcZcbcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjcacZcZcZcbXIXI
+BOARD 0 15 64 0 WQSjRCa8a9acacatTkTjRxRyRmbzTrTrTrb0b1bVTkWycZcZcZcZcbcyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczcacZcZcZcbXIXY
+BOARD 0 16 64 0 WQRiRjbla8acaca9bVbVTUTTTUbzTrTrTrbxbkbkbkcacZcZcZcZcbc1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cycacZcZcZcbXYXd
+BOARD 0 17 64 0 WQSARXRWasaca9blTkb1asatblbzTrTrTrTrTrTrTrcacZcZcZcZcbcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjcacZcZcZcbXgXd
+BOARD 0 18 64 0 WQRiRWbla8a9atTTasata8a9atbzTrTrTrTrTrTrTrcacZcZcZcZcbcyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczcacZcZcZcbXgXd
+BOARD 0 19 64 0 WQRyRQRTTka8a9Tja8a9bla8a9bzTrTrTrTrTrTrTrcacZcZcZcZcbcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjcacZcZcZcbXgXd
+BOARD 0 20 64 0 WQRWRmRxRWblb1TTTURQRTTTb1T/bjbjbjbjbjbjbjWQcZcZcZcZcbcyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczcacZcZcZcbXgXd
+BOARD 0 21 64 0 WQRCRDiETkTjTkRQShSnRSRWbVTjTkRmTkRARQRTRBWQvSvTvTvUvSvTvTvUvSvTvTvUvSvTvTvUvSvTvTvUckclcicjckclcicjckclcicjckclcicacZcZcZcbXgWY
+BOARD 0 22 64 0 WQRSRTiURQRTTURmRgRhRyTTTUasatRXSgShRRRSRRWQvivjvjvkaCaDaDaEvivjvjvkaCaDaDaEvivjvjvkc0c1cyczc0c1cyczc0c1cyczc0c1cycacZcZcZcbeEeF
+BOARD 0 23 64 0 vSvTvTvUvSvTvTvUvSvTvTvUvSvTvTvUvSvTvTvUvSvTvivjvjvkaSaTaTaUvivjvjvkaSaTaTaUvivjvjvkvTvUvSvTvTvUvSvTvTvUvSvTvTvUvSvTvTvUvSvTvTvU
+BOARD 0 24 64 0 vyvzvzv0vyvzvzv0vyvzvzv0vyvzvzv0vyvzvzv0vyvzvyvzvzv0aiajajakvyvzvzv0aiajajakvyvzvzv0vzv0vyvzvzv0vyvzvzv0vyvzvzv0vyvzvzv0vyvzvzv0
+BOARD 0 25 64 0 n6n7n7n8n6n7n7n8n6n7n7n8n6n7n7n8n6n7n7n8n6n7vSvUvSvTnqnrnrnsvTvUvSvTnqnrnrnsvTvUvSvUn7n8n6n7n7n8n6n7n7n8n6n7n7n8n6n7n7n8n6n7n7n8
+BOARD 0 26 64 0 awaxS/awawaxS/awawaxS/awawaxS/awawaxS/awawaxvivkvivjv1v2v2v3vjvkvivjv1v2v2v3vjvkvivkS/awawaxS/awawaxS/awawaxS/awawaxS/awawaxS/aw
+BOARD 0 27 64 0 bAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBvivkvivjvjvkvivjvjvkvivjvjvkvivjvjvkvivkTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbA
+BOARD 0 28 64 0 bQbRTfbQbQbRTfbQbQbRTfbQbQbRTfbQbQbRTfbQbQbRvyv0vyvzvzv0vyvzvzv0vyvzvzv0vyvzvzv0vyv0TfbQbQbRTfbQbQbRTfbQbQbRTfbQbQbRTfbQbQbRTfbQ
+BOARD 0 29 64 0 S/awawaxS/awawaxS/awawaxS/awawaxS/awawaxS/awnqnsnqnrnrnsnqnrnrnsnqnrnrnsnqnrnrnsnqnsawaxS/awawaxS/awawaxS/awawaxS/awawaxS/awawax
+BOARD 0 30 64 0 TPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAn6n8n6n7n7n8n6n7n7n8n6n7n7n8n6n7n7n8n6n8bAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbBTPbAbAbB
+BOARD 0 31 64 0 vSvTvTvUvSvTvTvUvSvTvTvUvSvTvTvUvSvTvTvUvSvTnanbnbncnanbnbncnanbnbncnanbnbncnanbnbncvTvUvSvTvTvUvSvTvTvUvSvTvTvUvSvTvTvUvSvTvTvU
+BOARD 0 32 64 0 vyvzvzv0vyvzvzv0vyvzvzv0vyvzvzv0vyvzvzv0vyvznqnrnrnsnqnrnrnsnqnrnrnsnqnrnrnsnqnrnrnsvzv0vyvzvzv0vyvzvzv0vyvzvzv0vyvzvzv0vyvzvzv0
+BOARD 0 33 64 0 n6n7n7n8n6n7n7n8n6n7n7n8n6n7n7n8n6n7n7n8n6n7v1v2v2v3v1v2v2v3v1v2v2v3v1v2v2v3v1v2v2v3n7n8n6n7n7n8n6n7n7n8n6n7n7n8n6n7n7n8n6n7n7n8
+BOARD 0 34 64 0 dunanbnbncdudududududududududududunanbnbncf5VFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFVFf5nanbnbncdudududududududududududunanbnbncdu
+BOARD 0 35 64 0 dun6n7n7n8dudududududududududududun6n7n7n8f5sWsXv+v/v/v/v/v/v/3wv+v/v/v/v/v/v/3wsWsXf5n6n7n7n8dudududududududududududunqnrnrnsdu
+BOARD 0 36 64 0 nwvSvTvTvUnwnxf/nwnwnxf/nwnwnxf/nwvSvTvTvUf5sWsX1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1YsWsXf5vSvTvTvUnwnxf/nwnwnxf/nwnwnxf/nwvSvTvTvUnw
+BOARD 0 37 64 0 duvivjvjvkdudududududududududududuvivjvjvkf5sWsXcZcZcbcicjckclcicjckclcicjcacZcZsWsXf5vivjvjvkdudududududududududududuvivjvjvkdu
+BOARD 0 38 64 0 d+vivjvjvkd+d+d+d+d+d+d+d+d+d+d+d+vivjvjvkf5sWsXcZcZcbcyczc0c1cyczc0c1cyczcacZcZsWsXf5vivjvjvkd+d+d+d+d+d+d+d+d+d+d+d+vivjvjvkd+
+BOARD 0 39 64 0 d+vivjvjvkd+d+d+d+d+d+d+d+d+d+d+d+vivjvjvkf5sWsXcZcZcbcjckclcicjckclcicjckcacZcZsWsXf5vivjvjvkd+d+d+d+d+d+d+d+d+d+d+d+vivjvjvkd+
+BOARD 0 40 64 0 d+nqnrnrnsd+d+d+d+d+d+d+d+d+d+d+d+nqnrnrnsf5sWsXcZcZcbczc0c1cyczc0c1cyczc0cacZcZsWsXf5nqnrnrnsd+d+d+d+d+d+d+d+d+d+d+d+nqnrnrnsd+
+BOARD 0 41 64 0 d+nqnrnrnsd+d+d+d+d+d+d+d+d+d+d+d+nqnrnrnsf5sWsXcZcZcbcicjckclcicjckclcicjcacZcZsWsXf5nqnrnrnsd+d+d+d+d+d+d+d+d+d+d+d+nqnrnrnsd+
+BOARD 0 42 64 0 d+nqnrnrnsd+d+d+d+d+d+d+d+d+d+d+d+nqnrnrnsU5sWsXcZcZcbcyczc0c1cyczc0c1cyczcacZcZsWsXU5nqnrnrnsd+d+d+d+d+d+d+d+d+d+d+d+nqnrnrnsd+
+BOARD 0 43 64 0 dunqnrnrnsdudududududududududududunqnrnrnsdusWsXcZcZcbcjckclcicjckclcicjckcacZcZsWsXdunqnrnrnsdudududududududududududunqnrnrnsdu
+BOARD 0 44 64 0 dunqnrnrnsdudududududududududududunqnrnrnsdusWsXcZcZcbczc0c1cyczc0c1cyczc0cacZcZsWsXdunqnrnrnsdudududududududududududunqnrnrnsdu
+BOARD 0 45 64 0 denqnrnrnsdedededededededededededenqnrnrnsdesWsXcLcLcfcucucucucucucucucucucecLcLsWsXdenqnrnrnsdedededededededededededenqnrnrnsde
+BOARD 0 46 64 0 0Jnqnrnrns0J0J0J0J0J0J0J0J0J0J0J0Jnqnrnrns0JsWsXU4U4U4U4U4U4U4U4U4U4U4U4U4U4U4U4sWsX0Jnqnrnrns0J0J0J0J0J0J0J0J0J0J0J0Jnqnrnrns0J
+BOARD 0 47 64 0 SjnqnrnrnsSgShSiSjSgShSiSjSgShSiSjnqnrnrnsSgsmsncKcKcPcucucucucucucucucucucOcKcKsmsnShnqnrnrnsSgShSiSjSgShSiSjSgShSiSjnqnrnrnsSg
+BOARD 0 48 64 0 ZXvyvzvzv0ZUZVZWZXRERFREQlQDhjQjQwvyvzvzv0QAcacZcZcZcbc1cyczc0c1cyczc0c1cycacZcZcZcbQAvyvzvzv0RERFREQlRIQAHCHDQAQAQAQAvyvzvzv0RE
+BOARD 0 49 64 0 Znn6n7n7n8ZWZXZmZnSYQAQwQAhzQVhhQAn6n7n7n8QDcacZcbcLcfcicjckclcicjckclcicjcecLcNcZcbQQn6n7n7n8RIQBQCQDQCQDHSHTQCQDQCQDn6n7n7n8QA
+BOARD 0 50 64 0 QCSgShSiSjZmZnZ0QCQDQQQARERFQlQRQwSgShSiSjQAcacZcbc0c1cyczc0c1cyczc0c1cyczc0c1cacZcbQgSgShSiSjQARIQkQlQSQTQAQAQSQTQUQTSgShSiSjQA
+BOARD 0 51 64 0 QSQwQAQASYQDQyQzQSQThyQhQiQjhhQzQARERFREQlQAcacZcbcicjckclcicjckclcicjckclcicjcacZcbQwQAQAQVZgZhQDQiHAHBHASOHBHAQAQkRERFREQAQAQA
+BOARD 0 52 64 0 QyQARERFREQlQSQTQyQzQwQxhzQzQUQTQVQAQBQCQDQCcacZcbcyczc0c1cyczc0c1cyczc0c1cyczcacZcbQARERFQlZwZxQTQyHQHRHQHQHRHQQDQAQBQCQDQCQDQC
+BOARD 0 53 64 0 SOZlZlZUZVQhQiQjQCQDQwQxQyQzQkREQlZlQCQkQlQScacZcbcjckclcicjckclcicjckclcicjckcacZcbQwZUZVRIQhQiQjQCQjHAGgGhGwHAHBHAHBQAQTQAQAQi
+BOARD 0 54 64 0 QSQAZUZVQwQxQyQzQSZlZlQhQiQgQhQiQAQBQCQDQCQDcacZcbczc0c1cyczc0c1cyczc0c1cyczc0cacZcbQAQBZUZVQxHAHBHAGgGhGwGxGgHQHRZlHBQDQkQlQDHA
+BOARD 0 55 64 0 QiQQQRQSQDQBQCQDQiQjQAQAQSQTQSQTSOZlQSQTQSQTcacZcbckclcicjckclcicjckclcicjckclcacZcbQQQRQSQAQBSYHRHQGwGxGgGhGwGxGgGhQSQTQTQUQTSY
+BOARD 0 56 64 0 QyRERFREQlQRQSQTQyQzZvHAQiQjQiQjQCQDQiQwQAQjcacZcbc0c1cyczc0c1cyczc0c1cyczc0c1cacZcbQgQhZ0QQQRQjHAGgGhGhGwGxGgGhGwGxQiQjQjQkRFQj
+BOARD 0 57 64 0 aPQwQxQSQiHAHBHAaPHAHRHQQAZvHAQAHBHAQAQAQUQTcacZcbcicjckclcicjckclcicjckclcicjcacZcbQwSYQyQgS5QzHQGwGxGxGgGhGwGxGgGhHBHBQiQjQzQz
+BOARD 0 58 64 0 HAQAQBQiQyZlZlHQHAQAZvHAhgHRHQHQHRHQQDQAQkREcacZcbcyczc0c1cyczc0c1cyczc0c1cyczcacZcbQAQBHCHDQxQAHBHAGgGhGwGxGgGhGwGxHRS5QwQAQDQA
+BOARD 0 59 64 0 HQQQQRQyQCQjHAGgHQhgHRHQGhaPaPGhGwHAHBHAHBQTcacZcbckclcicjckclcicjckclcicjckclcacZcbQQQRHSHTQxHQHRHQGwGxHRHRGwGxHAHBSYQTQwZlHBHQ
+BOARD 0 60 64 0 Z/QgQhZlSOGgGhGwZ/GhaPaPGxGhGwGxGgHQHRHQHRQjcacZcbc0c1cyczc0c1cyczc0c1cyczc0c1cacZcbQgQhQiQgQhQSHAHBHAHBQSHAHBHAHQHRQiQjSYQBQjQS
+BOARD 0 61 64 0 GhQwQxQSHQGwGxGgGhGwGxGgGhGxGgGhGwGxGgGhQSQzcacZcbcicjckclcicjckclcicjckclcicjcacZcbQwZlZlQwSOHBHQHRHQHRQiHQZ0HQQzQSQTQyQAQAQzHB
+BOARD 0 62 64 0 GxSOQxQiGgGhGhGwGxGhGhGwGxGhGwGxGgGhGwGxQiQzcacZcbcyczc0c1cyczc0c1cyczc0c1cyczcacZcbQwQxQyQwQxQyQwQxQyQiQjQyQzQyQzQiQjQyQzQyQzQy
+BOARD 0 63 64 0 Z/QgQhZlSOGgGhGwGgGhGgGhGxGhGwGxGgHQHRHQHRQjcacZcbc0c1cyczc0c1cyczc0c1cyczc0c1cacZcbQgQhQiQgQhQSSYHBQiHQQSZlHBHAZ0HRQiQjSYQBQjQS
+LINK val_int_greendale_janyns_01.nw 14 12 3 1 30 42
+LINK worldmapkharlia_g03.nw 0 63 64 1 26 15
+LINK val_int_greendale_tollhouse_01.nw 47 0 2 1 24.5 36
+NPC val_iron-biggear2.gif 21 34
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_iron-biggear2.gif",0,0,12,139);
+}
+NPCEND
+NPC - 19 24
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_iron-biggear.gif",0,0,48,115);
+}
+NPCEND
+NPC val_iron-biggear2.gif 42 34
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_iron-biggear2.gif",0,0,12,139);
+}
+NPCEND
+NPC - 42 24
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_iron-biggear.gif",92,0,48,115);
+}
+NPCEND
+NPC val_eisendal_banner.gif 50 36
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.78;
+this.red = 0.75;
+this.green = 0.71;
+}
+NPCEND
+NPC val_eisendal_banner.gif 8 36
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.78;
+this.red = 0.75;
+this.green = 0.71;
+}
+NPCEND
+NPC val_durandalbanner.gif 17 40
+
+NPCEND
+NPC val_durandalbanner.gif 43 40
+
+NPCEND
+NPC - 50 1
+//#CLIENTSIDE
+if (created) {
+  // Initialize the attributes
+ showcharacter;
+  setcharprop #3,val-eisendalhelmetcopper2.png;
+  setcharprop #ATTR10,;
+  setcharprop #C0,brown;
+  setcharprop #C1,black;
+  setcharprop #C2,darkred;
+  setcharprop #C3,lightgray;
+  setcharprop #C4,brown;
+  setcharprop #C5,brown;
+  setcharprop #C6,brown;
+  setcharprop #C7,brown;
+  setcharprop #2,no-shield.png;
+  setcharprop #P1,no-hat.gif;
+  setcharprop #8,val_artificermail_body105.gif;
+  setcharani valweap_ornategun-passive-idle,;
+  this.attr[10] = "valweap_magelancetin.gif";
+  this.attr[7] = "pack_val-eisendal1.png";
+  setcharprop #P(8),cccc.png;
+  dir = 2;
+}
+
+
+if (playertouchsme) {
+message "This is the tollhouse. Seek your inquiries within.";
+sleep 3;
+message ;
+}
+NPCEND
+NPC - 43 1
+//#CLIENTSIDE
+if (created) {
+  // Initialize the attributes
+ showcharacter;
+  setcharprop #3,val-eisendalhelmetcopper2.png;
+  setcharprop #ATTR10,;
+  setcharprop #C0,brown;
+  setcharprop #C1,black;
+  setcharprop #C2,darkred;
+  setcharprop #C3,lightgray;
+  setcharprop #C4,brown;
+  setcharprop #C5,brown;
+  setcharprop #C6,brown;
+  setcharprop #C7,brown;
+  setcharprop #2,no-shield.png;
+  setcharprop #P1,no-hat.gif;
+  setcharprop #8,val_artificermail_body105.gif;
+  setcharani valweap_ornategun-passive-idle,;
+  this.attr[10] = "valweap_magelancetin.gif";
+  this.attr[7] = "pack_val-eisendal1.png";
+  setcharprop #P(8),cccc.png;
+  dir = 2;
+}
+
+
+if (playertouchsme) {
+message "This is the tollhouse. Seek your inquiries within.";
+sleep 3;
+message ;
+}
+NPCEND
+NPC - 48 28
+//#CLIENTSIDE
+if (created) {
+  // Initialize the attributes
+ showcharacter;
+  setcharprop #3,val_eisendalrecon_head.gif;
+  setcharprop #ATTR10,;
+  setcharprop #C0,brown;
+  setcharprop #C1,black;
+  setcharprop #C2,darkred;
+  setcharprop #C3,lightgray;
+  setcharprop #C4,brown;
+  setcharprop #C5,brown;
+  setcharprop #C6,brown;
+  setcharprop #C7,brown;
+  setcharprop #2,no-shield.png;
+  setcharprop #P1,no-hat.gif;
+  setcharprop #8,val_gauntletbody100.png;
+  setcharani valweap_ornategun-passive-idle,;
+  this.attr[10] = "valweap_magelancetin.gif";
+  this.attr[7] = "pack_val-eisendal1.png";
+  setcharprop #P(8),cccc.png;
+  dir = 2;
+  timeout=0.05;
+}
+NPCEND
+NPC - 40 47
+//#CLIENTSIDE
+if (created) {
+  // Initialize the attributes
+ showcharacter;
+  setcharprop #3,val-eisendalhelmetcopper2.png;
+  setcharprop #ATTR10,;
+  setcharprop #C0,brown;
+  setcharprop #C1,black;
+  setcharprop #C2,darkred;
+  setcharprop #C3,lightgray;
+  setcharprop #C4,brown;
+  setcharprop #C5,brown;
+  setcharprop #C6,brown;
+  setcharprop #C7,brown;
+  setcharprop #2,no-shield.png;
+  setcharprop #P1,no-hat.gif;
+  setcharprop #8,val_artificermail_body105.gif;
+  setcharani valweap_ornategun-passive-idle,;
+  this.attr[10] = "valweap_magelancetin.gif";
+  this.attr[7] = "pack_val-eisendal1.png";
+  setcharprop #P(8),cccc.png;
+  dir = 1;
+}
+
+
+if (playertouchsme) {message "Welcome to Greendale."; sleep 3; message ;;
+}
+NPCEND
+NPC - 21 47
+//#CLIENTSIDE
+if (created) {
+  // Initialize the attributes
+ showcharacter;
+  setcharprop #3,val-eisendalhelmetcopper2.png;
+  setcharprop #ATTR10,;
+  setcharprop #C0,brown;
+  setcharprop #C1,black;
+  setcharprop #C2,darkred;
+  setcharprop #C3,lightgray;
+  setcharprop #C4,brown;
+  setcharprop #C5,brown;
+  setcharprop #C6,brown;
+  setcharprop #C7,brown;
+  setcharprop #2,no-shield.png;
+  setcharprop #P1,no-hat.gif;
+  setcharprop #8,val_artificermail_body105.gif;
+  setcharani valweap_ornategun-passive-idle,;
+  this.attr[10] = "valweap_magelancetin.gif";
+  this.attr[7] = "pack_val-eisendal1.png";
+  setcharprop #P(8),cccc.png;
+  dir = 3;
+}
+
+
+if (playertouchsme) {message "Welcome to Greendale."; sleep 3; message ;;
+}
+NPCEND
+NPC - 44 55
+join("world_durandalwagon");
+NPCEND
+NPC beerkeg.gif 60 19
+
+NPCEND
+NPC beerkeg.gif 60 4
+
+NPCEND
+NPC - 58 21
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("beerkeg.gif",0,0,32,32);
+}
+NPCEND
+NPC ky-val-crate-ammo.gif 58 5
+
+NPCEND
+NPC ky-val-crate-ammo.gif 56 4
+
+NPCEND
+NPC alchemybottlered.gif 55 1
+
+NPCEND
+NPC blackmarketweap1.gif 55 3
+
+NPCEND
+NPC - 60 22
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("beerkeg.gif",0,0,32,16);
+}
+NPCEND
+NPC val_golempullcart.gif 45 50
+// Created by racil
+NPCEND
+NPC val_smeewnpinetree-stump.png 1 58
+
+NPCEND
+NPC val_smeewnpinetree-stump.png 49 59
+
+NPCEND
+NPC val_smeewnpinetree-stump.png 60 51
+
+NPCEND
+NPC val_smeewnpinetree-sapling.png 6 41
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+}
+NPCEND
+NPC - 0 47
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_smeewnpinetree-sapling.png",32,0,64,160);
+}
+NPCEND
+NPC val_smeewnpinetree-stump.png 16 54
+
+NPCEND
+NPC val_smeewnpinetree-stump.png 5 50
+
+NPCEND
+NPC - 60 54
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_smeewnpinetree-sapling.png",0,0,64,160);
+}
+NPCEND
+NPC - 28 23
+//#CLIENTSIDE
+function onCreated()
+  {this.x -=0.5;this.y -=0.5;
+  with(findimg(10))
+    {
+    x=25.5;
+    y=84.6;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.9;
+    emitter.maxparticles=20;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(125);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(125),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val_windowdark.gif 10 3
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+}
+NPCEND
+NPC val_doordark.gif 13 9
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawunderplayer();
+}
+NPCEND
+NPC val_windowdark.gif 16 3
+//#CLIENTSIDE
+function onCreated() {
+this.x += 0.5;
+}
+NPCEND
+NPC val_durandalbanner.gif 1 40
+
+NPCEND
+NPC val_durandalbanner.gif 59 40
+
+NPCEND
+NPC draack_brickstack1.gif 1 7
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack2.gif 1 0
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack2.gif 1 1
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack2.gif 3 0
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack2.gif 1 4
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack2.gif 1 3
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack2.gif 3 1
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack2.gif 1 2
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack2.gif 3 3
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack2.gif 3 2
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack2.gif 3 4
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack2.gif 3 5
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack2.gif 1 6
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack2.gif 1 5
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack2.gif 3 6
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack1.gif 1 8
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack1.gif 3 7
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack1.gif 3 8
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack1.gif 1 9
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack1.gif 3 9
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack1.gif 3 10
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC draack_brickstack1.gif 1 10
+//#CLIENTSIDE
+function onCreated() {
+this.blue = 0.48;
+this.red = 0.45;
+this.green = 0.41;
+}
+NPCEND
+NPC val_smeewnpinetree-sapling.png 53 41
+//#CLIENTSIDE
+function onCreated() {
+drawunderplayer();
+}
+NPCEND
+NPC - 9 19
+//#CLIENTSIDE
+function onCreated() {
+  this.head = no-head.png;
+  this.body = no-body.png;
+  setcharani regalcart-idle,;
+  this.dir = 3;
+}
+NPCEND
+NPC val_greendale_gates.png 24 36
+// The gate: click it to open or close it. The state lives on the server, so every player sees the same.
+if (created) {
+  this.open = 0;
+  setimg val_greendale_gates.png;
+  setshape 1,256,176;
+}
+if (actiongate) {
+  if (this.open == 0) {
+    this.open = 1;
+    setimg val_gate_open.png;
+    dontblock;
+  } else {
+    this.open = 0;
+    setimg val_greendale_gates.png;
+    blockagain;
+  }
+}
+//#CLIENTSIDE
+function onMouseDown(mods, mx, my) {
+  if (mousex >= this.x && mousex <= this.x + 16 && mousey >= this.y && mousey <= this.y + 11) {
+    triggeraction(this.x + 8, this.y + 5, "gate", "");
+  }
+}
+NPCEND
+NPC - 24 21
+//#CLIENTSIDE
+if (playertouchsme) {
+  playery += 18;
+}
+if (created) {
+  setshape 1,16*16,16*1;
+}
+NPCEND
+NPC val_6-6-doorshade.png 24 37
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawunderplayer();
+}
+NPCEND
+NPC val_6-6-doorshade.png 34 37
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawunderplayer();
+}
+NPCEND
+NPC val_6-6-doorshade.png 30 37
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+setimgpart("val_6-6-doorshade.png",0,0,64,96);
+drawunderplayer();
+}
+NPCEND
+NPC - 24 36
+//#CLIENTSIDE
+if (playertouchsme) {
+  playery -= 18;
+}
+if (created) {
+  setshape 1,16*16,16*1;
+}
+NPCEND
+NPC - 1 26
+/*function onCreated() {
+//  this.img = "val_greendale_gates.png";
+  setshape 1,16*16,16*11;
+  this.w = 16*16;
+}
+
+function onPlayerenters() {
+  triggeraction x,y,Image,;
+}
+
+function onActionLeftMouse() {
+
+  if (this.w==16*16) {
+    dontblock();
+    this.m = 1;
+    this.setTimer(.05);
+  }
+  else {
+    this.m = 2;
+    this.setTimer(.05);
+  }
+}
+
+function onTimeout() {
+  setshape 1,16*16,16*11;
+  triggeraction x,y,Image,;
+  if (this.m==1) {
+    if (this.w>=8) {
+      this.w -= 4;
+    }
+    else {
+      triggeraction x,y,Hide,;
+      this.m==0;
+    }
+  }
+  else if (this.m==2) {
+    if (this.w<=(16*16-4)) {
+      wid += 4;
+    }
+    else {
+      blockagain();
+      this.m==0;
+    }
+  }
+  this.setTimer(.05);
+}
+//#CLIENTSIDE
+function onPlayerenters() {
+  this.alpha = 0;
+}
+if (actionImage) {
+  showimg(1,this.image,x,y);
+  changeimgpart(1,16*8-this.w/2,0,this.w/2,16*11);
+  showimg(2,this.image,x+8+(8-(this.w/32)),y);
+  changeimgpart(2,16*8,0,this.w/2,16*11);
+  setshape 1,16*16,16*11;
+  changeimgvis 1,1;
+  changeimgvis 2,1;
+}
+if (actionHide) {
+      hideimg(1);
+      hideimg(2);
+}*/
+NPCEND
+NPC - 15 28
+  showimg(1,this.img,x,y);
+
+  changeimgpart(1,0,0,16*8,16*11);
+
+  showimg(2,this.img,x+8,y);
+
+  changeimgpart(2,16*8,0,16*8,16*11);
+
+  changeimgvis 1,1;
+
+  changeimgvis 2,1;
+NPCEND
+NPC - 13 28
+//#CLIENTSIDE
+if (created) {
+  // Initialize the attributes
+ showcharacter;
+  setcharprop #3,val_eisendalrecon_head.gif;
+  setcharprop #ATTR10,;
+  setcharprop #C0,brown;
+  setcharprop #C1,black;
+  setcharprop #C2,darkred;
+  setcharprop #C3,lightgray;
+  setcharprop #C4,brown;
+  setcharprop #C5,brown;
+  setcharprop #C6,brown;
+  setcharprop #C7,brown;
+  setcharprop #2,no-shield.png;
+  setcharprop #P1,no-hat.gif;
+  setcharprop #8,val_gauntletbody100.png;
+  setcharani valweap_ornategun-passive-idle,;
+  this.attr[10] = "valweap_magelancetin.gif";
+  this.attr[7] = "pack_val-eisendal1.png";
+  setcharprop #P(8),cccc.png;
+  dir = 2;
+  timeout=0.05;
+}
+NPCEND
+NPC - 8 52
+//#CLIENTSIDE
+if (created){x=x-.5;
+  {
+    showcharacter;
+    setcharprop #P1,hat.png;
+    setcharprop #3,val_culthead.gif;
+    setcharprop #8,val_arwind-racoonbody2.gif;
+    setcharprop #C0,gray;
+    setcharprop #C1,gray;
+    setcharprop #C2,white;
+    setcharprop #C3,lightgray;
+    setcharprop #C4,gray;
+    setcharprop #m,0;
+    setcharani val_sit,;
+    swordpower = 1;
+    setcharprop #2,no-shield.gif;
+    shieldpower = 1;
+    ap = 100;
+    setcharprop #n,???;
+    dir = 3;}
+}
+if (playertouchsme) {message "Oh, hello.. I'm just getting some fresh air. Those gates are pretty impressive, aren't they? Try clicking them!" ; sleep 6; message ;;
+}
+NPCEND
+

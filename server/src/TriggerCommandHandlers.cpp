@@ -244,7 +244,11 @@ void Server::createTriggerCommands(TriggerDispatcher::Builder builder)
 				{
 					fields.push_back(account);
 					fields.push_back(std::to_string(guildManager->getRank(g->name, account)));
-					fields.push_back(guildManager->getMemberNick(g->name, account));
+					// The nick is only shown; a comma in it ("Arn Geoffrey, Grand Master of") shifted every field after it in -Guilds,
+					// which split the reply on each comma, and the whole list came out empty (Kixt, 17 Nov 2026).
+					std::string nick = guildManager->getMemberNick(g->name, account);
+					std::ranges::replace(nick, ',', ' ');
+					fields.push_back(nick);
 				}
 			}
 			send(fields);

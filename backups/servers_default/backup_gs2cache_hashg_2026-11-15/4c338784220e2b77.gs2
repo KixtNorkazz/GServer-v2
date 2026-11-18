@@ -1,0 +1,26 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "danidestruct-jeddrick-head.gif";
+  this.body = "moto-bridgetonbody100.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("valikorlia_motoxbow2-passive-idle", NULL);
+  this.dir = 1;
+  this.ap = 100;
+  this.nick = "David Forbes";
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "Bridgeton")) {
+    say2("Nothing to report, as usual.");
+  }
+  if (!("#g" == "Bridgeton")) {
+    say2("What are YOU doing here?");
+  }
+}

@@ -1,0 +1,27 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.open = 0;
+  this.moving = 0;
+  this.move = 4;
+  this.movespeed = abs(this.move/2);
+  this.guild = "The Legion of Steel";
+}
+
+function onMovementFinished() {
+  this.moving = 0;
+}
+
+function onPlayerChats() {
+  if (((this.guild) == "#g")) {
+    if ((player.chat == "/open gates")&&this.open==0&&this.moving==0) {
+      this.moving = 1;
+      this.open = 1;
+      move(this.move, 0, this.movespeed, 8);
+    }
+    if ((player.chat == "/close gates")&&this.open==1&&this.moving==0) {
+      this.moving = 1;
+      this.open = 0;
+      move(this.move*-1, 0, this.movespeed, 8);
+    }
+  }
+}

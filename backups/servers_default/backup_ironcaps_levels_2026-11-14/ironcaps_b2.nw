@@ -1,0 +1,447 @@
+GLEVNW01
+BOARD 0 0 64 0 QAQBQCQDQAQBQCGxQAGgGhQDQAQzQCQDQAQBQCQDQAQBRCRzRxQiQARyTUTjTUTjS1RzTUTjSBQBQCQDQAQgRWTUTURzRgSSQAGxGwGxGxQD2nLrBqCMB7CMB7CMCMB7
+BOARD 0 1 64 0 QQQRQSQTQQQRQSGgQQGwGxQTQQQDSSQCQQHAQSQTSSSTRjTURzSBQzSiSjRCTURzTUTURzTURxSSQBGwGxHRRCRzRYTUTjTjRxSSSDQASCSDQD1ZB6CMB8CLCLB7B7CM
+BOARD 0 2 64 0 QgQhQiQjQgQhQiGwQgQxQySDQhQgRTRgQgQhQiQjRTblRzRQSjQCQDZRQySAup0B0B0BuqTjTUTjRxSDQQQRQSSiQARCRzTUTjTUasRmasatRx1ZBqCMCMB7B7B7B7CL
+BOARD 0 3 64 0 ZRQxQyQzQwQxQyGxQASTRyTURgSTRjRQQwHQHRQzQzRWTURgQhQiQjQgQh13u50R0g0Ru6R/TURzTUTjRgQhZRQzHQRyTUTjS0Tjblacaca9R+LfB6CMB8CMCMCMCMB8
+BOARD 0 4 64 0 v6QBQCQDQAQBQCQTRjTUTjS0TjTURzRxQAQBSnQDSQRzS1RzRxST131o1o2H0i0h0g0h0ju60BuqTURzTURxSCQRRyTUTURzTURzTUa8a9TUu9CaB6B7B7B8B8B8B8CM
+BOARD 0 5 64 0 uYv6QiGgHQHRGxQjRTa8acTUTUTjbVRzRxRjSBQTRyTjTUa8Rzupu50Q0R0i0S0R0Q0R0T0j0Ru60BR/TURzTjRmTjRQRCR+0B0B0B0B0B0Bu5LnCaCNB8B7B7B8B8B7
+BOARD 0 6 64 0 TjuYv6GwHRGxQSv7usuIuJusususususuIRQQQQjRTRzup0B0Bu50i0g0h0S0i0h0g0h0j0T0h0j0RRuRfR/RzTURzRg13u50Q0Q0R0Q0R0Q0RL3LnCaCcCdCcCdCcCd
+BOARD 0 7 64 0 TjTUuYv6GwGxv7TjTjTUTjTUTjTUTjTjuYusv6QzQj13u50Q0R0i0S0Q0R0i0S0R0Q0R0T0j0R0T0hRuRfRuR/TURzR+u50i0g0g0h0g0h0g0h0jL3LaLaLaLaLaLaLa
+BOARD 0 8 64 0 RQRCTUuYususTjRQSiRCTkTkTkTkTjTUTjTjuY2W1ou50i0g0h0S0i0g0h0S0i0h0gsP0j0T0h0j0RRuRfRuRuRfRfRv0i0S0Q0Q0R0Q0R0Q0R0T0j0Q0R0Q0R0Q0R0Q
+BOARD 0 9 64 0 QQQRRTRYTUTjRQQjQgQhRTTjTjTUTjTkTkRYTju90R0i0S0Q0R0i0S0Q0R0i0S0R0Qu70o0j0R0TSoReRfRuRuRfRfRv0S0nu90g0h0g0h0g0R0j0j0Q0R0Q0R0Q0R0Q
+BOARD 0 10 64 0 QgQhQyQQSgSiQyQzQwQDRjTUTjTkTkRQSiQTRTu90Q0S0i0g0h0S0i0g0h0S0i0h0gu7Rz0osP0jSoRzRzReRuRfRfRv0nTUu90Q0R0Q0R0i0Q0TRzRzRzRzRzRzRzRz
+BOARD 0 11 64 0 QwQxQCQDQAQBQCSDSSRyTkTkTjRQSiQSQTQTRju90Q0i0S0Q0R0i0S0Q0R0i0S0R0Qu7RzRzRz0oRuR/RzRzReRfRfZQTURzu90g0h0g0i0S0Q02TUTjTjTjTjTjTjTj
+BOARD 0 12 64 0 QxQBQSQTQQQRQSRTRQRTTjTUTjSRQQHEHFSQTUu90R0S0i0g0h0S0i0g0h0S0isPsPvLuqRzRzRzReRuR/RzRzRzRzRzRzR+vN0Q0R0i0S0isP0nTUTjTjTjTjTjTjTj
+BOARD 0 13 64 0 2WQRQSQTQQQRQSSQRgRjTjTkS0RxQgHUHVQDRTTU250i0S0Q0R0i0S0Q0R0i1qQTQQ00u6uqRzRzRzReRuR/RzRzTUTUR+u5020g0h0S0i0nRzRzRzRzRzRzRzRzRzRz
+BOARD 0 14 64 0 u9QSHAHBQgQhQiQiRWTkTkTjTkTjSBQxQyQTQQSiRT250i0g0h0S0isPsP1qQiQjQg1r0ju60BR/RzRzReu60B0B0B0Bu50i020Q0R0i0nRzTjTjTUTjTjTjTjTjTjTj
+BOARD 0 15 64 0 u9HBHQHRQwQxQyQzRTTjTUTjTjRXQBQBQCQjQgQhQiRT250Q0R0i1qQzQwQxQyQzQwQh1r0j0QRuRfR/Rz0j0g0h0g0h0i0i02sPsP0nTUTjR+0BR/RzRzRzRzRzRzRz
+BOARD 0 16 64 0 u9GxGhQSQAQBQCQDSQTjTkbVTjRBQQQBSTQzQhQxQyQSRC25sP1qQCQDQAQBQCQDQAQxQy1rsPRuRfRuRf0j0Q0R0Q0R0i0S02RyTUTUTTTTu9Leu60B0B0B0B0B0B0B
+BOARD 0 17 64 0 ufv6GhQwQQQRQSQTQQRTTjTkTkSBQwRyTkRgQxQxQgQhQiRTv6QTQSQTQzQRQSQTQQQRQSQTQQa1RfRuRf0T0g0h0g0h0S0i0nTUR0TTTjTTu9CXLesOsOsOsOsOsOsO
+BOARD 0 18 64 0 ShSi3ZQyQzQwQiQjQgQhRCRQSiQDRjTjTUTjSRQBQwQxQyRjTjusususv6QhQiQjQgQhQiQjQgQhQia1Rf0j0Q0R0Q0R0i0nRzTkTUTTTjR+J9BKBPCqCrCqCrCqCrCq
+BOARD 0 19 64 0 QwQxRjv6QAQBQyQzQwQxQyQzQSSATkTja9acRxQRQAQBSATkTjTjTkTkTj2WQyQzQwQxQyQzQwQxQyQzRT0osPsPsPsP0nRzTUTjTjTTR+J9BbB9B+BMBNBMBNBMBNBM
+BOARD 0 20 64 0 QBQCSiRCusv6QzQDQAQBQCQDQiRjTkTUbla8a9SBQiQjRjTjTUTja8a9Tju9QCQDQAQBQCQDQAQBQCQDSQRBRTR0RxRyTTTUR0RzRzR+J9BbB9B7B8CLCLCLCLCLCLCL
+BOARD 0 21 64 0 QQQRQSRSRTuY2WQTQQGoGpQTSATkTjTkb1RzRzSRQySATkTkTjTkTjTkTju9QSQTQQQRQSQTQQQRQSQTQjQSQQShRCR0TjTkTUTjTjSpBbB9CMB7B7B8B7B8B7CMB8B8
+BOARD 0 22 64 0 QgQiQiQjQiRWu9QjQgG4G5QjSARQSiRTTjTkRQQBQCSQTjTUS1TUTUTjTju9QhQzQQQhQiQjQgQhQiQjQgQRQwQxQyRTTUTUR0TjTjSpCaCNB7B8B8B8B8B8B8B8B8CM
+BOARD 0 23 64 0 QwQxQhQzRjuYu9QzQwQxQyQzQSQTQQQRSgShQQSSSTQTRTTkTkTUTkTkTkuf2WQDQwQxQyQzQwQxQyQzQwQDQAQQQRRjTUR0TURzRzufL4CaCdCNB7B8B7B7CLCLB8B8
+BOARD 0 24 64 0 QAQBQCQDSiRTu9QDQAQBQCQDQiQjQgQhQiQjRjTjTURgQgShRTTkRYRQSiRTufv6QAQBQCQDQAQBQCQDQAQTQQQRRyTUTkTURBSiRTTjTjusL4CaCNB8B7CLB8B7CLCM
+BOARD 0 25 64 0 QQQRQSQTQDQw1ZQiQjQQQSQTQyQzQwQxQxRyTUTkS0TUSBQyQzSiQyQyQzQzRWTjv6QRQSQTQQQRQSQTQQQjQgRjTUTURBRCQSQTQQShRCTUTUL7BqB8B8CLCLCLCLB8
+BOARD 0 26 64 0 QgQhQiQjQgQA1ZQhQzQgQiQjQCQDQAQBSQTkbVTUTkTUSRQCZRQAQwQyQzQwRTTjuY2WQiQjQgQhQiQjQgQzSATjUwTURxQxQyQzQwQxQyRTRzu9CaCNB8B8B7CMB8CM
+BOARD 0 27 64 0 QwQxQyQzQwQQud3ZQDQwQyHCHDQTQQQRQSRTTkTURQSiQQQSQTQQQAQCGiGjQgSjRTufv6QBQwQxQyQzQwQDQgRTTTRBSiQBQCQRQSQTQQQRRCufL7BqB8B7B8B8B8B8
+BOARD 0 28 64 0 QAQBQCQDQAQgQSQw3ZQyQCHSHTQjQgQhQiQjSiSjQiQjQxQyQzQRQSQzGyGzQyQiQjSgRT2WQAQBQCQDQAHBQwRjRQQRQSQTQQQRQiQzQwQxSATjSpB6B8B7B7B8B8CM
+BOARD 0 29 64 0 QAQRQSQTQQQwQwQxQw3ZQSQTQQQRQSQyQzQwQxQyQzQwQAQBQQQRQSQTQAQBQCQyQzQQRyu9QQQwQxQyHQHRSATkSBQxQyQzQRQSQTQQQRQiRjRzSpB6B8B7B8B8B7CM
+BOARD 0 30 64 0 QQQhQiQjQgQAQBQCQRRjv6QjQgQhQiQCQDQAQBQCQDQAQyQzQgQhQiQjQgQhQiQjQgQhRWu9QhQhQiQTQhQQSQR0RgQBQCQDQxQyQzQwQxQyRTR+J9BqB8B8B7B7B8B8
+BOARD 0 31 64 0 QgQxQyQzQwQxQyQzQwRCTjv6QyQzQyQSQTQQQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxRTufv6QBQyQjQxQTQQRTTUSBQSQTQBQCQDQAQBQCSAu9BbB9B7B7B8B8B7B7
+BOARD 0 32 64 0 QzQwQxQyQwQFQxQyQzQwRTuYusv6QCQiQjQgQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBSQTjTj2WQCQzQBQjQxRyTkSRQiQjQRQSQTQQQRQSRju9CaCNB8B7B7B8B8B8
+BOARD 0 33 64 0 QDQAQBQCQDREQBQCQDQASATjTjuYv6QSQTQTQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQRRCTju9QSQTQQQRRjR0TURgQyQzQhSSQjQgQhSATUufL4CaCNB8B8B8B8B8
+BOARD 0 34 64 0 RERFQRQCQUQVQRQSQTQQQiRTRBRTTjv6QjQjQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjRTu9QiQjQgQjRWTTTUTTSBQiSATURgQwQxRyRzTjR0L7BqB8B8B8B8B7
+BOARD 0 35 64 0 GgGwQkQlQkQlQkQiQjQgQyQzQwQwRCTjv6QzQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzRju9QiQjQQSQR0TUTjRQQxQyRyTTTURxRjTURzR0TTu9B6B8B8B8B7B8
+BOARD 0 36 64 0 GhGwGgGwGxGhHAQkQzQwQCQDQAQAQBRTuY2WQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDRTu9QhQzQgQBRTRYTUSRQCSAR0TUTjTTR0TUTjRzR+J9BqB8CMB8B8B7
+BOARD 0 37 64 0 GhGhGhGwGwGgGgGwQEQAQSQTQQQRQSQTRCu9QiQTQQQRQgQTQQQRQSQTQQQRQSQTQQQRQSQTSQufv6QDQwQRQSQhShQRQSQiRTTTTUTjTjTTTUR+J9BbB9B7B8B7B8B7
+BOARD 0 38 64 0 GgGwGwGxGwGwGxGhQkREQiQjQgQBQCQjQA1ZQDQRQSQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgRCTjv6QAQhQiQjQgQhQiQTQhSiRCRzTUTkR0u9BbB9B8B8B8B8B7CO
+BOARD 0 39 64 0 QVGxGgGwGhGgGwGwQjQgQkQzQwQRQSQzQQud3ZQhQiQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwSQUwuYv6QTQhQwQwQxQyQjQxQiRjTUTkR0Tju9CaCNB8B8B8B7COBs
+BOARD 0 40 64 0 QzQVGwGxGwGwGxGgGgGwGwQEQAQBQCQDQgQSQS3ZQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBRCTjuYusv6QAQhQBQCQzQBSAR0TkR0TjTTufL4CaCNB7B8COBsLm
+BOARD 0 41 64 0 QDQAQ1Q0Q1QVGwGwGxGhGhQkREQRQSQTQQQRRjTjv6QRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRRSRCTTS0TTv6QTQRQSQTQQQRRTR0TjTTRYR0TjL4CaCdCNBsLmu5
+BOARD 0 42 64 0 QTQQQRQSQTQQQVGgGwGxGwGwGxQkQiQjQgQhSiRTuY2WQwQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiRSRCTTTTuYususv6QTQSQTQSRCTTRBQjRCTTTjususL4Lmu50S
+BOARD 0 43 64 0 QjQgQhQiQjQgQhQ1QVQUGgGgGwQUQyQzQwQxQyQTRCu9QAQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzRyTTTkRBSgRCuYusv6QTQyQjShQiQi130B0B0B0Bu5u50S0i
+BOARD 0 44 64 0 QAQBQCQDQAQ1Q0Q1QVGwGwGxGhQEQCQDQAQBQCQDRju9QwQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDRCTkRBRRQAQBSgRCuYusv6QzQiQj13u50g0h0g0h0g0S0i0S
+BOARD 0 45 64 0 QQQRQSQTQQQRQSQTQQQVGgGwGxQEQSQTQQQRQSQTRCu9QzQwQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTRSSgRRQTZRQRQCQDSgRCuYv6Qj13u50i0Q0R0Q0R0Q0i0S0i
+BOARD 0 46 64 0 QgQhQiQjQgQhQiQjQgQhQ1QVQUQhQiQjQgQhQiQjRju9QCQDQAQQQRQSQgQhQiQjQgQhQiQBQgQhQiQjQgQhQiQjQgQhQSQTQTQgRCuYv6u50i0S0g0h0g0h0g0S0i0S
+BOARD 0 47 64 0 QAQxQyQzQwQxQyQzQwQxQyQzQwQxSDQzQwQxQySATku9QSQTQQQRQSQTQwQxQyQzQwGwQRHRQwQxQyQzQwQxQyQzQwQxQyQzQzQySATTTT3K0S0i0Q0R0Q0R0Q0i0S0i
+BOARD 0 48 64 0 QjQBQCQDQAQBQCQDQAQBQCQDQARjTUSBQAQBQCSQTku9QAQDQAQBQCQQQAQBQCQDHBQSQCQDQAQBQCHQHAQAQBQxQAQBvf3QQDQCQyRWTTu90i0S0g0h0g0h0g0S0i0S
+BOARD 0 49 64 0 usususv6QjQRQSQTQQQ1QSQTRjTTRQQTQQQRQSQTRTufv6QzQQQRQSQgQhQiQjHQHRQiHAHBQQHBGgQTQTHQHBQBQQQRvv3gQTQSSQTTTTuf250i0Q0R0Q0R0Q0i0S0i
+BOARD 0 50 64 0 TTTUTTTUv6QhQiQjQgQhQiSATkTURgQjQgQhQiQjQgRCuY2WQgQhQiQwQxQyQzQwQxQyHQHRHQQwGwQjQjHBQRHRGwQhQiQjQjQiRSRCRBRCTT250g0h0g0h0g0S0i0S
+BOARD 0 51 64 0 TUTkTjTTTU2WQyQzQwQxQyQjRWTkTURxQwQxQyQzQwQxRTu9QwQxQyQAQBQCQDQAQBQCQyQzHRQxQyQzQwQxQRHBGgHBQBQzQzQwQiRSRRRSRCTT250R0Q0R0Q0i0S0i
+BOARD 0 52 64 0 TkTTTUTjTku9QCQDQAQBQCQzRTTTTkRXQCQBQCQDQAQBQC1ZQCZRQCQQQRQSQTQQQRQSQCQDQAQBQCQDQAQBHQQwGwQRHRQDQDQAQAQwQxQyRSRCTT250g0h0R0S0i0S
+BOARD 0 53 64 0 TUTUTUTjTUu9QSQTQQQRQSQTRjTkTTTkSRQRQSQTQQQRQS1ZQSQRQSQTQQQCQDQAQBQCQDQDQAQBQxQgQQQRQSHBQSQCQDQTQTQQQQQQQAQxQyRyRBRC250R0R0i0S0i
+BOARD 0 54 64 0 TkTUTkTTTkufv6QjQgQhQiRyTkTTTkRBQgQhQiQjQgQhQw1ZQyQzQiZWZXQSQTQQQRQSQTQTQQHRHBQhQgQhQiHRQiHAHBQjQjQgQgQgQQQwSARBRRQwRC3K0R0S0i0S
+BOARD 0 55 64 0 RTTjTkTUTUTTTUv6QwQxRjTkTkTURQQzQwQxQyQzQwQxQA1ZQhQDQyZmZnQiQjQgQhQiQjQjHBHBQRHBQBQCQDQxQyHQHRQzQzQwQxQgQQQARSQCQDQASAu90R0i0SLf
+BOARD 0 56 64 0 QAShRTTkTTTjTURB3ZQBRCTkTTTkRxQDQAQBQCQDQAQBQQud3ZQzQCQDQAQyQAQBQCQDQAZRQRQwGwQRQRQSQTQBQCQyQzQDHAQAQBQxQgQQQRQSQTQQRju90R0SLfBb
+BOARD 0 57 64 0 QQQRQSRTTjRYRBQTQQ3ZRyTkTUTkTUSBQQQRQSQTQQQRQgQSQS2JQSQTQQQCQQQARERFRERFRERFREQQQhQiQjQjQgQRQSQTQTHQHBQBQxQgQhQiQzQgRWu9sOLfBbB9
+BOARD 0 58 64 0 QCQDQiQjShQxQiQjQgRyuIRQRTTTTkSRQgQhQiQjQgQhQiSDRju9QiQSQTQQQCQjQVGgGhGxHBGgGhQkQxQyQzQzQwQhQiQjQjHBQRHRHQHBQBQzQwQwRTu9CqBbB9B7
+BOARD 0 59 64 0 usv6QBQBQwQzQyQzQDRWTUv6RTTkRQQzQwQxQyQzQwQxRjTkTTu9QyQiv/3wQSQzQlGwGgHQHRGwGxGgQkQxQxZRQyQxQyQzQwQxHQHBQBQRHRQDQAQARiu9CaCNCMCL
+BOARD 0 60 64 0 RTTTususv6QzQCQDSQTTTkTUv6RBQCQDQAQBQCQDQARyTTTTTku9QCQyv9v+QiQlGgHAHBGxGgGhGgGhGgGhQEQBQCQBQCQDQAQBHAQRHRGwGwHQHBQQRyufL4CNB8B8
+BOARD 0 61 64 0 RjTTRQRTuY2WQSQTQDRTTTTkRQ3ZQSQTQQQRQSQTRjTTTkRBRCu9QSQCQDQAQyQVHAGxHRGhGwQUQVGxGwGxQEZlQSQRQSQTQQQRQSQTGwGgGhQBQRQhRCRBRCL7CMB8
+BOARD 0 62 64 0 SiSjQiQjRCu9QiQjQgQhSgShQgQh3ZQjQgQhQiQjRCTkRQQjRyu9QiQjQgQhQgQFHQHRHBGhQUQVQFHBHRGgQEQwQhQCQDQDQAQhQiQjQgGwGxGwGxGhHQHBSAu9B8CM
+BOARD 0 63 64 0 QwQxQySSRyu9QyQzQwQxQyQzQwQxRyv6QzQxQyQzQwSiQyQzRTu9GhHQQwQxQwQzQVHQHRGxQkQlQBQVGxGwQEQyQxQSQTQTQQQxQyQzQwHBGwGxGgGxQBQRSQu9CMCL
+NPC val_smeewnpinetree-1.gif 41 53
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,val_smeewnpinetree-shadow1.png,x=x,y=y;
+changeimgvis 0,0;
+setshape2 14,19,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+
+
+  };
+}
+NPCEND
+NPC val_smeewnpinetree-1.gif 30 56
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,val_smeewnpinetree-shadow1.png,x=x,y=y;
+changeimgvis 0,0;
+setshape2 14,19,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+
+
+  };
+}
+NPCEND
+NPC val_smeewnpinetree-1.gif 12 10
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,val_smeewnpinetree-shadow1.png,x=x,y=y;
+changeimgvis 0,0;
+setshape2 14,19,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+
+
+  };
+}
+NPCEND
+NPC val_smeewnpinetree-1.gif 39 18
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,val_smeewnpinetree-shadow1.png,x=x,y=y;
+changeimgvis 0,0;
+setshape2 14,19,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+
+
+  };
+}
+NPCEND
+NPC val_waterfall-downdark3.gif 61 36
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .8,.8,.9,.7;
+  drawaslight;
+
+}
+NPCEND
+NPC - 61 57
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 63 56
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 54 18
+//#CLIENTSIDE
+function onCreated() {
+x=x+.5;
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 57 19
+//#CLIENTSIDE
+function onCreated() {
+x=x+.5;
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 60 19
+//#CLIENTSIDE
+function onCreated() {
+x=x+.5;
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC val_waterfall-undershadow.png 55 8
+dontblock;drawunderplayer;
+NPCEND
+NPC val_waterfall-jaggedbits.gif 56 8
+dontblock;drawoverplayer;
+NPCEND
+NPC val_waterfall-downdark2.gif 55 5
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .8,.8,.9,.7;
+  drawaslight;
+dontblock;
+}
+NPCEND
+NPC - 63 18
+//#CLIENTSIDE
+function onCreated() {
+x=x+.5;
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 0.7;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .9;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 30 30
+// NPC made by NORMABRAM.EXE
+//#CLIENTSIDE
+if (created||playerenters) {
+  addtiledef valtiles_brookhurst8bit.png,ironcaps_,0;
+}
+NPCEND
+

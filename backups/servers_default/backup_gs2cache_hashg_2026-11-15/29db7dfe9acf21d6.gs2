@@ -1,0 +1,163 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  this.i = 2;
+  this.width = 64;
+  this.height = 2;
+  setshape(1, this.width*16, 16);
+  this.x = this.x;
+  this.y = this.y;
+  drawaslight();
+}
+
+function onPlayerEnters() {
+  gs1_always();
+  if (("#g" == "The Dark Dragon Knight")) {
+  }
+  if (("#g" == "Dark Dragoon")) {
+  }
+  if (this.mode==1) {
+    if (player.x in |this.x-1,this.x+this.width| && player.y in |this.y-4,this.y+2|) {
+      if (this.created) {
+        this.i = 2;
+      }
+      if (this.h>=64) {
+        this.h = 0;
+      } else if (this.h<64) {
+        this.h++;
+      }
+      if (this.i>=100) {
+        this.i = 1;
+      }
+      if (this.i<100&&this.i==2) {
+        this.i++;
+      }
+      if (this.i<100&&this.i==1) {
+        this.i--;
+      }
+      if (this.i<=0) {
+        this.i = 2;
+      }
+      showimg(this.i, "light2.png", this.x+this.h, this.y-5);
+      changeimgvis(this.i, 3);
+      changeimgcolors(this.i, random(.4, .9), random(.4, .9), random(.4, .9), random(.4, .9));
+    } else {
+      hideimgs(1, 100);
+      this.i = 2;
+      this.h = 0;
+      this.i = 0;
+      this.changey += 0.5;
+      if (this.changey>=2) {
+        this.changex = 0;
+        this.changey = 0;
+        this.mode = 0;
+      }
+    }
+  }
+  if (this.sign==1) {
+    if (this.colour>0) {
+      showtext(3, 16, "screenheight-32", "Algiers", "b", "::A magical barrier prevents you from proceeding::");
+      changeimgvis(3, 4);
+      changeimgzoom(3, .75);
+      changeimgcolors(3, this.colour, this.colour, this.colour, 0);
+      this.colour -= .0125;
+    } else {
+      hideimg(3);
+    }
+  }
+}
+
+function onPlayerTouchsMe() {
+  gs1_always();
+  this.mode = 1;
+  this.sign = 1;
+  this.colour = 1;
+}
+
+function onTimeOut() {
+  gs1_always();
+  if (("#g" == "The Dark Dragon Knight")) {
+  }
+  if (("#g" == "Dark Dragoon")) {
+  }
+  if (this.mode==1) {
+    if (player.x in |this.x-1,this.x+this.width| && player.y in |this.y-4,this.y+2|) {
+      if (this.created) {
+        this.i = 2;
+      }
+      if (this.h>=64) {
+        this.h = 0;
+      } else if (this.h<64) {
+        this.h++;
+      }
+      if (this.i>=100) {
+        this.i = 1;
+      }
+      if (this.i<100&&this.i==2) {
+        this.i++;
+      }
+      if (this.i<100&&this.i==1) {
+        this.i--;
+      }
+      if (this.i<=0) {
+        this.i = 2;
+      }
+      showimg(this.i, "light2.png", this.x+this.h, this.y-5);
+      changeimgvis(this.i, 3);
+      changeimgcolors(this.i, random(.4, .9), random(.4, .9), random(.4, .9), random(.4, .9));
+    } else {
+      hideimgs(1, 100);
+      this.i = 2;
+      this.h = 0;
+      this.i = 0;
+      this.changey += 0.5;
+      if (this.changey>=2) {
+        this.changex = 0;
+        this.changey = 0;
+        this.mode = 0;
+      }
+    }
+  }
+  if (this.sign==1) {
+    if (this.colour>0) {
+      showtext(3, 16, "screenheight-32", "Algiers", "b", "::A magical barrier prevents you from proceeding::");
+      changeimgvis(3, 4);
+      changeimgzoom(3, .75);
+      changeimgcolors(3, this.colour, this.colour, this.colour, 0);
+      this.colour -= .0125;
+    } else {
+      hideimg(3);
+    }
+  }
+}
+
+function gs1_always() {
+  if (this.mode==1) {
+    if (player.x in |this.x-1,this.x+this.width| && player.y in |this.y-4,this.y+2|) {
+      if (this.created) {
+        this.i = 2;
+      }
+      if (this.h>=64) {
+        this.h = 0;
+      } else if (this.h<64) {
+        this.h++;
+      }
+      if (this.i>=100) {
+        this.i = 1;
+      }
+      if (this.i<100&&this.i==2) {
+        this.i++;
+      }
+      if (this.i<100&&this.i==1) {
+        this.i--;
+      }
+      if (this.i<=0) {
+        this.i = 2;
+      }
+      showimg(this.i, "light2.png", this.x+this.h, this.y-5);
+      changeimgvis(this.i, 3);
+      changeimgcolors(this.i, random(.4, .9), random(.4, .9), random(.4, .9), random(.4, .9));
+    }
+  }
+  setTimer(.05);
+}

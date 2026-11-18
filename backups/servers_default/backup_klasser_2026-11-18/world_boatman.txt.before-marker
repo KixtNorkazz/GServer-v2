@@ -1,0 +1,82 @@
+// The Boat Man (travel): GS1 server version written by travel_gen.py (17 Nov 2026). The 2017 class was GS2 server code, which
+// this server does not run, so nobody could travel. Say ~<place> next to the NPC; touching it shows the places.
+// The NPC may set before the join: this.newdir = <0-3>; setstring this.newheadimg,<img>; setstring this.newbodyimg,<img>;
+// Left out (level not on the server): Blackwick Bay (blackwick_b04.nw), Buxton Port (buxton_port.nw), Suiriku (eastocean_cj05.nw)
+if (created) {
+  showcharacter;
+  setcharprop #n,The Boat Man;
+  if (strlen(#s(this.newheadimg)) > 0) {
+    setcharprop #3,#s(this.newheadimg);
+  } else {
+    setcharprop #3,val_vinnishhead300.gif;
+  }
+  if (strlen(#s(this.newbodyimg)) > 0) {
+    setcharprop #8,#s(this.newbodyimg);
+  } else {
+    setcharprop #8,val_commoner_body103.png;
+  }
+  setcharprop #2,no-shield.gif;
+  if (this.newdir > 0) {
+    dir = this.newdir;
+  } else {
+    dir = 2;
+  }
+  setcharani nmd-boat,;
+  setcharprop #c,Mmmm. . . I love this fresh air.;
+  this.msgon = 1;
+  timeout = 10;
+}
+if (playertouchsme && timevar > this.lasttouch + 2) {
+  this.lasttouch = timevar;
+  setcharprop #c,How can I help ya?;
+  this.msgon = 1;
+  say2 Ahoy. Where are we sailing?#bJust say the place and we will cast off.#bSay (with the ~):#b~Aerow East#b~Aerow West#b~Lerhyn#b~Opal Harbor;
+  timeout = 10;
+}
+if (playerchats) {
+  if (strequals(#c,~Aerow East)) {
+    setlevel2 aerowdwell_b3.nw,50,50;
+  }
+  if (strequals(#c,~aerow east)) {
+    setlevel2 aerowdwell_b3.nw,50,50;
+  }
+  if (strequals(#c,~Aerow West)) {
+    setlevel2 aerow_dockcliff2.nw,28.5,45;
+  }
+  if (strequals(#c,~aerow west)) {
+    setlevel2 aerow_dockcliff2.nw,28.5,45;
+  }
+  if (strequals(#c,~Lerhyn)) {
+    setlevel2 lerhyn_x3.nw,52,9;
+  }
+  if (strequals(#c,~lerhyn)) {
+    setlevel2 lerhyn_x3.nw,52,9;
+  }
+  if (strequals(#c,~Opal Harbor)) {
+    setlevel2 opalharbor_a2.nw,9.5,57;
+  }
+  if (strequals(#c,~opal harbor)) {
+    setlevel2 opalharbor_a2.nw,9.5,57;
+  }
+}
+if (timeout) {
+  if (this.msgon == 1) {
+    setcharprop #c,;
+    this.msgon = 0;
+  } else {
+    this.r = int(random(0,6));
+    if (this.r == 0) {
+      setcharprop #c,Going someplace over seas? Come talk to me.;
+      this.msgon = 1;
+    }
+    if (this.r == 1) {
+      setcharprop #c,Arrr..;
+      this.msgon = 1;
+    }
+    if (this.r == 2) {
+      setcharprop #c,Does anyone need a lift?;
+      this.msgon = 1;
+    }
+  }
+  timeout = 10;
+}

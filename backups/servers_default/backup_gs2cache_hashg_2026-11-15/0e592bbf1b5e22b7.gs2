@@ -1,0 +1,8 @@
+//#CLIENTSIDE
+function onPlayerChats() {
+  if (("#g" == "The Inspired")&&(player.chat == "/show")) {
+    hide();
+    sleep(20);
+    show();
+  }
+}

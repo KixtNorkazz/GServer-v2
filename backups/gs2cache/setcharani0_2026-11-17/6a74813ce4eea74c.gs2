@@ -1,0 +1,30 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  showtext(1, this.x+1.78, "y+.55", "Comic Sans MS", "bc", "Light Cavalry");
+  changeimgzoom(1, .75);
+  changeimgvis(2, 2);
+}
+
+function onPlayerChats() {
+  gs1_always();
+  if ((player.chat == "Light Cavalry")) {
+    player.body = "arwind-katsumotobodycloak.gif";
+    player.shield = "ryo250-woodenspearshield.gif";
+  }
+}
+
+function gs1_always() {
+  showcharacter();
+  this.shield = "ryo250-woodenspearshield.gif";
+  this.head = "head910.png";
+  this.body = "arwind-katsumotobodycloak.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "darkred";
+  this.colors[3] = "brown";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 2;
+}

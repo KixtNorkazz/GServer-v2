@@ -1,0 +1,18 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.y = this.y-.5;
+  this.shield = "no-shield.gif";
+  this.head = "val-cloakhead.gif";
+  this.body = "arwind-racoonbody2.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.nick = "Dead Marine";
+  setcharani("sit", NULL);
+  this.dir = 2;
+  this.ap = 100;
+}

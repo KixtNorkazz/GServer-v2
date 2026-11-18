@@ -1,0 +1,17 @@
+//#CLIENTSIDE
+function onCreated() {
+    if (this.treetype == NULL)
+        this.treetype = "";
+
+    setcharani("val_smeewn" @ this.treetype @ "tree",NULL);
+    
+    
+    setshape(1, 48, 48);
+    if (this.attr[1] == NULL) {
+    this.attr[1] = "val_smeewn" @ this.treetype @ "tree-shadow1.png";
+    }
+    if (this.attr[2] == NULL) {
+    this.attr[2] = "val_smeewn" @ this.treetype @ "tree-1.gif";
+    }
+    
+}

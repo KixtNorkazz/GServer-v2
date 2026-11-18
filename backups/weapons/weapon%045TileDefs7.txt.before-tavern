@@ -1,0 +1,107 @@
+GRAWP001
+REALNAME -TileDefs7
+IMAGE 
+SCRIPT
+//#CLIENTSIDE
+// TileDefs7: part 7 of 7 of the GS2 version of the TileDefs weapon (made by tools/gs1_tiledefs_to_gs2.py).
+function onCreated() {
+  addtiledef2("valtiles_main.gif", "verda_3.nw", 0, 0);
+  addtiledef2("valtiles_frost1.png", "verda_4.nw", 0, 352);
+  addtiledef2("valtiles_frost2.png", "verda_4.nw", 640, 416);
+  addtiledef2("valtiles-nmdeditfromsetzers-addedmore.gif", "verda_4.nw", 1024, 0);
+  addtiledef2("valikorlia-newtilessuiriku3.gif", "borked_1.nw", 0, 0);
+  addtiledef("valtiles_ruinsnew.png", "vermaakshire_", 1);
+  addtiledef("valtiles_ruinsnew.png", "highharbor_", 1);
+  addtiledef("valtiles_ruinsnew.png", "highharborint_", 1);
+  addtiledef("valtiles_brookhurst.png", "testlevel_", 1);
+  addtiledef2("valtiles_inside1.png", "testlevelint_", 1024, 0);
+  addtiledef2("sighisoara-tiles.png", "testlevelint_", 0, 0);
+  addtiledef("valtiles_brookhurst.png", "bullskeep_", 1);
+  addtiledef2("valtiles_durandal.png", "terisutest", 0, 0);
+  addtiledef("valikorlia-newtilessuiriku3.gif", "val_playerhouse_clc4", 0);
+  addtiledef("valtiles_brookhurst.png", "aerowdwell_", 1);
+  addtiledef("valtiles_brookhurst.png", "val_castleromane", 1);
+  addtiledef2("valtiles_romaneflowers.png", "val_castleromane_", 992, 96);
+  addtiledef("valtiles_tilesetnew.png", "val_wheatholm_", 1);
+  addtiledef2("valtiles_romaneflowers.png", "val_wheatholm_", 992, 96);
+  addtiledef2("valtiles_capital-int2.gif", "val_wheatholmint_temple", 1024, 0);
+  addtiledef("valtiles_brookhurst.png", "val_wheatholmint_inn", 1);
+  addtiledef("valtiles_brookhurst.png", "val_wheatholmint_house", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_grove", 1);
+  addtiledef("valtiles_fae2.png", "fae_forest1", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_a1", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_a2", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_a3", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_b1", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_b2", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_b3", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_b4", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_brightnooka1", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_pawpop1", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_pawpop2", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_impspringsb2", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_impspringsb1", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_impspringsa1", 1);
+  addtiledef("valtiles_fae2.png", "faeforest_impspringsa2", 1);
+  addtiledef("valtiles_fae1.png", "faeforest_doldrumb1", 1);
+  addtiledef("valtiles_fae1.png", "faeforest_doldrumb2", 1);
+  addtiledef("valtiles_fae1.png", "faeforest_doldrumb3", 1);
+  addtiledef("valtiles_fae1.png", "faeforest_doldrumb4", 1);
+  addtiledef("valtiles_fae2.png", "lcrealm_a1", 1);
+  addtiledef("valtiles_hellreach.png", "val_siegheim_a1", 1);
+  addtiledef("valtiles_hellreach.png", "val_siegheim_a2", 1);
+  addtiledef("valtiles_hellreach.png", "val_siegheim_b1", 1);
+  addtiledef("valtiles_hellreach.png", "val_siegheim_b2", 1);
+  addtiledef("valtiles_hellreach.png", "val_lythmn", 1);
+  addtiledef("valtiles_hellreach.png", "val_varicianruins_", 1);
+  addtiledef("valtiles_hellreach.png", "nuzalsdescent_", 1);
+  addtiledef("valtiles_bartlett.gif", "darktemple_", 1);
+  addtiledef("valtiles_akiltestingstuff.png", "akiltestlevel", 1);
+  addtiledef("valtiles_underdark.png", "ironcaptunnel", 1);
+  addtiledef("valtiles_newgreendale2.png", "sunstolevale_", 1);
+  addtiledef("valtiles_newgreendale2.png", "chateauavellen_", 1);
+  addtiledef("valtiles_osengrad.png", "chateauavellenint_", 1);
+  addtiledef("valtiles_osengrad.png", "noah_", 1);
+  addtiledef("valtiles_southern.png", "blackwick", 1);
+  addtiledef("valtiles_esthras.png", "sam_laboratory.nw", 1);
+  addtiledef("valtiles_desert.png", "val_hardhopeoasis_", 1);
+  addtiledef("valtiles_desert.png", "val_mindorapass_", 1);
+  addtiledef("valtiles_desert.png", "val_newlerhyn_", 1);
+  addtiledef("valtiles_galewind.png", "val_galewind_", 1);
+  addtiledef("valtiles_desert.png", "val_nomadsrespite_", 1);
+  addtiledef("valtiles_southern.png", "moose_test.nw", 1);
+  addtiledef("valtiles_southern.png", "noeltest.nw", 1);
+  // Restored 16 Nov 2026 from the old GS1 weaponTileDefs (missing in the GS2 split): algary_ and 14 more level families
+  addtiledef("valtiles_progress.png", "durandal_", 1);
+  addtiledef("valtiles_osengrad.png", "umbraculo_", 1);
+  addtiledef("valtiles_elven.png", "ganelontavern_", 1);
+  addtiledef("valtiles_southern.png", "dardier_", 1);
+  addtiledef("valtiles_southern.png", "dardierforest_", 1);
+  addtiledef("valtiles_brookhurst.png", "algary_", 1);
+  addtiledef2("valikorlia-newtilessuiriku3.gif", "esthras_suirikuint_", 0, 0);
+  addtiledef2("valtiles_capital-int2.gif", "marquis_", 1024, 0);
+  addtiledef("valtiles_elven.png", "ironcapsint_", 1);
+  addtiledef("valtiles_elven.png", "batyaheim", 1);
+  addtiledef("valtiles_tilesetnew.png", "ganelonroad", 1);
+  addtiledef2("valtiles_maingrass.png", "val_vandrakehouse", 1120, 448);
+  addtiledef2("valtiles_ganelon-editbyzero.png", "val_vandrakehouse", 1024, 0);
+  addtiledef2("valikorlia-newtilessuiriku3.gif", "val_vandrakehouse", 0, 0);
+  addtiledef("valtiles_lanoth.png", "castleduskhallow", 0);
+  addtiledef2("val_darksewertiles.gif", "castleduskhallow", 1024, 0);
+  addtiledef("valtiles_redrock.gif", "oldmine-entrance_", 0);
+  addtiledef("valtiles_kenderville.png", "worldmapplace_southbridge", 0);
+  addtiledef2("valtiles_greendale2.png", "worldmapplace_southbridge", 1024, 0);
+  addtiledef2("valtiles_maingrass.png", "worldmapplace_southbridge", 1856, 32);
+  // 16 Nov 2026: tilesets for levels restored from backup (gmap prefixes that only one level NPC defined, and three from the old GS1 TileDefs)
+  addtiledef("valtiles_bartlett.gif", "hellsreach_", 1);
+  addtiledef("Valikorlia-newtileslor2.png", "ruins_", 0);
+  addtiledef("pics1grassfop2.png", "lionnes-estate_a-", 0);
+  addtiledef2("val_valcastle.png", "lionnes-estate_a-", 1024, 0);
+  addtiledef("pics1grassfop2.png", "lionnes-estate_b-", 0);
+  addtiledef2("val_valcastle.png", "lionnes-estate_b-", 1024, 0);
+  addtiledef("valtiles_grisen1.gif", "darkarchives_", 0);
+  addtiledef("valtiles_lumin.png", "wagonclearing", 1);
+  addtiledef("valtiles_underdark.png", "underdark_", 1);
+  echo("TileDefs7: 95 tile definitions applied");
+}
+SCRIPTEND

@@ -1,0 +1,13 @@
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val-motoxbowa.gif", 160, 26, 64, 18);
+  drawoverplayer();
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "Bridgeton")) {
+    say2("It's the Darden Bolt-Action.#b
+Looks like somebody forgot#b
+to put it in a crate.");
+  }
+}

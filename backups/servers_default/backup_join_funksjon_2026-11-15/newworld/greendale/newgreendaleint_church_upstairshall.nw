@@ -1,0 +1,414 @@
+GLEVNW01
+BOARD 0 0 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiAiAiBiBiBiBiBiBiBiBiCiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 1 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiQl6l7hhhhhhhhl6l7iSiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 2 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiQmKmLhhhhhhhhmKmLiSiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 3 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiAiBiDm6m7hhhhhhhhm6m7iEiBiCiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 4 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiQl6l7nKnLhhhhhhhhnKnLl6l7iSiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 5 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiQmKmLnanbhhhhhhhhnanbmKmLiSiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 6 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiQm6m7nKnLhhhhhhhhnKnLm6m7iSiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 7 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiQnKnLnanbhhhhhhhhnanbnKnLiSiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 8 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiAiBiBiBiBiBiBiBiDnanbnKnLhhhhhhhhnKnLnanbiEiBiBiBiBiBiBiBiCiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 9 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiQl6l7hhhhhhhhl6l7nKnLnanbhhhhhhhhnanbnKnLl6l7hhhhhhhhl6l7iSiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 10 64 0 iAiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiDmKmLhhhhhhhhmKmLnanbnqnrhhhhhhhhnqnrnanbmKmLhhhhhhhhmKmLiEiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiCiyiy
+BOARD 0 11 64 0 iQl6l7hghhhhhhhhhhhhhhhhhhhhhil6l7m6m7hhhhhhhhm6m7nKnLm6m7hhhhhhhhm6m7nKnLm6m7hhhhhhhhm6m7l6l7hghhhhhhhhhhhhhhhhhhhhhil6l7iSiyiy
+BOARD 0 12 64 0 iQmKmLhghhhhhhhhhhhhhhhhhhhhhimKmLnKnLhhhhhhhhnKnLnanbnKnLhhhhhhhhnKnLnanbnKnLhhhhhhhhnKnLmKmLhghhhhhhhhhhhhhhhhhhhhhimKmLiSiyiy
+BOARD 0 13 64 0 iQm6m7hghhhhhhhhhhhhhhhhhhhhhim6m7nanbhhhhhhhhnanbnqnrnanbhhhhhhhhnanbnqnrnanbhhhhhhhhnanbm6m7hghhhhhhhhhhhhhhhhhhhhhim6m7iSiyiy
+BOARD 0 14 64 0 iQnKnLhghhhhhhhhhhhhhhhhhhhhhinKnLnKnLhhhhhhhhnKnLm6m7nKnLhhwUhKhKnKnLm6m7nKnLhhhhhhhhnKnLnKnLhghhhhhhhhhhhhhhhhhhhhhinKnLiSiyiy
+BOARD 0 15 64 0 iQnanbhghhhhhhhhhhhhhhhhhhhhhinanbnanbhhhhhhhhnanbnKnLnanbwUwXhKhKnanbnKnLnanbhhhhhhhhnanbnanbhghhhhhhhhhhhhhhhhhhhhhinanbiSiyiy
+BOARD 0 16 64 0 iQnKnLhghhhhhhhhhhhhhhhhhhhhhinKnLnKnLhhhhhhhhnKnLnanbnKnLwXwXhKhKnKnLnanbnKnLhhhhhhhhnKnLnKnLhghhhhhhhhhhhhhhhhhhhhhinKnLiSiyiy
+BOARD 0 17 64 0 iQnanbhghhhhhhhhhhhhhhhhhhhhhinanbnanbhhhhhhhhnanbnKnLnanbwXwXwYwYnanbnKnLnanbhhhhhhhhnanbnanbhghhhhhhhhhhhhhhhhhhhhhinanbiSiyiy
+BOARD 0 18 64 0 iQnKnLhghhhhhhhhhhhhhhhhhhhhhinKnLnqnrhhhhhhhhnqnrnanbnqnrwWhhwYwYnqnrnanbnqnrhhhhhhhhnqnrnKnLhghhhhhhhhhhhhhhhhhhhhhinKnLiSiyiy
+BOARD 0 19 64 0 iQnanbhghhhhhhhhhhhhhhhhhhhhhinanbm6m7ijikilimm6m7nKnLn6n9nYnInYnIn8n7nKnLm6m7lcldlelfm6m7nanbhghhhhhhhhhhhhhhhhhhhhhinanbiSiyiy
+BOARD 0 20 64 0 iQnqnrhghhhhhhhhhhhhhhhhhhhhhinqnrnKnLiziyiyi2nKnLnanbhLn2nlnInYnkn3hKnanbnKnLlsltlulvnKnLnqnrhghhhhhhhhhhhhhhhhhhhhhinqnriSiyiy
+BOARD 0 21 64 0 iQm6m7hghhhhhhhhhhhhhhhhhhhhhim6m7nanbjDiyiyjGnanbnqnrhbhanHnYnInGhbhanqnrnanbl8l9l+l/nanbm6m7hghhhhhhhhhhhhhhhhhhhhhim6m7iSiyiy
+BOARD 0 22 64 0 iQnKnLhghhhhhhhhhhhhhhhhhhhhhinKnLnKnLjTiyiyjWnKnLnenfhLhKnHnZnJnGhLhKnenfnKnLl8l9l+l/nKnLnKnLhghhhhhhhhhhhhhhhhhhhhhinKnLiSiyiy
+BOARD 0 23 64 0 iQnanbhghhhhhhhhhhhhhhhhhhhhhinanbnanbjDiyiyjGnanbhbhahbnmn1nYnIn0nnhahbhananbl8l9l+l/nanbnanbhghhhhhhhhhhhhhhhhhhhhhinanbiSiyiy
+BOARD 0 24 64 0 iQnKnLhghhhhhhhhhhhhhhhhhhhhhinKnLnKnLjDiyiyjGnKnLhLhKhLn2nlnZnJnkn3hKhLhKnKnLl8l9l+l/nKnLnKnLhghhhhhhhhhhhhhhhhhhhhhinKnLiSiyiy
+BOARD 0 25 64 0 iQnanbhghhhhhhhhhhhhhhhhhhhhhinanbnanbjDiyiyjGnanbhbhahbhanHnYnInGhbhahbhananbl8l9l+l/nanbnanbhghhhhhhhhhhhhhhhhhhhhhinanbiSiyiy
+BOARD 0 26 64 0 iQnKnLhghhhhhhhhhhhhhhhhhhhhhinKnLnqnrjTiyiyjWnqnrhLhKhLnmn1nZnJn0nnhKhLhKnqnrmMmNmOmPnqnrnKnLhghhhhhhhhhhhhhhhhhhhhhinKnLiSiyiy
+BOARD 0 27 64 0 iQnanbhghhhhhhhhhhhhhhhhhhhhhinanbnenfnHnZnJnGnenfhbhanmn1nInYnInYn0nnhbhanenfnHnZnJnGnenfnanbhghhhhhhhhhhhhhhhhhhhhhinanbiSiyiy
+BOARD 0 28 64 0 iQnqnrhghhhhhhhhhhhhhhhhhhhhhinqnrhLhKn2nWnWn3hLhKhLhKnHnZnJnZnJnZnJnGhLhKhLhKn2nWnWn3hLhKnqnrhghhhhhhhhhhhhhhhhhhhhhinqnriSiyiy
+BOARD 0 29 64 0 iQnenfhbhahbhahbhahbhahbhahbhanenfhbhahbhahbhahbhahbhanHnYnInYnInYnInGhbhahbhahbhahbhahbhanenfhbhahbhahbhahbhahbhahbhanenfiSiyiy
+BOARD 0 30 64 0 iQhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKn2nlnJnZnJnZnkn3hLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKiSiyiy
+BOARD 0 31 64 0 iQhbhahbhahbhahbhahbhahbhahbhahbhahbhanmnXnXnnhbhahbhahbn2nlnYnInkn3hahbhahbhanmnXnXnnhbhahbhahbhahbhahbhahbhahbhahbhahbhaiSiyiy
+BOARD 0 32 64 0 iQhLnmnnhKhLnmnnhKhLnmnnhKhLnmnnhKhLnmn1nZnJn0nnhKhLhKhLhKn2nWnWn3hLhKhLhKhLnmn1nZnJn0nnhKhLnmnnhKhLnmnnhKhLnmnnhKhLnmnnhKiSiyiy
+BOARD 0 33 64 0 iQnXn1n0nXnXn1n0nXnXn1n0nXnXn1n0nXnXn1nInYnInYn0nnhbhahbhahbhahbhahbhahbhanmn1nInYnInYn0nXnXn1n0nXnXn1n0nXnXn1n0nXnXn1n0nXiSiyiy
+BOARD 0 34 64 0 iQnJnZnJnZnJnZnJnZnJnZnJnZnJnZnJnZnJnZnJnZnJnZnJnGhLhahbuEuCuCuCuCuFhahbhKnHnZnJnZnJnZnJnZnJnZnJnZnJnZnJnZnJnZnJnZnJnZnJnZiSiyiy
+BOARD 0 35 64 0 iQnInYnInYnInYnInYnInYnInYnInYnInYnInYnInYnInYnInGhbhKnmuSFCFCFCFCuDnnhLhanHnYnInYnInYnInYnInYnInYnInYnInYnInYnInYnInYnInYiSiyiy
+BOARD 0 36 64 0 iQnWnlnknWnWnlnknWnWnlnknWnWnlnknWnWnlnJnZnJnZnkn3hLhanHuSFCFCFCFCuDnGhbhKn2nlnJnZnJnZnknWnWnlnknWnWnlnknWnWnlnknWnWnlnknWiSiyiy
+BOARD 0 37 64 0 iyhbn2n3hahbn2n3hahbn2n3hahbn2n3hahbn2nlnYnInkn3hahbnmn1uSFCFCFCFCuDn0nnhahbn2nlnYnInkn3hahbn2n3hahbn2n3hahbn2n3hahbn2n3haiyiyiy
+BOARD 0 38 64 0 iyhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKn2nWnWn3hLhKhLn2nluSFCFCFCFCuDnkn3hKhLhKn2nWnWn3hLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKiyiyiy
+BOARD 0 39 64 0 iyiyiyihihihihihihihihihihihihhbhahbhahbhahbhahbhahbhKnHuUuTuTuTuTuVnGhLhahbhahbhahbhahbhahbhaihihihihihihihihihihihihiyiyiyiyiy
+BOARD 0 40 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyhLhKhLhKhLhKhLhKhLhKhLhan2n6n7nlnkn6n7n3hbhKhLhKhLhKhLhKhLhKhLhKiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 41 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyihihihhahbhahbhahbhKhLhKhLn2n3hKhLhKhLhahbhahbhahbihihihiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 42 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyhKhLhKhLhKhLhKhKhLhKhKhLhKhKhLhKhKhLhKhLhKhLiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 43 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyihihihihihihihihihihihihihihihihihihiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 44 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 45 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 46 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 47 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 48 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 49 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 50 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 51 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 52 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 53 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 54 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 55 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 56 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 57 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 58 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 59 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 60 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 61 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 62 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 63 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+LINK newgreendaleint_church_stairsup.nw 28 15 1 3 38 32.299987792
+LINK newgreendaleint_church_upstairshall2.nw 20 26 2 1 33.5 55.5
+NPC glassdragon.gif 4 12
+
+NPCEND
+NPC glassdragon.gif 48 12
+
+NPCEND
+NPC val_valcastle-arch.png 29 1
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-arch.png,32,0,96,64;
+  dontblock;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-cornertiles.png 59 37
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-cornertiles.png,128,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_valcastle-cornertiles.png 1 37
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-cornertiles.png,96,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC aengarth-wingedsword2.gif 39 13
+// NPC made by Janen Thunderfoot, Elder of (The Horde)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC aengarth-wingedsword2.gif 19 13
+// NPC made by Janen Thunderfoot, Elder of (The Horde)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-torch.png 15 20
+function onCreated() {
+  join("world_torch");
+}
+NPCEND
+NPC val_valcastle-torch.png 1 20
+function onCreated() {
+  join("world_torch");
+}
+NPCEND
+NPC val_valcastle-torch.png 45 20
+function onCreated() {
+  join("world_torch");
+}
+NPCEND
+NPC val_valcastle-torch.png 59 20
+function onCreated() {
+  join("world_torch");
+}
+NPCEND
+NPC val_valcastle-windowlight.png 5 21
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cloud-lightbeam2.gif 32 22
+//#CLIENTSIDE
+setcoloreffect .4,.4,.4,.3;
+dontblock;
+setzoomeffect 3;
+drawoverplayer;
+NPCEND
+NPC val_valcastle-torch.png 25 12
+function onCreated() {
+  join("world_torch");
+}
+NPCEND
+NPC val_valcastle-torch.png 35 12
+function onCreated() {
+  join("world_torch");
+}
+NPCEND
+NPC val_valcastle-balcony2.png 30 16
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,32,0,16,32;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony2.png 30 18
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony2.png,32,32,16,16;
+  drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-balcony.png 29 16
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-balcony.png,64,0,16,48;
+  drawoverplayer;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-cornertiles.png 15 39
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-cornertiles.png,96,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_valcastle-cornertiles.png 20 41
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-cornertiles.png,96,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_valcastle-cornertiles.png 45 39
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-cornertiles.png,128,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_valcastle-cornertiles.png 40 41
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-cornertiles.png,128,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_valcastle-torch.png 37 18
+function onCreated() {
+  join("world_torch");
+}
+NPCEND
+NPC val_valcastle-torch.png 23 18
+function onCreated() {
+  join("world_torch");
+}
+NPCEND
+NPC aengarth-wingedsword2.gif 29 5
+// NPC made by Janen Thunderfoot, Elder of (The Horde)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 7 21
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 9 21
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 11 21
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 5 27
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 7 27
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 9 27
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 11 27
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 49 21
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 51 21
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 53 21
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 55 21
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 49 27
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 51 27
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 53 27
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-windowlight.png 55 27
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setcoloreffect .99,.99,.99,.19;
+  setzoomeffect 1.5;
+  dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND

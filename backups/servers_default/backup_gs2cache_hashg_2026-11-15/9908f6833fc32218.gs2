@@ -1,0 +1,8 @@
+//#CLIENTSIDE
+function onPlayerTouchsMe() {
+  if (("#g" == "The Valikorlian Empire")) {
+    dontblock();
+  } else {
+    blockagain();
+  }
+}

@@ -512,6 +512,17 @@ GameVariable* GS1Visitor::getGameVariableFromStorage(const std::string_view iden
 	if (const auto serverStore = getServerStore(); serverStore != nullptr && serverStore->contains(identifier))
 		return serverStore->get(identifier).lock().get();
 
+	// GS1 names a property of the player of the event as "player" + property: playerx, playery, playerdir, playerrupees, ...
+	// Nothing resolved them on the server side, so they read 0 (Kixt, 17 Nov 2026: the door scripts' distance check).
+	if (!type.has_value() && identifier.size() > 6 && identifier.starts_with("player"))
+	{
+		if (const auto player = findNearestScriptObjectSourceFromStack(ScriptObjectType::PLAYER); player.has_value())
+		{
+			if (auto property = getGameVariableFromSourceProperty(player.value(), identifier.substr(6), allowHidden); property != nullptr)
+				return property;
+		}
+	}
+
 	auto checkStore = [&](const ScriptObject& source) -> std::optional<GameVariable*>
 	{
 		auto* store = getGameVariableStoreFromSource(source);

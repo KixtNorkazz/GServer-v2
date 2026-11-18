@@ -1,0 +1,435 @@
+GLEVNW01
+BOARD 0 0 64 0 ZiZjZiZjiTQBQCQDGwGxGgGhZjGwGxGwGxGwGxQDGiGjQCQDQAQBQCGiGjGiGjQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 1 64 0 ZyZzZyZzQQQRiRQTHBZyGwGxGgGhGgGhGgGhGgGhGyGzGiGjQQQRQSGyGzGyGzQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQT
+BOARD 0 2 64 0 QgZiZjQjQgQhQiQjQgHQHRZyGwGxGwGxGwGxGwGxGiGjGyGzQgQhQiQjGiGjQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 3 64 0 QwZyZzQzQwQxQyQzQwQxQyHBZyGgGhGgGhZzHQHRGyGzQyQzGiGjGiGjGyGzQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQz
+BOARD 0 4 64 0 QAQBQCQUQ0Q1Q0Q1QVQBHQHRZiGwGxGwGxGiGjGiGjQBQCQDGyGzGyGzQAQBQCQDQA2Vuv2WQAQBQCQDQAQBQCQDGiGjQCQDGiGjQCQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 5 64 0 QUQ0Q1RRQQQRQSQTRSHBQVQTGgGhGgGhQQGyGzGyGzQR2I1I1I1I1I1I1I1I3Z2Vuv361I2a2Z1I2JQTQQQRQSQTGyGzGiGjGyGzQSQTQQQRQSQTQQQRQSQTQQQRQSQT
+BOARD 0 6 64 0 RRQhQiQjQgQhQiQjQgQhRSQVGwGxGwGxQgQhGiGjQg1WueQjQgQhQiQjQgQh2n1I1IueQiQjQgQh2n1mQgQhQiQjQgQhGyGzQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 7 64 0 SOQxQyQzQwQxQUQ0Q1Q0Q1QVQwZyZzQzQwQxGyGzQw1XQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQy1ZQwQxQyQzQwQxQyQzQwRIQyQzQwQxQyQzQwQxQyQzQwQxQyQz
+BOARD 0 8 64 0 QAQBQCQDQAQURRQDQAQBQCRSQVQBQCQDQAGiGjQDQA1XQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQC1ZQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 9 64 0 QQQRQUQ0Q1RRQSZlZlSOQSQTQQQRhhQTQQGyGzQT2IueQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQR131pQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQT
+BOARD 0 10 64 0 QUQ1RRQjQgQhZlSOQgQhQiQjQgQhQiQjhzQhQi1WueQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQh1Z02QgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 11 64 0 RRQxQyZlSOQxQyQzRiRhQyQzQwQxQyQzQwQxQy1XQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQx1Z04QwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQz
+BOARD 0 12 64 0 QAQBQCSOQAQBQCRiRySBQCQDQAQBQCQDQAhy1WueQAGoGpQDQAQBQCQDQAQBQCQDQAQBQCQDQAQB1Z2WQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 13 64 0 QQQRQSQTQQQRQSSAbVRgRhQTQQQRQSSOQQQR1XQTQQG4G5QTQQQRQSQTQQQRQSQTQQQRQSQTQQQR1Z2wQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQT
+BOARD 0 14 64 0 QgQhQiQjQgQhQiSQblRwSBQjQgQhQiQjQg2V1XQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQh2n352WQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 15 64 0 QwGoGpQzQwQxQyRSRCTERxRhQwQxQyZlSOu+1n12QwGiGjQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyud1I3ZQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQz
+BOARD 0 16 64 0 QAG4G5QDQAQBQCQDRSSiSjRRQAQBQCQDZlvO1D2G12GyGzQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBHBGgGh2n1I2JQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 17 64 0 QQQRQSQTQQQRQSQTQQQRZWZXQQQRQSQTQQ03vavP2G1o2212QQQRGiGjQQQRQSQTQQQRQSQTQQGgGhGwGxHBHA2n1I1mQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQT
+BOARD 0 18 64 0 QgQhQiGoGpQhQiQjQgQhZmZnQgQhQiQjhzQh1rsP0T0Q0R1XQgQhGyGzQgQh1312QgQhQiQjQgGwGxGgGhGgGhQjQg1ZQiQjQgQhQiQjQgGiGjQjQgQhQiQjQgQhQiQj
+BOARD 0 19 64 0 2Vuv2WG4G5QxQyQzQwQxQyQzQwZlSOQzQwhjGiGj1rsO3J1XQwGiGjQz131o2H2G221o2212QwHQHRGwGxGwGxQz131p2WQzQwQxQyGiGjGyGzQzQwQxQyQzQwQxQyQz
+BOARD 0 20 64 0 u+u/2wQDQAQBQCQDQAZlSOQDQAQBQCQDQAQBGyGzGiGju+1n12GyGz132H0Q0Su+u/2w0R2G12QBHBHAHQHRQCQD1Z1V2wQDQAQBQCGyGzGiGjGiGjQBQCQDQAQBQCQD
+BOARD 0 21 64 0 03sP04QTQQQRQSQTQQQRQSQTQQSYQSQTQQQRQSQTGyGzu+1D2G1o222H0SsO1qvOvP3AsP0j2G12GiGjQQQRQS131pvP3AQTQQQRQSQTQQGyGzGyGzGiGjQTQQQRQSQT
+BOARD 0 22 64 0 GiGjQiQjQgQhQiQjQgZlZlSOQgQhQiRiSSSTRhQjQgQhvOvK1D1F0R0S1qGoGp03sP04Qi1r3J1XGyGz131o222H02sO04QjQgQhQiQjGiGjQiQjQgGyGzQjQgQhQiQj
+BOARD 0 23 64 0 GyGzQyQzQwQxQyQzQwQxQyQzQwQxRiRjb1TERxRhQwQx03vavP3AsP1qQwG4G5QzQwQxQyQzu+1n1o221p3K0R0S1qQxQyQzQwQxGiGjGyGzQyQzHQHRGgGhQwQxQyQz
+BOARD 0 24 64 0 GiGjQCQDQAQBQCQDQAQBQCQDRiSTRyblTETERQRRQAQBQC1rsP04ZiZjZiZjQCQDQAQBQCQDvO1D1F1F1V2wsP1qQAQBQCQDQAQBGyGzQAQBHAZiGgGhGwGxGgGhQCQD
+BOARD 0 25 64 0 GyGzQSQTQQQRQSQTQQQRQSRiRybVTERQSgShRRSYQQQRZlQTQQHBZyGgGhZzQSQTQQQRQSQT03vavPvPvP3AQSQTQQQRQSQTQQQRQSQTHQHRGgGhGwGxGgGhGwGxGgGh
+BOARD 0 26 64 0 QgQhQiQjQgQhQiRiSTRhQiRSSiSgShRRQgQhQiQjQgQhSOSOQgQhHAGwGxHQHRQjQgQhQihyQg1rsOsPsO04QiQjQgGgGhQjQgQhQiHBGgGhGwGxGgGhGwGxGgGhGwGx
+BOARD 0 27 64 0 RhQxRiSTRhQxRiRyRQRRQyS5QwQxQyQzQwQxQyZ0QwQxQyQzQwQxQyZyZzQxQyhjQwQxQyQzQwGiGjGiGjQxQyGgGhGwGxGgGhQxQyZiGwGxZzZiGwGxZzHBGwGxGgGh
+BOARD 0 28 64 0 RiSTRjbVRxRhRSSiRRQBQCQDQAQBQCQDQAQBQCQDQAQBQCZlQAQBQCQDQAQBQCQDhiQBhzQDHBGyGzGyGzQBQCGwGxGgGhGwGxGgGhZyZzHQHRZyZzHBZlSnHBZiGwGx
+BOARD 0 29 64 0 RmTETERXSgRRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQS2QSQTQQQRHQHRZiZjGiGjQQGgGhGgGhGwGxGgGhGwGxHASYHBRiSSSTRhHAHQHRZyZzZy
+BOARD 0 30 64 0 RCRQSiSgRRQhQiQjQgQhQiQjQgQhZiZjHBQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgZiZjHAZyZzGyGzQgGwGxGwGxGgGhGwGxGgGhZjHQHRRSRTb1RgSCRhSYHQHRHB
+BOARD 0 31 64 0 RSRRQyQzQwQxQyQzQwQxQyHBZiZjZyZzHQHRQyQzQwQxQyQzQwQxQyRiSCSDRhQzQwZyZzQzQwQxQyGgGhGgGhZzZlGwGxGgGhGwGxZyZjHQHRSQTEbVRQRRRiSDRhRi
+BOARD 0 32 64 0 QAQBQCQDQAQBQCQDQAQBQCQDZyZzHAQDQAQBQCZlSOQBQCQDQAQBQCRSRTbVRgRhQAQBQCQDS5QBQCGwGxGwGxSYHQHRZyGwGxGgGhGgGhZjHBRSRTTERxSCRyTERxRy
+BOARD 0 33 64 0 QQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQZlQSQTQQQRQSQTSQblb1SBQQQRQSRiSCSSRhHAZyZzHQHRZkZlHAHBZyGwGxGwGxZzHARiSCRWTETETETETETE
+BOARD 0 34 64 0 QgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjRSRCTERgRhQhQiRSRTblRxSDRhHBRiRnSTRhS5HQHRHAZyZzHAHBRiRyblTETETETETETETE
+BOARD 0 35 64 0 QwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwRSShSiRRQxQyQzSAbVa8a9RgRhRyRxRWRxSCSDRhZ0HBHQHRRiRyTETERQSgShSiRCTETE
+BOARD 0 36 64 0 QAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDRSRCb1TERQRRRCTETETETETERgRhRiSCRhRSSiShSiRRHAHBZ0SQTETE
+BOARD 0 37 64 0 QQQR2I1I1I1I1I1I2JQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQRSShSiRRSYRSSgRTRBRCTERQRRSQRQRRSnZlHAHBZiZjHQHRRSRTTE
+BOARD 0 38 64 0 Qg3a2oQjQgQhQiQj2n1I1I2JQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiGgGhZjZiGgGhZjZiZjRSRRRSSiRRS2RSRRS5HBHQHRGgGhGgGhZjHBRSSh
+BOARD 0 39 64 0 1I2oQyQzQwQxQyQzQwQxQy2n2JQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyGwGxGgGhGwGxGgGhZzHBHAHBHQHRHBHQHRGgGhZjZiGwGxGwGxGgGhHQHR
+BOARD 0 40 64 0 QAQBQCQDQAQBQCQDQAQBQCQD2n1mQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAGwGxQDQAGwGxHBHQHRGgGhS5HAHBZiGwGxGgGhGgGhGgGhGwGxGgGh
+BOARD 0 41 64 0 QQQRQSGoGpQRQSQTQQQRhzQTQQ1ZGoGpQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRGgGhGgGhGwGxZjQRS5ZyGgGhGwGxGwGxGwGxGgGhGwGx
+BOARD 0 42 64 0 QgQhQiG4G5QhQiQjQgQhQiQjQg1ZG4G5QgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhGwGxGwGxQiGgGhQhQiHBGwGxGgGhGgGhGgGhGwGxGgGh
+BOARD 0 43 64 0 QwQxQyQzQwQxQyQzQwhihjQzQw2n2JQzQwQxQyQzQwQxQyQzQwQxQyGoGpQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyGwGxQxQyQzHBHAGwGxGwGxGwGxZzZyGwGx
+BOARD 0 44 64 0 QAQBQCQDQAQBQCQDQAhyQCGiGjQB2n2JQAQBQCQDQAQBQCQDQAQBQCG4G5QBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAHBHQHRHAZyZzZlHBHQHRZy
+BOARD 0 45 64 0 QQQRQSQTQQQRQSQTQQQRQSGyGzQRQS2n1I1mQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQHQHRHAQQQRQSS5
+BOARD 0 46 64 0 QgQhQiQjQgQhQiQjQgQhGiGjQgQhQiQjQg1ZQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 47 64 0 QwQxQyQzQwQxQyQzQwQxGyGzQwQxQyQzQw1ZQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQz
+BOARD 0 48 64 0 QAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQD131pQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 49 64 0 QQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQT1Z04QSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQT
+BOARD 0 50 64 0 QgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQj1ZQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 51 64 0 QwQxQyQzQwQxQyQzQwQxQyQzQw131o221pQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQz
+BOARD 0 52 64 0 131o2212QAQBQCQDQAQBQCQD132HsOsP04QBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 53 64 0 1psOsPva12QRQSQTQQQRQSQT1Z1qQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQT
+BOARD 0 54 64 0 04QhQi1rva12QiQjQgQhQiQj1ZQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjRIZgZhQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 55 64 0 QwQxQyQz1rva1o2212QxQy131pQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwZwZxQzQwQxQyQzQwQxQyQzQwQxQyQz
+BOARD 0 56 64 0 QAQBQCQDQA1rsOsPva1o222H1qQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDRIQBQCQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 57 64 0 QQQRQSQTQQQRQSQT1rsOsP1qQQQRGiGjQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQT
+BOARD 0 58 64 0 QgQhQiQjQgQhQiQjQgQhQiQjQgQhGyGzQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhZgZhQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 59 64 0 QwQxQyQzQwQxQyQzQwQxQyQzQwGiGjQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxZwZxQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQz
+BOARD 0 60 64 0 QAQBQCQDQAQBQCQDQAQBQCQDQAGyGzQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQD
+BOARD 0 61 64 0 QQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQTQQQRQSQT
+BOARD 0 62 64 0 QgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgRIQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQj
+BOARD 0 63 64 0 QwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQz
+NPC - 56 16
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree1.gif";
+NPCEND
+NPC - 25 13
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree1.gif";
+NPCEND
+NPC - 52 51
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_mediumtree-shadow.png";
+this.attr[2]="val_mediumtree.png";
+NPCEND
+NPC - 31 46
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_mediumtree-shadow.png";
+this.attr[2]="val_mediumtree4.png";
+NPCEND
+NPC - 40 16
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_mediumtree-shadow.png";
+this.attr[2]="val_smalltree4.png";
+NPCEND
+NPC - 32 24
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smalltree-shadow.png";
+this.attr[2]="val_smalltree.png";
+NPCEND
+NPC - 3 22
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_mediumtree-shadow.png";
+this.attr[2]="val_smalltree5.png";
+NPCEND
+NPC - 46 8
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_mediumtree-shadow.png";
+this.attr[2]="val_mediumtree.png";
+NPCEND
+NPC - 37 0
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow2.png";
+this.attr[2]="val_smeewntree4.gif";
+NPCEND
+NPC - 33 12
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_mediumtree-shadow.png";
+this.attr[2]="val_mediumtree.png";
+NPCEND
+NPC - 26 55
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree1.gif";
+NPCEND
+NPC - 44 54
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree7.gif";
+NPCEND
+NPC - 44 30
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_mediumtree-shadow.png";
+this.attr[2]="val_smalltree5.png";
+NPCEND
+NPC - 59 48
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smalltree-shadow.png";
+this.attr[2]="val_smalltree.png";
+NPCEND
+NPC - 59 26
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_mediumtree-shadow.png";
+this.attr[2]="val_mediumtree.png";
+NPCEND
+NPC - 1 59
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree1.gif";
+NPCEND
+NPC - 5 42
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_mediumtree-shadow.png";
+this.attr[2]="val_smalltree5.png";
+NPCEND
+NPC - 56 61
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree1.gif";
+NPCEND
+NPC val_mediumtree.png 0 55
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_smalltree5.png 14 49
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_smeewntree7.gif 41 55
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC - 15 61
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_mediumtree-shadow.png";
+this.attr[2]="val_mediumtree.png";
+NPCEND
+NPC - 24 0
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree1.gif";
+NPCEND
+NPC - 15 6
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_mediumtree-shadow.png";
+this.attr[2]="val_smalltree5.png";
+NPCEND
+NPC val_smeewntree1.gif 28 46
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC - 56 0
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smeewntree-shadow1.png";
+this.attr[2]="val_smeewntree7.gif";
+NPCEND
+NPC - 18 44
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smalltree-shadow.png";
+this.attr[2]="val_smalltree.png";
+NPCEND
+NPC - 49 20
+join("levelitem_tree");
+//#CLIENTSIDE
+this.treetype="";
+this.attr[1]="val_smalltree-shadow.png";
+this.attr[2]="val_smalltree.png";
+NPCEND
+NPC - 63 29
+if (created) {
+  setshape 1,16*1,16*20;
+}
+if (actionwarp) {
+  setlevel2 westforest_path_01.nw,0,32;
+}
+//#CLIENTSIDE
+if (created) {
+  setshape 1,16*1,16*20;
+}
+if (playertouchsme) {
+  freezeplayer 0.9;
+  setani idle,;
+  this.fade=0;
+  timeout = 0.05;
+}
+if (timeout) {
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],this.fade;
+  if (this.fade<1) {
+    this.fade += 0.1;
+    timeout = 0.05;
+  }
+  else if (this.fade>=1) {
+    setplayerdir 3;
+    triggeraction x,y,warp,;
+  }
+}
+NPCEND
+NPC val-web-bottomright.gif 32 35
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  drawoverplayer();
+  this.zoom = 2;
+  this.rotation = pi/4;
+}
+NPCEND
+NPC val-web-bottomleft.gif 35 38
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  drawoverplayer();
+  this.zoom = 2;
+  this.rotation = pi/4;
+}
+NPCEND
+NPC val_fog.png 38 30
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(8);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 3;
+
+  this.defaultX = this.x;
+  this.moveInc = .05;
+  this.loopSpeed = .2;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 7 24
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(8);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 3;
+
+  this.defaultX = this.x;
+  this.moveInc = .05;
+  this.loopSpeed = .2;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 5 0
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(8);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 3;
+
+  this.defaultX = this.x;
+  this.moveInc = .05;
+  this.loopSpeed = .2;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_kanoshire-hollowlog.gif 10 33
+NPCEND
+NPC val_messengerraven_left.gif 21 14
+NPCEND

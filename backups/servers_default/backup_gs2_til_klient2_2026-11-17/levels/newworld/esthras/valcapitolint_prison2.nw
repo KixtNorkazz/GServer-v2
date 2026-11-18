@@ -1,0 +1,439 @@
+GLEVNW01
+BOARD 0 0 64 0 J4J4J4J4J4J4J4J4J4J4J4iAiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiBiCJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 1 64 0 J4J4J4J4J4J4J4J4J4J4J4iQl6l7hjhjhjhjhjhjhjhjhjl6l7iSiQl6l7hjhjhjhjhjhjhjhjhjl6l7iSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 2 64 0 J4J4J4J4J4J4J4J4J4J4J4iQmKmLhjhjhjhjhjhjhjhjhjmKmLiSiQmKmLhjhjhjhjhjhjhjhjhjmKmLiSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 3 64 0 J4J4J4J4J4J4J4J4J4J4J4iQmambhjhjhjhjhjhjhjhjhjmambiSiQmambhjhjhjhjhjhjhjhjhjmambiSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 4 64 0 J4J4J4J4J4J4J4J4J4J4J4iQmambhjhjhjhjhjhjhjhjhjmambiSiQmambhjhjhjhjhjhjhjhjhjmambiSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 5 64 0 J4J4J4J4J4J4J4J4J4J4J4iQmqmrhjhjhjhjhjhjhjhjhjmqmriSiQmqmrhjhjhjhjhjhjhjhjhjmqmriSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 6 64 0 J4J4J4J4J4J4J4J4J4J4J4iQn6n7nWLELHnWnWnWnWLELHn6n7iSiQn6n7LELHnWnWnWLELHnWnWn6n7iSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 7 64 0 J4J4J4J4J4J4J4J4J4J4J4iQhahbhaTvbhhbhahbhaTvbhhbhaiSiQhbhaTvbhhbhahbTvbhhahbhahbiSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 8 64 0 J4J4J4J4J4J4J4J4J4J4J4iQhKhLhKTvbhhLhKhLhKTvbhhLhKiSiQhLhKTvbhhLhKhLTvbhhKhLhKhLiSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 9 64 0 J4J4J4J4J4J4J4J4J4J4J4iQhahbhaT/bxhbhahbhaT/bxhbhaiSiQhbhaT/bxhbhahbT/bxhahbhahbiSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 10 64 0 J4J4J4J4J4J4J4J4J4J4J4iQhKhLhKhLhKhLhKhLhKhLhKhLhKiSiQhLhKhLhKhLhKhLhKhLhKhLhKhLiSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 11 64 0 J4J4J4J4J4J4J4J4J4J4J4iQhahbhahbhahbhahbhahbhahbhaiSiQhbhahbhahbhahbhahbhahbhahbiSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 12 64 0 J4J4J4J4J4J4J4J4J4J4J4iQhKhLhKhLhKhLhKhLhKhLhKhLhKiSiQhLhKhLhKhLhKhLhKhLhKhLhKhLiSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 13 64 0 J4J4J4J4J4J4J4J4J4J4J4iQihihihihihihihihihhbhahbhaihihihihihihihihihhahbhahbihihiSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 14 64 0 J4J4J4J4J4J4J4J4J4J4J4iQJ4J4J4J4J4J4J4J4J4hLhKhLhKJ4J4J4J4J4J4J4J4J4hKhLhKhLJ4J4iSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 15 64 0 J4J4J4J4J4J4J4J4J4J4J4iQiBiBiBiBiBiBiBiBiBhbhahbhaiBiBiBiBiBiBiBiBiBhahbhahbiBiBiSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 16 64 0 J4J4J4J4J4J4J4J4J4J4J4iQl6l7hjhjhjhjhjl6l7hLhKhLhKl6l7hjhjhjhjhjl6l7hKhLhKhLl6l7iSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 17 64 0 J4J4J4J4J4J4J4J4J4J4J4iQmKmLhjhjhjhjhjmKmLhbhahbhamKmLhjhjhjhjhjmKmLhahbhahbmKmLiSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 18 64 0 J4J4J4J4J4J4J4J4J4J4J4iQmambhjhjhjhjhjmambhLhKhLhKmambhjhjhjhjhjmambhKhLhKhLmambiSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 19 64 0 J4J4J4J4J4J4J4J4J4J4J4iQmambhjhjhjhjhjmambhbhahbhamambhjhjhjhjhjmambhahbhahbmambiSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 20 64 0 J4J4J4J4J4J4J4J4J4J4J4iQmqmrhjhjhjhjhjmqmrhLhKhLhKmqmrhjhjhjhjhjmqmrhKhLhKhLmqmriSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 21 64 0 J4J4J4J4J4J4J4J4J4J4J4iQn6n7nWnWnWnWnWn6n7nWnWnWnWn6n7nWnWnWnWnWn6n7nWnWnWnWn6n7iEiBiBiBiBiBiBiBiBiBiCJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 22 64 0 J4J4J4J4J4J4J4J4J4J4J4iQhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLl6l7hjhjl6l7hjhjl6l7iSJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 23 64 0 J4J4J4J4J4J4J4J4J4J4J4iQhahbhahbhahbhahbhahbhahbhahbhahbhahbhahbhahbhahbhahbhahbmKmLhjhjmKmLhjhjmKmLiSJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 24 64 0 J4J4J4J4J4J4J4J4J4J4J4iQhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLhKhLmambhjhjmambhjhjmambiSJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 25 64 0 J4J4J4J4J4J4J4J4J4J4J4iQhahbhahbhahbhahbhahbhahbhahbhahbhahbhahbhahbhahbhahbhahbmqmrhjhjmqmrhjhjmqmriSJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 26 64 0 J4J4J4J4J4J4J4J4J4J4J4igihihihihihihihihihihihihihihihihihihihihihihiThLhKhLhKhLm6m7hjhjm6m7hjhjm6m7iSJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 27 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4iQhbhahbhahbnKnLhjhjnKnLhjhjnKnLiSJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 28 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4iQnWnWnWnWnWnanbhjhjnanbhjhjnanLiSJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 29 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4iQnWnWnWnWnWnqnrhjhjnqnrhjhjnawIiSJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 30 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4iQnWnWnWnWnWn6n7nWnWn6n7nWnWwIwIiSJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 31 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4iQhbhahbhahbhahbhahbhahbhawIwIwIiSJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 32 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4iQhLhKhLhKhLhKhLhKhLhKhLhKwIwIwIiSJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 33 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4iQhbhahbhahbhahbhahbhahbhawIwIwIiSJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 34 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4iQhLhKhLhKhLhKhLhKhLhKhLhKwIwIiUiiJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 35 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4iQhbhahbhahbhahbhahbhahbhawIiUiiJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 36 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4igihihihihihihihihihihihihihiiJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 37 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 38 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 39 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 40 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 41 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 42 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 43 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 44 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 45 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 46 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 47 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 48 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 49 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 50 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 51 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 52 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 53 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 54 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 55 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 56 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 57 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 58 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 59 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 60 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 61 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 62 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 63 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+LINK valcapitolint_prison1.nw 50 29 1 5 9.5 37.5
+NPC - 34 17
+function onCreated() {
+  if(this.open == null) {
+    this.close = 1;
+  }
+  if(this.open == 1) {
+    setimgpart("bridgeton-porticullis.gif",0,54,64,80);
+  }
+  else {
+    setimgpart("bridgeton-porticullis.gif",0,0,64,80);
+  }
+  drawoverplayer();
+  this.permissions = {
+    "Evil_SinX",
+    "LoneAngelIbesu",
+    "CLC4",
+    "hellsinging",
+  };
+}
+function onPlayerChats() {
+  temp.i = 0;
+  if(player.account in this.permissions || player.guild == "Valikorlia") {
+    if(player.chat == "/open gate 1") {
+      for(i=0; i < 55; i++) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      dontblock();
+      this.open = 1;
+    }
+    if(player.chat == "/close gate 1") {
+      for(i=54; i > -1; i--) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      blockagain();
+      this.open = 2;
+    }
+  }
+}
+NPCEND
+NPC - 21 17
+function onCreated() {
+  if(this.open == null) {
+    this.close = 1;
+  }
+  if(this.open == 1) {
+    setimgpart("bridgeton-porticullis.gif",0,54,64,80);
+  }
+  else {
+    setimgpart("bridgeton-porticullis.gif",0,0,64,80);
+  }
+  drawoverplayer();
+  this.permissions = {
+    "Evil_SinX",
+    "LoneAngelIbesu",
+    "CLC4",
+    "hellsinging",
+  };
+}
+function onPlayerChats() {
+  temp.i = 0;
+  if(player.account in this.permissions || player.guild == "Valikorlia") {
+    if(player.chat == "/open gate 2") {
+      for(i=0; i < 55; i++) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      dontblock();
+      this.open = 1;
+    }
+    if(player.chat == "/close gate 2") {
+      for(i=54; i > -1; i--) {
+        setimgpart("bridgeton-porticullis.gif",0,i,64,80);
+        sleep(0.1);
+      }
+      blockagain();
+      this.open = 2;
+    }
+  }
+}
+NPCEND
+NPC vines.gif 35 1
+//#CLIENTSIDE
+if (created) {drawoverplayer; setimgpart vines.gif,0,42,130,50;}
+NPCEND
+NPC vines.gif 38 1
+//#CLIENTSIDE
+if (created) {drawoverplayer; setimgpart vines.gif,12,0,30,50;}
+NPCEND
+NPC vines.gif 27 1
+//#CLIENTSIDE
+if (created) {drawoverplayer; setimgpart vines.gif,0,42,130,50;}
+NPCEND
+NPC val-web-topleft1.gif 12 1
+// NPC made by Dust
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC vines.gif 22 1
+//#CLIENTSIDE
+if (created) {drawoverplayer; setimgpart vines.gif,12,0,30,50;}
+NPCEND
+NPC vines.gif 17 1
+//#CLIENTSIDE
+if (created) {drawoverplayer; setimgpart vines.gif,12,0,30,50;}
+NPCEND
+NPC vines.gif 14 1
+//#CLIENTSIDE
+if (created) {drawoverplayer; setimgpart vines.gif,0,42,130,50;}
+NPCEND
+NPC - 12 22
+if (created){
+  {
+    showcharacter;
+  setcharprop #3,val-nadrion-valikorliansoldier.png;
+  setcharprop #8,theblindone-eleanorknight-body101.gif;
+    setcharprop #C0,gray;
+    setcharprop #C1,gray;
+    setcharprop #C2,white;
+    setcharprop #C3,lightgray;
+    setcharprop #C4,gray;
+    setcharprop #m,0;
+    setcharprop #n,Valikorlian Soldier;
+    setcharani idle,;
+    swordpower = 1;
+    setcharprop #2,no-shield.gif;
+    shieldpower = 1;
+    dir = 3;}
+  setcharani idle,;
+  hearts = 0;
+}
+if (playertouchsme) {say2 *Yawns* Whaa..?;
+}
+NPCEND
+NPC valikorlia-banner3.gif 46 21
+
+NPCEND
+NPC valikorlia-banner3.gif 30 15
+
+NPCEND
+NPC valikorlia-banner1.gif 42 21
+// NPC made by Lord Aengarth Surion Irminric of (Staghorn)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valikorlia-banner1.gif 27 15
+// NPC made by Lord Aengarth Surion Irminric of (Staghorn)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-torch2.png 12 19
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+0,0,
+0,0,
+0,0,
+22,22
+}
+  showimg 0,fire.gif,x+.1,y-1.9;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-torch2.png 19 19
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+0,0,
+0,0,
+0,0,
+22,22
+}
+  showimg 0,fire.gif,x+.1,y-1.9;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-torch2.png 32 19
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+0,0,
+0,0,
+0,0,
+22,22
+}
+  showimg 0,fire.gif,x+.1,y-1.9;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_valcastle-torch2.png 25 19
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+0,0,
+0,0,
+0,0,
+22,22
+}
+  showimg 0,fire.gif,x+.1,y-1.9;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_jail-arch2.png 34 13
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_valcastle-torch2.png 38 19
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+0,0,
+0,0,
+0,0,
+22,22
+}
+  showimg 0,fire.gif,x+.1,y-1.9;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC valikorlia-banner1.gif 17 15
+// NPC made by Lord Aengarth Surion Irminric of (Staghorn)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valikorlia-banner3.gif 14 15
+
+NPCEND
+NPC val-raijins-cave-hay.gif 14 5
+if (created)
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 20 5
+if (created)
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 19 6
+if (created)
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 26 6
+if (created)
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 28 6
+if (created)
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 27 5
+if (created)
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 32 6
+if (created)
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 33 5
+if (created)
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 31 5
+if (created)
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 18 5
+if (created)
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 13 6
+if (created)
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-raijins-cave-hay.gif 12 5
+if (created)
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val_jail-arch2.png 21 13
+dontblock;
+drawoverplayer;
+NPCEND
+NPC - 37 5
+if (created){
+  {
+    showcharacter;
+  setcharprop #3,val_vice1337head1.gif;
+  setcharprop #8,arwind-ardanbody1.gif;
+    setcharprop #C0,gray;
+    setcharprop #C1,gray;
+    setcharprop #C2,white;
+    setcharprop #C3,lightgray;
+    setcharprop #C4,gray;
+    setcharprop #m,0;
+    setcharprop #n,Valikorlian Soldier;
+    setcharani idle,;
+    swordpower = 1;
+    setcharprop #2,no-shield.gif;
+    shieldpower = 1;
+    dir = 2;}
+  setcharani idle,;
+  hearts = 0;
+}
+if (playertouchsme) {say2 Caught you too, huh?;
+}
+NPCEND
+NPC val_stew.gif 32 6
+// NPC made by Lord Francis Charles Leone III, Parliamentarian of (Celdin)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-steak.gif 16 10
+// NPC made by Lord Francis Charles Leone III, Parliamentarian of (Celdin)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND

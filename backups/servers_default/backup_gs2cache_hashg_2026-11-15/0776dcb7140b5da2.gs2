@@ -1,0 +1,68 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "moneypouch-shield.gif";
+  this.head = "npc-random-zangkender2.gif";
+  this.body = "arwind-kender-body100.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "yellow";
+  this.colors[2] = "lightgray";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "lightgray";
+  setcharani("0", NULL);
+  this.nick = "Kender Builder";
+  setcharani("idle", NULL);
+  this.dir = 2;
+}
+
+function onPlayerEnters() {
+  this.name = "tamachan";
+  setcharani("idle", this.idle);
+  this.randomx = int(random(-2, 2));
+  this.randomy = int(random(-2, 2));
+  if (!onwall(this.x+1.5*this.randomx, this.y+2*this.randomy) && !onwater(this.x+1.5*this.randomx, this.y+2*this.randomy)) {
+    move(this.randomx, this.randomy, 1, 4+8+16+32);
+    setcharani("walk", this.walk);
+  }
+  sleep(1);
+  setcharani("idle", this.idle);
+  setTimer(random(2, 5));
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "The Valikorlian Empire")) {
+    if ((player.nick.pos("Empress") > -1)) {
+      message("Working here.");
+      sleep(3);
+      message();
+    }
+    if ((player.nick.pos("Lord") > -1)) {
+      message("Cheers your lordship. We're buidlig a free market.");
+      sleep(3);
+      message();
+    }
+    if ((player.nick.pos("Sir") > -1)) {
+      message("Cheers your lordship. We're buidlig a free market.");
+      sleep(3);
+      message();
+    } else {
+      message("'Lo! Im supposed to walk around and look like im building.");
+      sleep(3);
+      message();
+    }
+  }
+}
+
+function onTimeOut() {
+  this.name = "tamachan";
+  setcharani("idle", this.idle);
+  this.randomx = int(random(-2, 2));
+  this.randomy = int(random(-2, 2));
+  if (!onwall(this.x+1.5*this.randomx, this.y+2*this.randomy) && !onwater(this.x+1.5*this.randomx, this.y+2*this.randomy)) {
+    move(this.randomx, this.randomy, 1, 4+8+16+32);
+    setcharani("walk", this.walk);
+  }
+  sleep(1);
+  setcharani("idle", this.idle);
+  setTimer(random(2, 5));
+}

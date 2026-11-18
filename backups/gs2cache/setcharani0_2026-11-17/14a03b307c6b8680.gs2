@@ -1,0 +1,21 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.head = "val-warforgedhead.gif";
+  this.body = "nadrion_valikorlian-nation-knighttemplar.gif";
+  this.body = "shotzocodex-body100.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.ap = 100;
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.swordpower = 1;
+  this.shield = "";
+  this.shieldpower = 1;
+  this.dir = 2;
+  setcharani("idle", NULL);
+  this.hearts = 0;
+}

@@ -1,0 +1,983 @@
+GLEVNW01
+BOARD 0 0 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 1 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 2 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 3 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 4 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 5 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 6 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 7 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 8 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 9 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 10 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 11 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 12 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 13 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 14 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 15 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 16 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 17 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 18 64 0 J4J4J4J4hTjRjSjRjSjSjRhjjRjSjRjSjSjRhjjRjSjRjSjSjRhTJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 19 64 0 J4J4J4J4hjjQjSjRjSjRjShjjQjSjRjSjRjShjjQjSjRjSjRjShjJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 20 64 0 J4J4J4J4hTjRjSjRjSjSjRhTjRjSjRjSjSjRhTjRjSjRjSjSjRhTJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 21 64 0 J4J4J4J4hTjQjSjRjSjRjShjjQjSjRjSjRjShjjQjSjRjSjRjShjhThTJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 22 64 0 J4J4J4J4hjjRjSjRjSjSjRhjjRjSjRjSjSjRhjjRjSjRjSjSjRhThThTJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 23 64 0 J4J4J4J4hTjQjRjSjQjRjSiDjQjRjSjQjRjSiDjQjRjSjQjRjShjhjhjJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 24 64 0 J4J4J4J4hjOXOHOGOWOXOHOWOXOHOGOWOXOHOWOXOHOGOWOXOHhjhThTJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 25 64 0 J4J4J4J4hTOHOGOWOXOHOGOXOHOGOWOXOHOGOXOHOGOWOXOHOGhjhjhjJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 26 64 0 J4J4J4J4hjOXOHOGOWOXOHOWOXOHOGOWOXOHOWOXOHOGOWOXOHhThjhjJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 27 64 0 J4J4J4J4hTOHOGOWOXOHOGOXOHOGOWOXOHOGOXOHOGOWOXOHOGhjiDiDJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 28 64 0 J4J4J4J4hjOXOHOGOWOXOHOWOXOHOGOWOXOHOWOXOHOGOWOXOHhTjRhTJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 29 64 0 J4J4J4J4hTOHOGOWOXOHOGOXOHOGOWOXOHOGOXOHOGOWOXOHOGhjjShjJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 30 64 0 J4J4J4J4hjOXOHOGOWOXOHOWOXOHOGOWOXOHOWOXOHOGOWOXOHhTjRhTJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 31 64 0 J4J4J4J4hjjRjSjRjSjSjRhjjRjSjRjSjSjRhjjRjSjRjSjSjRhjjShjJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 32 64 0 J4J4J4J4hjjQjSjRjSjRjShjjQjSjRjSjRjShjjQjSjRjSjRjShjjRhjJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 33 64 0 J4J4J4J4hTjRjSjRjSjSjRhTjRjSjRjSjSjRhTjRjSjRjSjSjRhTjSiDJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 34 64 0 J4J4J4J4hjjQjSjRjSjRjShjjQjSjRjSjRjShjjQjSjRjSjRjShjJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 35 64 0 J4J4J4J4hjjRjSjRjSjSjRhjjRjSjRjSjSjRhjjRjSjRjSjSjRhjJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 36 64 0 J4J4J4J4iDjQjRjSjQjRjSiDjQjRjSjQjRjSiDjQjRjSjQjRjSiDJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 37 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 38 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 39 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 40 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 41 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 42 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 43 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 44 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 45 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 46 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 47 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 48 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 49 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 50 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 51 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 52 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 53 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 54 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 55 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 56 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 57 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 58 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 59 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 60 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 61 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 62 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 63 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+LINK thistletop_hall3.nw 25 24 1 5 34 26
+NPC val-raijins-gold1.gif 5 25
+// NPC made by Luthirax
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-raijins-gold4.gif 6 24
+// NPC made by Luthirax
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-raijins-gold4.gif 5 28
+// NPC made by Luthirax
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-raijins-gold5.gif 6 27
+// NPC made by Luthirax
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-raijins-gold3.gif 4 26
+// NPC made by Luthirax
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC otachbloodsplatter.gif 19 27
+//#CLIENTSIDE
+// NPC made by John Crossley, the Yeoman
+if (created) {setimgpart otachbloodsplatter.gif,0,54,48,19;
+drawunderplayer;
+dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC meat.gif 17 27
+//#CLIENTSIDE
+
+dontblock;drawunderplayer;
+NPCEND
+NPC otachbloodsplatter.gif 20 25
+//#CLIENTSIDE
+// NPC made by John Crossley, the Yeoman
+if (created) {setimgpart otachbloodsplatter.gif,0,54,48,19;
+drawunderplayer;
+dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-rp-fragchest.gif 9 23
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-rp-bigskullchestclosed.gif 13 23
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-bonerubble2.gif 20 23
+// NPC made by Illvious the Shaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC otachbloodsplatter.gif 18 26
+//#CLIENTSIDE
+// NPC made by John Crossley, the Yeoman
+if (created) {setimgpart otachbloodsplatter.gif,0,54,48,19;
+drawunderplayer;
+dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-springtrap.gif 22 26
+//#CLIENTSIDE
+if (created)
+{
+  setimgpart val-springtrap.gif,0,0,48,2;
+
+  this.triggerAtX = 17;
+  //this.triggerAtY = y;
+  this.cwidth = 48;
+  this.chieght = 64;
+
+  this.cy = y;
+  this.trapset = 0;
+
+  timeout = .1;
+}
+
+if (playerchats && this.trapset == 1)
+{
+  if (strequals(#c,reset traps) && strequals(#g,The Wayward))
+  {
+    hideTrap();
+  }
+}
+
+if (timeout)
+{
+  if (playerx <= this.triggerAtX && this.trapset == 0)
+  {
+     if (strequals(#g,The Wayward))
+     {
+       message ;
+     }else{springTrap();}
+  }
+  timeout = 0.1;
+}
+
+function springTrap()
+{
+  this.trapset = 1;
+  for (this.i=1; this.i < 96; this.i+=16)
+    {
+    y -= .5;
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.i;
+    sleep(.05);
+  }
+  timeout = .1;
+}
+
+function hideTrap()
+{
+  this.trapset = 0;
+  for (this.i = 0; this.i < 64; this.i++)
+    {
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.chieght-this.i;
+    y += .05;
+    sleep(.05);
+  }
+  setimgpart val-springtrap.gif,0,0,48,2;
+  y = this.cy;
+  timeout = .1;
+}
+NPCEND
+NPC val-springtrap.gif 11 28
+//#CLIENTSIDE
+if (created)
+{
+  setimgpart val-springtrap.gif,0,0,48,2;
+
+  this.triggerAtX = 17;
+  //this.triggerAtY = y;
+  this.cwidth = 48;
+  this.chieght = 64;
+
+  this.cy = y;
+  this.trapset = 0;
+
+  timeout = .1;
+}
+
+if (playerchats && this.trapset == 1)
+{
+  if (strequals(#c,reset traps) && strequals(#g,The Wayward))
+  {
+    hideTrap();
+  }
+}
+
+if (timeout)
+{
+  if (playerx <= this.triggerAtX && this.trapset == 0)
+  {
+     if (strequals(#g,The Wayward))
+     {
+       message ;
+     }else{springTrap();}
+  }
+  timeout = 0.1;
+}
+
+function springTrap()
+{
+  this.trapset = 1;
+  for (this.i=1; this.i < 96; this.i+=16)
+    {
+    y -= .5;
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.i;
+    sleep(.05);
+  }
+  timeout = .1;
+}
+
+function hideTrap()
+{
+  this.trapset = 0;
+  for (this.i = 0; this.i < 64; this.i++)
+    {
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.chieght-this.i;
+    y += .05;
+    sleep(.05);
+  }
+  setimgpart val-springtrap.gif,0,0,48,2;
+  y = this.cy;
+  timeout = .1;
+}
+NPCEND
+NPC val-springtrap.gif 21 28
+//#CLIENTSIDE
+if (created)
+{
+  setimgpart val-springtrap.gif,0,0,48,2;
+
+  this.triggerAtX = 17;
+  //this.triggerAtY = y;
+  this.cwidth = 48;
+  this.chieght = 64;
+
+  this.cy = y;
+  this.trapset = 0;
+
+  timeout = .1;
+}
+
+if (playerchats && this.trapset == 1)
+{
+  if (strequals(#c,reset traps) && strequals(#g,The Wayward))
+  {
+    hideTrap();
+  }
+}
+
+if (timeout)
+{
+  if (playerx <= this.triggerAtX && this.trapset == 0)
+  {
+     if (strequals(#g,The Wayward))
+     {
+       message ;
+     }else{    sleep(.05);springTrap();}
+  }
+  timeout = 0.1;
+}
+
+function springTrap()
+{
+  this.trapset = 1;
+  for (this.i=1; this.i < 96; this.i+=16)
+    {
+    y -= .5;
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.i;
+    sleep(.05);
+  }
+  timeout = .1;
+}
+
+function hideTrap()
+{
+  this.trapset = 0;
+  for (this.i = 0; this.i < 64; this.i++)
+    {
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.chieght-this.i;
+    y += .05;
+    sleep(.05);
+  }
+  setimgpart val-springtrap.gif,0,0,48,2;
+  y = this.cy;
+  timeout = .1;
+}
+NPCEND
+NPC val-springtrap.gif 19 25
+//#CLIENTSIDE
+if (created)
+{
+  setimgpart val-springtrap.gif,0,0,48,2;
+
+  this.triggerAtX = 17;
+  //this.triggerAtY = y;
+  this.cwidth = 48;
+  this.chieght = 64;
+
+  this.cy = y;
+  this.trapset = 0;
+
+  timeout = .1;
+}
+
+if (playerchats && this.trapset == 1)
+{
+  if (strequals(#c,reset traps) && strequals(#g,The Wayward))
+  {
+    hideTrap();
+  }
+}
+
+if (timeout)
+{
+  if (playerx <= this.triggerAtX && this.trapset == 0)
+  {
+     if (strequals(#g,The Wayward))
+     {
+       message ;
+     }else{    sleep(.075);springTrap();}
+  }
+  timeout = 0.1;
+}
+
+function springTrap()
+{
+  this.trapset = 1;
+  for (this.i=1; this.i < 96; this.i+=16)
+    {
+    y -= .5;
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.i;
+    sleep(.05);
+  }
+  timeout = .1;
+}
+
+function hideTrap()
+{
+  this.trapset = 0;
+  for (this.i = 0; this.i < 64; this.i++)
+    {
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.chieght-this.i;
+    y += .05;
+    sleep(.05);
+  }
+  setimgpart val-springtrap.gif,0,0,48,2;
+  y = this.cy;
+  timeout = .1;
+}
+NPCEND
+NPC val-springtrap.gif 19 30
+//#CLIENTSIDE
+if (created)
+{
+  setimgpart val-springtrap.gif,0,0,48,2;
+
+  this.triggerAtX = 17;
+  //this.triggerAtY = y;
+  this.cwidth = 48;
+  this.chieght = 64;
+
+  this.cy = y;
+  this.trapset = 0;
+
+  timeout = .1;
+}
+
+if (playerchats && this.trapset == 1)
+{
+  if (strequals(#c,reset traps) && strequals(#g,The Wayward))
+  {
+    hideTrap();
+  }
+}
+
+if (timeout)
+{
+  if (playerx <= this.triggerAtX && this.trapset == 0)
+  {
+     if (strequals(#g,The Wayward))
+     {
+       message ;
+     }else{    sleep(.075);springTrap();}
+  }
+  timeout = 0.1;
+}
+
+function springTrap()
+{
+  this.trapset = 1;
+  for (this.i=1; this.i < 96; this.i+=16)
+    {
+    y -= .5;
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.i;
+    sleep(.05);
+  }
+  timeout = .1;
+}
+
+function hideTrap()
+{
+  this.trapset = 0;
+  for (this.i = 0; this.i < 64; this.i++)
+    {
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.chieght-this.i;
+    y += .05;
+    sleep(.05);
+  }
+  setimgpart val-springtrap.gif,0,0,48,2;
+  y = this.cy;
+  timeout = .1;
+}
+NPCEND
+NPC val-springtrap.gif 18 27
+//#CLIENTSIDE
+if (created)
+{
+  setimgpart val-springtrap.gif,0,0,48,2;
+
+  this.triggerAtX = 17;
+  //this.triggerAtY = y;
+  this.cwidth = 48;
+  this.chieght = 64;
+
+  this.cy = y;
+  this.trapset = 0;
+
+  timeout = .1;
+}
+
+if (playerchats && this.trapset == 1)
+{
+  if (strequals(#c,reset traps) && strequals(#g,The Wayward))
+  {
+    hideTrap();
+  }
+}
+
+if (timeout)
+{
+  if (playerx <= this.triggerAtX && this.trapset == 0)
+  {
+     if (strequals(#g,The Wayward))
+     {
+       message ;
+     }else{    sleep(.1);springTrap();}
+  }
+  timeout = 0.1;
+}
+
+function springTrap()
+{
+  this.trapset = 1;
+  for (this.i=1; this.i < 96; this.i+=16)
+    {
+    y -= .5;
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.i;
+    sleep(.05);
+  }
+  timeout = .1;
+}
+
+function hideTrap()
+{
+  this.trapset = 0;
+  for (this.i = 0; this.i < 64; this.i++)
+    {
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.chieght-this.i;
+    y += .05;
+    sleep(.05);
+  }
+  setimgpart val-springtrap.gif,0,0,48,2;
+  y = this.cy;
+  timeout = .1;
+}
+NPCEND
+NPC val-springtrap.gif 16 29
+//#CLIENTSIDE
+if (created)
+{
+  setimgpart val-springtrap.gif,0,0,48,2;
+
+  this.triggerAtX = 17;
+  //this.triggerAtY = y;
+  this.cwidth = 48;
+  this.chieght = 64;
+
+  this.cy = y;
+  this.trapset = 0;
+
+  timeout = .1;
+}
+
+if (playerchats && this.trapset == 1)
+{
+  if (strequals(#c,reset traps) && strequals(#g,The Wayward))
+  {
+    hideTrap();
+  }
+}
+
+if (timeout)
+{
+  if (playerx <= this.triggerAtX && this.trapset == 0)
+  {
+     if (strequals(#g,The Wayward))
+     {
+       message ;
+     }else{    sleep(.125);springTrap();}
+  }
+  timeout = 0.1;
+}
+
+function springTrap()
+{
+  this.trapset = 1;
+  for (this.i=1; this.i < 96; this.i+=16)
+    {
+    y -= .5;
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.i;
+    sleep(.05);
+  }
+  timeout = .1;
+}
+
+function hideTrap()
+{
+  this.trapset = 0;
+  for (this.i = 0; this.i < 64; this.i++)
+    {
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.chieght-this.i;
+    y += .05;
+    sleep(.05);
+  }
+  setimgpart val-springtrap.gif,0,0,48,2;
+  y = this.cy;
+  timeout = .1;
+}
+NPCEND
+NPC val-springtrap.gif 16 25
+//#CLIENTSIDE
+if (created)
+{
+  setimgpart val-springtrap.gif,0,0,48,2;
+
+  this.triggerAtX = 17;
+  //this.triggerAtY = y;
+  this.cwidth = 48;
+  this.chieght = 64;
+
+  this.cy = y;
+  this.trapset = 0;
+
+  timeout = .1;
+}
+
+if (playerchats && this.trapset == 1)
+{
+  if (strequals(#c,reset traps) && strequals(#g,The Wayward))
+  {
+    hideTrap();
+  }
+}
+
+if (timeout)
+{
+  if (playerx <= this.triggerAtX && this.trapset == 0)
+  {
+     if (strequals(#g,The Wayward))
+     {
+       message ;
+     }else{    sleep(.15);springTrap();}
+  }
+  timeout = 0.1;
+}
+
+function springTrap()
+{
+  this.trapset = 1;
+  for (this.i=1; this.i < 96; this.i+=16)
+    {
+    y -= .5;
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.i;
+    sleep(.05);
+  }
+  timeout = .1;
+}
+
+function hideTrap()
+{
+  this.trapset = 0;
+  for (this.i = 0; this.i < 64; this.i++)
+    {
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.chieght-this.i;
+    y += .05;
+    sleep(.05);
+  }
+  setimgpart val-springtrap.gif,0,0,48,2;
+  y = this.cy;
+  timeout = .1;
+}
+NPCEND
+NPC val-springtrap.gif 15 27
+//#CLIENTSIDE
+if (created)
+{
+  setimgpart val-springtrap.gif,0,0,48,2;
+
+  this.triggerAtX = 17;
+  //this.triggerAtY = y;
+  this.cwidth = 48;
+  this.chieght = 64;
+
+  this.cy = y;
+  this.trapset = 0;
+
+  timeout = .1;
+}
+
+if (playerchats && this.trapset == 1)
+{
+  if (strequals(#c,reset traps) && strequals(#g,The Wayward))
+  {
+    hideTrap();
+  }
+}
+
+if (timeout)
+{
+  if (playerx <= this.triggerAtX && this.trapset == 0)
+  {
+     if (strequals(#g,The Wayward))
+     {
+       message ;
+     }else{    sleep(.15);springTrap();}
+  }
+  timeout = 0.1;
+}
+
+function springTrap()
+{
+  this.trapset = 1;
+  for (this.i=1; this.i < 96; this.i+=16)
+    {
+    y -= .5;
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.i;
+    sleep(.05);
+  }
+  timeout = .1;
+}
+
+function hideTrap()
+{
+  this.trapset = 0;
+  for (this.i = 0; this.i < 64; this.i++)
+    {
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.chieght-this.i;
+    y += .05;
+    sleep(.05);
+  }
+  setimgpart val-springtrap.gif,0,0,48,2;
+  y = this.cy;
+  timeout = .1;
+}
+NPCEND
+NPC val-springtrap.gif 12 30
+//#CLIENTSIDE
+if (created)
+{
+  setimgpart val-springtrap.gif,0,0,48,2;
+
+  this.triggerAtX = 17;
+  //this.triggerAtY = y;
+  this.cwidth = 48;
+  this.chieght = 64;
+
+  this.cy = y;
+  this.trapset = 0;
+
+  timeout = .1;
+}
+
+if (playerchats && this.trapset == 1)
+{
+  if (strequals(#c,reset traps) && strequals(#g,The Wayward))
+  {
+    hideTrap();
+  }
+}
+
+if (timeout)
+{
+  if (playerx <= this.triggerAtX && this.trapset == 0)
+  {
+     if (strequals(#g,The Wayward))
+     {
+       message ;
+     }else{    sleep(.15);springTrap();}
+  }
+  timeout = 0.1;
+}
+
+function springTrap()
+{
+  this.trapset = 1;
+  for (this.i=1; this.i < 96; this.i+=16)
+    {
+    y -= .5;
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.i;
+    sleep(.05);
+  }
+  timeout = .1;
+}
+
+function hideTrap()
+{
+  this.trapset = 0;
+  for (this.i = 0; this.i < 64; this.i++)
+    {
+    setimgpart val-springtrap.gif,0,0,this.cwidth,this.chieght-this.i;
+    y += .05;
+    sleep(.05);
+  }
+  setimgpart val-springtrap.gif,0,0,48,2;
+  y = this.cy;
+  timeout = .1;
+}
+NPCEND
+NPC waywardtrap1.gif 9 20
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 23 19
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 21 19
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 19 19
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 20 20
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 20 20
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 5 20
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 23 21
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 21 21
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 19 21
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 17 21
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 15 21
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 13 21
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 14 20
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 16 20
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 17 19
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 15 19
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 13 19
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 6 21
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 8 19
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 6 19
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 7 20
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 22 20
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 24 20
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 12 20
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 10 19
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waywardtrap1.gif 10 21
+// NPC made by Avaran, of (The Wayward)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-raijins-gold4.gif 7 25
+// NPC made by Luthirax
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND

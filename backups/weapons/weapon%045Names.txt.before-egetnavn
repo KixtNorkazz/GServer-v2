@@ -1,0 +1,48 @@
+GRAWP001
+REALNAME -Names
+IMAGE 
+SCRIPT
+//#CLIENTSIDE
+// The nickname under every player on the screen (yours too), on by default; F1 -> Settings -> "Player names" switches it off
+// (client.shownames = "off"). Same look as the world map names. Follows the player's zoom (the world map draws everyone small).
+function onCreated() {
+  this.shown = 0;
+  setTimer(0.05);
+}
+function onTimeOut() {
+  temp.n = 0;
+  if (client.shownames != "off") {
+    for (temp.pl: players) {
+      temp.nick = "" @ temp.pl.nick;
+      if (temp.nick.substring(0, 1) == "*") {
+        temp.nick = temp.nick.substring(1, temp.nick.length() - 1);
+      }
+      if (temp.nick != "" && temp.n < 60) {
+        temp.z = temp.pl.zoom;
+        if (temp.z <= 0) {
+          temp.z = 1;
+        }
+        this.drawName(300 + temp.n, temp.pl.x + 1.5, temp.pl.y + 1.5 + 1.5 * temp.z + 0.1, temp.nick);
+        temp.n = temp.n + 1;
+      }
+    }
+  }
+  for (temp.i = temp.n; temp.i < this.shown; temp.i++) {
+    hideimg(300 + temp.i);
+  }
+  this.shown = temp.n;
+  setTimer(0.05);
+}
+function drawName(idx, tx, ty, txt) {
+  temp.t = showtext(idx, tx, ty, "Arial", "c", txt);
+  temp.t.layer = 2;
+  temp.t.mode = 0;
+  temp.t.zoom = 0.6;
+  temp.t.textshadow = true;
+  temp.t.shadowcolor = {0, 0, 0};
+  temp.t.shadowoffset = {1, 1};
+  temp.t.red = 1;
+  temp.t.green = 1;
+  temp.t.blue = 1;
+}
+SCRIPTEND

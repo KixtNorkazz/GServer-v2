@@ -1,0 +1,1995 @@
+GLEVNW01
+BOARD 0 0 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCG5GOG3H3H2H3vTvQvTvSvTvQvRvBvSvTvBvSASAT0RBoBpBqBrBsBtBuvDvCvDvSvTvTvRB4B5B6B7B8B9B+B//I/JCJCKCLCM
+BOARD 0 1 64 0 FCFCFCFCFCFCFCG5GOGOGOGOHJFCG5GOGOG7vBvBvQvRuwAQvCvDvDvDvDvDvDvDvDuzuwuxB4B5B6B7B8B9B+B/0g0huyuzAQuxuwCJCKCLCMCNCOvAuzuwvBCaCbCc
+BOARD 0 2 64 0 FCFCFCFCFCFCG5GOGOGOGOGOGOGOGOGOGOG7vRvTvQuxuxvCvDvTvTvTvTvTvTvTvTZvvCvDuwCJCKCLCMCNCOvA0w0x5+5/vAvBvA0RCaCbCcCdvC0QvDvAvBuxvCvD
+BOARD 0 3 64 0 FCFCFCFCFCG5GOGOG3H3H3H2GOGOGOGOG3vRvRAiAjvBvCvDvTuzuzuzuzuzuzuzuzvBvSvTKlKmCaCbCcCdvCvQvRvB6O6PvQvR0Ruy0RvRuyuzuwvSvTvQvRvBvSvT
+BOARD 0 4 64 0 FCFCFCFCFCGOGOGOuxvSuxvSH3H3H2H3vRvRuwAyAzvQvSvTuz3V3V3k3m3D3k3m3mvRuyuzK1K2f/KnvRuyuzuwuxvRuyuzuwuxKnABuyuzuwvTvQuyuzuwuxvRuyuz
+BOARD 0 5 64 0 FCFCFCFCFCH6GOGOHnuxuwuxuwvRvRuwuxvDvAvTvAuwuyuz2F2G3V3k3m3D3k3m3m3mvRuyuzvDABKnf/f/f/K4Knf/f/f/Knf/KnAAABKof/AiAjvBvSvTvQvRAAAA
+BOARD 0 6 64 0 FCFCFCFCFCGbGOGOG3uxvSvDvAuxvSvTuzvSvTuzvTvAuwmK2V2W3D3k3m3D3kuCId3WuCuxvC+4+5AAABf/f/f/f/f/2F2Gf/f/f/AAABK4f/AyAzvRuyuzuwvBvSvT
+BOARD 0 7 64 0 FCFCFCFCFCGrGOGOuxuwuxAQvTuwuxuzuxuxuzuxuzvDvAmK2l2m3D3k3m3D3kuCIdIduCvBvS/I/JKof/3D3D3k3E3E2V2W3k3E3EKof/f/Knf/AAuxvCvDvAvRuyuz
+BOARD 0 8 64 0 FCFCFCFCFCFCH6GOHnvBuwuxuzuwuxuzuwuxvAvBvSYfvQmK213l3lls3m3Dls3mIdIduCvRYfuzf/Yf3D3D3D3k3E3E2l2m3k3E3E3EYff/KoYfvTBoBpBqBrBsBtBu
+BOARD 0 9 64 0 FCFCFCFCFCFCGbGOGOG7uxvRvSux5+5/KnvBABK4uyYvBgmK3l3lltlulvltlulv3mIduC3C3C3C3CmK3D3D3Dls3E3E213Dls3E3E3EuCBgBgYvvBB4B5B6B7B8B9B+
+BOARD 0 10 64 0 FCFCFCFCFCFCGrGOGOG7vBuxuyux6O6PvAvRACADvCARBwmK3ll8l9l+l/l9l+l/tw3muC3S3S3S3SmK3D3Dltlulv3E3Dltlulv3E3EuCBwBwARvRuwCJCKCLCMCNCO
+BOARD 0 11 64 0 FCFCFCFCFCFCGbGOGOHnvBvBuxuyuxvSvTuxASATvSAgvQmKmLmMmNmOmPmNmOmPuAuBuC3S3S3S3SmK3Dl8l9l+l/twl8l9l+l/tw3EuCFKFLAguxvAvBCaCbCcCdvC
+BOARD 0 12 64 0 FCFCsLsMFCFCGrGOGOGOHnvBvBvCuwuxuzvBvQvRuyARuwmambmcmdmemfmdmemfuQuRuS3i3i3i3imKmLmMmNmOmPuAmMmNmOmPuAuBuCFaFbARvBvSvTvQvRuyuzAB
+BOARD 0 13 64 0 FCFCFCFCFCFCsLsMGOGOGOG7FKFLvTvQvRvRuwuxvCAgvAhAlFlGlHlIlJhBlGlHlIlJhChBhBhBhBmambmcmdmemfuQmcmdmemfuQuRuSQJQKAgvSvTuzuwuxvCvDAC
+BOARD 0 14 64 0 FCFCFCFCsLsMsLsMsLsMsLsMFaFbuzuwuxvDvAvB0QARvQhQlVlWlXlYlZhRlWlXlYlZhShRhRhRhRhAkihBlFlJhBlFhBlFlJhBlFlJhCQZQaARuyuzvSvTvQvRvTAS
+BOARD 0 15 64 0 FCFCFCsLsMsLsMsLsMsLsMscsMuyuzuwuxvSvTvQvRAguzhglllmlnlolphhlmlnlolphihhhhIdIdhQkyhRlVlZhRlVhRlVlZhRlVlZhSuyuzAgvCvDuyuzuwuxZvuw
+BOARD 0 16 64 0 FCFCsLsMscsMsLsMsLsMsLsMvBsLsMuzuwuxuzuwuxARuwhwl1l2l3l4l5hxl2l3l4l5hyhxhxIdIdhglChhlllphhllhhlllphhlllphivCvDARYHYIYIYJvBvSvTvQ
+BOARD 0 17 64 0 FCFCsbsLsMsLsMsLsMsLsMsLsMvBuxuyuzuwuxvAvBAgvAiAmFuiAwAxmJiBmGmHmImJiCiBiBItIthwlShxl1l5hxl1hxl1l5hxl1l5hyvSvTAgYKYcYcYLvRuyAQF2
+BOARD 0 18 64 0 FCFCFCsbsLsMsLsMsLsMsLsMFKFLvBvCvDvAvBKlKmARuxuwuxuyuzuwuxAEAFAGAHZ2Z3Z3Z4APEtiAARiBmFmJiBmFiBmFmJiBmFmFiCuyuzARYv/n/nYvuxvCF2GG
+BOARD 0 19 64 0 FCFCsLsMFCsLsMsLGOsLGOG7FaFbvRvSvTvQvRK1K2Aguz0RuxAwAxuwuxAUAVAWAXaGaHaHaICqAIDVAgAAKoK4AQKnTvbgbgbhf/f/KnvAAQAgY//3/3Y/vRvSGnEt
+BOARD 0 20 64 0 FCFCFCFCsLFCFCG5GOGOGOHnvBvBuxuyuzuwuxvRvBARBgARvBvCAwAxvBAkAlAmAnvQK4f/EAEMENEdARBgARBgARBgARbwbwARBgARBgARBgARvRuyuzuy0RuwGIGJ
+BOARD 0 21 64 0 FCFCFCFCFCFCFCGOGOGOGOGOHnvBvBvCvDvAvBuxvRAhBwAhvRvSvTvTvQA0VoVpA3vCvDF3f/EAEduiAhBwAhBwAhBwAhKoK3AhuzAhf/AhGHAhGIFnGGGHF3KoFmGG
+BOARD 0 22 64 0 FCFCFCFCFCFCFCH6GOGOGOGOGOHnvBuxuyuzuwuxuxuyQJQKuxAwAxAiAjuwV4V5uz0g0huyuzuwuxuyABK4uxuyuzuwuzuwuxuyGGGHFnGGCqFouwGJCrEtGXF2EtCq
+BOARD 0 23 64 0 FCFCFCFCFCFCFCFCGOGOGOGOGOGOG7vBZvKnvA0RvBvCQZQavBvCvDAyAzvCvDvAvB0w0xvCvDvAZvvCACADvBvCvTvQF2FmF3uwGJCqEtCrEtGHFmGGEtCqGHGGCrEt
+BOARD 0 24 64 0 FCFCFCFCFCFCFCFCH6GOGOGOGOGOG7vRvSvTvQvRvRvSvTvTvRvSvTvQvRvSvTvQvRvQvRvSvTvQvRvSASATvRvSuzuzGnCqGHFmGGEtCqEtCqEtCqEtCrEtCrEtEtCq
+BOARD 0 25 64 0 FCFCFCFCFCFCFCFCFCGOGOGOGOGOG7uxuyuzuwuxuxuyuzAQuxuyuzuwuxuyuzuwuxuwuxuyuzuwuxuyuzuwuxuyvDuzGnCqCqCqCqAIEtCrEtEtCrCqEtCqEtCqCrEt
+BOARD 0 26 64 0 FCFCFCFCFCFCFCFCFCH6GOGOGOGOHnvBuxuyuzF2F3f/vDvAvBvCvDvAvBvCvDvAvBvAvBvCvDvAvBvCvDvAvBvCuzvTGGCrEtCrEtEtCqEtCqEtEtEtCrEtCrEtEtCq
+BOARD 0 27 64 0 FCFCFCFCFCFCFCFCFCFCFCFCH6GOGOGOHnvBF2vCvDF3vTvQvRvSvTvQvRvSZvvQvTvQvRvSF2F3vRvSvTvQvRGGGXuzGJEtCqFoGJCrEtCrEtCqEtCqEtCqEtCqEtCq
+BOARD 0 28 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCH6GOGOGOG7GIvSvTFpuzuwuxuyvSuwvSuyuzZvujugF2FmGGGHFnFmF3ugGnCqGHvDGIF4GJGXGnEtCqEtCqFoGJCqEtFoF4GJCrAP
+BOARD 0 29 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCGbGOGOGOG7uxuyuxvCvDvAKnvCvDvAvBvCvDvAF2FmGGCrAIFoGJCrGHFmF3GJCqGHF3vAGIFpGGCrFoGJEtGXGnFoF4Fpf/GnEtCq
+BOARD 0 30 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCGrGOGOGOG7vBvCvBvSvTvQvRuyuzZvuxuyuzuwGIGJFoF5F5FpGIF5F4GJGHGGCqEtGHFnF3vDF4F4FpGnFoFpvDvA0QvAKlKmF4GJ
+BOARD 0 31 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCG5GOGOGOG7vBvSvRuyuzuwuxvCvDvAvBvCvDuzF2F3uxuyuzuwuxuyuzuwf/GIF4GJEtCqGXvTFpvCvDGIFpAQvTvQvTvQK1K2vTvQ
+BOARD 0 32 64 0 FCFCFCFCFCFCFCFCFCFCFCFCFCGOGOGOGOG7uxuyuxvCvDvAvBvSvTvQvRvSvTF2GGGHvBvCvDvAvBvCvDuyuzuwF2/5GJEtGX3B3C3C3C3C3C3C3C3C3C3C3C2D2EvC
+BOARD 0 33 64 0 FCFCFCFCFCFCFCFCFCFCFCG5GOGOGOGOG3vCvDvAvBvSvTvQvRuyuzuwuxuyuzGIGJFovRvSvTvQvRuyuzvCvDvAGnGHGGCqGH3R3S3S3S3S3S3S3S3S3S3S3U2T2Uuy
+BOARD 0 34 64 0 FCFCFCFCFCFCFCFCFCFCFCGOGOGOGOG3vRvSvTvQvRuyuzuwuxvCvDvAvBvCvDvAvBuwuxuyuzuwuxvCvDvSvTvQGIGJCqAPCr3R3S3S3S3S3S3S3S3S3S3S3U2j2kGH
+BOARD 0 35 64 0 FCFCFCFCFCFCFCFCFCFCG5GOGOGOG3uzuxuwuzuwuxvCvDvAvBvSvTvQvRvSvTvQvRvAvBvCvDvAvBKnvTuyuzuwFmGGEtCqFo3R3S3S3S3S3St1t23S3S3S3U3m20uC
+BOARD 0 36 64 0 FCFCFCFCFCFCFCFCFCFCGOGOGOGOHnvDvBuwvDvAvBvSvTvQvRuyuzuwuxuyuzuwuxvQvRvSvTvQKnuyuzuwf/GnFoGJCqEtGH3R3S3S3S3S3SIdIdt23S3S3U3m3muC
+BOARD 0 37 64 0 FCFCFCFCFCFCFCFCFCG5GOGOGOGOGOG7uzvQvRvSvTuyuzuwuxvCvDvAvBvCvDvAvTuwuxuyuzuwuxvCvDvAvBvCuzuwFoF4uz3R3S3S3S3S3S3BIdId3S3S3UuB3muC
+BOARD 0 38 64 0 FCFCFCFCFCFCFCFCFCGOGOGOGOGOGOG7vDuzuwuxvBvCvDvAvBvSvTvQvRvSvTvQAQvAvBvCvDvAZvvSvTf/G2HEHFHXH/f/f/3R3S3S3S3S3S3S3B3C3S3S3UkYuBuC
+BOARD 0 39 64 0 FCFCFCFCFCFCFCFCFCH6GOGOGOGOGOG7vBvCvDvAvBvSvTvQvRuyuzuwuxuyvTuwuxvQvRK4F2F3f/uyuzG2HGGOGOHnHEHFHX3R3S3S3S3S3S3S3S3S3S3S3UuRuRuS
+BOARD 0 40 64 0 FCFCFCFCFCFCFCFCFCFCGOGOGOGOGOG7vRvSvTvQvRuyvBvSuxvCvDvAvBvCAQvAvBuwuxF2vCvD+4+5vDHkGOH1H0GOGOGOG73R3S3S3S3S3S3S3S3S3S3S3UhAj+hC
+BOARD 0 41 64 0 FCFCFCFCFCFCFCFCFCFCH6GOGOGOG3uzuxKnuzuwuxvCuyuyvBvSvTvQvRvSvTvQvRvAvBGIvSvT/I/JvTHkGOGOGOGOGOGOG73h3i3i3i3i3i3i3i3i3i3i3jhQkOhS
+BOARD 0 42 64 0 FCFCFCFCFCFCFCFCFCFCFCGOGOGOHnvDvBvCvDKnvBvQ0QvCvTvCvDvAvBvCvDvSvTvQvRvSvTvQvRuyuzGmGWGOGOGOGOG3HHhAlJhBlFlJhBlFlGlHlIlJhChgkehi
+BOARD 0 43 64 0 FCFCFCFCFCFCFCFCFCFCFCGOGOGOGOG7vRvSvTvQvRuwvBvQuzvSvTvQvRvSvTuyZvuwuxuyuzuwuxvCvDKnGmH2H2H3H3HHKnhQlZhRlVlZhRlVlWlXlYlZhShwkuhy
+BOARD 0 44 64 0 FCFCFCFCFCFCFCFCFCFCFCH6GOGOGOG7uxuyuzuwuxvAvBvCvDuyuzuwuxuyuzvCuxux2F2G3H3B3C3B3C3C3IuhuiujvBvCvDhglphhlllphhlllmlnlolphiKpKqiC
+BOARD 0 45 64 0 FCFCFCFCFCFCFCFCFCFCFCFCGOGOGOG7vBvCvDvAvBvQvRvCvCACADvBvCvDvAvBvBvB2V2Wvf3S3S3S3S3S3Q3Euyuzuwuxuyhwl5hxl1l5hxl1l2l3l4l5hyK5K6GH
+BOARD 0 46 64 0 FCFCFCFCFCFCFCFCFCFCFCFCGOGOGOvBvCvDvAvBvTuxuyvSvSASATvRvSvTvQvRvRvR2l2m3S3S3S3S3S3S3S3A3EvDuwuxuyiAmJiBmFmJiBmFmGmHmImJiCGJEtCq
+BOARD 0 47 64 0 FCFCFCFCFCFCFCFCFCFCFCG5GOGOG3vRvSvTvQvRvAvBvCuzuzuwuxuyuzvCvDvAuxmK21vft13S3S3S3S3S3S3Q3EuCvAvBvCKnZ2Z3Z3Z4QJQKuxuy/pFnF3f/GJEt
+BOARD 0 48 64 0 FCFCFCFCFCFCFCFCFCFCFCGOGOG3vBvCvDvAvBuxvQvRvSuxuxvAvBvCvDvAvBvSvBmKvP3SIdt23S3S3S3S3S3S3AuCvRvSKnvCaGaHaHaIQZQaAwAxGnEtGHFnGGCq
+BOARD 0 49 64 0 FCFCFCFCFCFCFCFCFCFCG5GOGOG7uyKnKoDsCpCpCpCpCpCpDnvBvSvTvTvQvRuyvRmKvf3SIdId3S3S3S3S3S3S3QuCuxuyuzuwuxAQKnvSuyuzuyAwAxGJCqEtCrAI
+BOARD 0 50 64 0 FCFCFCFCFCFCFCFCFCG5GOGOGOG7DsCpCpD8CrCrEtCqCqEtD33C3C3C3CuwuxvCux2g3S3S3B3B3S3S3S3S3S3S3S3AvBvCvDZvvBvAuxuyFnGGGHF3ZvF3GJCqEtCq
+BOARD 0 51 64 0 FCFCFCFCFCFCG5GOGOGOGOGOG3DsD8EtCqCrAPCqCqCqAICqENuxvCvDvAvRuyuzuz2w3i3i3i3i3i3i3i3i3i3i3i3QuxuyuzuwuxFnFmFnGJCrEtGXFmFnGGEtCrEt
+BOARD 0 52 64 0 FCFCFCFCG5GOGOGOGOGOGOG3vBEQAICrEtCqENEMCrEtCqENEdBoBpBqBrBsBtBuvDhAlwkkhBlFlGlHlIlJhBlwkkhCvBvCFnvAvBGJCrEtCrEtCrEtCrEtEtCqEtCq
+BOARD 0 53 64 0 G5GOGOGOGOGOGOG3H2H3H3vBvCEAEMCrCqCqD3D8CqCqCqDVuwB4B5B6B7B8B9B+B/hQmAk0hRlVlWlXlYlZhRmAk0hSvRuzGJCqGHGGEtAPEtCqEtCqEtCqCrEtCrEt
+BOARD 0 54 64 0 GOGOGOGOGOGOG3vBvCvD5+5/vSvTEACoEMCqCqEtCqCqCqDVuwuwCJCKCLCMCNCOvAhglBmThhlllmlnlolphhlBmThivRvDGJCqCqCqCrEtCrEtCrEtCrEtEtCqEtCq
+BOARD 0 55 64 0 GOG3H3H2H3H3vBvCvDvA6O6PvQuzvSvTEQCqCqAPEtCqCqDVuwvA0QCaCbCcCdvCvQhwlRmjhxl1l2l3l4l5hxlRmjhyuxvTGGCrEtCrEtCqEtAIEtCqEtCqCrFoGJEt
+BOARD 0 56 64 0 GOG7vBvCvDvAvBZvvTvQvRAiAjvDuiujEcEMCqCqAICqENEdKovDuyuwuwuxuyABK4iAlhmziBmFmGmHmImJiBlhmziCvBuzGJEtCqFoGJEtCrEtFoGJCrFoF4FpGnFo
+BOARD 0 57 64 0 G3vBvRvSvTvQvRuyuzuwuxAyAzvTuxuxvBvSEMEtCqENEdf/KnvRvS0RvQvRvSACADKlKmvCvDvDvAvBvTvQvRuy0QFKFLvDGIF4GJGXGIF5GJCqGXGIF4FpvCvDGIFp
+BOARD 0 58 64 0 vBvRuxuyAQuwuxvC0RvAKnvRuyuzKnKnvRuyEcCoCoEdF2F3KnuxuyuzuwuxuyASATK1K20g0hvTAwAxuzuwAQvCvDFaFbvCvDvAvBvAKlKmGIF5FpuxuyuzvRuyuzuy
+BOARD 0 59 64 0 ABK4vBvCvDvAvBvSvTuzF2F3vCvDvAvBvTvTvQvRvSvTvSvAvAvBvCvDvAvBvCuxuyuzuw0w0xKnuwAwAxuyuzuwvTvQvRvSvTKnvRvQK1K2vDvTvQBpBqBrBsBtBuvC
+BOARD 0 60 64 0 ACADvRvSvTvQvRuyuzF2GGGHvQAQvSAQuyuzuwuxuyuzuyuzuwvDvAvBvCvDvAvBvCvDvAvBvCvDAwAxvBvCvDvAuzuwuxuyuzuwuxuwvBvSvTAiAjB5B6B7B8B9B+vS
+BOARD 0 61 64 0 ASATuxuyuzuwuxvCvDGIGJFouwAQvAvBvCvDvAvBvCvDvCvDvAvTvQvRvSvTvQvRuyuzvTvQvRvSvTvQvRuyuzuwvDvAvBvCvDvAvBvAvRuyuzAyAzCJCKCLCMCNCOuy
+BOARD 0 62 64 0 vCvDvBvCvDvAvBvQvRvSvT0QvAvBvCvDvAvBvSvTvQvRvSvTvQuzuwuxuyuzuwuxvCvDuzuwuxuyuzuwuxvCvDvAvDvAvBvCvDvAvBvAuxvCvDvAvAvBCaCbCcCdvCvC
+BOARD 0 63 64 0 0g0hvTvQvRvSvTvAvBvCvSvTvQvRvSvTvQvRuyuzuwuxuyuzuwvDvAvBvCvDvAvBvSvTvDvAvBvCvDvAvBvSvTvQvTvQvRvSvTvQvRvQvBvSvTvQvSvTvQvRuyuzuwvS
+LINK worldmap_a1.nw 63 19 1 12 23.5 47
+NPC seg_window.png 41 15
+// NPC made by Glaecyn
+//#CLIENTSIDE
+NPCEND
+NPC seg_door.png 45 15
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x = x + 0.5;
+  drawunderplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brokendoor.gif 37 15
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {hide; sleep 1; show;
+}
+NPCEND
+NPC val_ganelon_housetop2.gif 41 4
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_ganelon_housetop2.gif,0,0,64,64;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_ganelon_housetop2.gif 48 4
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_ganelon_housetop2.gif,32,0,48,64;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 47 5
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 40 7
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 39 8
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 51 7
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 52 8
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 45 6
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 63 34
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_window.png 50 43
+// NPC made by Glaecyn
+//#CLIENTSIDE
+NPCEND
+NPC seg_door.png 55 43
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  drawunderplayer;
+  dontblock;
+}
+NPCEND
+NPC val_kordovia-housefix1.png 61 38
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_kordovia-housefix1.png,48,32,16,16;
+}
+NPCEND
+NPC seg_door.png 37 53
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  drawunderplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_window.png 33 53
+// NPC made by Glaecyn
+//#CLIENTSIDE
+NPCEND
+NPC seg_window.png 42 53
+// NPC made by Glaecyn
+//#CLIENTSIDE
+NPCEND
+NPC val_ganelon_housetop.gif 33 46
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 43 44
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 44 45
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 45 46
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_door.png 24 14
+if (playerchats){
+  if (strequals(#c,/unlock)){
+    if ((strequals(#a,giok87) || strequals(#a,Kixt) || strequals(#a,KixtNorkazz))){
+      this.locked = false;
+    }
+  }
+}
+if (playerchats){
+  if (strequals(#c,/lock)){
+    if ((strequals(#a,giok87) || strequals(#a,Kixt) || strequals(#a,KixtNorkazz))){
+      this.locked = true;
+    }
+  }
+}
+if(playertouchsme) {
+  if((strequals(#a,giok87) || strequals(#a,Kixt) || strequals(#a,KixtNorkazz))) {
+    dontblock;
+  }
+  else if(this.locked) {
+    blockagain;
+  }
+  else if(!this.locked) {
+    dontblock;
+  }
+}
+//#CLIENTSIDE
+if(created) {
+  drawunderplayer;
+}
+NPCEND
+NPC seg_window.png 30 14
+// NPC made by Glaecyn
+//#CLIENTSIDE
+NPCEND
+NPC val_ganelon_housetop2.gif 29 1
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_ganelon_housetop2.gif,16,0,64,64;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_ganelon_housetop2.gif 25 1
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_ganelon_housetop2.gif,0,0,64,64;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 23 5
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 24 4
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 33 4
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 34 5
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 57 2
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 56 53
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 48 60
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 59 61
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 62 50
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 36 -6
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC valikorlia-well.png 41 31
+// NPC made by Santa Claus, Demon-King of the (North Pole)
+//#CLIENTSIDE
+NPCEND
+NPC val-gaztreetop1.gif 2 60
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 11 62
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 17 60
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 24 59
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 31 61
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 37 62
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 42 60
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 53 62
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 61 56
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC val-gaztreetop1.gif 25 46
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC sign2.png 57 18
+//#CLIENTSIDE
+if (playertouchsme) {
+  say2 ::Welcome to Sackville#bHome of the Anglers!::;
+}
+NPCEND
+NPC - 30 21
+//#CLIENTSIDE
+if (created) {
+setshape2 2,2,{
+  22,22,
+  22,22,
+    };
+}
+if (playertouchsme) {
+  say2 NO DRAWFS!#b;
+}
+NPCEND
+NPC val-itemslot-fishrod.png 31 19
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-itemslot-fishrod.png 31 18
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-itemslot-fishrod.png 10 18
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC shovelboard.gif 36 54
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC archforge-spilledbucket2.gif 40 57
+// NPC made by Zangus
+if (created) {
+x=x-.5;
+}
+NPCEND
+NPC potato.gif 33 3
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC potato.gif 61 15
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC potato.gif 46 51
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC potato.gif 29 56
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kanoshire-trough.gif 24 54
+// NPC made by Major Ebra Conaway, Deputy Commissioner of the
+if (created) {
+}
+if (playertouchsme) {
+}
+drawunderplayer;
+NPCEND
+NPC val-plants-plant1.png 33 19
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-plants-plant1.png 52 30
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-plants-plant1.png 52 5
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-plants-plant1.png 20 3
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-plants-plant1.png 5 58
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-plants-plant1.png 43 56
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-plants-plant1.png 30 43
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ganelon_housetop.gif 32 8
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_ganelon_housetop.gif 33 9
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_ganelon_housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC - 56 38
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.2;
+    emitter.delaymax=.2;
+    emitter.maxparticles=1;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .01;
+    emitter.particle.lifetime=4.2;
+    emitter.particle.speed = 40
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",0.1,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",1,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC - 36 47
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.5;
+    emitter.delaymax=.2;
+    emitter.maxparticles=4;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .02;
+    emitter.particle.lifetime=4.2;
+    emitter.particle.speed = 10
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",0.1,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",1,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC - 51 34
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.2;
+    emitter.delaymax=.2;
+    emitter.maxparticles=4;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .02;
+    emitter.particle.lifetime=4.2;
+    emitter.particle.speed = 10
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",0.1,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",1,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC - 57 32
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.2;
+    emitter.delaymax=.2;
+    emitter.maxparticles=4;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .02;
+    emitter.particle.lifetime=4.2;
+    emitter.particle.speed = 10
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",0.1,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",1,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC - 42 15
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.2;
+    emitter.delaymax=.2;
+    emitter.maxparticles=1;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .01;
+    emitter.particle.lifetime=4.2;
+    emitter.particle.speed = 40
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",0.1,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",1,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC - 47 15
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.5;
+    emitter.delaymax=.2;
+    emitter.maxparticles=4;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .02;
+    emitter.particle.lifetime=4.2;
+    emitter.particle.speed = 10
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",0.1,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",1,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC - 31 14
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.5;
+    emitter.delaymax=.2;
+    emitter.maxparticles=4;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .02;
+    emitter.particle.lifetime=4.2;
+    emitter.particle.speed = 10
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",0.1,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",1,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC fire2.gif 37 16
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC fire2.gif 30 18
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC fire2.gif 31 4
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC fire2.gif 51 9
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC fire2.gif 42 7
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC fire2.gif 52 35
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC fire2.gif 58 33
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC fire2.gif 57 39
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC fire2.gif 37 48
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  setimgpart fire2.gif,0,10,32,28;
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC - 40 48
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,era_fire.mng,x,y;
+  changeimgcolors 1,1,0.45,0,0.7;
+  changeimgzoom 1,random(1.8,2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC - 54 35
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,era_fire.mng,x,y;
+  changeimgcolors 1,1,0.45,0,0.7;
+  changeimgzoom 1,random(1.8,2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC - 36 8
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,era_fire.mng,x,y;
+  changeimgcolors 1,1,0.45,0,0.7;
+  changeimgzoom 1,random(1.8,2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC - 26 3
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,era_fire.mng,x,y;
+  changeimgcolors 1,1,0.45,0,0.7;
+  changeimgzoom 1,random(1.8,2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC - 47 5
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (playerenters||created) {
+  dontblock;
+  drawunderplayer;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,era_fire.mng,x,y;
+  changeimgcolors 1,1,0.45,0,0.7;
+  changeimgzoom 1,random(1.8,2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC malinko_boat.png 2 35
+//#CLIENTSIDE
+function onCreated()
+{dontblock;
+  drawunderplayer();
+  setimgpart("malinko_boat.png",16*10+8,0,105,64);
+  y -= .25;
+  this.changeRate = .01;//CAN NOT BE 0
+  this.maxMovements = .25;//in y
+  this.stepc = 0;
+  setTimer(.1);
+}
+function onTimeout()
+{
+  //setcharani("idle","idle");
+  y += this.changeRate;
+  if (this.changeRate > 0)
+  {
+    this.stepc += this.changeRate;
+  }else if (this.changeRate < 0)
+  {
+    this.stepc += (this.changeRate * -1);
+  }
+  if (this.stepc > this.maxMovements)
+  {
+    this.changeRate *= -1;
+    this.stepc = 0;
+  }
+  setTimer(.1);
+}
+NPCEND
+NPC - 31 6
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.5;
+    emitter.delaymax=.2;
+    emitter.maxparticles=4;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .02;
+    emitter.particle.lifetime=4.2;
+    emitter.particle.speed = 10
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",0.1,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",1,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 24 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC - 20 26
+if (playerenters) {level.inside=1;}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 24 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 24 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND
+NPC light2s.png 25 29
+// NPC made by Christopher Railman, Guildmaster of the (Crimson Blade)
+if (created) {
+  setimg light2s.png;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters){
+  setcoloreffect 1,0.30,0,0.4;
+  setzoomeffect .5;
+  drawaslight;
+  timeout=.5;
+  x=random(0,60);
+  y=random(0,60);
+  if (onwall(x,x)){
+    x=random(0,60);
+    y=random(0,60);
+  }
+}
+if (timeout){
+  this.dx=random(-3,4);
+  this.dy=random(-6,5);
+  move this.dy,this.dx,4,6+4;
+}
+if (movementfinished){
+  timeout=.05;
+}
+NPCEND

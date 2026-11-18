@@ -1,0 +1,1044 @@
+GLEVNW01
+BOARD 0 0 64 0 QAQBQCQDQAQBQCQDQAQBWqWJQAQBQCQDQwQxQyQzQwQxQyQBQCQDQAQBQCQgQhQDQAQBQCQgQhQBQCQDQRQzQwQxQyQQQCQDQAQBQRQzQwQxQyQwQxQyQQQRQzQwQxQy
+BOARD 0 1 64 0 QQQRQSQTQQQRQSQhQiQAQBQRQSQhQiQjQgQBQCQDQAQBQCQRQSQTQQQRQSQwQxQTQQQRQSQwQxQRGhGgQiQjQgQhQiQAQSQTQQQRQhQDQAQBQCQAQBQCQgQhQDQAQBQC
+BOARD 0 2 64 0 QgQhZgZhQgQhQiQzQwQxQyQQQRQzQwQxQyQhQiQAQBQRQSQhQiQjQgQhQiQAQBQjQgQhQiQAQBQhGxGwGhGgQwQxQyQQQiRIQgQhQxQTQQQRQSQQQRQSQwQxQTQQQRQS
+BOARD 0 3 64 0 RxQxZwZxQwQxQyQDRIQBQCQgQhQDQAQBQCQxQyQQQRQhQiQxQyQzQwQxQGQQQRQzQwQxQyQQQRHBGhGgGxGwGiGjQyQQQiQjQgQhQBQjQgQhQiQgQhQiQAQBQjQgQhQi
+BOARD 0 4 64 0 TURxQDQDQAQBQCQzQwSYQyQQQRQzQwQxQyZWZXQAQBRIQSQhQiQjQgQhQwQAQBQjQgQhQivf3QQhHQGwGgQDGyGzQCQgQyQzQwQxQRQzQwQxQyQwQxQyQQQRQzQwQxQy
+BOARD 0 5 64 0 atRzSBQTQQQRQSQDQAQBQCQgQhQDQAQBQCZmZnQQQRQhQiQxQyQzQwQxQwQQQRQzQwQxQyvv3gQxQyHQHAHBQQQRQSQwQCQDQAQBQhQDQAQBQCQAQBQCQgQhQDQAQBQC
+BOARD 0 6 64 0 a9R0SRQjQgQhQiQTQQvcvYvcvYvcvYvcvYvcvYvcvYvcvYvcvYvcvYvcvYvcvYvcvYvcvYvcvYvcvYvcvYvcvYvcvYvcQwQxQSQwQxQTQQQRQSQQQRQSQwQxQTQQQRQS
+BOARD 0 7 64 0 TURQQgZRQwRIQyQjQgvbQhvsQhvsQhvsQhvsQhvsQhvsQhvsQhvsQhvsQhvsQhvsQhvsQhvsQhvsQhvsQhvsQhvsQhvbQAQBQiQAQBQjQgQhQiQgQhQiQAQBQjQgQhQi
+BOARD 0 8 64 0 TUSRGoGpQAQBQCQziQvcHAHBQzQwQxQyQiQjHCHDQiQAQSQTQQQQQCQBQCQgQhQDQAQBQCQgQhQBQCQDQAQDQAQDQAvcQQQRQyQQQxQyQlQkQxQyQzQyQQQRQzQwQxQy
+BOARD 0 9 64 0 SjQgG4G5QQQRQhZuHBvbHQHRQDHBQBQCQyQBHSHTQhQiQAQyQzQwQxQRQSQwQxQTQQQRQSQwQxQRQSQTQQQTQQQTQQvbQgQhQBQhQBQlGhGgQkQQQiQBQhQiQjQgQhQi
+BOARD 0 10 64 0 QgQhQiQjQgQhQzHQHRvcQwQxZRQCQgQgSTSSSTSSSTSSSTSSSTSSSTSSSTSSSTSSSTSSSTSSSTSSSSSTQxQyQxQxQyvcQyQQQRQxQlGwGxGwGxQkQyQRQxQyQzQwQxQy
+BOARD 0 11 64 0 QTQxQyQzQwQxQDQAQBvbZ+HQHRHRRiRjTUTUTUTUTUTUTUTUTUTUTUTUTUTUTUTUTUTUTUTUTUTUTUTURgRhQBQBQCvbQzQwQxQyQ0Q0QVGwGxGgQEQhQBQCQDGoGpQC
+BOARD 0 12 64 0 QAQBQCQDQAQBQTQQQRvcQwQxQiQjRyReRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfZQRxQRQRQSvcQDQAQBQCQTQxQSQVGgGgQEQCQgQhQDG4G5QC
+BOARD 0 13 64 0 QQQRQSQTQQQRQjQgQhvbQAQBQySAReRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfZQSBQhQivbQTQQQRQSQwQxQxQyQ0Q0QRQSQwZgZhQQQRQS
+BOARD 0 14 64 0 QgQhQiQjQgQhQzQwQxvcQQQRQySQTjReRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfZQTUSRQhQivcQTQQQRQSQwQxJdJaQwQwJdJr12ZwZxQgQhQi
+BOARD 0 15 64 0 QwQxQyQzQwQxQDQAQBvbQgQBQjQgRCReRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfRfZQRBQxQxQyvbQjQgQhZRQA13JtJqJrJrJtCrJq12RIQwQxQy
+BOARD 0 16 64 0 QAQBQCQDQAQBQTQQQRvcQwv/3wQwRSRTTUTjTjTjTUTjTjTjTUTjTjTjTUTjTjTjTUTjTjTjTUTjTjTjRQRRQBQBQCvcQzQwQxQyQQ1ZB6BcCqCrBKBMBOJq12QgQhQi
+BOARD 0 17 64 0 QQQRQSQTQQQRQjQgQhvbQAv9v+QgQhQxSjSiSjSiSjSiSjSiSjSiSjSiSjSiSjSiSjSiSjSiSjSiSiSjQQQRQQQQQRvbZvQDQAQBQC1ZCaCNBMBNCLB7B+Bc1XQwSYQy
+BOARD 0 18 64 0 QgQhQiQjQgQhQiQhQivcQBQyQzQwQgQiQgQhQjHBQhHAZjQhXdXdX+XeXeQTQQQiQBQCQDQAQxQwHAHBQzQyQzQyaPvcQzQwQiQTQQudLoCaCNCLCMCLCLB/1XQAQBQC
+BOARD 0 19 64 0 QwQxQyQzQwQxQyQzQwvbQyQyQzQQRjSDSSQSQjQgGgGxGwXdXdXdX+XeXeXeQgQxQRQSQTQQQRQSHQHRQhQgQhQgQhvbQjQgQyQjQgQxQSLrCaCNB7CLCMCMJq12QyQz
+BOARD 0 20 64 0 QAQBQCQDQAQBQCQDQAvcQCQCQDQgRTb1S0SBQzQwHQGgXdXdXdXdX+XefSXcXcXcXcXcXcXcXcQyQAQwQxQwQxQwQxvcQzQyQzQzQwQDQBQCLrB6CLB8B7BvBc1XQCQD
+BOARD 0 21 64 0 QQQRQSQTQQQRQSQTQQvbQSQSQyQwSQTjRBQTWgWhQiXdXdXdXdXdX+XefgXsXsXsXsXsXsXsXsXoQQQAQBQAQBQAWgWhQDQCQDQwQxQRQwQx1ZB6COCdCeCfBs1XQSHC
+BOARD 0 22 64 0 QgQhQiQjQgQhQiQjQgvcQiQAQCQARjTkSRQTWwWxXcXcXgXdXdXdX+XeXefQXsXsXsXsXsXsXsXoXcXcXcXcXcXcWwWxQyQwQTGiGjQhQAQBudLo2c1I1I2bLpueQiHS
+BOARD 0 23 64 0 QwQxQyQzQwQxQyQzQwvbQyQQQSQQRCRBQxXgXIXJXdX+XgXdXdXdX+XeXefgXsXsXsXsXsXsXsXoXsXsXsXsXsXsXGXHXoQAQjGyGzQxQQQRQiQhQBQCQAQBueQwQxQy
+BOARD 0 24 64 0 QAQBQCQhQiQAQBQRQSvcQiQjQiQgQSSnRiXgXYXZXdX+XgXdXdXdXCXeXeXefQX8X8X8X8X8X8XoXsXsXsXsXsXsXsXXXoQQQzQgQhQBQgQhQyQxZUZVQQQRQSQARyRg
+BOARD 0 25 64 0 ZhQRQSQzQwQxQyQQQRvbQwQxQCZRQxRiRjXgXdXdXdX+XgXdXdXDXEXFXeXefgWBlXlYWBlYlWVxXsXsXsXsXsXsXsXeXoQgQDQwQxQRQwQxQCQBQjZUZVQhQiSAR+J7
+BOARD 0 26 64 0 ZxQhQiQDQAQBQCQgQhvcRgQBQSQARiRyRzXgXdXdXdX+XgXdXSXTXUXVXWXeXoWilnloWiloloWSXsXsXsXsXsXsXsXeXoQwQTQAQBQhQAQBQSQRZUZVQwQxQy13J9Cr
+BOARD 0 27 64 0 QwQxQyQTQQQRQSQRQSvbRQQjQyRiRyUwRQXgXdXdXdX+XgXhXiXjXkXlXmXnXoWSswloWSmKs1WSXsXsXsXsXsXsXsXeXoQAQjQQQRQxQQQRQiQiQjQjQg131oJ9BKBM
+BOARD 0 28 64 0 QAQBQCQjQgRIQiQQQRvcQwQxQCSAb1TjSBXgXdXdXdX+XwXxXyXzX0X1X2X3X4WyW1W1WyW1W1WyXsXsXsXsXsXsXsXeXoQQQzQgQhQBQgQhQyQyQzQz13J9CqBKB9CL
+BOARD 0 29 64 0 QQQRQSQzQwQxQyQgQhvbSYQBQSRSRTTkRgXgXdXdXdX+WisAsBsCWBsDsEsFWiX+fgXsXsXsXsXsXsXsXsXsXsXsXsXeXoQgQhQwHAHBQwQSQiQCQDQD1ZBKBMCLCMCM
+BOARD 0 30 64 0 RIQhQiQDQyQzGiGjQxvcQhQGQiQASQTjblXgXdXdXdX+WSsQsRsSXUsTsUsVWSX+XefQXsXsXsXsXsXsXsXsXsXsXsXeXoQwQxQiHQHRZRHBQyQjQgQg1ZB6B7CLCMCM
+BOARD 0 31 64 0 QQQjQBQTGiGjGyGzQBvbQDQhQyRiRjTkTkXgXdXdXdX+WSsgshsiXksjskslWyX+XefgXsXsXsXsXsXsXsXsXsXsXsXeXoZRQBQyQQQyHQHRQCQzQwQw1ZB6CLCLCLCM
+BOARD 0 32 64 0 QgSTQRQjGyGzQQQRQRvcQhQxQCRyS0TkTUXgXdXdXdX+XeswsxsyXkszs0s1XdX+XeXefSXcXcXcXcXcXcXcXcXcXcXeXoQyQBHBHBQCQAQBHAQDQASn1ZCaCMCLCLCM
+BOARD 0 33 64 0 RjTURxQDQjQgQhQgQhvbHBQhQyRTTkTjRXXgXdXdXdXCXeXeW1W1W1W1W1XdXdXCXeXefgXsXsXsXsXsXsXsXsXsXsXeXoWgWhHAHRQSQQQRQAQRQSRjTUL4BrCNCLCM
+BOARD 0 34 64 0 TUb1TjSBRiRjRgQwQxvcQheMeKeKeKeKeKXgXdXdXDXEXFXeXeXoXsXgXdXdXDXEXFXeXefQXsXsXsXsXsXsXsXsXsXeXoWwWxQgQyQiQgQhQQQQQRRCUwTUL4BrCLCM
+BOARD 0 35 64 0 TUTjTjRxRyRzRwRxQTvbQDea6X6X6Y6Y6YXgXdXSXTXUXVXWXeXoXsXgXdXSXTXUXVXWXefgX8X8X8X8X8X8X8X8X8XeXLXAXBQhQgQyQwQxQgQgQhQhSiRTTUL7BqB7
+BOARD 0 36 64 0 TjTjTjTUTUUwTjS0RgvcQhea6n6n6o6o6oXgXhXiXjXkXlXmXnXoXsXgXhXiXjXkXlXmXnXolTlUlVlWWBlXlYlZlalbVxXQXRXoQhSSQwSnQQQQv/3wQQQRRTu9B6CL
+BOARD 0 37 64 0 TUTUTjTUTjTjblTjRBvbQDea6n6n6o6o6oXwXxXyXzX0X1X2X3X4X8XwXxXyXzX0X1X2X3X4ljlklllmWilnlolplqlrWSXsXsXoRyTURmSBQAQjv9v+QTQQRju9B6CL
+BOARD 0 38 64 0 TjTjTUTUTUTjTjRQQDvcQDea6n6n6o6o6oWisAsBsCWBsDsEsFWilVWisAsBsCWBsDsEsFWilzl0l1l2Wil3l4l5l6l7WiXsXsXoTjS0TjRgSSQhQiQiQhSAR+J9B6CM
+BOARD 0 39 64 0 TUTjTUTjRBRCTUSBQivbQhea6n6n6o6o6oWSsQsRsSWisTsUsVWSfUWSsQsRsSWisTsUsVWSlymEmFmGWSmHmImJmKmLWSXsXsXoRCRBRTTURXQRRjRgSSRju9BKB9B7
+BOARD 0 40 64 0 TjTjTjTURxRyRQQhQyvcQDecebebebebebWisgshsiWSsjskslWifUWisgshsiWSsjskslWiW1W1W1W1WyW1W1W1W1W1WyX8X8XLQgQARjTURBQiRTTUTUR+J9BqCMCL
+BOARD 0 41 64 0 TUTUTjRQRCRBQjQiQyvbQh8G8H8H8H8I8IWSswsxsyWSszs0s1WSfkWSswsxsyWSszs0s1WSmXmYmZWSlMlNlOlPtAWSlOlPtAWSQhRyTURXQQQyRjR+J8J9BKB9B8B8
+BOARD 0 42 64 0 TjTUTjRgQiQyRjRgQCvcQD8W8X8X8X8Y8YWyW1W1W1W1W1W1W1WyW1WyW1W1W1W1W1W1W1WymnmompWSlcldlelftQWSlelftQWSQgRWTjblSDRyR+J9CqBKB9CLB8B8
+BOARD 0 43 64 0 TjTUTUTjRxRjTUTjSBvbQh8m8n8nfHfI8o8pWimVmWmXmYmZWSW1W1W1WSlMlNlOlPtAWSm2m3m4m5WSlsltlulvtgWSlulvtgWSRyTUTURQRTTju9BKBMCLB8CLB8B8
+BOARD 0 44 64 0 TjTjTjTjTjRBRCRQQivcvY8m8n8nfXfY8o8pWimlmmmnmompWSfHfHfIWilcldlelftQWSnGnHnIWTWUl8l9l+l/twWil+l/twWiTUbVRQQwQyRWu9BqCLCLB8CLB8CM
+BOARD 0 45 64 0 TUTjblTUTjRmRXQwQBvsQh828383fXfY8485Wim1m2m3m4m5WSfXfXfYWilsltlulvtgWSnWnXWTWjWkWUmNmOmPWTWUmOmPuAWyRWblRgQASAR+J9B6B7CLCLB8CLB7
+BOARD 0 46 64 0 asatTUTjTjTUTURgQBQhQiQhvdveQiSSQhQiWinFnGnHnInJWifHfIfIWil8l9l+l/twWiTpTqWjWkWjWkTpTqTpWjWkTqTpUKQiShRCTURxRju9BKB9CLCLCLB8B7CM
+BOARD 0 47 64 0 aca9TjTUTjTUTjRwRxQgSTSDvtvuRyTURxQiWynVeanXnYnZWyfXfYfYWymMmNmOmPuAWyUIUIUIUIUIUIUIUIUIUIUIUIUIUIQyQzQyRTRBRCu9B6B7CLCLB8B8CLB8
+BOARD 0 48 64 0 a9b1TUTjTjTjTUTUTURmbVUwRgRjTUb1TjRmRxQjea6H6I6I6H6I6H6I6H6I6I6IeLRmRQQgSTQRQzQAQBhyQSQjRCRBQCZRQCGoGpQDQAQASAu9CaCNCLCLB8B7CLB8
+BOARD 0 49 64 0 TjRQSiRTTUTjTUTUTjTjblTUTjTUTjTUTUTUTURgeaeN6Y6Y6X6Y6X6Y6X6Y6YeMeLRCRxRjTURxQDQQhzQhQiQzQQQRQSQTSYG4G5QTQQQQRyufL7B6CLCLB8B8B7B8
+BOARD 0 50 64 0 RBQAQBQCRCTjTjTjTUTjTUTjTjTjTUTUTUTUTURXeced6o6o6n6o6n6o6n6o6oecedQTRTTUb1TjSBRiRjRgRhQDQgQhSnSCQgQhQiQjQgRjRQRCu9CaCNCLB8B8CLB8
+BOARD 0 51 64 0 QTSDSSQSSARYTUTjTUTUTjTjTjTUTUTUTUTjTjTU82856464646463646364648285STRjTjTjTjRxRyRzRwRxQTQyQzQwRTRxRjRgQzQwRTRgRyufL7B6CLB8CLB8CL
+BOARD 0 52 64 0 QjRTTjSBaOQARTTjTjRBRTTUTjTUTjTjTjTUTUTU82838384856363648283848485TUTURQQgRCTjTjUwTjS0RgQCRjRgRjTUTkRQQDQAQRRTTUTju9CaCNB7CLB8B8
+BOARD 0 53 64 0 RxRyRBQTaeQhQDShSiQjQyRWTjS0TUTUTUTjTjTURgQzRjTUblTUTjTjTUTUTURmTjRBRCQzQwQxSjRTTjb1TjRBQSRCTjTkblTURgQTQQQhRjTUTUufL4CaCNB8CLCM
+BOARD 0 54 64 0 TjRQQTQSQwHCHDQQQRQSQiShRCRQRCRDTUTUTUTUTUSBRTTUTUTUTUTUTjTURQRTRQWmWnSCSDQBQCRjTjTjRQQDQiQjSiRTRQRWTURgQgQARCUwRQRTTjL7B6CMCMB8
+BOARD 0 55 64 0 SgQQQzQwQAHSHTQgQhQiQyQzRIQhRSRTTUTUTjTURBQzRyTjTUTjTUTjTUTURxQyQyW2W3RTTjRxRjTjTjTjSBQTQwQxQySSRjTjS0RQQwQQQwShQzQQRCu9CaCNCMCM
+BOARD 0 56 64 0 QjQgQDZRQiQjQTQhQiQjQCQDQQQxQyRjTjTjTUTURgRjTUTUTUTUTjTjTUTjTURgRjRgQCRyTjS1TjTjRQSiQiQjQAQBQCRTTURBSiQDQAZjQhQiQjQgQhRTL7B6B8B8
+BOARD 0 57 64 0 QQQxREQwQxQyRIQwQxQiQSQTQgQBRyRYTUTUTUTjTjTURQSgShRCb1S0TUTUTjTUTUTjRmTjTjTjTjTjRgQxQyQzQgQiQjQgShSnQTZiZjQwQxQwQzQwQxQy1ZCNCMCM
+BOARD 0 58 64 0 QgQFGxGxQkRERFQAQTQhQhQjQwSnSiQASiRTTjTURYRBQzQQvovpRTTjTUTjTUTjTjTUTUTURQSiShRCTjSBQCQDQDQgQhQTQhQiQjZyZzQjQjQTQhQiQjQh1ZBrCNB8
+BOARD 0 59 64 0 QwQlGhGgGhGgGhQkQjQxQyQgQhQhQiQjQwQRSiSjQzQQQRQSv4v5QwShRTTkTUTUTjTUTjTjRgQSQTQQSiQwQxQyRjRgQzQjZiZjZiZjZkQBQiQjQAZRQiQj2n2bCaCN
+BOARD 0 60 64 0 QAGwGxGwGxGwGxGgQEQDQAvf3QQxQyGiGjQhHAQjQRQSZ/QRQSQTQAQBRjTjTjTUTjTjTUTUTjRgQjQgRjRgSSRjTkRQQDQiZyZzZjZzZ0QRQGQiQQQRQyhzQhQiLoB8
+BOARD 0 61 64 0 GpGgGhGgGhQUQVGhQEQTQQvv3gQzQQGyGzQxQyQzQQQDQgZvQiQjRiRyRzTUTUTjTUTjTUTjTURXQjQgRCS1TkblRBSCQTZiZjZyZzZiZjQhQiHAHBQhQiQjhiQB1ZCM
+BOARD 0 62 64 0 G5QVGxGwGxQEQiQ0QTQRQgQhQiZRHBQxQyQzQwQRQSiCQwQxQyQzQgRTRQRCTUTUTjblTjasatTTRxQDQjSiRTRQRjTkRgZyZzQxQyZyZzQxQyHQHRQxQyQiQQQTQh2b
+BOARD 0 63 64 0 QwQFGgGhQUQSQTQQQjQhQwQxQyHQHRQjQhQiQAQhQiQjQAQjv/3wQwRiQxRSRTTUTUTjTUaca9b1TjSBQxQyQzQwRCS0RQQyQzQwQxHCHDQwQxQyQzQwGiGjQgQjQAQB
+NPC val_windowdark.gif 19 39
+//CLIENTSIDE
+if (created) {x=x+.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_window-plant1.png 42 38
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x += .1;
+
+}
+NPCEND
+NPC val_smeewnpinetree-stump.gif 39 17
+//#CLIENTSIDE
+if(created || playerenters){
+setshape2 4,4,{
+    00,00,00,00,
+    00,00,00,00,
+    00,22,22,22,
+    00,22,22,22,
+
+
+
+
+
+  };
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 49 35
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 46 22
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 37 20
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 30 19
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 29 18
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 23 18
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 22 19
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 21 20
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 17 22
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop2.gif 24 15
+drawoverplayer;dontblock;
+NPCEND
+NPC val_doordark.gif 24 44
+// NPC made by Sir Timothy Trester, Vanguard Knight of
+join("world_housingsystem_door");
+// (the GS2 code that stood here was moved to the client part on 17 Nov 2026)
+//#CLIENTSIDE
+y=y-.1;
+function onCreated(){
+  // from the server part (GS2, which the server does not run)
+this.exit = {"newbrookhurstint_",33.375,29.8125};
+
+this.uniqueDoorIdentifier = "newbrookhurstint_";
+}
+NPCEND
+NPC val_windowdark.gif 29 39
+//CLIENTSIDE
+if (created) {x=x+.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_window-plant1.png 20 40
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x += .1;
+
+}
+NPCEND
+NPC seg_window-plant1.png 30 40
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x += .1;
+
+}
+NPCEND
+NPC val_windowdark.gif 47 27
+//#CLIENTSIDE
+if (created)
+{
+setimgpart val_windowdark.gif,56,0,48,48;
+};
+NPCEND
+NPC val_windowdark.gif 47 25
+//#CLIENTSIDE
+if (created)
+{
+setimgpart val_windowdark.gif,56,0,48,48;
+};
+NPCEND
+NPC val_windowdark.gif 47 32
+//#CLIENTSIDE
+if (created)
+{
+setimgpart val_windowdark.gif,56,0,48,48;
+};
+NPCEND
+NPC val_windowdark.gif 47 34
+//#CLIENTSIDE
+if (created)
+{
+setimgpart val_windowdark.gif,56,0,48,48;
+};
+NPCEND
+NPC val_windowdark.gif 38 25
+//#CLIENTSIDE
+if (created)
+{
+setimgpart val_windowdark.gif,56,0,48,48;
+};
+NPCEND
+NPC val_windowdark.gif 38 23
+//#CLIENTSIDE
+if (created)
+{
+setimgpart val_windowdark.gif,56,0,48,48;
+};
+NPCEND
+NPC val_windowdark.gif 16 36
+//#CLIENTSIDE
+if (created)
+{x=x+.5;
+setimgpart val_windowdark.gif,0,0,8,48;
+}
+NPCEND
+NPC val_windowdark.gif 16 34
+//#CLIENTSIDE
+if (created)
+{x=x+.5;
+setimgpart val_windowdark.gif,0,0,8,48;
+}
+NPCEND
+NPC val_windowdark.gif 16 27
+//#CLIENTSIDE
+if (created)
+{x=x+.5;
+setimgpart val_windowdark.gif,0,0,8,48;
+}
+NPCEND
+NPC val_windowdark.gif 16 25
+//#CLIENTSIDE
+if (created)
+{x=x+.5;
+setimgpart val_windowdark.gif,0,0,8,48;
+}
+NPCEND
+NPC val_windowdark.gif 40 42
+//CLIENTSIDE
+if (created) {x=x+.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_windowdark.gif 41 37
+//CLIENTSIDE
+if (created) {x=x+.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_brokendoor.gif 14 43
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {hide; sleep 1; show;
+}
+NPCEND
+NPC val_kanoshire-trough.gif 41 8
+// NPC made by Major Ebra Conaway, Deputy Commissioner of the
+if (created) {
+}
+if (playertouchsme) {
+}
+drawunderplayer;
+NPCEND
+NPC billyformayor.gif 39 7
+//#CLIENTSIDE
+if (created){
+x=x-.5;
+y=y-1;
+}
+
+function onCreated()
+{
+   drawoverplayer();
+   this.nick = "Gaffer's Goat";
+}
+function onPlayertouchsme()
+{
+Sign.Display(this.nick,
+
+          "::It blinks and shuffles:: \"BAWW RAAMM YEWW!\" "
+  );
+}
+NPCEND
+NPC val_kanoshire-clothesline.gif 47 26
+// NPC made by Major Ebra Conaway, Deputy Commissioner of the
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kanoshire-well.gif 42 53
+// NPC made by Major Ebra Conaway, Deputy Commissioner of the
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kanoshire-stepstone.gif 45 57
+// NPC made by Ebra Conaway, Road Warden
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+NPCEND
+NPC val_cattail.gif 56 18
+//#CLIENTSIDE
+if (playertouchsme) {
+drawoverplayer;
+dontblock;
+}
+NPCEND
+NPC seg_window-plant1.png 41 43
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x += .1;
+
+}
+NPCEND
+NPC - 43 20
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC - 46 32
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC - 17 20
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 20 21
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 30 31
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 29 32
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 28 33
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 22 31
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 23 32
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_brookhurst-housetop.gif 24 33
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart val_brookhurst-housetop.gif,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC val_smeewntree1.gif 60 8
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,val_smeewntree-shadow1.png,x=x,y=y;
+  changeimgvis 0,0;
+  setshape2 18,22,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,22,22,22,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,22,22,22,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC val_smeewntree7.gif 41 0
+//#CLIENTSIDE
+if(created){
+  setimgpart val_smeewntree7.gif,0,187,304,265;
+
+}
+NPCEND
+NPC val_smeewntree1.gif 52 0
+//#CLIENTSIDE
+if (created||playerenters) {
+setimgpart val_smeewntree1.gif,0,208,192,216;
+};
+NPCEND
+NPC val_smeewnpinetree-sapling.gif 46 11
+//#CLIENTSIDE
+if(created || playerenters){
+setshape2 6,10,{
+    00,00,00,00,00,00,
+    00,00,00,00,00,00,
+    00,00,00,00,00,00,
+    00,00,00,00,00,00,
+    00,00,00,00,00,00,
+    00,00,00,00,00,00,
+    00,00,00,00,00,00,
+    00,00,22,22,00,00,
+    00,00,22,22,00,00,
+    00,00,00,00,00,00,
+
+
+
+
+
+  };
+}
+NPCEND
+NPC val_rp-barrel.png 35 44
+NPCEND
+NPC lampanimation.gif 35 43
+join world_lamp;
+
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+x=x+.34;y=y+.4;
+drawoverplayer;dontblock;}
+NPCEND
+NPC - 33 54
+//#CLIENTSIDE
+if (created) {
+setshape2 2,2,{
+  22,22,
+  22,22,
+    };
+}
+if (playertouchsme) {
+  say2 Homestead Tallingway#b;
+}
+NPCEND
+NPC val_roadwardenbanner.gif 30 43
+// NPC made by zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 33 48
+join("world_mailbox");
+// (the GS2 code that stood here was moved to the client part on 17 Nov 2026)
+//#CLIENTSIDE
+function onCreated() {
+  
+  this.mailID = 75309;
+}
+NPCEND
+NPC dicourra-flowers.gif 29 51
+// NPC made by Samuel Longfellow
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dicourra-flowers.gif 22 51
+// NPC made by Samuel Longfellow
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC gal-redchairdown-remake.gif 21 46
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_wheat2.gif 16 10
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_wheat2.gif,16,0,128,48;
+}
+NPCEND
+NPC val_wheat2.gif 22 10
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_wheat2.gif,16,0,128,48;
+}
+NPCEND
+NPC longfellow-corn.gif 29 9
+// NPC made by Ebra Conaway, Road Warden
+
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+NPCEND
+NPC longfellow-corn.gif 32 9
+// NPC made by Ebra Conaway, Road Warden
+
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+NPCEND
+NPC longfellow-corn.gif 34 9
+// NPC made by Ebra Conaway, Road Warden
+
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+NPCEND
+NPC longfellow-corn.gif 37 9
+// NPC made by Ebra Conaway, Road Warden
+
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+NPCEND
+NPC val_vegbeta.png 15 13
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_vegbeta.png,134,144,20,16;
+}
+NPCEND
+NPC val_vegbeta.png 17 13
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_vegbeta.png,134,144,20,16;
+}
+NPCEND
+NPC val_vegbeta.png 20 14
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_vegbeta.png,134,144,20,16;
+}
+NPCEND
+NPC val_vegbeta.png 21 13
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_vegbeta.png,134,144,20,16;
+}
+NPCEND
+NPC val_vegbeta.png 19 13
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_vegbeta.png,134,144,20,16;
+}
+NPCEND
+NPC val_vegbeta.png 16 14
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_vegbeta.png,134,144,20,16;
+}
+NPCEND
+NPC val_vegbeta.png 18 14
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_vegbeta.png,134,144,20,16;
+}
+NPCEND
+NPC val_vegbeta.png 22 14
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_vegbeta.png,137,118,20,16;
+}
+NPCEND
+NPC val_vegbeta.png 23 13
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_vegbeta.png,137,118,20,16;
+}
+NPCEND
+NPC val_vegbeta.png 24 14
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_vegbeta.png,137,118,20,16;
+}
+NPCEND
+NPC val_vegbeta.png 25 13
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_vegbeta.png,137,118,20,16;
+}
+NPCEND
+NPC val_vegbeta.png 26 14
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_vegbeta.png,137,118,20,16;
+}
+NPCEND
+NPC val_vegbeta.png 27 13
+// NPC made by Zero (LAT Captain)
+//#CLIENTSIDE
+if (created) {
+setimgpart val_vegbeta.png,137,118,20,16;
+}
+NPCEND
+NPC potato.gif 17 15
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC potato.gif 19 15
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC potato.gif 21 14
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC potato.gif 23 15
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC potato.gif 25 15
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mrpumpkin.gif 29 13
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mrpumpkin.gif 33 14
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC mrpumpkin.gif 37 13
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_h-pumpkin.png 30 14
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_h-pumpkin.png 34 13
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_h-pumpkin.png 38 14
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_h-pumpkin.png 36 14
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-plants-plant1.png 30 13
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-plants-plant1.png 28 14
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-plants-plant1.png 33 13
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-plants-plant1.png 35 14
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-plants-plant1.png 39 13
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_h-pumpkin.png 31 13
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-plants-plant1.png 31 14
+// NPC made by Zero (LAT Captain)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_smeewntreestump2.gif 1 38
+//#CLIENTSIDE
+if (created||playerenters) {
+drawunderplayer;
+  setshape2 18,22,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,22,22,22,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC val_rp-barrel.png 42 44
+NPCEND
+NPC val_rp-barrel.png 48 44
+NPCEND
+NPC val_rp-barrel.png 46 44
+NPCEND
+NPC val_rp-barrel.png 47 45
+NPCEND
+NPC - 12 56
+//#CLIENTSIDE
+function onCreated()
+{
+  showcharacter();
+  this.nick="Pvt. Teller Lochdonan, Constable of the (Road Wardens)";
+  this.head="val-garsidehead.gif";
+  this.body="val_roadwarden-body100.gif";
+  this.shield="no-shield.gif";
+  setcharani("idle","idle");
+  this.dir=3;
+}
+function onPlayertouchsme()
+{
+Sign.Display(this.nick,
+"::Sternly watches you.:: \"Hey you! Halt!
+Please...
+You have no idea how stressful this is.
+If it isnt Gaffer always yelling, at the rare times he is home,
+It's his wife yelling at him to boot! Guess it's for not being home on time.
+And then it's the kids. One has me regulating bug fights.
+I didnt even know bugs grow that big. And I don't like bugs.
+Bugs give me the heebie-jeebies. ::Shudders::
+But hey, the pay at this post is better than most, and it's not like I
+have to do much other than shoo away unwanted guests...Uh...
+Shades! But don't tell Gaffer I complained. In Setengar's name.
+I don't think my ears could take it. I may go deaf!\"
+");
+}
+NPCEND
+NPC val_smeewntree5crop.gif 31 0
+//#CLIENTSIDE
+if (created||playerenters) {
+setimgpart val_smeewntree5crop.gif,0,158,216,216;
+};
+NPCEND
+NPC val_smeewntree5crop.gif 15 0
+//#CLIENTSIDE
+if (created||playerenters) {
+setimgpart val_smeewntree5crop.gif,0,158,216,216;
+};
+NPCEND
+NPC val_smeewntree1.gif 0 0
+//#CLIENTSIDE
+if (created||playerenters) {
+setimgpart val_smeewntree1.gif,112,208,192,216;
+};
+NPCEND
+NPC val_smeewnpinetree-cut3.gif 0 61
+//#CLIENTSIDE
+NPCEND
+NPC val_smeewnpinetree-cut4.gif 47 0
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;dontblock;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_smeewnpinetree-cut6.gif 24 0
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;dontblock;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_smeewnpinetree-cut6.gif 8 0
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;dontblock;}
+if (playertouchsme) {
+}
+NPCEND

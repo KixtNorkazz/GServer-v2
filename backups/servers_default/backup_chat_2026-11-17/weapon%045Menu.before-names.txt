@@ -1,0 +1,929 @@
+GRAWP001
+REALNAME -Menu
+IMAGE 
+SCRIPT
+//#CLIENTSIDE
+// v6 menu (F1): Menu = launch buttons, Sound = the client's four volumes ($pref::audio::*, saved in game_config.txt), Settings = chat options (client variables), Info.
+function onCreated() {
+echo("-Menu: onCreated");
+this.page = 0;
+this.tick = 0;
+this.extgen = int(client.winextgen);
+this.build();
+this.applyFps();
+setTimer(0.2);
+}
+
+function build() {
+if (!isObject("ChatTextProfile")) {
+new GuiTextProfile("ChatTextProfile") {
+fontcolor = {0, 0, 0};
+}
+}
+if (isObject("Menu_Window"))
+Menu_Window.destroy();
+new GuiWindowCtrl("Menu_Window") {
+clientrelative = true;
+clientextent = "310,330";
+canclose = true;
+canmaximize = false;
+canminimize = false;
+canmove = true;
+canresize = false;
+closequery = false;
+destroyonhide = false;
+externalwindow = "";
+isexternal = (client.winext != "off");
+text = "Menu";
+new GuiButtonCtrl("Mn_T0") {
+x = 8;
+y = 8;
+width = 72;
+height = 24;
+text = "Menu";
+}
+new GuiButtonCtrl("Mn_T1") {
+x = 83;
+y = 8;
+width = 72;
+height = 24;
+text = "Sound";
+}
+new GuiButtonCtrl("Mn_T2") {
+x = 158;
+y = 8;
+width = 72;
+height = 24;
+text = "Settings";
+}
+new GuiButtonCtrl("Mn_T3") {
+x = 233;
+y = 8;
+width = 72;
+height = 24;
+text = "Info";
+}
+new GuiButtonCtrl("Mn_Outfit") {
+x = 20;
+y = 44;
+width = 150;
+height = 24;
+text = "Outfit";
+}
+new GuiTextCtrl("Mn_Outfit_K") {
+profile = ChatTextProfile;
+x = 180;
+y = 47;
+width = 80;
+height = 18;
+text = "(F)";
+}
+new GuiButtonCtrl("Mn_Players") {
+x = 20;
+y = 76;
+width = 150;
+height = 24;
+text = "Players";
+}
+new GuiTextCtrl("Mn_Players_K") {
+profile = ChatTextProfile;
+x = 180;
+y = 79;
+width = 80;
+height = 18;
+text = "(F7)";
+}
+new GuiButtonCtrl("Mn_Guild") {
+x = 20;
+y = 108;
+width = 150;
+height = 24;
+text = "Guild";
+}
+new GuiTextCtrl("Mn_Guild_K") {
+profile = ChatTextProfile;
+x = 180;
+y = 111;
+width = 80;
+height = 18;
+text = "(G)";
+}
+new GuiButtonCtrl("Mn_Chat") {
+x = 20;
+y = 140;
+width = 150;
+height = 24;
+text = "Chat";
+}
+new GuiTextCtrl("Mn_Chat_K") {
+profile = ChatTextProfile;
+x = 180;
+y = 143;
+width = 80;
+height = 18;
+text = "(Tab)";
+}
+new GuiTextCtrl("Mn_K1") {
+profile = ChatTextProfile;
+x = 20;
+y = 180;
+width = 260;
+height = 18;
+text = "A grab   S sword   D item";
+}
+new GuiTextCtrl("Mn_K2") {
+profile = ChatTextProfile;
+x = 20;
+y = 198;
+width = 260;
+height = 18;
+text = "Q item list   M map   P pause";
+}
+new GuiTextCtrl("Mn_VFxL") {
+profile = ChatTextProfile;
+x = 12;
+y = 49;
+width = 118;
+height = 18;
+text = "Sound effects (.wav)";
+}
+new GuiSliderCtrl("Mn_VFx") {
+profile = GuiBlueSliderProfile;
+x = 134;
+y = 46;
+width = 112;
+height = 22;
+range = {0, 100};
+ticks = 1;
+value = $pref::audio::sfxvolume;
+}
+new GuiTextCtrl("Mn_VFxV") {
+profile = ChatTextProfile;
+x = 252;
+y = 49;
+width = 50;
+height = 18;
+text = "";
+}
+new GuiTextCtrl("Mn_VMidL") {
+profile = ChatTextProfile;
+x = 12;
+y = 79;
+width = 118;
+height = 18;
+text = "MIDI music (.mid)";
+}
+new GuiSliderCtrl("Mn_VMid") {
+profile = GuiBlueSliderProfile;
+x = 134;
+y = 76;
+width = 112;
+height = 22;
+range = {0, 100};
+ticks = 1;
+value = $pref::audio::midivolume;
+}
+new GuiTextCtrl("Mn_VMidV") {
+profile = ChatTextProfile;
+x = 252;
+y = 79;
+width = 50;
+height = 18;
+text = "";
+}
+new GuiTextCtrl("Mn_VMp3L") {
+profile = ChatTextProfile;
+x = 12;
+y = 109;
+width = 118;
+height = 18;
+text = "MP3 / OGG music";
+}
+new GuiSliderCtrl("Mn_VMp3") {
+profile = GuiBlueSliderProfile;
+x = 134;
+y = 106;
+width = 112;
+height = 22;
+range = {0, 100};
+ticks = 1;
+value = $pref::audio::mp3volume;
+}
+new GuiTextCtrl("Mn_VMp3V") {
+profile = ChatTextProfile;
+x = 252;
+y = 109;
+width = 50;
+height = 18;
+text = "";
+}
+new GuiTextCtrl("Mn_VRadL") {
+profile = ChatTextProfile;
+x = 12;
+y = 139;
+width = 118;
+height = 18;
+text = "Radio streams";
+}
+new GuiSliderCtrl("Mn_VRad") {
+profile = GuiBlueSliderProfile;
+x = 134;
+y = 136;
+width = 112;
+height = 22;
+range = {0, 100};
+ticks = 1;
+value = $pref::audio::radiovolume;
+}
+new GuiTextCtrl("Mn_VRadV") {
+profile = ChatTextProfile;
+x = 252;
+y = 139;
+width = 50;
+height = 18;
+text = "";
+}
+new GuiTextCtrl("Mn_MuteL") {
+profile = ChatTextProfile;
+x = 12;
+y = 169;
+width = 118;
+height = 18;
+text = "Mute everything";
+}
+new GuiButtonCtrl("Mn_Mute") {
+x = 134;
+y = 166;
+width = 100;
+height = 24;
+text = "";
+}
+new GuiTextCtrl("Mn_RevL") {
+profile = ChatTextProfile;
+x = 12;
+y = 199;
+width = 118;
+height = 18;
+text = "Swap left / right";
+}
+new GuiButtonCtrl("Mn_Rev") {
+x = 134;
+y = 196;
+width = 100;
+height = 24;
+text = "";
+}
+new GuiTextCtrl("Mn_MNote") {
+profile = ChatTextProfile;
+x = 12;
+y = 229;
+width = 290;
+height = 18;
+text = "Saved by the game (game_config.txt)";
+}
+new GuiTextCtrl("Mn_SStart_L") {
+profile = ChatTextProfile;
+x = 20;
+y = 49;
+width = 150;
+height = 18;
+text = "Chat at login";
+}
+new GuiButtonCtrl("Mn_SStart") {
+x = 180;
+y = 46;
+width = 100;
+height = 24;
+text = "";
+}
+new GuiTextCtrl("Mn_SRange_L") {
+profile = ChatTextProfile;
+x = 20;
+y = 83;
+width = 150;
+height = 18;
+text = "Chat range";
+}
+new GuiButtonCtrl("Mn_SRange") {
+x = 180;
+y = 80;
+width = 100;
+height = 24;
+text = "";
+}
+new GuiTextCtrl("Mn_SBubble_L") {
+profile = ChatTextProfile;
+x = 20;
+y = 117;
+width = 150;
+height = 18;
+text = "My speech bubble";
+}
+new GuiButtonCtrl("Mn_SBubble") {
+x = 180;
+y = 114;
+width = 100;
+height = 24;
+text = "";
+}
+new GuiTextCtrl("Mn_SAlpha_L") {
+profile = ChatTextProfile;
+x = 20;
+y = 151;
+width = 150;
+height = 18;
+text = "Chat opacity";
+}
+new GuiButtonCtrl("Mn_SAlpha") {
+x = 180;
+y = 148;
+width = 100;
+height = 24;
+text = "";
+}
+new GuiTextCtrl("Mn_SFps_L") {
+profile = ChatTextProfile;
+x = 20;
+y = 185;
+width = 150;
+height = 18;
+text = "Frame rate";
+}
+new GuiButtonCtrl("Mn_SFps") {
+x = 180;
+y = 182;
+width = 100;
+height = 24;
+text = "";
+}
+new GuiTextCtrl("Mn_SPlext_L") {
+profile = ChatTextProfile;
+x = 20;
+y = 219;
+width = 150;
+height = 18;
+text = "Windows";
+}
+new GuiButtonCtrl("Mn_SPlext") {
+x = 180;
+y = 216;
+width = 100;
+height = 24;
+text = "";
+}
+new GuiButtonCtrl("Mn_SReset") {
+x = 180;
+y = 250;
+width = 100;
+height = 24;
+text = "Reset all";
+}
+new GuiTextCtrl("Mn_SNote") {
+profile = ChatTextProfile;
+x = 20;
+y = 253;
+width = 150;
+height = 18;
+text = "Saved on this computer";
+}
+new GuiTextCtrl("Mn_I0") {
+profile = ChatTextProfile;
+x = 20;
+y = 46;
+width = 270;
+height = 18;
+text = "";
+}
+new GuiTextCtrl("Mn_I1") {
+profile = ChatTextProfile;
+x = 20;
+y = 66;
+width = 270;
+height = 18;
+text = "";
+}
+new GuiTextCtrl("Mn_I2") {
+profile = ChatTextProfile;
+x = 20;
+y = 86;
+width = 270;
+height = 18;
+text = "";
+}
+new GuiTextCtrl("Mn_I3") {
+profile = ChatTextProfile;
+x = 20;
+y = 106;
+width = 270;
+height = 18;
+text = "";
+}
+new GuiTextCtrl("Mn_I4") {
+profile = ChatTextProfile;
+x = 20;
+y = 126;
+width = 270;
+height = 18;
+text = "";
+}
+new GuiTextCtrl("Mn_I5") {
+profile = ChatTextProfile;
+x = 20;
+y = 146;
+width = 270;
+height = 18;
+text = "";
+}
+new GuiTextCtrl("Mn_I6") {
+profile = ChatTextProfile;
+x = 20;
+y = 166;
+width = 270;
+height = 18;
+text = "";
+}
+new GuiTextCtrl("Mn_I7") {
+profile = ChatTextProfile;
+x = 20;
+y = 186;
+width = 270;
+height = 18;
+text = "";
+}
+}
+Menu_Window.hide();
+this.showPage(0);
+}
+
+function toggle() {
+if (Menu_Window.visible) {
+Menu_Window.hide();
+} else {
+if (client.winext == "off") {
+Menu_Window.position = {int((screenwidth - 330) / 2), int((screenheight - 330) / 2)};
+}
+this.showPage(this.page);
+Menu_Window.show();
+}
+}
+
+function onKeyPressed(code, key) {
+if (code == 112) {
+this.toggle();
+}
+}
+
+function showPage(p) {
+this.page = p;
+if (p == 0) {
+Mn_Outfit.show();
+Mn_Outfit_K.show();
+Mn_Players.show();
+Mn_Players_K.show();
+Mn_Guild.show();
+Mn_Guild_K.show();
+Mn_Chat.show();
+Mn_Chat_K.show();
+Mn_K1.show();
+Mn_K2.show();
+
+} else {
+Mn_Outfit.hide();
+Mn_Outfit_K.hide();
+Mn_Players.hide();
+Mn_Players_K.hide();
+Mn_Guild.hide();
+Mn_Guild_K.hide();
+Mn_Chat.hide();
+Mn_Chat_K.hide();
+Mn_K1.hide();
+Mn_K2.hide();
+}
+if (p == 1) {
+Mn_VFxL.show();
+Mn_VFx.show();
+Mn_VFxV.show();
+Mn_VMidL.show();
+Mn_VMid.show();
+Mn_VMidV.show();
+Mn_VMp3L.show();
+Mn_VMp3.show();
+Mn_VMp3V.show();
+Mn_VRadL.show();
+Mn_VRad.show();
+Mn_VRadV.show();
+Mn_MuteL.show();
+Mn_Mute.show();
+Mn_RevL.show();
+Mn_Rev.show();
+Mn_MNote.show();
+this.refreshSound();
+} else {
+Mn_VFxL.hide();
+Mn_VFx.hide();
+Mn_VFxV.hide();
+Mn_VMidL.hide();
+Mn_VMid.hide();
+Mn_VMidV.hide();
+Mn_VMp3L.hide();
+Mn_VMp3.hide();
+Mn_VMp3V.hide();
+Mn_VRadL.hide();
+Mn_VRad.hide();
+Mn_VRadV.hide();
+Mn_MuteL.hide();
+Mn_Mute.hide();
+Mn_RevL.hide();
+Mn_Rev.hide();
+Mn_MNote.hide();
+}
+if (p == 2) {
+Mn_SStart_L.show();
+Mn_SStart.show();
+Mn_SRange_L.show();
+Mn_SRange.show();
+Mn_SBubble_L.show();
+Mn_SBubble.show();
+Mn_SAlpha_L.show();
+Mn_SAlpha.show();
+Mn_SFps_L.show();
+Mn_SFps.show();
+Mn_SPlext_L.show();
+Mn_SPlext.show();
+Mn_SReset.show();
+Mn_SNote.show();
+this.refreshSettings();
+} else {
+Mn_SStart_L.hide();
+Mn_SStart.hide();
+Mn_SRange_L.hide();
+Mn_SRange.hide();
+Mn_SBubble_L.hide();
+Mn_SBubble.hide();
+Mn_SAlpha_L.hide();
+Mn_SAlpha.hide();
+Mn_SFps_L.hide();
+Mn_SFps.hide();
+Mn_SPlext_L.hide();
+Mn_SPlext.hide();
+Mn_SReset.hide();
+Mn_SNote.hide();
+}
+if (p == 3) {
+Mn_I0.show();
+Mn_I1.show();
+Mn_I2.show();
+Mn_I3.show();
+Mn_I4.show();
+Mn_I5.show();
+Mn_I6.show();
+Mn_I7.show();
+this.refreshInfo();
+} else {
+Mn_I0.hide();
+Mn_I1.hide();
+Mn_I2.hide();
+Mn_I3.hide();
+Mn_I4.hide();
+Mn_I5.hide();
+Mn_I6.hide();
+Mn_I7.hide();
+}
+}
+
+function onoff(v) {
+if (v) {
+return "On";
+}
+return "Off";
+}
+
+function refreshSound() {
+Mn_VFx.value = $pref::audio::sfxvolume;
+Mn_VMid.value = $pref::audio::midivolume;
+Mn_VMp3.value = $pref::audio::mp3volume;
+Mn_VRad.value = $pref::audio::radiovolume;
+Mn_VFxV.text = int($pref::audio::sfxvolume) @ "%";
+Mn_VMidV.text = int($pref::audio::midivolume) @ "%";
+Mn_VMp3V.text = int($pref::audio::mp3volume) @ "%";
+Mn_VRadV.text = int($pref::audio::radiovolume) @ "%";
+if (client.audiomuted == "yes") {
+Mn_Mute.text = "Muted";
+} else {
+Mn_Mute.text = "Sound on";
+}
+if ($pref::audio::reversestereo) {
+Mn_Rev.text = "Swapped";
+} else {
+Mn_Rev.text = "Normal";
+}
+echo("-Menu: volumes " @ $pref::audio::sfxvolume @ "/" @ $pref::audio::midivolume @ "/" @ $pref::audio::mp3volume @ "/" @ $pref::audio::radiovolume @ " stereo " @ $pref::audio::reversestereo);
+}
+
+function setVolume(which, v) {
+temp.n = int(v);
+if (which == 0) {
+$pref::audio::sfxvolume = temp.n;
+Mn_VFxV.text = temp.n @ "%";
+} else if (which == 1) {
+$pref::audio::midivolume = temp.n;
+Mn_VMidV.text = temp.n @ "%";
+} else if (which == 2) {
+$pref::audio::mp3volume = temp.n;
+Mn_VMp3V.text = temp.n @ "%";
+} else {
+$pref::audio::radiovolume = temp.n;
+Mn_VRadV.text = temp.n @ "%";
+}
+echo("-Menu: volume " @ which @ " = " @ temp.n);
+}
+
+function toggleMute() {
+if (client.audiomuted == "yes") {
+$pref::audio::sfxvolume = client.premute0;
+$pref::audio::midivolume = client.premute1;
+$pref::audio::mp3volume = client.premute2;
+$pref::audio::radiovolume = client.premute3;
+client.audiomuted = "no";
+} else {
+client.premute0 = $pref::audio::sfxvolume;
+client.premute1 = $pref::audio::midivolume;
+client.premute2 = $pref::audio::mp3volume;
+client.premute3 = $pref::audio::radiovolume;
+$pref::audio::sfxvolume = 0;
+$pref::audio::midivolume = 0;
+$pref::audio::mp3volume = 0;
+$pref::audio::radiovolume = 0;
+client.audiomuted = "yes";
+}
+this.refreshSound();
+}
+
+function toggleStereo() {
+if ($pref::audio::reversestereo) {
+$pref::audio::reversestereo = 0;
+} else {
+$pref::audio::reversestereo = 1;
+}
+this.refreshSound();
+}
+
+function applyFps() {
+temp.f = int(client.fpsmode);
+if (temp.f > 0) {
+adventure_setframetick(temp.f);
+}
+echo("-Menu: frametick=" @ adventure_getframetick() @ " ms");
+}
+
+function fpsMode() {
+temp.f = int(client.fpsmode);
+if (temp.f > 0) {
+return temp.f;
+}
+return 50;
+}
+
+function fpsText() {
+return int(1000 / this.fpsMode()) @ " FPS";
+}
+
+function cycleFps() {
+temp.t = this.fpsMode();
+temp.n = 50;
+if (temp.t >= 40) {
+temp.n = 33;
+} else if (temp.t >= 25) {
+temp.n = 16;
+}
+client.fpsmode = "" @ temp.n;
+adventure_setframetick(temp.n);
+echo("-Menu: frametick set to " @ temp.n @ " ms (getframetick says " @ adventure_getframetick() @ ")");
+this.refreshSettings();
+}
+
+function refreshSettings() {
+if (client.winext == "off") {
+Mn_SPlext.text = "In the game";
+} else {
+Mn_SPlext.text = "Own windows";
+}
+Mn_SFps.text = this.fpsText();
+Mn_SStart.text = this.onoff(client.chatstart == "on");
+temp.r = 40;
+if (client.chatradius > 0) {
+temp.r = client.chatradius;
+}
+Mn_SRange.text = temp.r @ " tiles";
+Mn_SBubble.text = this.onoff(client.chatbubble == 1);
+temp.a = 1;
+if (client.chatalpha > 0) {
+temp.a = client.chatalpha;
+}
+Mn_SAlpha.text = int(temp.a * 100) @ " %";
+}
+
+function refreshInfo() {
+Mn_I0.text = "Server: Valikorlia Reborn v7";
+Mn_I1.text = "Account: " @ player.account;
+Mn_I2.text = "Name: " @ player.nick;
+Mn_I3.text = "Guild: " @ player.guild;
+Mn_I4.text = "Level: " @ level.name;
+Mn_I5.text = "Position: " @ int(player.x) @ ", " @ int(player.y);
+Mn_I6.text = "Players here: " @ (players.size() + 1);
+Mn_I7.text = "Chat range: " @ this.chatRange() @ " tiles";
+}
+
+function chatRange() {
+if (client.chatradius > 0) {
+return client.chatradius;
+}
+return 40;
+}
+
+function cycleRange() {
+temp.r = this.chatRange();
+if (temp.r < 20) {
+client.chatradius = 20;
+} else if (temp.r < 40) {
+client.chatradius = 40;
+} else if (temp.r < 80) {
+client.chatradius = 80;
+} else {
+client.chatradius = 10;
+}
+this.refreshSettings();
+}
+
+function cycleAlpha() {
+temp.a = 1;
+if (client.chatalpha > 0) {
+temp.a = client.chatalpha;
+}
+if (temp.a > 0.9) {
+client.chatalpha = 0.8;
+} else if (temp.a > 0.7) {
+client.chatalpha = 0.6;
+} else if (temp.a > 0.5) {
+client.chatalpha = 0.4;
+} else {
+client.chatalpha = 1;
+}
+this.refreshSettings();
+}
+
+function toggleStart() {
+if (client.chatstart == "on") {
+client.chatstart = "off";
+} else {
+client.chatstart = "on";
+}
+this.refreshSettings();
+}
+
+function toggleBubble() {
+if (client.chatbubble == 1) {
+client.chatbubble = 0;
+} else {
+client.chatbubble = 1;
+}
+this.refreshSettings();
+}
+
+function resetAll() {
+client.chatstart = "off";
+client.chatradius = 40;
+client.chatbubble = 0;
+client.chatalpha = 1;
+client.fpsmode = "50";
+adventure_setframetick(50);
+client.winext = "on";
+client.winextgen = int(client.winextgen) + 1;
+this.refreshSettings();
+}
+
+function Mn_T0.onAction() {
+showPage(0);
+}
+
+function Mn_T1.onAction() {
+showPage(1);
+}
+
+function Mn_T2.onAction() {
+showPage(2);
+}
+
+function Mn_T3.onAction() {
+showPage(3);
+}
+
+function Mn_VFx.onAction(newValue) {
+setVolume(0, newValue);
+}
+
+function Mn_VMid.onAction(newValue) {
+setVolume(1, newValue);
+}
+
+function Mn_VMp3.onAction(newValue) {
+setVolume(2, newValue);
+}
+
+function Mn_VRad.onAction(newValue) {
+setVolume(3, newValue);
+}
+
+function Mn_Mute.onAction() {
+toggleMute();
+}
+
+function Mn_Rev.onAction() {
+toggleStereo();
+}
+
+function Mn_Outfit.onAction() {
+client.openwindow = "outfit";
+Menu_Window.hide();
+}
+
+function Mn_Players.onAction() {
+client.openwindow = "players";
+Menu_Window.hide();
+}
+
+function Mn_Guild.onAction() {
+client.openwindow = "guild";
+Menu_Window.hide();
+}
+
+function Mn_Chat.onAction() {
+client.openwindow = "chat";
+Menu_Window.hide();
+}
+
+function Mn_SStart.onAction() {
+toggleStart();
+}
+
+function Mn_SRange.onAction() {
+cycleRange();
+}
+
+function Mn_SBubble.onAction() {
+toggleBubble();
+}
+
+function Mn_SAlpha.onAction() {
+cycleAlpha();
+}
+
+function Mn_SPlext.onAction() {
+if (client.winext == "off") {
+client.winext = "on";
+} else {
+client.winext = "off";
+}
+client.winextgen = int(client.winextgen) + 1;
+refreshSettings();
+}
+
+function Mn_SFps.onAction() {
+cycleFps();
+}
+
+function Mn_SReset.onAction() {
+resetAll();
+}
+
+function checkWinExt() {
+if (int(client.winextgen) != this.extgen) {
+this.extgen = int(client.winextgen);
+temp.was = Menu_Window.visible;
+this.build();
+if (temp.was) {
+this.toggle();
+}
+}
+}
+
+function onTimeOut() {
+this.checkWinExt();
+if (client.openwindow == "menu") {
+client.openwindow = "";
+this.toggle();
+}
+if (client.openwindow == "menuhide") {
+client.openwindow = "";
+Menu_Window.hide();
+}
+if (this.page == 3 && Menu_Window.visible) {
+this.tick = this.tick + 1;
+if (this.tick >= 5) {
+this.tick = 0;
+this.refreshInfo();
+}
+}
+setTimer(0.2);
+}
+SCRIPTEND

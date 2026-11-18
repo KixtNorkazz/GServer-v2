@@ -1,0 +1,20 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "no-head.png";
+  this.body = "arwind-kingbody2.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 2;
+  this.ap = 100;
+}
+
+function onPlayerTouchsMe() {
+  say2("Looks like a suit of armor#bthe armorer is working on.");
+}

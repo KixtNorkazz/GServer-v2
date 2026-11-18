@@ -1,0 +1,28 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.x = this.x+.5;
+  showcharacter();
+  this.attr[1] = "hat.gif";
+  this.head = "val-nadrion-valikorliansoldier.png";
+  this.body = "valp_theblindone_body104.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.swordpower = 1;
+  this.shield = "ryo250-woodenspearshield.gif";
+  this.shieldpower = 1;
+  this.ap = 100;
+  this.nick = "Imperial Soldier";
+  this.dir = 3;
+}
+
+function onPlayerTouchsMe() {
+  say2("The Trades District is where all#b
+the craftsmen run their guilds. If#b
+you're looking for a trade job, #b
+this is the place.");
+}

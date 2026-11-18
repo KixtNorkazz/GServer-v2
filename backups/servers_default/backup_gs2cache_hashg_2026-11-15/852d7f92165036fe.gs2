@@ -1,0 +1,27 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.door = 0;
+}
+
+function onPlayerChats() {
+  if (("#g" == "The Valikorlian Empire")) {
+    if ((player.chat == "unlock")) {
+      this.door = 1;
+    } else if ((player.chat == "lock")) {
+      this.door = 0;
+    }
+  }
+}
+
+function onPlayerTouchsMe() {
+  if (this.door==1) {
+    hide();
+    setTimer(1);
+  } else {
+    say2("Locked!");
+  }
+}
+
+function onTimeOut() {
+  show();
+}

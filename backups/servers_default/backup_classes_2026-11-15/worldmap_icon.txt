@@ -1,0 +1,41 @@
+//#CLIENTSIDE
+function onCreated()
+{
+  this.originXY = {this.x,this.y};
+  CheckForConfig();
+  Config();
+}
+function CheckForConfig()
+{
+  if (this.titleimg != NULL)
+    this.nick = this.titleimg;
+}
+function Config()
+{
+  setimg("worldmap_icon.gif");
+  setshape(1,16,32);
+  this.layer = 4;
+  this.alpha = 1;  
+  dontblock();
+  animate();
+}
+function animate()
+{
+  this.maxYmovement = .15;
+  this.Ymove = .015;
+  this.loopSpeed = .1;
+  sleep(random(0,1));
+  setTimer(this.loopSpeed);
+}
+function onTimeout()
+{
+  this.y -= this.Ymove;
+  this.countDown -= this.loopSpeed; 
+  if (this.y > this.originXY[1] || this.y < this.originXY[1] - this.maxYmovement)
+  this.Ymove*=-1;
+  setTimer(this.loopSpeed);
+}
+function onActionLeftMouse()
+{
+  Definitions.Define(this.titleimg);
+}

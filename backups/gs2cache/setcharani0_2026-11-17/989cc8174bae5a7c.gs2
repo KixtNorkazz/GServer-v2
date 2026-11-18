@@ -1,0 +1,21 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "head7.png";
+  this.body = "drakdark-body.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 2;
+  this.ap = 100;
+  this.nick = "Librarian";
+}
+
+function onPlayerTouchsMe() {
+  say2("Yeah, I just got this job.#bAnd I don't really care about#bit.  You wanna see a book?#bYou take it off the shelf.");
+}

@@ -1,0 +1,761 @@
+GLEVNW01
+BOARD 0 0 64 0 g8tisNuVg6g7g8g9g6g7g8g9g6g7g8g9g6g7thsMlfg9p8ptp9wayAyByCyDwZp8ptp9g8g9g8g9g8tiuFuFuVg8g9g6g7g8g9thuFuFuFuFuFuFuFuFuFuFuFuFuFuF
+BOARD 0 1 64 0 hMuVsNuVhKhLhMhNhKhLhMhNhKhLhMhNhKhLthsMthhNp8ptp9waxyxzxwxxwZp8ptp9hMhNhMhNhMuVqqqquVhMhNhKhLhMhNthqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+BOARD 0 2 64 0 g8uVsNuVg6g7g8g9g6g7g8g9g6g7g8g9g6g7thsMthg9p8ptp9wayCyDyAyBwZp8ptp9wKwKwKwKwKuVifieuVg8g9g6g7g8g9thifieifieifieifieifieifieifie
+BOARD 0 3 64 0 hMuVsNuVhKhLhMhNhKhLhMhNhKhLhMhNhKhLthsMthhNp8ptp9waxwxxxyxzwZp8ptp9wJwJwJwJwJuViviuuVhMhNhKhLhMhNthiviuiviuiviuiviuiviuiviuiviu
+BOARD 0 4 64 0 g8uVsNuVg6g7g8g9g6g7g8g9g6g7g8g9g6g7thsMthg9p8ptp9wayAyByCyDwZp8ptp9nHvEvFvGmuuVifsstytxtxtxtxtxtxtTstieifieifieifieifieifieifie
+BOARD 0 5 64 0 ssuVsNtytxtxtxtxtxtxtxtxtxtxtxtxtxtxtTsMthstp8ptp9waxyxzxwxxwZp8ptp9vXuzuwuxm+uVivsN0p0qz0z1z2z30p0qsMiuiviuiviuiviuiviuiviuiviu
+BOARD 0 6 64 0 sNuVsN0p0qrKrKrKrKz0z1z2z3rKrKrKrK0p0qsMthsMp8ptp9wayCyDyAyBwZp8ptp9vnvDqMp6p6uVifsN05060E0F0G0H0506sMieifieifieifieifieifieifie
+BOARD 0 7 64 0 sNuVsN0506rararara0E0F0G0Hrararara0506sMthsMp8ptp9waxwxxxyxzwZp8ptp9vXvTp8wFwKuVivsN1J1K0U0V0W0X1J1KsMiuiviuiviuiviuiviuiviuiviu
+BOARD 0 8 64 0 sNuVsN1J1Krararara0U0V0W0Xrararara1J1KsMthsMp8ptp9wayAyByCyDwZp8ptp9vnujp8wZssuVifsN1Z1a0k0l0m0n1Z1asMieifieifieifieifieifieifie
+BOARD 0 9 64 0 sNuVsN1Z1arararara0k0l0m0nrararara1Z1asMthsMp8ptp9waxyxzxwxxwZp8ptp9nmnnp8wZsNuVivs8t/1w00010203t/1ws9iuiviuiviuiviuiviuiviuiviu
+BOARD 0 10 64 0 sNuVs8t/1wscscscsc00010203scscscsct/1ws9thsMp8ptp9wayCyDyAyBwZp8ptp9nWnXp8wZsNuVifieifieifieifieifieifieifieifieifieifieifieifie
+BOARD 0 11 64 0 sNuViviuiviuiviuiviuiviuiviuiviuiviuiviuthsMp8ptp9waxwxxxyxzwZp8ptp9vXvTp8tiuFuViviuiviuiviuiviuiviuiviuiviuiviuiviuiviuiviuiviu
+BOARD 0 12 64 0 sNuVifieifieifieifieifieifieifieifieifiethsMp8ptp9wayAyByCyDwZp8ptp9vnujp8uVieuVifieifieifieifieifieifieifieifieifieifieifieifie
+BOARD 0 13 64 0 sNuVtjtkiviutjtkiviutjtkiviutjtkiviutjtkthsMp8ptp9waxyxzxwxxwZp8ptp9vXuzp8uViuuVtjtkiviutjtkiviutjtkiviutjtkiviutjtkiviutjtkiviu
+BOARD 0 14 64 0 sNtytzt0txtxtzt0txtxtzt0txtxtzt0txtxtzt0thsMp8ptp9wayCyDyAyBwZp8ptp9vnvDp8tytxuVtzt0txtxtzt0txtxtzt0txtxtzt0txtxtzt0txtxtzt0txtx
+BOARD 0 15 64 0 sNz5z6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6uVuTuFuFuFuFuFxwxxxyxzuFuFuFuFuFuFuFuFuFuUthq6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6
+BOARD 0 16 64 0 sN0J0Kq6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6uVifieifieifieyAyByCyDifieifieifieifieifiethq6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6q6
+BOARD 0 17 64 0 sN0Z0arKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKtytxtxtxtxtxtxxyxzxwxxtxtxtxtxtxtxtxtxtxtxtTrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrK
+BOARD 0 18 64 0 sN0p0qrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKz5z6q+q/q6q6q6yCyDyAyBq6q6q6qEqFz5z6q+q/qEqFrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrKrK
+BOARD 0 19 64 0 sN0506rararararararararararararararara0J0Kq8q6q6q6q6xwxxxyxzq6q6q6q7q80J0Kq8q6q7q8rarararararararararararararararararararararara
+BOARD 0 20 64 0 sN1J1Krararararararararararararararara0Z0arOrPrKrKtxyAyByCyDtxrKrKqUqV0Z0arOrPqUqVrarararararararararararararararararararararara
+BOARD 0 21 64 0 sN1Z1arararararararararararararararara0p0qrMrKrKrKzTxyxzxwxxzWrKrKrLrM0p0qrMrKrLrMrarararararararararararararararararararararara
+BOARD 0 22 64 0 s8t/1wscscscscscscscscscscscscscscscsr0506rerfrarazjyCyDyAyBzmraraqkql0506rerfqkqlsLscscscscscscscscscscscscscscscscscscscscscsc
+BOARD 0 23 64 0 wJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJsN1J1KrcrararazTxwxxxyxzzWrararbrc1J1KrcrarbrcsMwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJ
+BOARD 0 24 64 0 p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7sN1Z1arerfrarazjyAyByCyDzmraraqkql1Z1arerfqkqlsMp7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7
+BOARD 0 25 64 0 uwmumvnonnuxuyuzuwuxuyuznonnuyuzuwuxs8t/1wscscscscscscscscscscscscscsct/1wscscscscs9vSvTvQvRvSvTvQvRvSvTvQvRnoumunnnvSvTnonnvSvT
+BOARD 0 26 64 0 u2m+m/n4n3u3umunu2u3umunn4n3u2u3umunn4n3n4n5tAtBtAtBtAtBtAtBtAtBtAn2n3u2u3umunu2u3u2u3umunu2u3umunu2u3umunu2n4tBtAn3u3umn4n3u3um
+BOARD 0 27 64 0 p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6
+BOARD 0 28 64 0 ptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptpt
+BOARD 0 29 64 0 p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7
+BOARD 0 30 64 0 wJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJ
+BOARD 0 31 64 0 yCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyB
+BOARD 0 32 64 0 xwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxz
+BOARD 0 33 64 0 yAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyD
+BOARD 0 34 64 0 xyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxx
+BOARD 0 35 64 0 wKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwK
+BOARD 0 36 64 0 p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6mambmcmdme
+BOARD 0 37 64 0 ptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptptpt3B3C3C3C3C3C3C3C3C3C3C3H3k3I3C3C
+BOARD 0 38 64 0 p7p7p7p73D3D3k3E3Ep7p7p7p73D3D3k3E3Ep7p7p7p7qLptqKp7p7p7p7p7p7qLptqKp7p7p7p7p7p7p7p7p7p7p7p7p7p73R3S3S3S3S3S3S3S3S3S3U3V3k3W3X3S
+BOARD 0 39 64 0 3EhNhM3D3D3D3k3E3E3EhMhN3D3D3D3k3E3E3EhNhMhNp8ptp9wHwJwJwJwJwIp8ptp9OpOXOGOpEtOXF5F4OJOpOXF5F4sN3R3S3S3S3S3S3S3S3S3S3F3l3k3m3G3S
+BOARD 0 40 64 0 3EuCmK3D2F2G3k3E3E3EuCmK3D3D3D3k2D2E3EuCg8g9p8ptp9wayCyDyAyBwZp8ptp9EtNluhOJOpNlujuguzF4uxuhAAsN3R3S3S3S3S3S3S3S3S3U3V3D3k3E3W3X
+BOARD 0 41 64 0 3EuCmK3D2V2W3k3E3E3EuCmK3D3D3D3k2T2U3EuChMhNp8ptp9waxwxxxyxzwZp8ptp9OmuxuxuzF4uxuzuwuxuzuwuxuzsN3R3S3S3S3S3S3S3S3S3F3l3D3k3E3m3G
+BOARD 0 42 64 0 3EuCmK3D2l2m3k3E3E3EuCmK3D3D3D3k2j2k3EuCg8g9p8ptp9wayAyByCyDwZp8ptp9OavRvRvTvQvRvTvQvRvTvQvRvTsN3R3S3S3S3S3S3S3S3U3V3D3D3k3E3E3W
+BOARD 0 43 64 0 3EuCmK3D213D3k3E3E3EuCmK3D3D3D3k3E203EuChMhNp8ptp9waxyxzxwxxwZp8ptp9OpN1uhujugACADuguhujuguhujsN3R3S3S3S3S3S3S3S3F3l3D3D3k3E3E3m
+BOARD 0 44 64 0 3EuCmK3D3D3Dls3E3E3EuCmK3D3D3Dls3E3E3EuCg8g9p8ptp9wayCyDyAyBwZp8ptp9EtOauxuzuwASATuwuxuzuwuxOosN3h3i3i3i3i3i3i3i3V3D3D3D3k3E3E3E
+BOARD 0 45 64 0 3EuCmK3D3Dltlulv3E3EuCmK3D3Dltlulv3E3EuChMhNp8ptp9waxwxxxyxzwZp8ptp9OpOpOavTvQvRvTvQvRvTvQOoOpsNhAiQiRiShBiTiUiVmK3D3D3D3k3E3E3E
+BOARD 0 46 64 0 3EuCmK3Dl8l9l+l/tw3EuCmK3Dl8l9l+l/tw3EuCg8g9p8ptp9wayAyByCyDwZp8ptp9OpEtOpNluguhujuguhujugOJOpsNhQigihiihRijikilmK3D3D3D3k3E3E3E
+BOARD 0 47 64 0 uBuCmKmLmMmNmOmPuAuBuCmKmLmMmNmOmPuAuBuChMhNp8ptp9waxyxzxwxxwZp8ptp9EtOpOXuzuwuxuzuwuxuzuwuxOJsNhgiwixiyhhizi0i1mK3D3D3D3k3E3E3E
+BOARD 0 48 64 0 uRuSmambmcmdmemfuQuRuSmambmcmdmemfuQuRuSg8g9p8ptp9wayCyDyAyBwZp8ptp9OpEtN1vTvQvRvTvQvRAAABvRvTsNhwjAjBjChxjDjEjFmK3D3D3D3k3E3E3E
+BOARD 0 49 64 0 iVhChAiQiRiShBiTiUiVhChAiQiRiShBiTiUiVhChMhNp8ptp9waxwxxxyxzwZp8ptp9EtOXuhujuguhujuguhujuguhujsNiAjQjRjSiBjQjRjSmK3D3D3D3k3E3E3E
+BOARD 0 50 64 0 ilhShQigihiihRijikilhShQigihiihRijikilhSg8g9p8ptp9wayAyByCyDwZp8ptp9OmOnuxuzuwuxuzuwuxuzuwuxOosNwZhDlwlxlylzl0hDmK3D3D3Dls3E3E3E
+BOARD 0 51 64 0 i1hihgiwixiyhhizi0i1hihgiwixiyhhizi0i1hihMhNp8ptp9waxyxzxwxxwZp8ptp9N1vQvRvTOUOVunu2vQvTvQvROJsNwZhTmAmBmCmDmEhTmK3D3Dltlulv3E3E
+BOARD 0 52 64 0 jFhyhwjAjBjChxjDjEjFhyhwjAjBjChxjDjEjFhyg8g9p8ptp9wayCyDyAyBwZp8ptp9NluguhujOoEtOpOqOrvTvQvRvTsNwZhjmQmRmSmTmUhjmK3Dl8l9l+l/tw3E
+BOARD 0 53 64 0 jSiCiAjQjRjSiBjQjRjSiCiAjQjRjSiBjQjRjSiChMhNp8ptp9waxwxxxyxzwZp8ptp9N1uwuxuzOJOpOpEtOXujuguhujsNwZhzmgmhmimjmkhzmKmLmMmNmOmPuAuB
+BOARD 0 54 64 0 hDlFlGhDlwlxlylzl0hDlFlGhDkgkhkikjkkhDwag8g9p8ptp9wayAyByCyDwZp8ptp9NlvQvRvTuxOJEtOpN1uzuwuxuzsNwZiDmwmxmymzm0iDmambmcmdmemfuQuR
+BOARD 0 55 64 0 hTlVlWhTmAmBmCmDmEhTlVlWhTkwkxkykzk0hTwahMhNp8ptp9waxyxzxwxxwZp8ptp9OruguhujuguhOJOXvRvTvQvRvTsNwVwJwJwJwJwJwJwJhAiQiRiShBiTiUiV
+BOARD 0 56 64 0 hjlllmhjmQmRmSmTmUhjlllmhjlAlBlClDlEhjwag8g9p8ptp9wayCyDyAyBwZp8ptp9OmuwAAABuzuwuzuwvRvTvQvRvTs8scscscscscscscsrhQigihiihRijikil
+BOARD 0 57 64 0 3C3C3C3C3C3Cmimjmkhzl1l2hzlQlRlSlTlUhzwahMhNp8ptp9waxwxxxyxzwZp8ptp9N1vQvRvTvTvQvTvQuhujuguhvQuhujugvQuhAAABuhsNhgiwixiyhhizi0i1
+BOARD 0 58 64 0 3S3S3S3S3S3Tmymzm0iDmFmGiDlglhliljlkiDwag8g9p8ptp9wayAyByCyDwZp8ptp9NluguhujuguhujuguxuzuwuxACADuzuwuguxuzuwuxsNhwjAjBjChxjDjEjF
+BOARD 0 59 64 0 3S3S3S3S3S3TwJwJwJwJwJwJwJwJwJwJwJwJwJwWhMhNp8ptp9waxyxzxwxxwZp8ptp9N1uwuxOVOruxuzuwvRvTvQvRASATujuguhuhujuguhsNiAjQjRjSiBjQjRjS
+BOARD 0 60 64 0 3S3S3S3S3S3Tg8g9g8g9g8g9g8g9g8g9g8g9g8g9g8g9p8ptp9wayCyDyAyBwZp8ptp9NlvQvROJOXvRvTvQuhujuguhuguxuzuwuxuxuzuwuxsNwZhDlwlxlylzl0hD
+BOARD 0 61 64 0 3S3S3S3S3S3ThMhNhMhNhMhNhMhNhMhNhMhNhMhNhMhNp8ptp9waxwxxxyxzwZp8ptp9N1uguhujuguhujuguxuzuwuxuwvRvTvQvRvRvTvQvRsNwZhTmAmBmCmDmEhT
+BOARD 0 62 64 0 3S3S3S3S3S3Tg8g9g8g9g8g9g8g9g8g9g8g9g8g9g8g9p8ptp9wayAyByCyDwZp8ptp9NluhujuguhujuguhvRvTvQvRvQuhujugAAABujugOosNwZhjmQmRmSmTmUhj
+BOARD 0 63 64 0 3S3S3S3S3S3ThMhNhMhNhMhNhMhNhMhNhMhNhMhNhMhNp8ptp9waxyxzxwxxwZp8ptp9N1uxuzuwuxuzACADuhujuguhuguxuzuwuxuxuzOoOpsNwZhzmgmhmimjmkhz
+LINK esthras_housing2.nw 0 27 1 12 61 playery+8
+LINK esthras_hightown_a1.nw 26 4 4 1 26.5 58.5
+NPC - 8 1
+//#CLIENTSIDE
+function onPlayerEnters() {
+  temp.effect = client.timeeffect;
+  temp.i = 1;
+  while(temp.i > temp.effect[3]) {
+    temp.i -= 0.05;
+    seteffect(temp.effect[0], temp.effect[1], temp.effect[2], temp.i);
+    sleep(0.05);
+  }
+  enabledefmovement();
+}
+NPCEND
+NPC newval_housetop2.gif 4 35
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop2.gif,0,0,96,48;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 12 38
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 60 29
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop2.gif 61 26
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop2.gif,0,0,48,48;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC oakburn_window.gif 51 51
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+x=x-.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC oakburn_window.gif 59 56
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+x=x-.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_window-plant1.png 5 51
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  drawoverplayer;
+}
+NPCEND
+NPC oakburn_window.gif 51 46
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+x=x-.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_window-plant1.png 59 57
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  drawoverplayer;
+}
+NPCEND
+NPC val_churchwindow1.gif 55 16
+//#CLIENTSIDE
+// NPC made by Charles Legard, Fencer of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 6 57
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop.gif,0,16,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 47 37
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop.gif,16,16,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_churchwindow1.gif 5 16
+//#CLIENTSIDE
+// NPC made by Charles Legard, Fencer of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop2.gif 58 34
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop2.gif,0,0,96,48;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop2.gif 13 35
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop2.gif,0,0,96,48;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 0 38
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop.gif,16,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 18 38
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop.gif,16,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 19 39
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop.gif,16,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 10 39
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop.gif,16,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 9 38
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop.gif,16,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 1 39
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop.gif,16,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-samroof.gif 59 29
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart val_rp-samroof.gif,0,0,16*5,16*7;
+dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 59 30
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 2 39
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 3 38
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 11 39
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC oakburn_window.gif 5 50
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+x=x-.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC oakburn_window.gif 14 50
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+x=x-.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_window-plant1.png 51 52
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  drawoverplayer;
+}
+NPCEND
+NPC val_churchwindow1.gif 14 16
+//#CLIENTSIDE
+// NPC made by Charles Legard, Fencer of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_churchwindow1.gif 43 16
+//#CLIENTSIDE
+// NPC made by Charles Legard, Fencer of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_irongate.gif 26 21
+function onCreated()
+{
+  const GATE_CLOSED_IMG_Y = 32;
+  const GATE_OPENED_IMG_Y = 88;
+  const GATE_PIXEL_SPEED = 8;
+
+  setimgpart("val_irongate.gif",32,GATE_OPENED_IMG_Y,64,64);
+  dontblock();
+
+  this.opened = true;
+}
+
+function onPlayerchats()
+{
+  if (!(player.account in {"darkshaed","zectra_f21","racil","giok87"}))
+    return;
+
+  if (this.busy == false)
+  {
+    if (player.chat == "Open Gate" && this.opened == false)
+    {
+      Open();
+      dontblock();
+      this.opened = !this.opened;
+    }
+    else if (player.chat == "Close Gate" && this.opened == true)
+    {
+      Close();
+      blockagain();
+      this.opened = !this.opened;
+    }
+  }
+}
+
+function Open()
+{
+  this.busy = true;
+  temp.i = 0;
+  for (i = GATE_CLOSED_IMG_Y; i < GATE_OPENED_IMG_Y; i+=GATE_PIXEL_SPEED)
+  {
+    setimgpart("val_irongate.gif",32,i,64,64);
+    sleep(.05);
+  }
+  setimgpart("val_irongate.gif",32,GATE_OPENED_IMG_Y,64,64);
+  this.busy = false;
+}
+
+function Close()
+{
+  this.busy = true;
+  temp.i = 0;
+  for (i = GATE_OPENED_IMG_Y; i > GATE_CLOSED_IMG_Y; i-=GATE_PIXEL_SPEED)
+  {
+    setimgpart("val_irongate.gif",32,i,64,64);
+    sleep(.05);
+  }
+  setimgpart("val_irongate.gif",32,GATE_CLOSED_IMG_Y,64,64);
+  this.busy = false;
+}
+NPCEND
+NPC - 30 25
+//#CLIENTSIDE
+if (created){y=y+.5;
+  {
+    showcharacter;
+    setcharprop #P1,hat.png;
+    setcharprop #3,val_eliteknight_head111.gif;
+    //setcharprop #3,val-nadrion-valikorliansoldier.png;
+    setcharprop #8,val_eliteknight_body109.gif;
+    setcharprop #C0,gray;
+    setcharprop #C1,gray;
+    setcharprop #C2,white;
+    setcharprop #C3,lightgray;
+    setcharprop #C4,gray;
+    setcharprop #m,0;
+    setcharani val_sit,;
+    swordpower = 1;
+    setcharprop #2,val-jeddrickhalberd-shield.gif;
+    shieldpower = 1;
+    ap = 100;
+    setcharprop #n,Soldier;
+    dir = 2;}
+  setcharani idle,;
+  hearts = 0;
+}
+if (playertouchsme) {message "Hightown's just ahead, so mind yourself." ; sleep 2; message ;;
+
+}
+NPCEND
+NPC - 26 24
+if (created) {
+  setshape 1,16*4,16*1;
+        dontblock;
+}
+if (playerchats)
+  {
+  if (strequals(#g,The Free City of Esthras))
+    {
+    if (strequals(#c,Close Gate))
+      {
+        blockagain;
+      }
+    }
+   if (strequals(#c,Open Gate))
+      {
+        dontblock;
+      }
+    }
+NPCEND
+NPC - 25 21
+join("world_lamp");
+//#CLIENTSIDE
+if (created){x=x-.3;}
+NPCEND
+NPC val_esthrasarch2.gif 26 15
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+  dontblock;
+  drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 63 24
+if (created) {
+  setshape 1,16*1,16*12;
+}
+if (actionwarp) {
+  setlevel2 esthras_vanguardnprison.nw,2,40;
+}
+//#CLIENTSIDE
+if (created) {
+  setshape 1,16*1,16*12;
+}
+if (playertouchsme) {
+  disabledefmovement;
+  setani idle,;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.05;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.15;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.25;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.35;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.45;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.55;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.65;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.75;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.95;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],1;
+  setplayerdir 3;
+  triggeraction x,y,warp,;
+}
+NPCEND
+NPC - 58 8
+//#CLIENTSIDE
+function onPlayerEnters() {
+  temp.effect = client.timeeffect;
+  temp.i = 1;
+  while(temp.i > temp.effect[3]) {
+    temp.i -= 0.05;
+    seteffect(temp.effect[0], temp.effect[1], temp.effect[2], temp.i);
+    sleep(0.05);
+  }
+  enabledefmovement();
+}
+NPCEND
+NPC valikorlia_ironstreetlamp-off.gif 34 59
+join("world_streetlamp");
+if (created){y=y-.4;}
+//x=x-.5;
+NPCEND
+NPC valikorlia_ironstreetlamp-off.gif 19 61
+join("world_streetlamp");
+if (created){y=y-.4;}
+//x=x-.5;
+NPCEND
+NPC val_rp-flag3.gif 45 37
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+dontblock;
+drawoverplayer;
+setimgpart val_rp-flag3.gif,0,0,48,100;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-flag8.gif 45 41
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_esthras-alberfamily.gif 20 40
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 6 58
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 8 58
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 6 59
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 6 57
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 6 61
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 8 58
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart val_rp-barrel.png,0,0,32,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 6 61
+//#CLIENTSIDE
+// NPC made by Samuel (Admin)
+if (created) {
+setimgpart val_rp-barrel.png,0,0,32,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp_barrelstackbase.gif 52 63
+// NPC made by Samuel (Admin)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC oakburn_door.gif 13 55
+//#CLIENTSIDE
+// NPC made by Samuel
+if (created) {
+
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC midas-workbenchh.gif 50 55
+// NPC made by Verb, Spider Elder of the Animal Council
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 5,2,{
+    3,3,3,3,3,
+    3,3,3,3,3,
+      };
+}
+NPCEND
+NPC midas-workbenchh.gif 45 23
+// NPC made by Verb, Spider Elder of the Animal Council
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 5,2,{
+    3,3,3,3,3,
+    3,3,3,3,3,
+      };
+}
+NPCEND
+NPC val_rucksack.png 48 55
+//#CLIENTSIDE
+// NPC made by Rominus Auraelius, Chief Marine of (Bridgeton)
+if (created) {x=x+.3;y=y-.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC midas-workbenchh.gif 50 23
+// NPC made by Verb, Spider Elder of the Animal Council
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 5,2,{
+    3,3,3,3,3,
+    3,3,3,3,3,
+      };
+}
+NPCEND
+NPC midas-workbenchh.gif 8 23
+// NPC made by Verb, Spider Elder of the Animal Council
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 5,2,{
+    3,3,3,3,3,
+    3,3,3,3,3,
+      };
+}
+NPCEND
+NPC - 8 28
+//#CLIENTSIDE
+if (created) {
+  addtiledef valtiles_main.png,#L,0;
+  addtiledef2 valtiles_valcapital.gif,#L,1024,0;
+  //removetiledefs;
+}
+
+if (playertouchsme) {
+}
+NPCEND
+NPC tapestry4.gif 23 18
+// Created by ajf10209
+NPCEND
+NPC tapestry4.gif 31 18
+// Created by ajf10209
+NPCEND

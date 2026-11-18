@@ -1,0 +1,47 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "head2.png";
+  this.body = "val_coatbody101.gif";
+  this.colors[0] = "orange";
+  this.colors[1] = "white";
+  this.colors[2] = "lightgray";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "lightgray";
+  setcharani("0", NULL);
+  this.nick = "Whiteny Blaine";
+  this.dir = 2;
+}
+
+function onPlayerEnters() {
+  this.name = "tamachan";
+  setcharani("idle", this.idle);
+  this.randomx = int(random(-2, 2));
+  this.randomy = int(random(-2, 2));
+  if (!onwall(this.x+1*this.randomx, this.y+1*this.randomy) && !onwater(this.x+1*this.randomx, this.y+1*this.randomy)) {
+    move(this.randomx, this.randomy, 1, 4+8+16+32);
+    setcharani("walk", this.walk);
+  }
+  sleep(1);
+  setcharani("idle", this.idle);
+  setTimer(random(2, 5));
+}
+
+function onPlayerTouchsMe() {
+  say2("I like it here. A calm place.");
+}
+
+function onTimeOut() {
+  this.name = "tamachan";
+  setcharani("idle", this.idle);
+  this.randomx = int(random(-2, 2));
+  this.randomy = int(random(-2, 2));
+  if (!onwall(this.x+1*this.randomx, this.y+1*this.randomy) && !onwater(this.x+1*this.randomx, this.y+1*this.randomy)) {
+    move(this.randomx, this.randomy, 1, 4+8+16+32);
+    setcharani("walk", this.walk);
+  }
+  sleep(1);
+  setcharani("idle", this.idle);
+  setTimer(random(2, 5));
+}

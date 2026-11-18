@@ -1,0 +1,365 @@
+Nivåer (.nw) som blir referert fra world/levels/newworld/, men som ikke finnes noe sted i world/ (18. nov 2026).
+Laget for å gå gjennom og hente. Noen er sikkert rester fra eldre versjoner av serveren (forbindelser som ikke lenger er i bruk).
+gmap = står i en .gmap (hull i kartet)   setupInfo = inngang på worldmap (akiltest)   LINK = kantlink/dør i nivået
+setlevel2 / warpto = warp i et script    this.link = jumplink
+
+== 1. Hull i gmap-filer (22) ==
+  elkinfalls_a1.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_a2.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_a3.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_a4.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_b1.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_b2.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_b3.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_b4.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_c1.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_c2.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_c3.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_c4.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_d1.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_d2.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_d3.nw                           gmap fra elkinfalls.gmap
+  elkinfalls_d4.nw                           gmap fra elkinfalls.gmap
+  ignisairdockinside_a1.nw                   gmap fra ignisairdockinside.gmap
+  ignisairdockinside_a2.nw                   gmap fra ignisairdockinside.gmap
+  ignisairdockinside_b1.nw                   gmap fra ignisairdockinside.gmap
+  ignisairdockinside_b2.nw                   gmap fra ignisairdockinside.gmap
+  val_troivah_02.nw                          gmap fra val_troivah.gmap
+  val_troivah_03.nw                          gmap fra val_troivah.gmap; LINK fra val_troivahint_01.nw
+
+== 2. Innganger fra worldmap (7) ==
+  akiltestlevel.nw                           setupInfo fra ironcaptunnel3.nw
+  breakdown_a1.nw                            setupInfo fra opalharbor_e2.nw
+  dwightfarm.nw                              setupInfo fra worldmapkharlia_f03.nw
+  newkingsdrink_b3.nw                        setupInfo fra worldmapkharlia_f03.nw
+  underdark_kingsplains_01.nw                setupInfo fra kingsplains_cavern_a3.nw
+  val_hellsreach_bartlettout_base.nw         setupInfo fra worldmapkharlia_f04.nw
+  val_templeruins_basement.nw                setupInfo fra val_templeruins.nw
+
+== 3. Andre referanser, etter område (208) ==
+
+-- aerow (1)
+  aerow_insidebalcony.nw                     LINK fra aerow_inside5.nw
+
+-- bloodcliffs (3)
+  bloodcliffs_building1.nw                   LINK fra bloodcliffs_outside.nw
+  bloodcliffs_building3.nw                   LINK fra bloodcliffs_outside.nw
+  bloodcliffs_caves1.nw                      LINK fra bloodcliffs_outside.nw
+
+-- bogsdeep (1)
+  bogsdeep-2.nw                              setlevel2 fra castleoutside.nw
+
+-- boneyard (4)
+  boneyardint_cryptchurcha1.nw               LINK fra boneyardint_cryptchurch_a2.nw, boneyardint_cryptchurch_b1.nw
+  boneyardint_cryptchurcha2.nw               LINK fra boneyardint_cryptchurch_a1.nw, boneyardint_cryptchurch_b2.nw
+  boneyardint_cryptchurchb1.nw               LINK fra boneyardint_cryptchurch_a1.nw, boneyardint_cryptchurch_b2.nw
+  boneyardint_cryptchurchb2.nw               LINK fra boneyardint_cryptchurch_a2.nw, boneyardint_cryptchurch_b1.nw
+
+-- brookhurst (1)
+  brookhurstint_testlevel.nw                 LINK fra newbrookhurst_testlevel.nw
+
+-- carington (2)
+  caringtonint_1.nw                          LINK fra woods_clearing.nw
+  caringtonint_1c.nw                         LINK fra woods_clearing.nw
+
+-- castle (2)
+  castle-leftwing.nw                         LINK fra castleoutside.nw
+  castle-rightwing.nw                        LINK fra castleoutside.nw
+
+-- celdinsewer (1)
+  celdinsewer2.nw                            LINK fra celdinsewer3.nw
+
+-- chateauavellen (2)
+  chateauavellenint_barracks.nw              LINK fra chateauavellen_b2.nw
+  chateauavellenint_gateway.nw               LINK fra chateauavellen_b2.nw
+
+-- darkarchives (1)
+  darkarchives_parlor.nw                     LINK fra darkarchives_hallway5.nw
+
+-- draack (1)
+  draack_greendale2.nw                       LINK fra ironcap_highpeak6.nw
+
+-- dragonsbellyinn (1)
+  dragonsbellyinn_c1.nw                      setlevel2 fra lerhyn_ruin2-whattheFUCK.nw
+
+-- durandalcity (2)
+  durandalcity_g2.nw                         LINK fra durandalcity_g1.nw, durandalcity_g3.nw
+  durandalcity_g6.nw                         LINK fra durandalcity_g5.nw
+
+-- earthpath (1)
+  earthpath-1.nw                             LINK fra sky_a1.nw
+
+-- eastocean (4)
+  eastocean_aa05.nw                          LINK fra eastocean_aa06.nw
+  eastocean_aa08.nw                          LINK fra eastocean_aa07.nw; setlevel2 fra val_durandal_2a.nw
+  eastocean_ab06.nw                          LINK fra eastocean_aa06.nw
+  eastocean_ab07.nw                          LINK fra eastocean_aa07.nw
+
+-- esthras (3)
+  esthras_alley2.nw                          LINK fra esthras_trade1.nw
+  esthras_entrance.nw                        LINK fra esthrasint_gatehouse1.nw
+  esthras_trade2.nw                          LINK fra esthrasint_explosiveshop.nw, valcapitolint_house6_shack.nw, valcapitolint_tannershop.nw; setlevel2 fra esthras_trade1.nw
+
+-- foundryfurnace (1)
+  foundryfurnace_entrance.nw                 LINK fra sky_a2.nw
+
+-- frostheim (2)
+  frostheim-basementstairs.nw                LINK fra frostheim-basement.nw
+  frostheim-mainhall.nw                      LINK fra frostheim-entryway.nw
+
+-- gafferinside (3)
+  gafferinside_house1.nw                     LINK fra gafferhome.nw
+  gafferinside_outhouse.nw                   LINK fra gafferhome.nw
+  gafferinside_shed.nw                       LINK fra gafferhome.nw
+
+-- ganelon (1)
+  ganelonint_mariaklift.nw                   LINK fra ganelonint_mariakhouse2.nw
+
+-- gatlingcamp (3)
+  gatlingcamp_a3.nw                          LINK fra gatlingcamp_b3.nw
+  gatlingcamp_b2.nw                          LINK fra gatlingcamp_b3.nw
+  gatlingcamp_c3.nw                          LINK fra gatlingcamp_b3.nw
+
+-- goaway.nw (1)
+  goaway.nw                                  setlevel2 fra testlevel_nico.nw, testlevelint_nico.nw
+
+-- greencastle (1)
+  greencastle1.nw                            LINK fra val_laboo_pathway.nw
+
+-- greendale (2)
+  greendale-carpentershop-5.nw               LINK fra greendale-carpentershop-storage.nw
+  greendale-carpentershop-storage2.nw        LINK fra greendale-carpentershop-storage.nw
+
+-- hidden (2)
+  hidden_hallway.nw                          setlevel2 fra ignisairdock_c1.nw
+  hidden_parlor.nw                           LINK fra hidden_hallway5.nw
+
+-- holtham (1)
+  holtham_c1.nw                              LINK fra newganelon-enterance_a1.nw
+
+-- lionnes (4)
+  lionnes-estate_a-2.nw                      LINK fra lionnes-estate_wall-1.nw
+  lionnes-estate_b-1.nw                      LINK fra lionnes-estate_blacksmith.nw, lionnes-estate_cryptentry.nw
+  lionnes-estate_b-2.nw                      LINK fra lionnes-estate_wall-2.nw
+  lionnes_estate_a_2.nw                      LINK fra lionnes-estate_guardtower-1.nw
+
+-- lust (4)
+  lust_garden2.nw                            LINK fra lust_garden1.nw
+  lust_gardena1.nw                           LINK fra lust_gardenb1.nw
+  lust_gardenb2.nw                           LINK fra lust_gardenb1.nw
+  lust_gardenc1.nw                           LINK fra lust_gardenb1.nw
+
+-- madgander (1)
+  madganderint-main.nw                       LINK fra madganderint-home.nw
+
+-- malpheus (1)
+  malpheus_lair2.nw                          LINK fra malpheus_lair1.nw
+
+-- mchale (1)
+  mchale-pub.nw                              LINK fra forestclearing_a1.nw
+
+-- milahousefloor (1)
+  milahousefloor_2.nw                        LINK fra milahousefloor_1.nw
+
+-- newbrookhurst (16)
+  newbrookhurstint_cirihouse-2.nw            LINK fra newbrookhurstint_cirihouse-1.nw
+  newbrookhurstint_heartyhearth-2.nw         LINK fra newbrookhurstint_heartyhearth-1.nw
+  newbrookhurstint_house1-basement.nw        setlevel2 fra newbrookhurstint_house1-1.nw
+  newbrookhurstint_house1-floor2.nw          LINK fra newbrookhurstint_house1-1.nw
+  newbrookhurstint_house3-left-2.nw          LINK fra newbrookhurstint_house3-left-1.nw
+  newbrookhurstint_house3-left-3.nw          setlevel2 fra newbrookhurstint_house3-left-1.nw
+  newbrookhurstint_house3-right-2.nw         LINK fra newbrookhurstint_house3-right-1.nw
+  newbrookhurstint_house3-right-3.nw         setlevel2 fra newbrookhurstint_house3-right-1.nw
+  newbrookhurstint_house4-left-2.nw          LINK fra newbrookhurstint_house4-left-1.nw
+  newbrookhurstint_house4-left-3.nw          setlevel2 fra newbrookhurstint_house4-left-1.nw
+  newbrookhurstint_house4-right-2.nw         LINK fra newbrookhurstint_house4-right-1.nw
+  newbrookhurstint_house4-right-3.nw         setlevel2 fra newbrookhurstint_house4-right-1.nw
+  newbrookhurstint_house6-2.nw               LINK fra newbrookhurstint_house6-1.nw
+  newbrookhurstint_house6-3.nw               setlevel2 fra newbrookhurstint_house6-1.nw
+  newbrookhurstint_house7-2.nw               LINK fra newbrookhurstint_house7-1.nw
+  newbrookhurstint_house7-3.nw               setlevel2 fra newbrookhurstint_house7-1.nw
+
+-- newganelon (2)
+  newganelonint_house12.nw                   LINK fra newganelonint_house12_den.nw, newganelonint_house12_down.nw, newganelonint_house12_up.nw
+  newganelonint_house2_up.nw                 LINK fra newganelonint_house2_room2.nw
+
+-- newganelonforest (1)
+  newganelonforest_a1.nw                     LINK fra newganelonfarm_a2.nw, newganelonfarm_b2.nw
+
+-- newgreendale (3)
+  newgreendaleint-tashinn-cellar.nw          LINK fra newgreendaleint_tashinn-main2.nw
+  newgreendaleint_madgander-room1.nw         LINK fra newgreendaleint_madgander-upstairs.nw
+  newgreendaleint_madgander-room2.nw         LINK fra newgreendaleint_madgander-upstairs.nw
+
+-- newkordovia (2)
+  newkordoviaint_guardtower-main.nw          LINK fra newkordovia_a1.nw
+  newkordoviaint_house1-main.nw              LINK fra newkordovia_a1.nw
+
+-- newlucca (5)
+  newluccaint_inquisitionchapel.nw           LINK fra eastocean_aa06.nw
+  newluccaint_inquisitoroffice.nw            LINK fra eastocean_aa06.nw
+  newluccaint_motelroom1.nw                  LINK fra eastocean_aa07.nw
+  newluccaint_motelroom2.nw                  LINK fra eastocean_aa07.nw
+  newluccaint_tavernmotel.nw                 LINK fra eastocean_aa07.nw
+
+-- newmournglade (2)
+  newmournglade_e1.nw                        LINK fra newmournglade_d1.nw
+  newmournglade_e2.nw                        LINK fra newmournglade_d2.nw
+
+-- nomad (1)
+  nomadint_cave-04.nw                        setlevel2 fra nomadint_bunker-lift.nw
+
+-- oakburn (4)
+  oakburnint_lordhouse-backroom.nw           LINK fra oakburnint_lordhouse-main.nw
+  oakburnint_lordhouse-hallwaye.nw           LINK fra oakburnint_lordhouse-main.nw
+  oakburnint_lordhouse-hallwayw.nw           LINK fra oakburnint_lordhouse-main.nw
+  oakburnint_lordhouse-upstairs.nw           LINK fra oakburnint_lordhouse-main.nw
+
+-- personalhouse (1)
+  personalhouse-celebrandir.nw               LINK fra towertown_1.nw
+
+-- presentmaze (2)
+  presentmaze_a2.nw                          LINK fra presentmaze_a1.nw
+  presentmaze_b1.nw                          LINK fra presentmaze_a1.nw
+
+-- redrockmountains (3)
+  redrockmountainsint_cave-04.nw             LINK fra redrockmountainsint_cave-03.nw, redrockmountainsint_cave-sub-01.nw
+  redrockmountainsint_cavern_02.nw           LINK fra redrockmountainsint_cavern_03.nw
+  redrockmountainsint_cavern_04.nw           LINK fra redrockmountainsint_cavern_03.nw
+
+-- shriekinghollow (3)
+  shriekinghollow_a1.nw                      LINK fra sunstolevale_a2.nw
+  shriekinghollow_a2.nw                      LINK fra sunstolevale_a3.nw
+  shriekinghollow_a3.nw                      LINK fra sunstolevale_a2.nw
+
+-- stagforest (8)
+  stagforest_a2.nw                           LINK fra stagforest_a1.nw
+  stagforest_b1.nw                           LINK fra stagforest_a1.nw
+  stagforest_b3.nw                           LINK fra stagforest_c3.nw
+  stagforest_brook.nw                        LINK fra stagforest_e1.nw
+  stagforest_c2.nw                           LINK fra stagforest_c3.nw
+  stagforest_d1.nw                           LINK fra stagforest_e1.nw
+  stagforest_d3.nw                           LINK fra stagforest_c3.nw
+  stagforest_e2.nw                           LINK fra stagforest_e1.nw
+
+-- staghorn (1)
+  staghorn-castle-throne.nw                  LINK fra staghorn-castle-throne2a.nw
+
+-- staghornforest (1)
+  staghornforest13.nw                        setlevel2 fra castleoutside.nw
+
+-- tashcave (1)
+  tashcaveint_a2.nw                          LINK fra tashcave_outside.nw
+
+-- uchimatunnel (1)
+  uchimatunnel_2.nw                          LINK fra valcapitolint_pub11.nw
+
+-- undercastlestaghorn (1)
+  undercastlestaghorn2.nw                    LINK fra undercastlestaghorn1.nw
+
+-- underdark (19)
+  underdark_arena_int_01.nw                  LINK fra underdark_arena_c3.nw
+  underdark_arena_int_02.nw                  LINK fra underdark_arena_c2.nw
+  underdark_arena_int_03.nw                  LINK fra underdark_arena_c2.nw
+  underdark_arena_int_04.nw                  LINK fra underdark_arena_b3.nw
+  underdark_arena_int_05.nw                  LINK fra underdark_arena_c1.nw
+  underdark_arena_int_09.nw                  LINK fra underdark_arena_b2.nw
+  underdark_arena_int_12.nw                  LINK fra underdark_arena_b1.nw
+  underdark_arena_int_16.nw                  LINK fra underdark_arena_b1.nw, underdark_arena_c1.nw
+  underdark_arena_int_18.nw                  LINK fra underdark_arena_a1.nw, underdark_arena_b1.nw
+  underdark_arena_int_19.nw                  LINK fra underdark_arena_b2.nw
+  underdark_arena_int_aundrilsol_01.nw       LINK fra underdark_arena_d3.nw
+  underdark_arena_int_carstein_01.nw         LINK fra underdark_arena_c4.nw
+  underdark_arena_int_conscripted_01.nw      LINK fra underdark_arena_d4.nw
+  underdark_arena_int_theros_01.nw           LINK fra underdark_arena_b4.nw
+  underdark_arena_int_unbound_01.nw          LINK fra underdark_arena_e4.nw
+  underdark_arena_path.nw                    setlevel2 fra underdark_arena_e1.nw
+  underdark_kingsplains_05.nw                LINK fra underdark_kingsplains_06.nw
+  underdark_kingsplains_07.nw                LINK fra underdark_kingsplains_06.nw
+  underdark_redrockmountains7.nw             LINK fra underdark_redrockmountains12.nw
+
+-- val (37)
+  val_alaeron_field.nw                       setlevel2 fra val_saiyauchimaship_1.nw
+  val_alaeron_field_a1.nw                    setlevel2 fra val_alaeron_field_pier.nw
+  val_camptownint_keep_02.nw                 LINK fra val_camptownint_factory_05.nw
+  val_cumberlundbarn_inside_01.nw            LINK fra val_cumberlundbarn_outside_a1.nw
+  val_durandal_ierhietoutside1.nw            setlevel2 fra val_laboo_1d.nw
+  val_int_greendale_apartment_a-03.nw        LINK fra val_int_greendale_apartment_a-02.nw
+  val_int_greendale_apartment_a-07.nw        LINK fra val_int_greendale_apartment_a-06.nw
+  val_int_greendale_apartment_a-09.nw        LINK fra val_int_greendale_apartment_a-08.nw
+  val_int_greendale_apartment_c-03.nw        LINK fra val_int_greendale_apartment_c-02.nw
+  val_int_greendale_apartment_c-07.nw        LINK fra val_int_greendale_apartment_c-06.nw
+  val_int_greendale_apartment_c-09.nw        LINK fra val_int_greendale_apartment_c-08.nw
+  val_int_greendale_bank_02.nw               LINK fra val_int_greendale_bank_01.nw
+  val_int_greendale_janyns_02.nw             LINK fra val_int_greendale_janyns_01.nw
+  val_int_greendale_janyns_03.nw             LINK fra val_int_greendale_janyns_01.nw
+  val_labooint-shack1.nw                     LINK fra val_labooint-shack2OLD.nw
+  val_labooint-shack2.nw                     LINK fra val_labooint-shack1OLD.nw
+  val_meldairesholdfast_hallway.nw           LINK fra val_meldairesholdfast_entrance.nw
+  val_oakispathway.nw                        LINK fra ignisairdockint_mdorms2.nw
+  val_playerhouse_clc4_int1b.nw              LINK fra val_playerhouse_clc4_int1.nw
+  val_playerhouse_clc4_int2.nw               LINK fra val_playerhouse_clc4_int1.nw
+  val_playerhouse_clc4_office.nw             LINK fra val_playerhouse_clc4_int1.nw
+  val_playerhouse_clc4_stairs.nw             LINK fra val_playerhouse_clc4_int1c.nw
+  val_saiyauchimahouse_1.nw                  setlevel2 fra val_saiyauchimaship_1.nw
+  val_saiyauchimaisland_e2.nw                setlevel2 fra val_saiyauchimaship_1.nw
+  val_saiyauchimaship_2.nw                   setlevel2 fra val_saiyauchimaship_1.nw
+  val_saiyauchimavillage_1.nw                setlevel2 fra val_saiyauchimaship_1.nw
+  val_smarths-den.nw                         LINK fra newgreendaleint_redshallway.nw
+  val_troivahint_02.nw                       LINK fra val_troivahint_01.nw
+  val_troivahint_relentlessdawn_02.nw        LINK fra val_troivah_01.nw
+  val_vandertrain2.nw                        LINK fra val_vandertrain.nw
+  val_vandrakehouseint_3.nw                  LINK fra val_vandrakehouseint_1.nw
+  val_wispshell_02.nw                        LINK fra val_wispshell_03.nw
+  val_wispshell_int_foyer.nw                 LINK fra val_wispshell_03.nw
+  val_wizardtower4.nw                        LINK fra val_wizardtowerapothecary.nw
+  val_wizardtowerarboretum.nw                LINK fra val_wizardtowerapothecary.nw
+  val_wizardtowersecret2.nw                  LINK fra val_wizardtowersecret1.nw
+  val_wizardtowershival.nw                   LINK fra val_wizardtowerbasement.nw
+
+-- valcapitol (26)
+  valcapitol-tower_b2.nw                     LINK fra valtowerint_entrance.nw
+  valcapitol-tower_b3.nw                     LINK fra valcapitolint_tunnel.nw
+  valcapitol_a2.nw                           LINK fra valcapitolint_guildreg_lobby.nw
+  valcapitol_a3.nw                           LINK fra valcapitolint_eternal_war_shop1.nw, valcapitolint_house37.nw, valcapitolint_house6_robert.nw
+  valcapitol_a5.nw                           LINK fra valcapitolint_house38.nw
+  valcapitol_alley1-a1.nw                    LINK fra valcapitol_alley1-a2.nw, valcapitolint_house16.nw, valcapitolint_house17.nw, valcapitolint_house28.nw (+1)
+  valcapitol_alley1-b1.nw                    LINK fra valcapitolint_house13.nw, valcapitolint_house14.nw, valcapitolint_house15.nw, valcapitolint_house32.nw (+2)
+  valcapitol_alley1-b2.nw                    LINK fra valcapitol_alley1-a2.nw, valcapitolint_house27.nw, valcapitolint_house31.nw
+  valcapitol_alley10.nw                      LINK fra valcapitolint_house40.nw
+  valcapitol_alley11.nw                      LINK fra valcapitolint_house39.nw
+  valcapitol_alley2.nw                       LINK fra valcapitolint_house12.nw
+  valcapitol_alley3.nw                       LINK fra valcapitolint_house46.nw
+  valcapitol_alley4.nw                       LINK fra valcapitolint_house1.nw, valcapitolint_house2.nw, valcapitolint_house3.nw, valcapitolint_house4.nw
+  valcapitol_alley6-a1.nw                    LINK fra valcapitolint_house10.nw, valcapitolint_house20.nw, valcapitolint_house7.nw, valcapitolint_house8.nw
+  valcapitol_alley6-a2.nw                    LINK fra valcapitolint_house26.nw, valcapitolint_house44.nw
+  valcapitol_alley6-b1.nw                    LINK fra valcapitolint_eternal_war.nw, valcapitolint_house19.nw, valcapitolint_house35.nw, valcapitolint_house43.nw (+1)
+  valcapitol_alley6-b2.nw                    LINK fra valcapitolint_house18.nw, valcapitolint_house41.nw, valcapitolint_house42.nw
+  valcapitol_alley7.nw                       LINK fra valcapitolint_house11.nw
+  valcapitol_alley8.nw                       LINK fra valcapitolint_house45.nw
+  valcapitol_alley9.nw                       LINK fra valcapitolint_house25.nw
+  valcapitol_b1.nw                           LINK fra valcapitolint_church1.nw
+  valcapitol_b3.nw                           LINK fra valcapitol_alley1-a2.nw, valcapitolint_house29.nw, valcapitolint_house49.nw
+  valcapitol_b5.nw                           LINK fra valcapitolint_house21.nw, valcapitolint_house22.nw, valcapitolint_house23.nw, valcapitolint_house24.nw
+  valcapitol_c3.nw                           LINK fra valcapitolint_inn_f1.nw, valcapitolint_magesmith-1.nw
+  valcapitol_d3.nw                           LINK fra valcapitolint_clockshop.nw
+  valcapitol_d4.nw                           LINK fra valcapitolint_xtshop.nw
+
+-- valcapitolarena (3)
+  valcapitolarena_a2.nw                      LINK fra esthras_intersection.nw, esthras_vanguardnprison.nw
+  valcapitolarena_b2.nw                      LINK fra esthras_intersection.nw
+  valcapitolarena_hallconnect.nw             LINK fra esthras_vanguardnprison.nw
+
+-- valcapitolundercity (1)
+  valcapitolundercity_vamp2.nw               LINK fra lionnes-estate_cryptentry.nw
+
+-- valdesert (3)
+  valdesert_a03.nw                           LINK fra valdesert_a04.nw
+  valdesert_a05.nw                           LINK fra valdesert_a04.nw
+  valdesert_b04.nw                           LINK fra valdesert_a04.nw
+
+-- veneficusoutside.nw (1)
+  veneficusoutside.nw                        LINK fra worldmapfull_e02.nw
+
+-- whistlerpo (1)
+  whistlerpoint_forest-2.nw                  LINK fra whistlerpoint_forest-1.nw

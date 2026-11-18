@@ -1,0 +1,520 @@
+GLEVNW01
+BOARD 0 0 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 1 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 2 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 3 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 4 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 5 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 6 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 7 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 8 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 9 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 10 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 11 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 12 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 13 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiAiBiBiBiBiBiBiBiBiBiBiCiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 14 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiQhghhhhhhhhhhhhhhhhhiiSiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 15 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiQhghhhhhhhhhhhhhhhhhiiSiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 16 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiQhghhhhhhhhhhhhhhhhhiiSiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 17 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiQFCFCFCFCFCFCFCFCFCFCiSiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 18 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiQFCFCFCFCFCFCFCFCFCFCiSiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 19 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiQFCFCFCFCFCFCFCFCFCFCiSiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 20 64 0 iyiyiyiyiyiyiyiAiBiBiBiBiBiBiBiBiBiBiBiBiBiBlqlriBiBiDFCFCFCFCFCFCFCFCFCFCiEiBiBlqlriBiBiBiBiBiBiBiBiBiBiBiBiBiBiCiyiyiyiyiyiyiy
+BOARD 0 21 64 0 iyiyiyiyiyiyiyiQhghhhhhhhhhhhhhhhhhhhhhhhhhil6l7hghhhititititititititititihghhhil6l7hghhhhhhhhhhhhhhhhhhhhhhhhhiiSiyiyiyiyiyiyiy
+BOARD 0 22 64 0 iyiyiyiyiyiyiyiQihihihihhhhhhhhhhhhhhhhhhhhimKmLhghhhihghhhhhhhhhhhhhhhhhihghhhimKmLhghhhhhhhhhhhhhhhhhhihihihihiSiyiyiyiyiyiyiy
+BOARD 0 23 64 0 iyiyiyiyiyiyiyiQhghhhhhhhhhhhhhhhhhhhhhhhhhimambhghhhigxgxgxgxgxgxgxgxgxgxhghhhimambhghhhhhhhhhhhhhhhhhhhhhhhhhiiSiyiyiyiyiyiyiy
+BOARD 0 24 64 0 iyiyiyiyiyiyiyiQhghhhhhhhhhhhhhhhhhhhhhhhhhimqmrhghhhigxgxgxgxgxgxgxgxgxgxhghhhimqmrhghhhhhhhhhhhhhhhhhhhhhhhhhiiSiyiyiyiyiyiyiy
+BOARD 0 25 64 0 iyiyiyiyiyiyiyiQhghhhhhhtzhhhhhhhhhhhhhhhhhimambhghhhigxgxgxgxgxgxgxgxgxgxhghhhimambhghhhhhhhhhhhhhhhhtyhhhhhhhiiSiyiyiyiyiyiyiy
+BOARD 0 26 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzhhhhhhhhhhhhhhhhhimqmrhghhhigxgxgxgxgxgxgxgxgxgxhghhhimqmrhghhhhhhhhhhhhhhhhtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 27 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxgxgxgxgxgxgxn6n7gxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxn6n7gxgxgxgxgxgxgxgxgxtyhhhhhhFCiSiyiyiyiyiyiyiy
+BOARD 0 28 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtktjgxgxtjtlgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 29 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtynonenfnptzgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 30 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxtktjtjtjtjtjtjtjtjtlgxgxgxtyn4n5n4n5tzgxgxgxtktjtjtjtjtjtjtjtjtlgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 31 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxtynoiuiviuivnpnonptzgxgxgxt0titititit1gxgxgxtynonpnoiuivnpnonptzgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 32 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxtyn4n5n4n5n4n5n4n5tzgxgxgxgxgxgxgxgxgxgxgxgxtyn4n5n4n5n4n5n4n5tzgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 33 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxt0titititititititit1gxgxgxgxgxgxgxgxgxgxgxgxt0titititititititit1gxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 34 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 35 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtnt4t4t4t4t4t4t5gxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 36 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxt3uIuIuIuIuIuIuJgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 37 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxt3tnt4t4t4t4t5uJgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 38 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxt3t3uIuIuIuIuJuJgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 39 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxt3t3uIuIuIuIuJuJgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 40 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxtktjtjtjtjtjtjtjtjtlgxgxt3t3uIuIuIuIuJuJgxgxtktjtjtjtjtjtjtjtjtlgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 41 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxtynonpnonpiuivnonptzgxgxt3t3uIuIuIuIuJuJgxgxtynonpnonpnonpiuivtzgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 42 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxtyn4n5n4n5n4n5n4n5tzgxgxt3t3uIuIuIuIuJuJgxgxtyn4n5n4n5n4n5n4n5tzgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 43 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxt0titititititititit1gxgxt3t3uIuIuIuIuJuJgxgxt0titititititititit1gxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 44 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxt3t3uIuIuIuIuJuJgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 45 64 0 iyiyiyiyiyiyiyiQFCFCFCFCtzgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxt3t3uIuIuIuIuJuJgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtyFCFCFCFCiSiyiyiyiyiyiyiy
+BOARD 0 46 64 0 iyiyiyiyiyiyiyiyFCFCFCFCtzgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxt3t3uIuIuIuIuJuJgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtyFCFCFCFCiyiyiyiyiyiyiyiy
+BOARD 0 47 64 0 iyiyiyiyiyiyiyiyFCFCFCFCtzgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxt3t3uIuIuIuIuJuJgxgxgxgxgxgxgxgxgxgxgxgxgxgxgxtyFCFCFCFCiyiyiyiyiyiyiyiy
+BOARD 0 48 64 0 iyiyiyiyiyiyiyiyiyiyihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihiyiyiyiyiyiyiyiyiyiy
+BOARD 0 49 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 50 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 51 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 52 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 53 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 54 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 55 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 56 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 57 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 58 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 59 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 60 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 61 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 62 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+BOARD 0 63 64 0 iyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy
+LINK ignisairdock_a2.nw 29 48 5 1 40 4
+NPC val_valcastle-cornertiles.png 8 46
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-cornertiles.png,96,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_valcastle-cornertiles.png 54 46
+// NPC made by Wyand (Valikorlia)
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_valcastle-cornertiles.png,128,0,32,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_rp-bookshelfinwallignis.gif 17 21
+// NPC made by Vergoth the Forgelord
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-bookshelfinwallignis.gif 14 21
+// NPC made by Vergoth the Forgelord
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-bookshelfinwallignis.gif 44 21
+// NPC made by Vergoth the Forgelord
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-bookshelfinwallignis.gif 47 21
+// NPC made by Vergoth the Forgelord
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ignispillar-lorsmall.gif 46 34
+drawunderplayer;dontblock;
+NPCEND
+NPC ignispillar-lorsmall.gif 38 34
+drawunderplayer;dontblock;
+NPCEND
+NPC ignispillar-lorsmall.gif 46 44
+drawunderplayer;dontblock;
+NPCEND
+NPC ignispillar-lorsmall.gif 38 44
+drawunderplayer;dontblock;
+NPCEND
+NPC ignispillar-lorsmall.gif 24 44
+drawunderplayer;dontblock;
+NPCEND
+NPC ignispillar-lorsmall.gif 16 44
+drawunderplayer;dontblock;
+NPCEND
+NPC ignispillar-lorsmall.gif 24 34
+drawunderplayer;dontblock;
+NPCEND
+NPC ignispillar-lorsmall.gif 16 34
+drawunderplayer;dontblock;
+NPCEND
+NPC gal-redchairup1-remake.gif 22 33
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC gal-redchairup1-remake.gif 18 33
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC gal-redchairup1-remake.gif 18 43
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC gal-redchairup1-remake.gif 22 43
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC gal-redchairup1-remake.gif 40 43
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC gal-redchairup1-remake.gif 44 43
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC gal-redchairup1-remake.gif 44 33
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC gal-redchairup2-remake.gif 22 33
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC gal-redchairup2-remake.gif 18 33
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC gal-redchairup2-remake.gif 18 43
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC gal-redchairup2-remake.gif 22 43
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC gal-redchairup2-remake.gif 40 43
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC gal-redchairup2-remake.gif 44 43
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC gal-redchairup2-remake.gif 44 33
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC gal-redchairup1-remake.gif 40 33
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC gal-redchairup2-remake.gif 40 33
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+dontblock;
+NPCEND
+NPC ignispillar-lorsmall.gif 29 32
+drawunderplayer;dontblock;
+NPCEND
+NPC ignispillar-lorsmall.gif 33 32
+drawunderplayer;dontblock;
+NPCEND
+NPC gal-redchairdown-remake.gif 31 26
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val-ignistablepiece.gif 31 28
+drawoverplayer;dontblock;
+NPCEND
+NPC stefanbook.gif 31 29
+
+NPCEND
+NPC val-labtools2.gif 18 30
+// NPC made by Gaz ooc
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-labtools2.gif 20 30
+// NPC made by Gaz ooc
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-labtools2.gif 45 40
+// NPC made by Gaz ooc
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC stefanbook.gif 40 42
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC stefanbook.gif 22 32
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-barrel.png 20 25
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seuagen-bluepotion.gif 17 30
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+}
+NPCEND
+NPC seuagen-bluepotion.gif 46 41
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+}
+NPCEND
+NPC seuagen-redpotion.gif 42 30
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC stefanbook.gif 44 32
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kender-redfeather.gif 45 32
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+}
+NPCEND
+NPC alogrest-book.gif 40 32
+//#CLIENTSIDE
+if (created) {
+}
+NPCEND
+NPC val-fishtank.gif 27 21
+if (created) {
+y=y-.5;drawunderplayer;
+}
+NPCEND
+NPC - 28 21
+//#CLIENTSIDE
+if (created) {
+  // Initialize the attributes
+  showcharacter;
+dir=3;
+setcharani val-lorfish-swim3,gani
+drawoverplayer;
+y=20.5;
+}
+NPCEND
+NPC val-labtools2.gif 21 40
+// NPC made by Gaz ooc
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seuagen-redpotion.gif 18 40
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seuagen-bluepotion.gif 17 40
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+}
+NPCEND
+NPC stefanbook.gif 19 42
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-ignisbanner3.gif 36 22
+// NPC made by Draack
+if (created) {x=x+0.5;
+}
+NPCEND
+NPC val-ignisbanner3.gif 23 22
+// NPC made by Draack
+if (created) {x=x+0.5;
+}
+NPCEND
+NPC waterfalldown.gif 8 23
+// NPC made by Caedril Rossil, Magister of the
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC waterfalldown.gif 52 23
+// NPC made by Caedril Rossil, Magister of the
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC draack_watersplash.gif 9 35
+// NPC made by Caedril Rossil, Magister of the
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC draack_watersplash.gif 54 28
+// NPC made by Caedril Rossil, Magister of the
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC draack_watersplash1.gif 52 38
+// NPC made by Caedril Rossil, Magister of the
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC draack_watersplash1.gif 9 28
+// NPC made by Caedril Rossil, Magister of the
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC draack_watersplash1.gif 8 44
+// NPC made by Caedril Rossil, Magister of the
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC draack_watersplash1.gif 29 17
+// NPC made by Caedril Rossil, Magister of the
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND

@@ -1,0 +1,1648 @@
+GLEVNW01
+BOARD 0 0 64 0 SBQBQCSAtjtkc+cmcncocpcmcncoc/tjtkSRQCQDQAQBQCQDQAQBQCQDRSQVHAHBHAHBHAHBHAHBHAGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGhGgGh
+BOARD 0 1 64 0 SRQSQTQQuVt0c+c2c3c4c5c2c3c4c/tzthRgRhQTQQGiGjQTQQQRS5QTQQRSQ0Q1Q0Q1Q0Q1QVHRHQHAGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGxGwGx
+BOARD 0 2 64 0 SBHCHDaPuVcqc9cmcncocpcmcncoc8crthTUSBQjQgGyGzQjQgQhQiQjZ0QhQiQjQgaPQiQjRSQVHAHBHAHBHAGhGgGhGgGhHAHBHAHBHAGhGgGhGgGhGgGhGgGhGgGh
+BOARD 0 3 64 0 SRHSHTQwuVc+c5c2c3c4c5c2c3c4c5c/thTkSRQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwRSQVHRHQHRHQHAGwGxHBHRHQHRHQHRHQHRGwGxGwGxGwGxGwGxGwGx
+BOARD 0 4 64 0 SBQCQDQAuVc+cpcmcncocpcmcncocpc/thRQQEQDQAQBS2QDQAQBQCQDQASYQCQDQAGiGjQDQAQBRSQ0Q1QVHAHBHAHBHAHBQUQ0Q1Q0QVHBHAHBHAHBHBGhGgGhGgGh
+BOARD 0 5 64 0 SRQVQTSYuVc6ctc2c3c4c5c2c3cocsc7thSBQkQTQQQRQSQTQQQRafQTQQQRQSQTQQGyGzQTQQQRQSQTQQRSQVHRHQHRHQQURRQRQSQTRSQVHQHRHQHRHQHRHBGxGwGx
+BOARD 0 6 64 0 SBQFQjQgtjtkc+cmcncocpcmcnc4c/tjtknmQiQkQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhRSQ0Q1Q0Q1RRQgQhQiQjQgRSQ0Q1Q0Q1QVHBHAHBHAHB
+BOARD 0 7 64 0 SRQlQzQluVt0c+c2c3c4c5c2c3coc/tzthn2nmZuQkQxQyQzQgQhQiQjQUQ0Q1QVQgQhQiGoGpQxQyQzQwQxQyQzQwQxQyQzQwQxZ/ZuQwQxQyQzQwQxRSQVHQHRHQHR
+BOARD 0 8 64 0 QSQTQltItYcqc9cmcncocpcmcncoc8crtZitn2nmQCQkQCQDQwQxQyQUHQHRHQQzQVQxQyG4G5QBQCQDQAQBQCQDQAQBQCQDQAQBQCQDGoGpQCQDQASYQCRSQ0Q1Q0Q1
+BOARD 0 9 64 0 QTQltXtYtoc+c5c2c3c4c5c2c3c4c5c/tptZitn2nmnnQkQTQUQ0Q1HBHAHBHAHBQFQBQCQDQAQRQSQTQQQRQSQTQQQRQSQTQQZ+QSQTG4G5QSQTQQQRQSQTQQQRQSQT
+BOARD 0 10 64 0 Qltmtntog6c+cpcmcncocpcmcncoc5c/g6tptqitn2n3nnQEQEHRHQHRHQHRHQHRHQQVQgQTQQQhQiQjQgQhQiQjQgQhS5QjQgQhQiQjQgQhQiQjQARiSDRhQAafQiQj
+BOARD 0 11 64 0 t1t2t3cqcvc9c5c2c3c4c5c2c3c4c5c8cvcrt6t7itnHQUQzQEHBQFQkRERFQiHBHAHBQVQjQgQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxZ0QzRiRyTURxRhQxQyQz
+BOARD 0 12 64 0 tktog6c+cncocpcmcncocpcmcnVoVoVoVoVoVoVotjtkQTQDQkHRHQQVQwQxQEHRHQHRQFQzQwQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDSATUTTTUSRQBQCQD
+BOARD 0 13 64 0 uVcqcvc9c3c4c5c2c3c4c5c2c3V4V4V4V4V4V4V4thzqQSQTQAQEHAQFQAQBQkQDHAHBHAQVQAQRQSQTQQS5QSQTQQSYQSQTQQQRQSQTQQQRQhQiSQTkTjUwSBRRQRQV
+BOARD 0 14 64 0 uVc+c5cncocpcpcmcncocpcmcnWIWIWIWIWIWIWIthz6QiQjQQQEHQQjQ0Q0QVQkHQHRHQQFQQQhQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhQxQyRSRCTTTUSRQgQhQF
+BOARD 0 15 64 0 uVc6ctc3c4c5c5c2c3c3c4c4c3VJcnVJcoVJcsVJth0KQyQzQgQkQiGhGgGhZjQVQkRERFQlQgQxQyQzQwQxQyafQwQxQyQzQwQUQ1Q0QVQxZvQCQzRSRTTUSBQwQxQF
+BOARD 0 16 64 0 tjtkc+cncocpcpcmco3D3Ecococpc5c2c4c4c/tjtk0aQCQDZ+QxQEZyGwGxGwQFQwQxQyQzQwQBQCQDQAQBQCQDQAQBQCQDQUHBHAHBQFQBQBQCafQAQURCSRSYQBQC
+BOARD 0 17 64 0 uVt0c+c2c4c5c2c43D3D3E3Ec4c4c5c2c4c4c/tzth0KQSQTQAQBQkQDZyGhGgQFZ/QBQCQDQAQRQSQTQQQRQSQUQ0Q1Q0Q1HQHRHQHRQFQRQRQRQSSYQESARgRhQRZR
+BOARD 0 18 64 0 uVcqc9cmcocpcm3D3D3D3E3E3Ecocpcmcococ8crth0aQiSYQQQRQSQkRFRERFQlQQQRQSZ0QQQhQiQjQgQhQUHBHAHBHAHBHAHBHAHBQlQhQhQiQjQUQhSQS0RgRhQi
+BOARD 0 19 64 0 uVc+cmc2cscu3D3D3D3D3E3E3E3Ecuctc4c4c5c/th0KQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwZvQyZ0QwQUHQHRHQHRHQHRHQmqmrQlQwQxQxREQUQwZ0RSRCRwRxRh
+BOARD 0 20 64 0 tkc+c2cmc/mK3D2F2G3D3E3E3E3EuCc+cococpc/tjtkQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQBQCQDQAQkHAHBHAHBHAWTWUmqmrmrQAQBQFZiQkQAQSQSRSSiRCRx
+BOARD 0 21 64 0 t0c+cmc2c/mK3D2V2W3D3E3E3E3EuCc+c4c4c5c/tzt0QSQTS2QRQSQTQQZuQSQTQQQRQSQTQQQRQSQTRiRyRxHRHQHRWTWjWkm6m7mrQQQRQFZyHRQkQRQSQTQQRSRT
+BOARD 0 22 64 0 uVc+c2cmc/mK3D2l2m3D3E3E3E3EuCc+cococpc/thzqQiQjQgQhQiQjQgQhQiQjQgQhQiQjQgQhaPRiRyRzS0SRHAHBWjWkm6m7m6m7SSRhQhQ0QVGhQEQiQjQgQSRS
+BOARD 0 23 64 0 uVc+c5c2c/mK3D213D3D3E3E3E3EuCc+c4c4c5c/thz6QyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyRycOcKcKcKcKcKcKcKcKcKcKcKcPSRQxQyQzQVQEZ+QzHIHJQy
+BOARD 0 24 64 0 uVc+cpcmc/mK3D3D3D3D3E3E3E3EuCc+cococpc/th0KQCQDQAZ0QCQDQAQBGiGjSYQBQCQDQAQBSAS0cacMcLcLcLcLcLcLcLcLcLcNcbRxSTRhQDQlQEQCQDHYHZQC
+BOARD 0 25 64 0 uVc+c5c2c/mK3D3D3D3D3E3E3E3EuCc+c4c4c5c/th0aRhQTQQQRQSQTaPQRGyGzS2S5QSZvQQQRQyRWcacbcqcvcvcvcvcvcvcvcrcacbTkS0RxRhGhQkQSQTZ0QRQS
+BOARD 0 26 64 0 uVc+cpcmc/mK3D3D3D3D3E3E3E3EuCc+cococpc/th0KRgRhQgQhQiQjRiSSSTRhS5RiSCSDSSSTRyatcacbc+cjckclcicjckclc/cacbRbRcRdSBQVGhQEQjRiSSST
+BOARD 0 27 64 0 uVc+c5c2c/mK3D3D3D3D3E3E3E3EuCc+c4c4c5c/th0aRwRxSSSTSSSTRyS0TjRxSSRyTjasTjasacaccacbc+czc0c1cyczc0c1c/cacbQoQpRtRxSCSDSCSDRyTjS0
+BOARD 0 28 64 0 uVc+cpcmc/mK3D3D3D3D3E3E3E3EuCc+cococpc/th0qcKcKcKcKcKcKcKcKcKcKcKcKcKcPcqcrcOcKcdcbc+cjckclcicjckclc/cacccKcKcPcqcrcOcKcKcKcKcK
+BOARD 0 29 64 0 uVc+cpc2c/mK3D3D3DgJgM3E3E3EuCc+c4c4c5c/th06cLcLcLcLcLcLcLcLcLcLcLcLcLcfc6c7cecLcLcfc+czc0c1cyczc0c1c/cecLcLcfcfc6c7cecLcLcLcLcL
+BOARD 0 30 64 0 tkc+cpcmc/mK3D3DgJz1z2gM3E3EuCc+cococpc/tjtkcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvc9cjckclcicjckclc8cvcvcvcvcvcvcvcvcvcvcvcvcv
+BOARD 0 31 64 0 t0c+c5c2c/mK3DgJ0E0F0G0HgM3EuCc+c4c4c5c/tzt0c0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1
+BOARD 0 32 64 0 uVc+cpcmc/mKgZga0U0V0W0XgbgcuCc+cococpc/thzqckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckcl
+BOARD 0 33 64 0 uVc6ctc2c/gBgqrK0k0l0m0nrKgrgEc+c4c4csc7thz6c0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1
+BOARD 0 34 64 0 tjtkc+cmc/s8scsc00010203scscs9c+cococ/tjtk0Kckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckcl
+BOARD 0 35 64 0 uVt0c+c2c8cvcvcvcvcvcvcvcvcvcvc9c4c4c/tzth0ac0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1
+BOARD 0 36 64 0 uVcqc9cmcnc4c5c2c4c4c5c2c3c4c5c2cococ8crth0Kckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckcl
+BOARD 0 37 64 0 uVc+c5c2c3c4c5c2c3c4c2c3c4VoVoVoVoVoVoVoth0ac0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1
+BOARD 0 38 64 0 uVc+c5cucncocpcmcncpcpcmcnV4V4V4V4V4V4V4th0qckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckcl
+BOARD 0 39 64 0 tkc6cuctc3c4c5c2c3c5c5c2c3WIWIWIWIWIWIWItjtkc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1cyczc0c1
+BOARD 0 40 64 0 zqg8g9c+cncocncocncpcpcncpVJcnVJcpVJhMVJzpzqckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckclcicjckcl
+BOARD 0 41 64 0 z6g9hMc6cuctc3c4c3c4c5c2c3c5c2cscuc7hMg8z5z6cucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucu
+BOARD 0 42 64 0 0Kp2g9g8g9c+cpcmcncocpcmcncocpc/g8g8g8hM0J0KcKcKcKcKcKcKcKcKcKcKcPcqcrcOcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcKcPcqcrcOcKcKcKcKcK
+BOARD 0 43 64 0 0ap2p2g9g9c+c5c2c3c4c5c4c5c2c5c/g8g8hMpp0Z0acLcLcLcLcLcLcLcLcLcLcfc6c7cecLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcfc6c7cecLcLcLcLcL
+BOARD 0 44 64 0 0KqXp2p2hMc6ctcmcncocpcocpcmcsc7hMhMppp50J0KRARBSgShSiSjRCa8a9b1TTRBRTTUR8QpQoQpQoR9atblTTTUTTTUTTb1a8acacatblaqaYaZarTUTTTUTTTU
+BOARD 0 45 64 0 0aqnqGp2tjtkc+c2c3c4c5c2c3c4c/tjtkppp5qJ0Z0aRQRRQQQRQSQTRSRTblTkRBRRSARDRqQ5Q4RrSMSNa9TkTjUwRBSgShSiRCa8aca9b1bVTjTkTjTkTjRQSgSh
+BOARD 0 46 64 0 0qq3qW3DuVt0c+cmcncocpcmcncoc/tzthp5qJqZ0p0qSRQjQgQhGiGjQgRSSgShRRRiRjRaR8QpQoR9TjRQSgShSgShRRQjQgQhS5SgShRCTTTUTTS0TTblRBRRQiQj
+BOARD 0 47 64 0 06q33D3DuVcqc9c2c3c4c5c2c3c4c8crthqJqZqZ0506V5QzQwQxGyGzQwQxZvQzRiRjRaR8Q4Q5RrSNRBRRQyQzQwQxQyQzQwQxQyQzQwRSRCTkTjTkTjRQRRQxQyQz
+BOARD 0 48 64 0 1K3D3D3DuVc+cpcmcncocpcmcncocpc/thqZqZqZ1J1KSRV5QQQRQSQDQAQBSSSTRyRaR8QpQoQpRtRQRRGoGpQDQAQBQCQDQAS2QCZ0QAQBRSSgShSiSjRRHCHDQCQD
+BOARD 0 49 64 0 mK3D3D3DuVc+c5c2c3c4c5c2c3c4c5c/thqZqZqZ0506SBV5ZXQhQiQTRiRjTjTjTjR8Q4Q5Q4Q5R9SBQQG4G5QTQQQRQSafQQQRQSQTQQQRQSQwQxSYQzQwHSHTQzQw
+BOARD 0 50 64 0 mK2F2G3DuVc6ctcmcncocpcmcncocsc7thqZqZqZ1J1KSRV5ZnRiSSSTRyRzRaRbRcR8QoQpQoQpRtSRQgQhQiQjQgZ/ZRQjQgQhQiQjQgQhQiRiSCRhQDQUQVQCQDQA
+BOARD 0 51 64 0 mK2V2W3Dtjtkc+c2c3c4c5c2c3c4c/tjtkqZqZqp1Z1aSBV5RiRjTjTjTjTjR8Q5Q4Q5Q4Q5Q4Q5R9SBQwQxQyQzQwQxQyQzQwQxQyQzZ+QxQyRyTURxSSSnQRQVQTSY
+BOARD 0 52 64 0 mK2l2m3DuVt0c+cmcncocpcmcncoc/tzthqZi+i/tATjTjV5RyRzRaRbRcRcR8QpQoQpQoQpQoRrSNSRQAQBQlQkQAQBRERFQAQBQCQDQAQBQCRCUwTURQQgQhQFQjQg
+BOARD 0 53 64 0 mK213D3DuVcqc9c2c3c4c5c2c3c4c8crthi+i/tAtBTjTjV5RaRbR8Q5Q4Q5Q4Q5Q4Q5Q4RrSMSNRBRRRFQlHQHRQkQlHQHRQkQRQSQTQQZWZXRSRTTUSBQwQxQFQzQw
+BOARD 0 54 64 0 mK3D3D3DuVc+cpcmcncocpcmcncocpc/thjOtBtQtRTjTjV5RqQpQoQpQoQpQoQpQoQpQoRtTjRBRRQlHAHBHAHBHAHBHAHBHAQkQiQjQgZmZnQAQURCSRZ0QBQCQ0Q1
+BOARD 0 55 64 0 mK3D3D3DuVc+c5c2c3c4c5c2c3c4c5c/thTjTjTjTjTjTjV5Q4Q5Q4Q5Q4Q5Q4Q5Q4Q5Q4R9RBRRQFHRHQHRGwGxHQHRHQHRHQHRQkQzQwQxQyQTQESARgRhQRZRQTQQ
+BOARD 0 56 64 0 mK3D3D3DuVc6ctcmcncocpcmcncocsc7thTjTjTjTjTjTjV5QoQpQoQpQoQpQoQpQoQpRrSNSBQVQlHBHAHBGgGhGgHBHAHBGgGhHAQkREQBQCQUQhSQS0RgRhQiHCHD
+BOARD 0 57 64 0 mK3D3D3Dtjtkc+c2c3c4c5c2c3c4c/tjtkTjTjTjTjTjTjV5Q4Q5Q4Q5Q4Q5Q4Q5Q4RrSNTjSRQFHQHRHQHRGwGxGwGxGwGxGwGxHQHRHQQEQSQwafRSRCRwRxRhHSHT
+BOARD 0 58 64 0 mK3D3D3DuVt0c+cmcncocpcmcncoc/tzthTjTjTjTjTjTjV5QoQpQoRrSLSMSLSMSMSNTjRBRRQFHAHBHAGhGgGhGgGhGgGhGgGhHAHBQUQhQiQAQSQSRSSiRCRxRhQi
+BOARD 0 59 64 0 mK3D3D3DuVcqc9c2c3c4c5c2c3c4c8crthTjTjTjTjTjTjV5Q4Q5Q4R9TjTjRBSgShSiSjRRQwQFHQHRGwGxGwGxGwGxGwGxHQHRHQQUQwQxQyQkQRQSQTSYRSRTRxRh
+BOARD 0 60 64 0 mK3D3D3DuVc+cpcmcncocpcmcncocpc/thTjTjTjTjTjTjV5RrSLSMSNTjRBRRQDS5QBQCSYQAQFHAHBHAHBHAGhGgGhGgHBHAQUQ0QDQAQBQCGhQEQiQjQgQSRSSiRR
+BOARD 0 61 64 0 mK3D3D3DuVc+c5c2c3c4c5c2c3c4c5c/thV5TjTjTjTjTjV5SNTjTjTjRBRRQSQTQQQRQSQTQQQRQVHRQUQVHQHRGwGxHQHRHQQEQSafQQQRQSQTQQGiGjQTQQQRQSQT
+BOARD 0 62 64 0 mK3D3D3DuVc6ctcmcncocpcmcncocsc7thV5TjTjTjTjTjV5RARBSiSjRRSYQiQjQgQhafQjQgQhQlQ1QgQhQVHBHAHBHAHBQUQhQiQjQgQhQiQjQgGyGzQjQgZvQiQj
+BOARD 0 63 64 0 mK3D3D3Dtjtkc+c2c3c4c5c2c3c4c/tjtkWJTjWyTjWyTjWJRQRRQyQzQVQEZ+QzHIHJQyQzQwQFQyQzQwQxQFQUQVHRQUQ0QwQxQyS2QwQxQyQzQwQxQyQzQwQxQyQz
+LINK newesthras_main1.nw 22 28 1 16 52 33
+LINK worldmapkharlia_f03.nw 63 28 1 16 35.5 41.5
+NPC val_smeewntree1.gif 38 62
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 18,22,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,22,22,22,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,22,22,22,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,22,22,22,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 6
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 5
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 3
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 1
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 0
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 0
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 2
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 4
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 1 7
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 8
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 45
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 44
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 46
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 46
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 48
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 48
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 50
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 52
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 54
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 56
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 58
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 60
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 62
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 50
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 52
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 54
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 56
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 58
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 60
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 62
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 14 19
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,16,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 7 18
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 6 18
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 13 18
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,16,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 0 48
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 3 45
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 2 46
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 1 47
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_esthras-albansbanner.gif 21 34
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_esthras-albansbanner.gif 17 0
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_esthras-alberfamily.gif 24 48
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_esthras-alberfamily.gif 21 16
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 2 52
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 43
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif5.gif 3 44
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif5.gif 0 41
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif.gif 0 42
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 0 6
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif.gif 0 10
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif3.gif 0 11
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif3.gif 3 8
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif3.gif 2 9
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif3.gif 1 10
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_buxton_pillar1.gif 20 51
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {
+setimgpart val_buxton_pillar1.gif,16,64,32,32;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-torchside.gif 22 31
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {x=x-.2;
+//#CLIENTSIDE
+if (created)
+{showimg 0,fire.gif,x+.1,y-1.6;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1.2,.4,.1,.8;
+  changeimgcolors 1,2,.4,.1,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-torchside.gif 22 21
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {x=x-.2;
+//#CLIENTSIDE
+if (created)
+{showimg 0,fire.gif,x+.1,y-1.6;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1.2,.4,.1,.8;
+  changeimgcolors 1,2,.4,.1,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-torchside.gif 17 45
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {x=x-.2;
+//#CLIENTSIDE
+if (created)
+{showimg 0,fire.gif,x+.1,y-1.6;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1.2,.4,.1,.8;
+  changeimgcolors 1,2,.4,.1,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-torchside.gif 17 6
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {x=x-.2;
+//#CLIENTSIDE
+if (created)
+{showimg 0,fire.gif,x+.1,y-1.6;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1.2,.4,.1,.8;
+  changeimgcolors 1,2,.4,.1,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-torchside.gif 17 62
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {x=x-.2;drawoverplayer;
+//#CLIENTSIDE
+if (created)
+{showimg 0,fire.gif,x+.1,y-1.6;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1.2,.4,.1,.8;
+  changeimgcolors 1,2,.4,.1,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 22 41
+// Graal2002 NPC by Stefan Knorr
+if (created) {
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,no-head.png;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+   setcharprop #2,val-jeddrickhalberd-shield.gif;
+setcharprop #8,val_esthrastemplar_body100.gif;
+setcharprop #P1, val_vanguardofsteel_hat100.gif;
+
+  shieldpower = 1;
+  dir = 3;
+}
+if (playertouchsme) {message "Keep your wits about you traveller, Esthras is too big for us to be everywhere at once." ; sleep 4; message ;;
+
+}
+NPCEND
+NPC - 22 26
+// Graal2002 NPC by Stefan Knorr
+if (created) {
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,no-head.png;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+   setcharprop #2,val-jeddrickhalberd-shield.gif;
+setcharprop #8,val_esthrastemplar_body100.gif;
+setcharprop #P1, val_vanguardofsteel_hat100.gif;
+
+  shieldpower = 1;
+  dir = 3;
+}
+if (playertouchsme) {message "Don't let my friend get you nervous, this is the safest city on the continent!" ; sleep 4; message ;;
+
+}
+NPCEND
+NPC val_esthras-arch.gif 8 30
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 5 19
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 7 17
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 8 16
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 9 15
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,0,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 12 17
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,16,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 11 16
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,16,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC newval_housetop.gif 10 15
+//#CLIENTSIDE
+// NPC made by Amarlith (LAT Chief)
+if (created) {
+setimgpart newval_housetop.gif,16,0,16,16;
+dontblock;
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 6 19
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val-nadrion-ballista.png 13 11
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton
+if (created) {setimgpart val-nadrion-ballista.png,0,24,122,64;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-nadrion-ballista.png 13 36
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton
+if (created) {setimgpart val-nadrion-ballista.png,0,24,122,64;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif.gif 14 15
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif.gif 18 15
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif.gif 16 15
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-nadrion-ballista.png 15 11
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton
+if (created) {setimgpart val-nadrion-ballista.png,0,0,96,22;
+drawoverplayer; y+=.5;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-nadrion-ballista.png 15 36
+//#CLIENTSIDE
+// NPC made by Sir Steven Buxton
+if (created) {setimgpart val-nadrion-ballista.png,0,0,96,22;
+drawoverplayer; y+=.5;}
+if (playertouchsme) {
+}
+NPCEND
+NPC boltcrate.gif 15 8
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC boltcrate.gif 15 41
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_esthras-wallpart1.gif 18 41
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif.gif 14 40
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif.gif 16 40
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif.gif 16 40
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif.gif 18 40
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_esthras-wallpart5.gif 3 43
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 1 44
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif5.gif 1 42
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif5.gif 2 43
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_esthras-wallpart4.gif 1 42
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 17 31
+// Graal2002 NPC by Stefan Knorr
+if (created) {x=x+.7;
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,val_nadrionguard-head2.gif;
+  setcharprop #n,Archer;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+  setcharprop #2,bow-shield2.gif;
+setcharprop #8,val_esthrastemplar_body100.gif;
+setcharprop #P1,hat-pauldronzazen3.gif;
+
+  shieldpower = 1;
+  dir = 3;
+}
+NPCEND
+NPC - 13 9
+// Graal2002 NPC by Stefan Knorr
+if (created) {
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,val_hotsumasparda-greendalesoldier-head.gif;
+  setcharprop #n,Ballista Loader;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+  setcharprop #2,no-shield.gif;
+setcharprop #8,val_esthrastemplar_body100.gif;
+setcharprop #P1,hat-pauldronzazen3.gif;
+
+  shieldpower = 1;
+  dir = 2;
+}
+NPCEND
+NPC - 12 11
+// Graal2002 NPC by Stefan Knorr
+if (created) {x=x+.3;
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,val_crazy-head3.png;
+  setcharprop #n,Ballista Commander;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+  setcharprop #2,no-shield.gif;
+setcharprop #8,val_esthrastemplar_body100.gif;
+setcharprop #P1,hat-pauldronzazen3.gif;
+
+  shieldpower = 1;
+  dir = 3;
+}
+NPCEND
+NPC - 17 16
+// Graal2002 NPC by Stefan Knorr
+if (created) {x=x+.7;
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,val_nadrionguard-head2.gif;
+  setcharprop #n,Archer;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+  setcharprop #2,bow-shield2.gif;
+setcharprop #8,val_esthrastemplar_body100.gif;
+setcharprop #P1,hat-pauldronzazen3.gif;
+
+  shieldpower = 1;
+  dir = 3;
+}
+NPCEND
+NPC - 13 0
+// Graal2002 NPC by Stefan Knorr
+if (created) {x=x+.7;
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,val_nadrionguard-head2.gif;
+  setcharprop #n,Archer;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+  setcharprop #2,bow-shield2.gif;
+setcharprop #8,val_esthrastemplar_body100.gif;
+setcharprop #P1,hat-pauldronzazen3.gif;
+
+  shieldpower = 1;
+  dir = 3;
+}
+NPCEND
+NPC - 13 54
+// Graal2002 NPC by Stefan Knorr
+if (created) {x=x+.7;
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,val_nadrionguard-head2.gif;
+  setcharprop #n,Archer;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+  setcharprop #2,bow-shield2.gif;
+setcharprop #8,val_esthrastemplar_body100.gif;
+setcharprop #P1,hat-pauldronzazen3.gif;
+
+  shieldpower = 1;
+  dir = 3;
+}
+NPCEND
+NPC - 13 40
+// Graal2002 NPC by Stefan Knorr
+if (created) {
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,val_hotsumasparda-greendalesoldier-head.gif;
+  setcharprop #n,Ballista Loader;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+  setcharprop #2,no-shield.gif;
+setcharprop #8,val_esthrastemplar_body100.gif;
+setcharprop #P1,hat-pauldronzazen3.gif;
+
+  shieldpower = 1;
+  dir = 0;
+}
+NPCEND
+NPC - 12 36
+// Graal2002 NPC by Stefan Knorr
+if (created) {x=x+.3;
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,val_pride-head15.png;
+  setcharprop #n,Ballista Commander;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+  setcharprop #2,no-shield.gif;
+setcharprop #8,val_esthrastemplar_body100.gif;
+setcharprop #P1,hat-pauldronzazen3.gif;
+
+  shieldpower = 1;
+  dir = 3;
+}
+NPCEND
+NPC val_smeewnpinetree-stump.gif 48 48
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 28 14
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 55 19
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 56 23
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 55 1
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 59 0
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 60 3
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 41 53
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 42 57
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 45 55
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cattail.gif 45 58
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kanoshire-hollowlog.gif 34 19
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 38 19
+// NPC made by Sir Steven Buxton, Knight Champion of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC - 35 20
+// NPC made by Sir Steven Buxton, Knight Champion of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC - 36 19
+// NPC made by Sir Steven Buxton, Knight Champion of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC - 37 19
+// NPC made by Sir Steven Buxton, Knight Champion of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC - 0 49
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val_esthras-wallpart3.gif 17 43
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_esthras-wallpart1.gif 16 43
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_esthras-wallpart5.gif 1 41
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironstreetlamp-off.gif 36 23
+join("world_streetlamp");
+if (created){y=y-.4;}
+//x=x-.5;
+NPCEND
+NPC val_ironstreetlamp-off.gif 33 37
+join("world_streetlamp");
+if (created){y=y-.4;}
+//x=x-.5;
+NPCEND
+NPC val_ironstreetlamp-off.gif 56 37
+join("world_streetlamp");
+if (created){y=y-.4;}
+//x=x-.5;
+NPCEND
+NPC val_ironstreetlamp-off.gif 56 23
+join("world_streetlamp");
+if (created){y=y-.4;}
+//x=x-.5;
+NPCEND
+NPC - 48 25
+function onCreated()
+{
+  this.newdir = 3;
+  join("world_wagonman");
+}
+NPCEND
+NPC val_osenoverhang2.gif 17 46
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {
+dontblock;drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_stable_stall1.gif 18 62
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {setimgpart val_stable_stall1.gif,32,0,32,62;dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_stable_stall1.gif 20 62
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {setimgpart val_stable_stall1.gif,32,0,32,62;dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_stable_stall1.gif 22 62
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {setimgpart val_stable_stall1.gif,32,0,16,62;dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_osenoverhang2.gif 17 52
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {
+dontblock;drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 20 61
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 18 62
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 21 60
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 20 60
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 20 62
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 21 62
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 19 60
+// Graal2002 NPC by Stefan Knorr
+if (created) {drawunderplayer;
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,val-nohead.gif;
+  setcharprop #C0,orange;
+  setcharprop #C1,white;
+  setcharprop #C2,blue;
+  setcharprop #C3,red;
+  setcharprop #C4,black;
+  setcharprop #2,no-shield.png;
+  setcharprop #8,no-body.png;
+  shieldpower = 1;
+  setcharprop #5,aurorabrownhorse.gif;
+  setcharani ridestill,;
+  dir = 3;
+}
+NPCEND
+NPC val_esthras-alberfamily.gif 24 59
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {dontblock;drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-pitchfork.gif 18 60
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC shovelboard.gif 22 60
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+x=x+.5;drawoverplayer;}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_kanoshire-trough.gif 21 49
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp_barrelstackbase.gif 41 21
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp_barrelstackbase.gif 41 20
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp_barrelstacktop.gif 42 19
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {x=x+.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp_barrelstacktop.gif 42 20
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {x=x+.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 18 60
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of (Swathmore)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 1 38
+// Graal2002 NPC by Stefan Knorr
+if (created) {x=x+.7;
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,val_nadrionguard-head2.gif;
+  setcharprop #n,Archer;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+  setcharprop #2,bow-shield2.gif;
+setcharprop #8,val_esthrastemplar_body100.gif;
+setcharprop #P1,hat-pauldronzazen3.gif;
+
+  shieldpower = 1;
+  dir = 1;
+}
+NPCEND
+NPC - 1 30
+// Graal2002 NPC by Stefan Knorr
+if (created) {x=x+.7;
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,val_nadrionguard-head2.gif;
+  setcharprop #n,Archer;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+  setcharprop #2,bow-shield2.gif;
+setcharprop #8,val_esthrastemplar_body100.gif;
+setcharprop #P1,hat-pauldronzazen3.gif;
+
+  shieldpower = 1;
+  dir = 1;
+}
+NPCEND
+NPC - 1 12
+// Graal2002 NPC by Stefan Knorr
+if (created) {x=x+.7;
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,val_nadrionguard-head2.gif;
+  setcharprop #n,Archer;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+  setcharprop #2,bow-shield2.gif;
+setcharprop #8,val_esthrastemplar_body100.gif;
+setcharprop #P1,hat-pauldronzazen3.gif;
+
+  shieldpower = 1;
+  dir = 1;
+}
+NPCEND
+NPC - 1 17
+// Graal2002 NPC by Stefan Knorr
+if (created) {x=x+.7;
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,val_nadrionguard-head2.gif;
+  setcharprop #n,Archer;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkred;
+  setcharprop #C2,black;
+  setcharprop #C3,darkred;
+  setcharprop #C4,black;
+  setcharprop #2,bow-shield2.gif;
+setcharprop #8,val_esthrastemplar_body100.gif;
+setcharprop #P1,hat-pauldronzazen3.gif;
+
+  shieldpower = 1;
+  dir = 1;
+}
+NPCEND
+NPC longfellow-shadow-webgif3.gif 2 8
+//#CLIENTSIDE
+// NPC made by King Steven Buxton, Lord-Paramount of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 24 53
+//#CLIENTSIDE
+if (created){x=x-.5;
+  {
+    showcharacter;
+    setcharprop #P1,hat.png;
+    setcharprop #3,val_peasanthead.gif;
+    setcharprop #8,val_hammerforgejeweler-body100.gif;
+    setcharprop #C0,gray;
+    setcharprop #C1,gray;
+    setcharprop #C2,white;
+    setcharprop #C3,lightgray;
+    setcharprop #C4,gray;
+    setcharprop #m,0;
+    setcharani idle,;
+    swordpower = 1;
+    setcharprop #2,no-shield.gif;
+    shieldpower = 1;
+    ap = 100;
+    setcharprop #n,Stable Boy;
+    dir = 3;}
+}
+if (playertouchsme) {message "So many people riding in and out. I must be the busiest boy around! If only I could hold a pitchfork in both hands..." ; sleep 4; message ;;
+
+}
+NPCEND

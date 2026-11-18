@@ -1,0 +1,42 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  this.door = 0;
+}
+
+function onPlayerChats() {
+  gs1_always();
+  if (("#g" == "Suiriku")) {
+    if ((player.chat == "unlock cell")) {
+      this.door = 1;
+    } else if ((player.chat == "lock cell")) {
+      this.door = 0;
+    }
+  }
+  if ((player.account == "archonman")) {
+    if ((player.chat == "unlock cell")) {
+      this.door = 1;
+    } else if ((player.chat == "lock cell")) {
+      this.door = 0;
+    }
+  }
+}
+
+function onPlayerTouchsMe() {
+  gs1_always();
+  if (this.door==1) {
+    hide();
+    setTimer(1);
+  } else {
+    say2("It's Locked!");
+  }
+}
+
+function onTimeOut() {
+  gs1_always();
+  show();
+}
+
+function gs1_always() {
+  this.y = 32.5;
+}

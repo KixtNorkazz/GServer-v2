@@ -1,0 +1,13 @@
+GRMAP001
+
+WIDTH 2
+
+HEIGHT 2
+
+LEVELNAMES
+
+"val_steerback_a-1.nw","val_steerback_a-2.nw"
+
+"val_steerback_b-1.nw","val_steerback_b-2.nw"
+
+LEVELNAMESEND

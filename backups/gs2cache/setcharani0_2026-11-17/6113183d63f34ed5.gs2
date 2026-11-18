@@ -1,0 +1,18 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "suirikuhalberdshield.gif";
+  this.head = "head815.gif";
+  this.body = "clydebodyreal.png";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.nick = "Jail Secretary";
+  this.sprite = 37;
+  this.dir = 2;
+  this.ap = 100;
+  this.x = this.x-.5;
+}

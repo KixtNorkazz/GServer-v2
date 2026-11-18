@@ -1,0 +1,23 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "kenderpinkpouch.gif";
+  this.head = "sky-zangkender.gif";
+  this.body = "tindertotpersonalbody2.gif";
+  this.colors[0] = "orange";
+  this.colors[1] = "darkred";
+  this.colors[2] = "brown";
+  this.colors[3] = "black";
+  this.colors[4] = "red";
+  this.chat = "Sail to Port Thatway? Say 'Sail to Port Thatway'";
+  setcharani("0", NULL);
+  this.nick = "Kender Sailor";
+  setcharani("idle", NULL);
+  this.dir = 2;
+  this.ap = 100;
+  this.body = "tindertotpersonalbody2.gif";
+}
+
+function onPlayerTouchsMe() {
+  say2("I was there when#bMegoserp the nasty was#bcooked. Wait, what?!#bYou've never heard of#bMegoserp!?....#bHe was one of the dragon#boverlords! Us Kender finished#bhim off though!#bYou dont believe me?");
+}

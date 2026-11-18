@@ -1,0 +1,13 @@
+//#CLIENTSIDE
+function onPlayerChats() {
+  if ((player.chat == "open gate2") && ("#g" == "Imperial Dalmar")) {
+    level.gateopen1 = true;
+    hide();
+    dontblock();
+  }
+  if ((player.chat == "close gate2") && ("#g" == "Imperial Dalmar")) {
+    level.gateopen1 = false;
+    show();
+    blockagain();
+  }
+}

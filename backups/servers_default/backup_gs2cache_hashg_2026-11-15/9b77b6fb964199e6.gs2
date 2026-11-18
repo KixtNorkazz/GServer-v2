@@ -1,0 +1,7 @@
+//#CLIENTSIDE
+function onPlayerTouchsMe() {
+  if ((("#g" == "Imperial Dalmar")||("#g" == "Freikorps")||("#g" == "Imperial Dalmar"))) {
+    drawoverplayer();
+    dontblock();
+  }
+}

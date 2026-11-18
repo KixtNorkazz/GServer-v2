@@ -1,0 +1,20 @@
+//#CLIENTSIDE
+function onCreated() {
+}
+
+function onPlayerChats() {
+  if (("#g" == "Athedia")) {
+    if (this.playerchats && (player.chat == "Fire Off")) {
+      hide();
+    }
+    if (this.playerchats && (player.chat == "Fire On")) {
+      show();
+    }
+  }
+}
+
+function onPlayerEnters() {
+  setcoloreffect(1, 0.5, 0, 0.20);
+  drawaslight();
+  setzoomeffect(2);
+}

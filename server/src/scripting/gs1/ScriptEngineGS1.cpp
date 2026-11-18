@@ -182,6 +182,20 @@ GS1ScriptWrapper::GS1ScriptWrapper(const std::string_view who, const std::string
 		source = std::regex_replace(source, std::regex{R"(\belseif\b)"}, "else if");
 	if (source.find("#P(") != std::string::npos)
 		source = std::regex_replace(source, std::regex{R"(#P\(([0-9])\))"}, "#P$1");
+	// GS2-style empty call parentheses on commands without arguments ("dontblock();", 47 level NPCs, most of them the world
+	// map fissures): the GS1 grammar stopped there and the NPC lost its whole server part (it blocked and drew over the player).
+	if (source.find("()") != std::string::npos)
+		source = std::regex_replace(source, std::regex{R"(\b(dontblock|blockagain|drawunderplayer|drawoverplayer|drawaslight|show|hide|showcharacter|canwarp|canwarp2|noplayeronwall|dontblocklocal|blockagainlocal|hidelocal|showlocal)\s*\(\s*\))"}, "$1");
+	// A "/*" that is never closed: //#CLIENTSIDE cut a commented-out NPC in two, so the server part ends inside the comment.
+	{
+		size_t opens = 0, closes = 0;
+		for (size_t i = source.find("/*"); i != std::string::npos; i = source.find("/*", i + 2)) ++opens;
+		for (size_t i = source.find("*/"); i != std::string::npos; i = source.find("*/", i + 2)) ++closes;
+		if (opens > closes)
+			source += "\n*/";
+	}
+	// An "if (...)" with nothing after it at the very end (the server part was only "if (created)").
+	source = std::regex_replace(source, std::regex{R"(if\s*\([^()]*\)\s*$)"}, "");
 
 	input = std::make_shared<antlr4::ANTLRInputStream>();
 	input->load(source.data(), source.length(), true);
@@ -396,7 +410,9 @@ bool ScriptEngineGS1::execute(ScriptEvent& event, std::vector<ScriptEventType>* 
 	if (!hasCreated && !hasInitialized && (event.type != ScriptEventType::TIMEOUT || !wrapper->visitor->hasSleepStack()))
 	{
 		const auto& eventName = determineEventName(event);
-		bool hasEvent = wrapper->parser->identifiers.contains(eventName);
+		// The flag of a trigger action is set lower case (GS1Flags: actionwarp), so "if (actionwarp)" must also be found for
+		// triggeraction(x, y, "Warp"); it was looked up only as "actionWarp" and never ran (Kixt, 17 Nov 2026).
+		bool hasEvent = wrapper->parser->identifiers.contains(eventName) || wrapper->parser->identifiers.contains(string::toLower(eventName));
 		size_t idx = 0;
 		while (hasEvent == false && additionalEventTypes != nullptr && idx < additionalEventTypes->size())
 		{

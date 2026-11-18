@@ -1,0 +1,69 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "shield";
+  this.attr[1] = "hat";
+  this.head = "vhead49.gif";
+  this.body = "nash-magebody.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 2;
+  this.dir = 2;
+}
+
+function onPlayerEnters() {
+  this.name = "tamachan";
+  setcharani("idle", this.idle);
+  this.randomx = int(random(-2, 2));
+  this.randomy = int(random(-2, 2));
+  if (!onwall(this.x+1.5*this.randomx, this.y+2*this.randomy) && !onwater(this.x+1.5*this.randomx, this.y+2*this.randomy)) {
+    move(this.randomx, this.randomy, 1, 4+8+16+32);
+    setcharani("walk", this.walk);
+  }
+  sleep(1);
+  setcharani("idle", this.idle);
+  setTimer(random(2, 5));
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "The Valikorlian Empire")) {
+    if ((player.nick.pos("Empress") > -1)) {
+      message("::The old man hobbles to his knees, bowing::");
+      sleep(3);
+      message();
+    }
+    if ((player.nick.pos("Lord") > -1)) {
+      message("Some coins for an old man, my lord?");
+      sleep(3);
+      message();
+    }
+    if ((player.nick.pos("Sir") > -1)) {
+      message("Ohh, hello sir knight, a good day to you.");
+      sleep(3);
+      message();
+    } else {
+      message("Just your average old man, nothing to see here.  Now where did I put that cannon?");
+      sleep(3);
+      message();
+    }
+  }
+}
+
+function onTimeOut() {
+  this.name = "tamachan";
+  setcharani("idle", this.idle);
+  this.randomx = int(random(-2, 2));
+  this.randomy = int(random(-2, 2));
+  if (!onwall(this.x+1.5*this.randomx, this.y+2*this.randomy) && !onwater(this.x+1.5*this.randomx, this.y+2*this.randomy)) {
+    move(this.randomx, this.randomy, 1, 4+8+16+32);
+    setcharani("walk", this.walk);
+  }
+  sleep(1);
+  setcharani("idle", this.idle);
+  setTimer(random(2, 5));
+}

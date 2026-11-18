@@ -1,0 +1,6 @@
+//#CLIENTSIDE
+function onPlayerTouchsMe() {
+  if (("#g" == "Imperial Dalmar")) {
+    dontblock();
+  }
+}

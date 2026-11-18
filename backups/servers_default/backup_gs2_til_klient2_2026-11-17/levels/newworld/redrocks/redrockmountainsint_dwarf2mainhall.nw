@@ -1,0 +1,1466 @@
+GLEVNW01
+BOARD 0 0 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4C7DJDKDJDKDJDKDJDKC4J4J4J4J4J4J4C7DKDJDKDJC4J4J4J4J4DLDZDaDbDLDZDaDbDpDqDLCrCrCqCqCrCrJ4J4J4J4J4J4J4
+BOARD 0 1 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4C7DLDZDaDZDaDZDaDZDaDIDJDKDJDKDJDKDLDaDZDaDZDIC4J4J4C7DbDpDqDLDbDpDqDLBFBGM4CqCqCrCrCqCqJ4J4J4J4J4J4J4
+BOARD 0 2 64 0 J4J4J4J4J4J4J4J4J4J4C7DJDKDLDbDpDqDpDqDpDqDpDqDYDZDaDZDaDZDaDbDqDpDqDpDYDIDJDKDLDLDZDaDbDLBFBGM4CrCqCrCqCrCqCrCrCrJ4J4J4J4J4J4J4
+BOARD 0 3 64 0 J4J4J4J4J4J4J4J4J4J4DLDZDaDbDLDZDaDZDaDZDaDZDaDIDpDqDpDqDpDqDLDaDZDaDZDIDYDZDaDbDbDpDqDLM4CrCqCrCqCrCqCrCqCrCqCqCqJ4J4J4J4J4J4J4
+BOARD 0 4 64 0 J4J4J4J4J4J4J4J4J4C7DbDpDqDLDbDpDqDpDqDpDqDpDqDYDZDaDZDaDZDaDbDqDpDqDpDYDIDpDqDLDLBFBGM4CrCqCqCrCrCqCqCrCrCqCrCqJ4J4J4J4J4J4J4J4
+BOARD 0 5 64 0 J4J4J4J4J4J4J4J4J4DLDLDZDaDbDLBFBGBFBGBFBGBFBGDIDpDqDpDqDpDqDLBGBFBGBFDIDYDZDaDbM4CrCrCqCqCrCrCqCqCrCrCqCqCrCrJ4J4J4J4J4J4J4J4J4
+BOARD 0 6 64 0 J4J4J4J4J4J4J4J4J4DbDbDpDqDLM4CrCrCqCqCrCrCqCqBhBFBGBFBGBFBGM4CrCrCqCqBhDIDpDqDLCrCqCqCrCrCrCqCrCrCqCqCrCrCqCqJ4J4J4J4J4J4J4J4J4
+BOARD 0 7 64 0 J4J4J4J4J4J4J4J4J4DLDLBFBGM4CrCqCrCrCrCqCqCrCrCqCqCrCrCrCqCrCrCqCrCrCrCqBhBFBGM4CqCrCrCrCqCrCrCqCrCrCrCqCqCrJ4J4J4J4J4J4J4J4J4J4
+BOARD 0 8 64 0 J4J4J4J4J4J4J4J4J4DbM4CrCqCqCqCrCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrJ4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 9 64 0 J4J4J4J4J4J4J4J4J4DLCqCqCqCqCrCqCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrJ4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 10 64 0 J4J4J4J4J4J4J4J4J4M4CrCqCrCrCqCrCrCqCqCrCrCqCrCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCrCrCrCqCqCrCrCqCqCrCrCqCqJ4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 11 64 0 J4J4J4J4J4J4J4J4J4J4CrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrC4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 12 64 0 J4J4J4J4J4J4J4J4J4J4J4CrCrCqCqCqCrCqCqCrCrCqCqCrCrCqCqCrCrCrCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCrCqCrCrCqCqDIJ4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 13 64 0 J4J4J4J4J4J4J4J4J4J4J4J4CrCqCrCqCqCrCrCqCqCrCrCqCqCrCrCrCqCrCrCqCrCrCrCqCqCrCrCqCqCrCrCrCqCrCrCqCrCrCrDYC4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 14 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4CqCqCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrDIDIC4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 15 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqDYDYDIJ4J4J4J4J4J4J4J4J4J4
+BOARD 0 16 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CrCqCqCrCrCqCrCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCrCrCrCqCqCrCrCqCqCrCrCqCqDIDIDYJ4J4J4J4J4J4J4J4J4J4
+BOARD 0 17 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrBhDYDIJ4J4J4J4J4J4J4J4J4J4
+BOARD 0 18 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CrCqCqCrCrCqCqCrCrCqCqCrCrCrCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCrCqCrCrCqCrCrDIDYC4J4J4J4J4J4J4J4J4J4
+BOARD 0 19 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CrCrCrCqCqCrCrCqCqCrCrCrCqCrCrCqCrCrCrCqCqCrCrCqCqCrCrCrCqCrCrCqCrCrCrCrBhDIDIJ4J4J4J4J4J4J4J4J4
+BOARD 0 20 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4C7CrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCqBhDYJ4J4J4J4J4J4J4J4J4
+BOARD 0 21 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4C7DJDLCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCrCqCqCrDIJ4J4J4J4J4J4J4J4J4
+BOARD 0 22 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4DLDZDbCrCqCqCrCrCqCrCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCrCrCrCqCqCrCrCqCqCrCrCrCqCrCrCqDYJ4J4J4J4J4J4J4J4J4
+BOARD 0 23 64 0 J4J4J4J4J4J4J4J4J4J4J4J4C7DbDpDLCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCqCqCrDIJ4J4J4J4J4J4J4J4J4
+BOARD 0 24 64 0 J4J4J4J4J4J4J4J4J4J4J4J4DLDLDZDbCrCqCqCrCrCqCqCrCrCqCqCrCrCrCqCrCrCqCqCrCrCqCqCrCrCqCqCrCrCrCqCrCrCqCrCqCrCqBhJ4J4J4J4J4J4J4J4J4
+BOARD 0 25 64 0 J4J4J4J4J4J4J4J4J4J4J4J4DbDbDpDLCrCrCrCqCqCrCrCqCqCrCrCrCqCrCrCqCrCrCrCqCqCrCrCqCqCrCrCrCqCrCrCqCrCrCqCrCqCrCqJ4J4J4J4J4J4J4J4J4
+BOARD 0 26 64 0 J4J4J4J4J4J4J4J4J4J4J4J4DLDLBFM4CrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCrCqCrCrCqCrJ4J4J4J4J4J4J4J4J4
+BOARD 0 27 64 0 J4J4J4J4J4J4J4J4J4J4J4J4DbM4CqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCqCrCrCrCrCrCrCrCqCrCqCrCqCrCqCrCrCqCrCqCqCrCrJ4J4J4J4J4J4J4J4J4
+BOARD 0 28 64 0 J4J4J4J4J4J4J4J4J4J4J4J4DLCqCqCrCrCqCqCrCrCqCrCrCrCqCqCrCrCqCqCrCrCrCqCrCqCrCqCrCrCqCqCrCrCqCqCrCrCqCrCqCqJ4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 29 64 0 J4J4J4J4J4J4J4J4J4J4J4J4M4CrCrCqCqCrCrCqCqCrCqJ4J4J4J4CqCqCrCrCqCqJ4J4CrCrCqCqCrCrCrCrCqCqCrCrCqCqCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 30 64 0 J4J4J4J4J4J4J4J4J4J4J4J4CrCrCqCrCqCrCqCrCrCqJ4J4J4J4J4J4CrCrCqCrJ4J4J4J4CqCrCrCqCqCrCrCrCrCrCqCrCrJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 31 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4CrCrCqCqCrCrCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CrCrCqCrCrCqCrCrCqCrCrCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 32 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4CqCrCrCqCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CrCqCrCrCqCrCrCrCqCrCqCrCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 33 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CrCrCqCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CrCqCrCqCrCqCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 34 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CqCqCrCrC4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CqCrCqCrCqCrJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 35 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CrcjciCqDIDKDJDKJ4J4J4J4J4J4J4J4J4J4J4J4J4J4CqcjciCrJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 36 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4cScTcScTDYDaDZDaC4J4J4J4J4J4J4J4J4J4J4J4J4C7cScTcScTJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 37 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4cicjcicjDIDqDpDqDIC4J4J4J4J4J4J4J4J4J4J4C7DLcicjcicjC4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 38 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4C7cScTcScTDYDaDZDaDYDIJ4J4J4J4J4J4J4J4J4C7DLDbcScTcScTDIJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 39 64 0 J4J4J4J4J4J4J4J4J4J4J4J4DJDKDLcicjcicjDIDqDpDqDIDYC4J4J4J4J4J4J4J4C7DLDbDLcicjcicjDYJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 40 64 0 J4J4J4J4J4J4J4J4J4J4J4J4DZDaDbcScTcScTBhBGBFBGDYDIDIJ4J4J4J4J4J4C7DLDbDLDbcScTcScTDIJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 41 64 0 J4J4J4J4J4J4J4J4J4J4J4J4DpDqDLcicjcicjcicjcicjDIDYDYC4J4J4J4J4J4DLDbDLDbDLcicjcicjDYC4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 42 64 0 J4J4J4J4J4J4J4J4J4J4J4J4DZDaDbcScTcScTcScTcScTBhDIDIDIJ4J4J4J4C7DbDLDbDLM4cScTcScTDIDIC4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 43 64 0 J4J4J4J4J4J4J4J4J4J4J4J4DpDqDLcicjcicjcicjcicjciBhDYDYJ4J4J4J4DLDLDbDLM4cjcicjcicjBhDYDIJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 44 64 0 J4J4J4J4J4J4J4J4J4J4J4J4BFBGM4cScTcScTcScTcScTcScTDIDIC4J4J4C7DbDbDLM4cScTcScTcScTcSDIDYJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 45 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjcicjcicjcicjcicjcicjBhDYDIDJDKDLDLDLM4cjcicjcicjcicjciDYDIJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 46 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcScTcScTcScTcSDIDYDZDaDbDbM4cScTcScTcScTcScTcSDIDYJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 47 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjcicjcicjcicjcicjcicjciBhDIDpDqDLDLcjcicjcicjcicjcicjciBhDIJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 48 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcScTcSararararcTDYDZDaDbM4ararararcTcScTcScTcScTBhJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 49 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjcicjcicjcicjciarCqCqarcjDIDpDqDLciarCqCqarcjcicjcicjcicjciJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 50 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcScTcSarCqCqarcTBhBFBGM4cSarCqCqarcTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 51 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjcicjcicjcicjciararararcjcicjcicjciararararcjcicjcicjcicjciJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 52 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 53 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjciJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 54 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 55 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjciJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 56 64 0 J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 57 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4cicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 58 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 59 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4cicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjcicjJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 60 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 61 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4cjcicjcicjcicjciJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 62 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4cTcScTcScTcScTcSJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 63 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4cjcicjcicjcicjciJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+LINK redrockmountainsint_dwarf2eastwing1.nw 28 63 8 1 playerx-1 0
+LINK redrockmountainsint_passage.nw 51 0 6 1 13.5 61
+NPC val_ganelon_housetop.gif 53 7
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 54 6
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 55 4
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 56 3
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 52 28
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 54 27
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 48 30
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 47 32
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 32 29
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 31 30
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 21 30
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 19 31
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 22 29
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 49 29
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 9 10
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 10 11
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 11 12
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 12 13
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 13 14
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 27 29
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 28 30
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 35 29
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 17 58
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawoverplayer; dontblock;setcoloreffect 0,0,0,1;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16,160,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-redrockhalltable.gif 37 58
+//#CLIENTSIDE
+// NPC made by Sam
+if (created) {drawoverplayer; dontblock;setcoloreffect 0,0,0,1;
+setimgpart val_hammerforge-redrockhalltable.gif,0,16,160,32;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 13 57
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 12 56
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 11 55
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 15 58
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 43 55
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 42 56
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 41 57
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 43 54
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 42 55
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 41 56
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 40 57
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 12 54
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 13 55
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 14 56
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 15 57
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 27 58
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 36 58
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 26 59
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 36 59
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 12 23
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 13 21
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 15 20
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 10 2
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 30 0
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 30 44
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 31 42
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 32 40
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 33 39
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 34 38
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 35 37
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 36 36
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 51 11
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 36 1
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 35 0
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 23 0
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 52 13
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 53 14
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 54 18
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 20 34
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 23 36
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 24 37
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 22 35
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 25 39
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 26 41
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 27 44
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 41 37
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 42 41
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 43 42
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 15 14
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 16 13
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 18 11
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 19 9
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 21 9
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 22 8
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 23 5
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 24 4
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 24 2
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 25 1
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 18 7
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 18 5
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 17 4
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 16 3
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 15 2
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 14 1
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 19 4
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 18 3
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 17 2
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 16 1
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 14 3
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 15 4
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 16 5
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 17 6
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 18 9
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 15 13
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 14 14
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 16 12
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 17 12
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 17 11
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 18 10
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 21 8
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 22 7
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 23 4
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 24 1
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 16 16
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 17 15
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 18 14
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 19 13
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 20 11
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 23 10
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 24 9
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 25 6
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 26 3
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 27 1
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 13 0
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 13 2
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 15 0
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 23 7
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 39 1
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 41 1
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 42 2
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 43 3
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 45 3
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 45 4
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 47 4
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 48 5
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 49 6
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 50 7
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 51 8
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 40 0
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 43 1
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 44 2
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 47 3
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 49 4
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 50 5
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 51 6
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 52 7
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 50 9
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 49 8
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 48 7
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 47 6
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 44 5
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 42 4
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 41 3
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 38 2
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 36 30
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 37 31
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 39 31
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 41 31
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 42 32
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 38 30
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 43 31
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 44 32
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 36 32
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_redrock01.gif 45 26
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 51 24
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 48 17
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 11 8
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 13 11
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 20 5
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 30 25
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 33 23
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 34 7
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 36 9
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 47 1
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 41 4
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 16 22
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 20 18
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 17 17
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 20 20
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 18 22
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 14 7
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 15 5
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 15 10
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 21 6
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 25 7
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 24 9
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 33 5
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 34 8
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 32 7
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 35 11
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 37 6
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 39 10
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 40 5
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 42 6
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 43 4
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 48 0
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 50 18
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 46 23
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 48 19
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 50 21
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 49 24
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 47 26
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 46 27
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 44 29
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 52 20
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 43 24
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 33 25
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 31 21
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 35 23
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 35 20
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 29 26
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 28 24
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 27 26
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 29 20
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 14 28
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 13 27
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar.gif 21 35
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar.gif,0,0,32,100;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar.gif 28 45
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar.gif,0,0,32,100;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC candle.mng 21 36
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC candle.mng 28 46
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC val_hammerforge-ruggedpillar.gif 12 39
+//#CLIENTSIDE
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val_hammerforge-ruggedpillar.gif,0,0,32,100;
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_blackangle.gif 14 38
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 12 30
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 13 31
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC candle.mng 12 40
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart candle.mng,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light2.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC val-hammerforge-smallgate-bysam.gif 15 34
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val-hammerforge-smallgate-bysam.gif,0,0,32,96;
+}
+if (playerchats &&strequals(#c,minno))
+{setimgpart val-hammerforge-smallgate-bysam.gif,16,0,16,96;
+ sleep 0.2;
+ hide;
+ sleep 3;
+ show;
+ setimgpart val-hammerforge-smallgate-bysam.gif,16,0,16,96;
+ sleep 0.1;
+ setimgpart val-hammerforge-smallgate-bysam.gif,0,0,32,96;
+}
+NPCEND
+NPC val-hammerforge-smallgate-bysam.gif 17 34
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val-hammerforge-smallgate-bysam.gif,32,0,32,96;
+}
+if (playerchats &&strequals(#c,minno))
+{setimgpart val-hammerforge-smallgate-bysam.gif,32,0,16,96;
+ x=x+1;
+ sleep 0.2;
+ hide;
+ sleep 3;
+ show;
+ setimgpart val-hammerforge-smallgate-bysam.gif,32,0,16,96;
+ sleep 0.1;
+ x=x-1;
+ setimgpart val-hammerforge-smallgate-bysam.gif,32,0,32,96;
+}
+NPCEND
+NPC val_rp-crate.png 15 32
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 13 32
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 19 32
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 19 34
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 15 34
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 17 32
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val-hammerforge-smallgate-bysam.gif 37 35
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val-hammerforge-smallgate-bysam.gif,0,0,32,96;
+}
+if (playerchats &&strequals(#c,minno))
+{setimgpart val-hammerforge-smallgate-bysam.gif,16,0,16,96;
+ sleep 0.2;
+ hide;
+ sleep 3;
+ show;
+ setimgpart val-hammerforge-smallgate-bysam.gif,16,0,16,96;
+ sleep 0.1;
+ setimgpart val-hammerforge-smallgate-bysam.gif,0,0,32,96;
+}
+NPCEND
+NPC val-hammerforge-smallgate-bysam.gif 39 35
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {setimgpart val-hammerforge-smallgate-bysam.gif,32,0,32,96;
+}
+if (playerchats &&strequals(#c,minno))
+{setimgpart val-hammerforge-smallgate-bysam.gif,32,0,16,96;
+ x=x+1;
+ sleep 0.2;
+ hide;
+ sleep 3;
+ show;
+ setimgpart val-hammerforge-smallgate-bysam.gif,32,0,16,96;
+ sleep 0.1;
+ x=x-1;
+ setimgpart val-hammerforge-smallgate-bysam.gif,32,0,32,96;
+}
+NPCEND
+NPC valnmd_blackangle.gif 37 35
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 40 35
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 36 33
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 38 33
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_rp-crate.png 40 33
+//#CLIENTSIDE
+if(created || playerenters){dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 36 32
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 35 32
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 35 32
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val-hammerforge-throne-bysam.gif 23 49
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {drawunderplayer; dontblock;
+setimgpart val-hammerforge-throne-bysam.gif,2,41,16,36;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-hammerforge-throne-bysam.gif 33 49
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {drawunderplayer; dontblock;
+setimgpart val-hammerforge-throne-bysam.gif,2,41,16,36;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-hammerforge-throne-bysam.gif 24 49
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {drawunderplayer; dontblock;
+setimgpart val-hammerforge-throne-bysam.gif,110,41,16,36;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-hammerforge-throne-bysam.gif 34 49
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {drawunderplayer; dontblock;
+setimgpart val-hammerforge-throne-bysam.gif,110,41,16,36;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC fire2.gif 23 48
+if (created)
+//#CLIENTSIDE
+if (created){
+ x=x+.25;
+  y=y-.1;}
+if (playerenters||created) {
+  setimgpart fire2.gif,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC fire2.gif 33 48
+if (created)
+//#CLIENTSIDE
+if (created){
+ x=x+.25;
+  y=y-.1;}
+if (playerenters||created) {
+  setimgpart fire2.gif,0,0,100,100;
+  dontblock;
+  timeout=.1;
+}
+if (timeout) {
+  showimg 1,light3.png,x-3.5,y-3;
+  changeimgcolors 1,1,0.45,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC val-hammerforge-braziercover-bysam.gif 23 49
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {drawoverplayer;y=y+.25;x=x+.15;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-hammerforge-braziercover-bysam.gif 33 49
+// NPC made by Theoric Grimforge the Mace, Warrior of (Hammerforge)
+if (created) {drawoverplayer;y=y+.25;x=x+.15;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_blackangle.gif 9 4
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC - 29 49
+// By Masa!
+
+function onCreated()
+{
+ setshape(1,2*16,3*16);
+}
+
+function onPlayerTouchsme() {
+if (player.dir == 0) {dir = 2;}
+if (player.dir == 1) {dir = 3;}
+if (player.dir == 2) {dir = 0;}
+if (player.dir == 3) {dir = 1;}
+chat = "If you're heading out, be mindful of Kobolds. They live on the higher slopes.";
+sleep(3.5);
+chat = "";
+if (chat == "") {dir = 2;}
+}
+
+//#CLIENTSIDE
+if (created){
+  showcharacter;
+  setcharprop #2,val-jeddrickhalberd-shield.gif;
+  setcharprop #3,val_tetsuro_dwarfhead2.gif;
+  setcharprop #C0,orange;
+  setcharprop #C1,black;
+  setcharprop #C2,black;
+  setcharprop #C3,gray;
+  setcharprop #C4,gray;
+  setcharprop #C5,black;
+  setcharprop #C6,white;
+  setcharprop #C7,white;
+  setcharprop #P1,val_hammerforgeguard_hat01.gif;
+  setcharprop #n,Bazaim;
+  setcharani val_idle,;
+  swordpower = 1;
+  shieldpower = 3;
+  setcharprop #8,valp_setzergabbiani_body200.gif;
+  dir=2;
+  ap=100;
+}
+NPCEND
+NPC - 14 46
+// By Masa!
+//#SERVERSIDE
+//#CLIENTSIDE
+if (created){
+  showcharacter;
+  setcharprop #2,val-jeddrickhalberd-shield.gif;
+  setcharprop #3,val_sam_dwarfhead8.gif;
+  setcharprop #C0,orange;
+  setcharprop #C1,black;
+  setcharprop #C2,black;
+  setcharprop #C3,gray;
+  setcharprop #C4,gray;
+  setcharprop #C5,black;
+  setcharprop #C6,white;
+  setcharprop #C7,white;
+  setcharprop #P1,val_hammerforgeguard_hat01.gif;
+  setcharprop #n,Ovdak;
+  setcharani val_idle,;
+  swordpower = 1;
+  shieldpower = 3;
+  setcharprop #8,valp_setzergabbiani_body200.gif;
+  dir=2;
+  ap=100;
+}
+
+
+//#CLIENTSIDE
+if (playerenters || timeout) {
+  setstring this.name,tamachan;
+  setcharani idle,idle;
+
+  this.randomx=int(random(-2,2));
+  this.randomy=int(random(-2,2));
+
+  if (!onwall(x+1.5*this.randomx,y+2*this.randomy) && !onwater(x+1.5*this.randomx,y+2*this.randomy )) {
+    move this.randomx,this.randomy,1,4+8+16+32;
+    setcharani walk,walk;
+  }
+  sleep 1;
+
+  setcharani idle,idle;
+  timeout = random(2,5);
+}
+
+if (playertouchsme) {if (playerdir=0) {dir=playerdir+2;}}
+if (playertouchsme) {if (playerdir=1) {dir=playerdir+2;}}
+if (playertouchsme) {if (playerdir=2) {dir=playerdir-2;}}
+if (playertouchsme) {if (playerdir=3) {dir=playerdir-2;}}
+
+
+if (playertouchsme){message Don't worry. The gates look like plain stone from the other side.; sleep 2.5; message ;}
+NPCEND

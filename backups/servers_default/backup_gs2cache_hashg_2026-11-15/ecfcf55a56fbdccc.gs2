@@ -1,0 +1,42 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.y += 0;
+  this.x -= .5;
+  showcharacter();
+  this.shield = "bookofwizardry_shield.gif";
+  this.attr[1] = "hat882b.png";
+  this.head = "val-nadrion-valikorlianknight.gif";
+  this.body = "nadrion_valikorlian-nation-knighttemplar.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("sit", NULL);
+  this.dir = 2;
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "Valikorlia")) {
+    if ((player.nick.pos("Empress") > -1)) {
+      message("My empress.  I trust you're keeping your virginity intact?");
+      sleep(3);
+      message();
+    }
+    if ((player.nick.pos("Lord") > -1)) {
+      message("Greetings, Lord.");
+      sleep(3);
+      message();
+    }
+    if ((player.nick.pos("Sir") > -1)) {
+      message("Greetings, noble knight.");
+      sleep(3);
+      message();
+    } else {
+      message("And then, by Setengars holy light, the enemy was vanquished!  Death to the non believers!");
+      sleep(3);
+      message();
+    }
+  }
+}

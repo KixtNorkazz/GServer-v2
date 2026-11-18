@@ -1,0 +1,19 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "head334.png";
+  this.body = "arwind-racoonbody2.gif";
+  this.colors[0] = "orange";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "orange";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.nick = "Guard of Tockton";
+  this.dir = 3;
+}
+
+function onPlayerTouchsMe() {
+  say2("We're watching you");
+}

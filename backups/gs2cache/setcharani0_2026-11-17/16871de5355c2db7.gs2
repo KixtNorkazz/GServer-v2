@@ -1,0 +1,19 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  drawunderplayer();
+  this.shield = "no-shield.gif";
+  this.head = "no-head.png";
+  this.body = "arwind-racoonbody2.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.nick = "Christopher Myers";
+  setcharani("sit", NULL);
+  this.dir = 2;
+  this.y = this.y-.5;
+  this.ap = 100;
+}

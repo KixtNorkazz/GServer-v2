@@ -1,0 +1,932 @@
+GLEVNW01
+BOARD 0 0 64 0 TbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdWQ0j0T0j0j0T0T0ju6R/RgQCQD
+BOARD 0 1 64 0 TcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbTcTdTbV5WQ0j0T0T0j0j0T0ju60B12Qg
+BOARD 0 2 64 0 WQWQWQWQWQWQWQrxrxrxWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQTdTbTcTdVZ1rsP0j0T0T0j0T0j0Ru61o
+BOARD 0 3 64 0 WCWCWCWCWCWCWQrxrxrxWQWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWCWQTcTdTbV5VpQy1r0j0j0T0j0T0R0j0R
+BOARD 0 4 64 0 WSWSWSWSWSWSWQrxrxrxWQWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWSWCWQTbTcTdVZQCQD1r0T0j0T0j0R0T0R
+BOARD 0 5 64 0 WiWiWiWiWiWiWQrxrxrxWQWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWiWSWCTcTdTbV5VpGwQC1r0j0T0j0R0j0R
+BOARD 0 6 64 0 WyWyWyWyWyWQWQrxrxrxWQWQWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWyWiWSWQTbTcTdVZHAQSQg1r0j0T0R0T0R
+BOARD 0 7 64 0 QwQxQyQzQwWzWzrxrxrxWzWzQwQxQyQzQwQxQyQzQwQxQyQzQwQxQyQzQwQx8K8L8M8M8M8M8M8M8N8O8PGwGxZRQQQRQyQzWyWiWCTcTdTbV5VpQwQBQR1rsPsP0j0R
+BOARD 0 8 64 0 GgGxGwQDQAQTQQRjTjTjRgQDQAQTHAHBGhGgGwQDQTHAHBGhGgGwQCQDGiGj8a8b8c8c8c8c8c8c8d8e8fGhGwQwZRZlQCQDQAWyWSWQTbTcTdVZQAGwQCQDQARS1rsP
+BOARD 0 9 64 0 REQQQRHQHRQRSQTjTjTjTjRgQQQSHQHRGwQRQCQTQSHQHRGwQRQCQSQTGyGz8q8r8s88898889888t8u8vGgQCQzHIHJQCQDQSQRWiWCTcTdTbV5VpHAGgQTGgQRQSQz
+BOARD 0 10 64 0 GhQkQgHRGwQQSATjTjTjTkRQQgQhQiQj8K8L8M8M8M8M8M8M8N8O8PQjQgQh8687888889888988898+8/QhQCQDHYHZQSQTQAQhWyWSWQTbTcTdVZQhGhQjHIHJQiQC
+BOARD 0 11 64 0 GxGgQkQzQTQQSQTkTjTjTkSBQwQxQyQz8a8b8c8c8c8c8c8c8d8e8fHRGwGg9K9L9M9M9N9M9N9M9N9O9PQQQRGhQwQhQiQjQQQxQyWiWCTcTdTbV5VpQjQzHYHZQyQS
+BOARD 0 12 64 0 GgGhGgQBQAGhRjTkTjTjRQRRGwQRGhGx8q8r8s88898889888t8u8vQRGhQw9a9b9c9c9d9c9d9c9d9e9fQSHAHBGhHQHRGwQgQBQCWyWSWQTbTcTdVZRjRjRgGgGhQj
+BOARD 0 13 64 0 GgGhGwQRQQRjTjTkRARBQDQCQTHAHBGg8687888889888988898+8/HAHBGh8G8H8I8JfHfI8G8I8I8I8JQRQTQzQTQQQRGhQwQRQSQTWiWCTcTdTbV5VnTjTkRgQTQD
+BOARD 0 14 64 0 GwGxGhQhSATjTjTjTkSBQCGwQSHQHRQw9K9L9M9M9N9M9N9M9N9O9PHQHRGw8W8X8Y8ZfXfY8W8Y8Y8Y8ZQh8K8L8M8M8M8M8M8M8N8O8PWSWQTbTcTdVZQjQgHAQkRE
+BOARD 0 15 64 0 GxGwGxQxSQTkTjTjTkSBHAQSQBGwQzZR9a9b9c9c9d9c9d9c9d9e9fHAHBGh8m8n8o8pfXfY8m8o8o8o8pQx8a8b8c8c8c8c8c8c8d8e8fWiWCTcTdTbV5VpQwGgGwGg
+BOARD 0 16 64 0 GgGhGgGhRjTkTjTjRQRRHQQRGhGxQDQA8G8H8I8JfHfI8G8I8I8I8JZgZhQB8283848583848284848485QB8q8r8s88898889888t8u8vWyWSWQTbTcTdVZQAGxGhGh
+BOARD 0 17 64 0 QhQiQSRjTjTkRARBQDQCQSQTGiGjQTQQ8W8X8Y8ZfXfY8W8Y8Y8Y8ZZwZxGhQSQTQQRTTkTkSRQRQSQTQQQR8687888889888988898+8/QRWiWCTcTdTbV5VpQyQzQw
+BOARD 0 18 64 0 QwQyRjTjTjS0TjRgSSSTSDRhGyGzQjQg8m8n8o8pfXfY8m8o8o8o8pQjHRGwHRGwQRQhRTbVRgQhQiQwQSQh9K9L9M9M9N9M9N9M9N9O9PQhWyWSWQTbTcTdVZQAQBQC
+BOARD 0 19 64 0 QESATkTjTUTkTUTjTkTjTjRxQwQxQyQz8283848583848284848485QzQwQQQRQSQTQxSAblTkSRQyGhGgQR9a9b9c9c9d9c9d9c9d9e9fQxQyWiWCTcTdTbV5VpQRQS
+BOARD 0 20 64 0 QEQhRCRDTjTjTjTkTjTjTjTjQAQBQCQDQAQBQCRjTjRBQCQDHRGwQRGhQwQSQhQiQjQBRjTkTkSRQCGwGgHA8G8H8I8JfHfI8G8I8I8I8JQBQCWyWSWQTbTcTdVZQhQi
+BOARD 0 21 64 0 QERIRSRTTUTjTkTjTkRBRCRBGhQAQBGwQQQRRjTjTjRxQSQTQSQTHAHBGhGgQRGhQwQCRTTkTkSRQSGhQwGw8W8X8Y8ZfXfY8W8Y8Y8Y8ZQRQSQTWiWCTcTdTbV5VpQR
+BOARD 0 22 64 0 GhQCRiRjTjTkTjTkTkSBQDQAGwQRGhGxQgQhRCacatTjRxQBHQQSHQHRGwGgHAHBGhZlSATkRBQhQiQjQgQh8m8n8o8pfXfY8m8o8o8o8pQhQiQjWyWSWQTbTcTdVZHR
+BOARD 0 23 64 0 GxQRRyRzTUTkatTkTjSRQTQQQTHAHBGgQwQhSQS0blTjTkSBQSQTQQQRGhQwGwQzQwQxRjTkRgQxGwGgHAHB8283848583848284848485QxQyQzQwWiWCTcTdTbVZHB
+BOARD 0 24 64 0 RiRjTjTkTjTjS0TkRQRRQjQgQSHQHRQwQAQxSQTkb1TjTkSBGgGhQSHAHBGhGgQDQARjTkTkRBQBGhQwGwQzQCQDRjTUTUTURBQBQCQDQAQBQCQDQAWyWSWQTcTdVZQC
+BOARD 0 25 64 0 QQRCRBRCTkTjTjTkSBHBHQHRGwGgHAHBSnGhRjTkb1TjRQRRQSQTGgHQHRGwQRQhRCTkTkTkSRQRHBGhGgQDQSRjTUTUTUTkSRQRQSQTQQQRQSQTQQQRWiWQTdTbVZQS
+BOARD 0 26 64 0 GxGhGhRjTkTjTjRQRRHRQQQRGhQwGwQzQiRjTjTkRARBQDQSQhQiGgHAHBGhGgQhSQatTkTkQjQhQiQjSSSTRjTUTkTUTkRBQgQhQiQjQgQhQiQjQgQhWyWQTcTdVZQi
+BOARD 0 27 64 0 HRRiRjTjTkRATjSRQCQSQSHAHBGhGgQDQyRCTkTkTkSBQQGgQRGhQiHQHRGwQRQxSQa9TkTkRgQAQBRjTjTUTTTkTTTkRBQzQwQxQyQzQwQxQyQzQwQxQyWQTdTbVZQy
+BOARD 0 28 64 0 RjTkTkTjTkTjTkRgQAHQGgHQHRGwQRQhQCSQTkTjRBQjQgGgHAHBGgZWZXQjSnGhRjTkTkTkRBSTRjTkTTTkRBSiSiSjQCQDQAQBQCQDQAQBQCQDQAQBQCWQTcTdVZQC
+BOARD 0 29 64 0 ShShRCTjTjTjRBSiQQGhGgHAHBGhGgQhQSRjRBSiQyQzQwQxGwGwGwZmZnQzQiRjTjTkTkRBRjTkTkTkTURBQSQTQQQRQSQTQQQRQSQTQQRARBRxQCQRQSWQTbTcVZQT
+BOARD 0 30 64 0 RgQTQQRCTkTkSBHAQgGxQxGgQQQCSSSTRjTkRx8K8L8M8M8M8M8M8M8N8O8PQDRCTkTkRBSQTkTjRBSiSjQhQiQjQgQhQiQjQgQhQiQjQgTjRgSSRxQhQiWQTcTdVZQh
+BOARD 0 31 64 0 TkRgSCRjTkTkSRHBQwQxQyQzQwRjTTTjTkTkRB8a8b8c8c8c8c8c8c8d8e8fQTSATkTkRxRjRBSiQBQTQTQxQyQzQzQwRjSSSDQxQyQzQwTUTjTkTjRxQyWQTbTcVZQx
+BOARD 0 32 64 0 TkTkTkTkTkRQQwQBHAHBQCQCSQTjRBRCTjRQQC8q8r8s88898889888t8u8vQjSQTkTkTkTkRxQh0K0M0L0M0M0M0M0NTTTkTTTTTkTjTjbVTkTjTjRQQCWQTcTdVZSS
+BOARD 0 33 64 0 TkTkTkTkTkSRQAQRHQHRQSQSSQRzSBQCShQRQS8687888889888988898+8/QyRjTkTkTkTkRBQx0qCKCPCKCPCKCP0tTTTkS0TTTkTkTkbVTjTkRBQRQSWQTdTbVZTk
+BOARD 0 34 64 0 RTTkTkTkTkSRQQQxQyQhQiQjRyTkRgQSQgQhRI9K9L9M9M9N9M9N9M9N9O9PRjbVTkTkasRBQQQg0qCaCfCaCfCaCf0tbVTUTUTUTUTkS0blatTkSBQhQiWQTcTdVZRT
+BOARD 0 35 64 0 SATkTkatTkSRQgSASBGwHQSATjTkTjRgQwZgZh9a9b9c9c9d9c9d9c9d9e9fRTblTkTka8SRQgQw0607070707070709blTkTTTkTjTUTjTUa9TjSRQxQyWQTdTbVZQz
+BOARD 0 36 64 0 RjTjS0blTkRgSCRyRgQgQhRyTjTkbVRQRIZwZx8G8H8I8JfHfI8G8I8I8I8JSATkTkTkTkSRQwQA1K1M1M1M1M1M1M1NTTTjTTTkTkTkTkbVTkRQRRQBQCWQTcTdVZHQ
+BOARD 0 37 64 0 RCTjTkTkTkRzTkTTTURgRjTTTjS0b1RgQzZgZh8W8X8Y8ZfXfY8W8Y8Y8Y8ZQCRTTkTUTURgQAQQQRQSQTQRRCTTTTTkTjTkTTTTTkTjS0blTkSBQiQxQyWQTdTbVZHB
+BOARD 0 38 64 0 QQRCTkTkTkRBRCTTTUTUTTTUTTTTTURBRIZwZx8m8n8o8pfXfY8m8o8o8o8pQSQTRTTUTURBQQQRQiQjQgQhQiRCTTTTTkTTTkTTTTTkbVTjRQRRQyQBQCWQTcTdVZHB
+BOARD 0 39 64 0 SCRjTkTkTkRxRyTjTkTkTjTkTTTTTURgSSSTQx8283848583848284848485QiQjRjTjTTSRQgQhQy0K0M0L0M0M0M0M0NRCRDTUTUS0blTjSRQCQCQRWQWzTdTbVZHB
+BOARD 0 40 64 0 RCTjTjTkRBSgRCRBShSiSiRTTjTTTUTkTjTjRgQxQyQzQyRyTURxQCQDQwQxQySATkTkTjRgQwQxQC0qCKCPCKCPCKCP0tQASiRCTUTjTURQQCQjQgWQrhTbTcTdVZGx
+BOARD 0 41 64 0 RjTjTkTjRgQxQxQyQzQwQxQyRTTjTkTkTUTUTTRgQjQTSAacatTUSBQTQAQBQCQCRTTTTUTjRgQBQS0qCaCfCaCfCaCf0tQTQQQRRCb1RQQRQSQRWQrhrhTbTdTbVZQT
+BOARD 0 42 64 0 TjTjTkTkRQQCQBHBGhQAQBQCQDSiSjRCTUTkbVTURxSTRyS0blTkSBQjQgQhQiQiSATjTjRBSiQAQi0607070707070709Z0QgQhQiSjQgQhQiWQrhrhrhTbTcTdVZQj
+BOARD 0 43 64 0 TkTjTkTkRgQhQSHRGwQRGhQwGwGxGhQwRCTjblTUTUTjTjTkb1TkRxRySBQxQyQzRjTjRBQzRSQQSS1K1M1M1M1M1M1M1NQzQwQxQyQzQwQxQyrhrhrhWQWQTdTbV5Qz
+BOARD 0 44 64 0 SiRTTkTkTkSBQRQSQTHAHBGhGgGwGhQzQzRCTUTUTUTkTkTkTUTkTkTjSRSASBSATjTkSBQDQjQgRTTjTkS1RBQDQAQBQCQDGxQjQSQSQSQBQCrhrhWQWiV5WzW0V5QD
+BOARD 0 45 64 0 QARjTkRzRBQRGwHQQSHQHRGwQRQCGwGxQDQASiSjSjRCTUTkTjTkTUTkRxRyRgRyTkTkRgSDQzQwQSSiRTRBHQGwGwHAQxQyQgGxGhGhQiQRQSrhWQWiWiV5VyVyV5QT
+BOARD 0 46 64 0 RjTkTkRBQgQhGxGhQhGhQRQSQzHAQSQzQgHAQSQzQxQyRTTUTkTUb1TkTjTkbVTkUwTUTkTjRgQAQiQjQgQjQSHRGgQBSASBQSQSGhQxQyQhQiWQWyWyWyV5WCWCV5Qj
+BOARD 0 47 64 0 TkTkTjRxQwQxGwGxQxGgQQQRQSHQQRQSQwHQQRQSQBQCQDRTTUTkTUTUTkTjblTkTjTkTjTkTTSBS2QzQwQzGxQzQwQxRyRgQTQQQRSASBHBGxQiQzQwQxV5WSWSV5Qz
+BOARD 0 48 64 0 TkTjTkTjQAQBQCQDQSGgGwGwHQHRGwHQQAHRGwHQQAQBQCQDSiRTTkTjTUTkTjTUTkTUbVTjTTRgQCQDQAQDQhQDQARyTkTURgQgQhRyRgQiQjQhQDQDQAV5WiWiV5QD
+BOARD 0 49 64 0 TkTkTjTUSBQgSTSSGgGwGxHAHBQSGxGhQQQRQSQTQQQRSSSTSSRjTUTkRBRCTkTkRBRCTUTkTkTjSBQRQSQTGxQTRyTjTUTUTjRxRyTURwRxSSSTQBQhQDWJWyWyWJQC
+BOARD 0 50 64 0 RBRCTjTURxRjTUTkRgGgGwHQHRGhGwGxQAQiQjQASTRjTkTkTkTkTjRBQgQhSiSjQgQhSiRCTUTkRxSSSTQxQgSATjTkTjTkTTTUTjTkTkTjTkTURgRhQwGwGgQRQRQS
+BOARD 0 51 64 0 QySnSgSgRCTkTkTkTkRgSSSTQwQxQyQTQQQyQzRjTkasatTUTUTUTkSBQwQxQyQzQwQxQyRjRBRCTkTjTjRgQxSATTTjTjTUTjTkTjTjUwTjTkTURQQDQAGhGgGhQhQi
+BOARD 0 52 64 0 QhQiQjQiQjRCbVTjTkTkTkRBQAQBQRGhQwQCSQTkasasacTjRBSiRCSRQSHAHAQgQAQBSARzSBSQTkTUTUTTRgRyTjTTTkbVTTTjTjTkTjTjTjTkRgQBQzQzQDQwQxQy
+BOARD 0 53 64 0 QSGwQzQVQzSAblTUb1TkTkRgQQQRHAHBGhQSRjTTa8a9a9RBQQGgQQQRQSHQQSQTQQQRRjTkSBQRRCTUTUTUTUTjTjTUS0blTjTkTTTjTkTjTkTjRwRxSDQDSnSDQDSn
+BOARD 0 54 64 0 QBQCQDQlQDQAShRCTjTjTjRBQgSSSTSSSTRjTkTTTTTTRBQjQgGgGwGwHQHR8K8L8M8M8M8M8M8M8N8O8PTUTUTUTUTUTUTkTjTUTjTkTTTTTUTUTjTkTjRxRjTjRxRj
+BOARD 0 55 64 0 GqGrQyQSHAHBQRQSShRTTkRxRjTjTjTTTjTkTkShRTTTRgQzQwGwGxHAHBQS8a8b8c8c8c8c8c8c8d8e8fTUTURQSiSjRCRDTkTkTjTjTUTjTkTkTTS0TUTkTkTUTkTk
+BOARD 0 56 64 0 G6G7GqGrQCGwGxGwQgRjTjTjTkTjTjTjTjTjRQQyRjTjSBQDQSGgGhGwGxQB8q8r8s88898889888t8u8vSiSjQDQAQBQASiSjRCRDTUTkTkTTTUTUTkbVTUTkTkTUTk
+BOARD 0 57 64 0 HBQRG6G7GqGrQzGxRjTkTjTjTkTjTjRQSiSjQSSARzbVSBQTGgGwGxHAHBQR8687888889888988898+8/QRQSQTHAHBQiQRQSRSRTTjTjTkTTTUTkS0blTkTTTUTkTT
+BOARD 0 58 64 0 RVRVQhQiG6G7QSGgSjRTTjTjTkRARBQDQgQhQiRjTkblRgQjQgQhHAQjQgQh9K9L9M9M9N9M9N9M9N9O9PQhQiQjHQHRQyQBQiQjRSSiRTTkRQRCRDTUTkTjTkTkTjTk
+BOARD 0 59 64 0 YEYFSkGqGrGxGwGxHASQTjTjTjTkSB8K8L8M8M8M8M8M8M8N8O8PHQQRQCGw9a9b9c9c9d9c9d9c9d9e9fQxQyQzQgQhQiHQHRQzQAQBRSSgRRRSRTTUTkRATkTkRATk
+BOARD 0 60 64 0 ZDYVSkG6G7QzGxGwHQSQTkTjbVTkSB8a8b8c8c8c8c8c8c8d8e8fHBQzHAQS8G8H8I8I8I8IWHWFVo8I8JQBQCQDGwGwHAQxQCQDQQQRQSQTQQQCRSShRTRBRCTURBRC
+BOARD 0 61 64 0 ZTYlSkGqGrQRQSQTGhRjTkTjblRQRR8q8r8s88898889888t8u8vQSQSHQQR8W8X8Y8Y8YVoWHWFV4WH8ZQRQSQTRIQRQSQTQQQRGgGhHQGwGwQCQDQAQBQCQDSjQBQC
+BOARD 0 62 64 0 Y0Y1SkG6G7QhQiQjRjTjTkRARBQDQC8687888889888988898+8/GxHAHBQh8m8n8o8o8oV4WFV4WI8o8pQhQiQjQgQhQiQjQgQhGgGhQSHRGgQjQgQhQiWQVfdQVZQj
+BOARD 0 63 64 0 RURUQhQiGqGrQBRjblRBSiSjQjQgQh9K9L9M9M9N9M9N9M9N9O9PGxHAHBQx8283848484WI84WI848485QxWFWGWHWFWGWHQwQxGgGhQSHAGwQzQwQxQyWQTcTdVZQz
+LINK tlumjirhold_mindoutside.nw 63 53 1 9 1.5 55
+NPC val_smeewnpinetree-stump.gif 59 10
+//#CLIENTSIDE
+if(created || playerenters){
+setshape2 4,4,{
+    00,00,00,00,
+    00,00,00,00,
+    00,22,22,22,
+    00,22,22,22,
+
+
+
+
+
+  };
+}
+NPCEND
+NPC val_rp-workbench1.gif 47 28
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-anvil.gif 54 32
+// NPC made by Crono (LAT)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-hammer.gif 54 28
+// NPC made by Rominus Auraelius, Chief Marine of (Bridgeton)
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-hammer.gif 54 29
+// NPC made by Rominus Auraelius, Chief Marine of (Bridgeton)
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC shovelboard.gif 51 21
+//#CLIENTSIDE
+// NPC made by Drake (LAT)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC shovelboard.gif 16 17
+//#CLIENTSIDE
+// NPC made by Drake (LAT)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC shovelboard.gif 30 14
+//#CLIENTSIDE
+// NPC made by Drake (LAT)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC shovelboard.gif 49 21
+//#CLIENTSIDE
+// NPC made by Drake (LAT)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC shovelboard.gif 42 21
+//#CLIENTSIDE
+// NPC made by Drake (LAT)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-screws.gif 47 29
+//#CLIENTSIDE
+// NPC made by Rominus Auraelius, Chief Marine of (Bridgeton)
+if (created) {
+drawoverplayer;
+dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-screws.gif 48 28
+//#CLIENTSIDE
+// NPC made by Rominus Auraelius, Chief Marine of (Bridgeton)
+if (created) {
+drawoverplayer;
+dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ore-gold2.png 45 29
+//#CLIENTSIDE
+// NPC made by Samuel -Chief- (LAT)
+if (created) {
+x=x+.35;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ore-gold2.png 46 30
+//#CLIENTSIDE
+// NPC made by Samuel -Chief- (LAT)
+if (created) {
+x=x+.35;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ore-gold2.png 45 30
+//#CLIENTSIDE
+// NPC made by Samuel -Chief- (LAT)
+if (created) {
+x=x+.35;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ore-gold2.png 46 28
+//#CLIENTSIDE
+// NPC made by Samuel -Chief- (LAT)
+if (created) {
+x=x+.35;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp_barrelstackbase.gif 50 24
+// NPC made by Samuel (Admin)
+if (created) {
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp_barrelstackbase.gif 50 25
+// NPC made by Samuel (Admin)
+if (created) {
+drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp_barrelstacktop.gif 51 24
+// NPC made by Samuel (Admin)
+if (created) {
+drawoverplayer;
+dontblock;
+x=x-.0;
+y=y+.2;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp_barrelstacktop.gif 52 24
+// NPC made by Samuel (Admin)
+if (created) {
+drawoverplayer;
+dontblock;
+x=x-.0;
+y=y+.2;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC beerkeg.gif 55 24
+//#CLIENTSIDE
+if (created) {
+
+}
+NPCEND
+NPC beerkeg.gif 56 26
+//#CLIENTSIDE
+if (created) {
+
+}
+NPCEND
+NPC beerkeg.gif 57 28
+//#CLIENTSIDE
+if (created) {
+
+}
+NPCEND
+NPC - 40 40
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 1;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .63;
+    emitter.particle.alpha = 0.65;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 41 40
+// NPC made by Stefan Knorr
+if (created) {
+  dontblock;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 45 40
+// NPC made by Stefan Knorr
+if (created) {
+  dontblock;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 43 40
+// NPC made by Stefan Knorr
+if (created) {
+  dontblock;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 40 40
+// NPC made by Stefan Knorr
+if (created) {
+  dontblock;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 42 40
+// NPC made by Stefan Knorr
+if (created) {
+  dontblock;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 44 40
+// NPC made by Stefan Knorr
+if (created) {
+  dontblock;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 43 40
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 1;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .63;
+    emitter.particle.alpha = 0.65;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC axeicon.gif 53 28
+// NPC made by Midas Antilles
+if (created) {drawoverplayer;}
+//#SERVERSIDE
+if (playerchats&&strequals(#c,/clean shop)&&strequals(#a,JacobBPeters)) {
+  hide;
+}
+if (playerchats&&strequals(#c,/messy shop)&&strequals(#a,JacobBPeters)) {
+  show;
+}
+NPCEND
+NPC axeicon.gif 52 28
+// NPC made by Midas Antilles
+if (created) {drawoverplayer;}
+//#SERVERSIDE
+if (playerchats&&strequals(#c,/clean shop)&&strequals(#a,JacobBPeters)) {
+  hide;
+}
+if (playerchats&&strequals(#c,/messy shop)&&strequals(#a,JacobBPeters)) {
+  show;
+}
+NPCEND
+NPC axeicon.gif 50 28
+// NPC made by Midas Antilles
+if (created) {drawoverplayer;}
+//#SERVERSIDE
+if (playerchats&&strequals(#c,/clean shop)&&strequals(#a,JacobBPeters)) {
+  hide;
+}
+if (playerchats&&strequals(#c,/messy shop)&&strequals(#a,JacobBPeters)) {
+  show;
+}
+NPCEND
+NPC axeicon.gif 51 28
+// NPC made by Midas Antilles
+if (created) {drawoverplayer;}
+//#SERVERSIDE
+if (playerchats&&strequals(#c,/clean shop)&&strequals(#a,JacobBPeters)) {
+  hide;
+}
+if (playerchats&&strequals(#c,/messy shop)&&strequals(#a,JacobBPeters)) {
+  show;
+}
+NPCEND
+NPC weaponrack4.gif 41 29
+dontblock;
+drawover;
+NPCEND
+NPC chainmail.gif 57 31
+
+dontblock;
+drawover;
+NPCEND
+NPC chainmail.gif 57 33
+
+dontblock;
+drawover;
+NPCEND
+NPC chainmail.gif 56 35
+
+dontblock;
+drawover;
+NPCEND
+NPC chainmail.gif 55 37
+
+dontblock;
+drawover;
+NPCEND
+NPC shovelboard.gif 28 37
+//#CLIENTSIDE
+// NPC made by Drake (LAT)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-haystacklor1.gif 47 30
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-haystacklor1.gif 49 31
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-haystacklor1.gif 51 29
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-haystacklor1.gif 47 27
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-haystacklor1.gif 54 27
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-haystacklor1.gif 55 37
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-haystacklor1.gif 56 35
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-haystacklor1.gif 56 32
+// NPC made by Zangus
+if (created) {
+}
+if (playertouchsme) {
+}
+dontblock;
+drawunderplayer;
+NPCEND
+NPC archforge-bucket.gif 37 36
+
+NPCEND
+NPC pack_val-arwindpack1.gif 44 20
+//#CLIENTSIDE
+if (created) {
+
+setimgpart pack_val-arwindpack1.gif,11,4,25,39;
+
+}
+drawoverplayer;
+NPCEND
+NPC pack_val-arwindpack1.gif 44 21
+//#CLIENTSIDE
+if (created) {
+
+setimgpart pack_val-arwindpack1.gif,11,4,25,39;
+
+}
+drawoverplayer;
+NPCEND
+NPC val_work-screws.gif 42 62
+//#CLIENTSIDE
+// NPC made by Rominus Auraelius, Chief Marine of (Bridgeton)
+if (created) {
+drawoverplayer;
+dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-screws.gif 43 62
+//#CLIENTSIDE
+// NPC made by Rominus Auraelius, Chief Marine of (Bridgeton)
+if (created) {
+drawoverplayer;
+dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_work-hammer.gif 43 63
+// NPC made by Rominus Auraelius, Chief Marine of (Bridgeton)
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ashevalcrossbow.gif 26 36
+//#CLIENTSIDE
+// NPC made by Garrett Church, Regent of (Bridgeton)
+if (created) {
+  setimgpart ashevalcrossbow.gif,50,125,30,58;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC firepit.mng 0 58
+// NPC made by Samuel
+if (created) {drawunderplayer;
+}
+if(playerchats){
+  if(strequals(#c,Fire 2 On)){
+    show;
+  }else if(strequals(#c,Fire 2 Off)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters||created) {
+  timeout=.1;
+}
+if (timeout) {
+  playlooped fire2.wav;
+  timeout=.1;
+}
+NPCEND
+NPC firepit.mng 0 61
+// NPC made by Samuel
+if (created) {drawunderplayer;
+}
+if(playerchats){
+  if(strequals(#c,Fire 2 On)){
+    show;
+  }else if(strequals(#c,Fire 2 Off)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters||created) {
+  timeout=.1;
+}
+if (timeout) {
+  playlooped fire2.wav;
+  timeout=.1;
+}
+NPCEND
+NPC - 0 58
+// NPC made by Stefan Knorr
+if (created) {
+  dontblock;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 0 61
+// NPC made by Stefan Knorr
+if (created) {
+  dontblock;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC val_stonewell2.png 10 46
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 4,4,{
+00,00,00,00,
+00,22,22,00,
+22,00,00,22,
+00,22,22,00,
+  };
+}
+NPCEND
+NPC candle.mng 60 61
+//#CLIENTSIDE
+if (created) {drawoverplayer;
+}
+NPCEND
+NPC candle.mng 60 43
+//#CLIENTSIDE
+if (created) {drawoverplayer;
+}
+NPCEND
+NPC candle.mng 10 5
+//#CLIENTSIDE
+if (created) {drawoverplayer;
+}
+NPCEND
+NPC candle.mng 5 5
+//#CLIENTSIDE
+if (created) {drawoverplayer;
+}
+NPCEND
+NPC val_smeewnpinetree-stump.gif 17 45
+//#CLIENTSIDE
+if(created || playerenters){
+setshape2 4,4,{
+    00,00,00,00,
+    00,00,00,00,
+    00,22,22,22,
+    00,22,22,22,
+
+
+
+
+
+  };
+}
+NPCEND
+NPC val_smeewnpinetree-stump.gif 12 23
+//#CLIENTSIDE
+if(created || playerenters){
+setshape2 4,4,{
+    00,00,00,00,
+    00,00,00,00,
+    00,22,22,22,
+    00,22,22,22,
+
+
+
+
+
+  };
+}
+NPCEND
+NPC val_smeewnpinetree-stump.gif 8 26
+//#CLIENTSIDE
+if(created || playerenters){
+setshape2 4,4,{
+    00,00,00,00,
+    00,00,00,00,
+    00,22,22,22,
+    00,22,22,22,
+
+
+
+
+
+  };
+}
+NPCEND
+NPC - 5 5
+// NPC made by Stefan Knorr
+if (created) {
+  x=x+.5;
+  y=y-.2;
+  dontblock;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 10 5
+// NPC made by Stefan Knorr
+if (created) {
+  x=x+.5;
+  y=y-.2;
+  dontblock;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 60 43
+// NPC made by Stefan Knorr
+if (created) {
+  x=x+.5;
+  y=y-.2;
+  dontblock;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 60 61
+// NPC made by Stefan Knorr
+if (created) {
+  x=x+.5;
+  y=y-.2;
+  dontblock;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 0 58
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 1;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .63;
+    emitter.particle.alpha = 0.65;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND
+NPC - 0 60
+//#CLIENTSIDE
+function onCreated() {
+
+  with (findimg(200)) {
+    // Emitter attributes
+    layer = 3;
+    emitter.delaymin =.5;
+    emitter.delaymax =.25;
+    emitter.nrofparticles = 2;
+    emitter.maxparticles= 6;//30
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 1;//1
+    emitter.particle.image = "light2s.png";
+    emitter.particle.mode = 0; // light
+    emitter.particle.red = 1;
+    emitter.particle.green = 0.9;
+    emitter.particle.blue = .63;
+    emitter.particle.alpha = 0.65;
+    emitter.particle.angle=pi / 2;
+    emitter.particle.zoom = 1;//.6
+    emitter.particle.speed=5;
+
+    // Movement
+
+    emitter.addlocalmodifier("once",0,0,"x","add",0,2);
+    //    emitter.addlocalmodifier("once", 0, 0, "angle", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("once", 0, 0, "speed", "replace", 1.5, 4);
+    emitter.addglobalmodifier("range", 0, 0, "zangle", "add", -3, -3);
+    //    emitter.addlocalmodifier("range", 0.5, 1, "alpha", "replace", 0.99, 0);
+    emitter.addlocalmodifier("range", 0.4, 1, "zoom", "replace", 0.6, 0);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+
+  }
+}
+NPCEND

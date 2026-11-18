@@ -1,0 +1,17 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "head815.png";
+  this.body = "arwind-katsumotobodycloak.gif";
+  this.colors[0] = "orange";
+  this.colors[1] = "orange";
+  this.colors[2] = "orange";
+  this.colors[3] = "orange";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.chat = "Sail to Bridgeton? Say 'Sail to Bridgeton'";
+  setcharani("akamerifle-idle", NULL);
+  this.dir = 2;
+  this.ap = 100;
+}

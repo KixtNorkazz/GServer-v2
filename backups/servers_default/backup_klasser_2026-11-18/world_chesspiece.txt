@@ -1,0 +1,1184 @@
+/*Vars:
+this.offboardmsg                   - msg when moving off board    - default: #x You can not move off the edge of the board!
+this.stepsize                      - size of each square and step - default: 2
+this.piece         - NEED EXTERNAL - piece.                         default: pawn
+this.piecenum      - NEED EXTERNAL - number refering to piece       default: destroy()
+                                     DO NOT SET TO THE SAME AS ANY OTHER ON THE BOARD!
+this.piececolor    - NEED EXTERNAL - COLOR of the piece.            default: destroy()
+this.left_border   - NEED EXTERNAL - X of left side of board        default: destroy()
+this.right_border  - NEED EXTERNAL - X of right side of board       default: destroy()
+this.top_border    - NEED EXTERNAL - Y of top side of board         default: destroy()
+this.bottom_border - NEED EXTERNAL - Y of bottom sid of board       default: destroy()
+
+  switch (this.piece)
+  {
+    case "pawn":
+    break;
+    case "rook":
+    break;
+    case "knight":
+    break;
+    case "bishop":
+    break;
+    case "king":
+    break;
+    case "queen":
+    break;
+  }
+*/
+function onCreated()
+{
+  join("util_sleep2");
+  dontblock();
+
+  this.owner = null;
+  this.loopSpeed = 1;
+
+  this.stepsize = 2;
+  this.offboardmsg = "#x You can not move off the edge of the board!";
+  this.defaultXY = {this.x,this.y};
+  
+  this.imgwpawn = "val_chesspiece_whitepawn.png";
+  this.imgwrook = "val_chesspiece_whiterook.png";
+  this.imgwknight = "val_chesspiece_whiteknight.png";
+  this.imgwbishop = "val_chesspiece_whitebishop.png";
+  this.imgwking = "val_chesspiece_whiteking.png";
+  this.imgwqueen = "val_chesspiece_whitequeen.png";
+  this.imgbpawn = "val_chesspiece_blackpawn.png";
+  this.imgbrook = "val_chesspiece_blackrook.png";
+  this.imgbknight = "val_chesspiece_blackknight.png";
+  this.imgbbishop = "val_chesspiece_blackbishop.png";
+  this.imgbking = "val_chesspiece_blackking.png";
+  this.imgbqueen = "val_chesspiece_blackqueen.png";
+  
+  ChessConfig();
+}
+function ChessConfig()
+{
+  this.piece = this.piece.lower();
+  this.piececolor = this.piececolor.lower();
+
+  if (this.piece == null ||
+     !(this.piece in {"pawn", "rook", "knight", "bishop", "king", "queen"}))
+  {
+    this.piece = "pawn";
+  }
+  if (this.piecenum == null)
+  {
+    echo("Chess piece at " @ this.level @ " " @ this.x @ " " @ this.y @ " destroyed. No this.piecenum.");
+    this.destroy();
+  }
+  if (this.piececolor.lower() != "white" && this.piececolor.lower() != "black")
+  {
+    echo("Chess piece at " @ this.level @ " " @ this.x @ " " @ this.y @ " destroyed. this.piececolor not set to \"white\" or \"black\".");
+    this.destroy();
+  }
+  if (this.left_border == null)
+  {
+    echo("Chess piece at " @ this.level @ " " @ this.x @ " " @ this.y @ " destroyed. No this.left_border.");
+    this.destroy();
+  }
+  if (this.right_border == null)
+  {
+    echo("Chess piece at " @ this.level @ " " @ this.x @ " " @ this.y @ " destroyed. No this.right_border.");
+    this.destroy();
+  }
+  if (this.top_border == null)
+  {
+    echo("Chess piece at " @ this.level @ " " @ this.x @ " " @ this.y @ " destroyed. No this.up_border.");
+    this.destroy();
+  }
+  if (this.bottom_border == null)
+  {
+    echo("Chess piece at " @ this.level @ " " @ this.x @ " " @ this.y @ " destroyed. No this.down_border.");
+    this.destroy();
+  }
+  
+  this.bottom_border -= 2;
+  this.right_border -= 2;
+  
+  setshape(1,16*this.stepsize,16*this.stepsize);
+  
+  PieceConfig();
+}
+function PieceConfig()
+{
+  this.x = this.defaultXY[0];
+  this.y = this.defaultXY[1];
+  
+  message(this.piecenum);
+  switch (this.piece)
+  {
+    case "pawn":
+    this.definition = {"Piece: The Pawn",
+                       "Point value: 1",
+                       "Commands:",
+                       "/" @ this.piecenum @ " left side",
+                       "/" @ this.piecenum @ " right side",
+                       "/" @ this.piecenum @ " up",
+                       "/" @ this.piecenum @ " up left",
+                       "/" @ this.piecenum @ " up right",
+                       "/" @ this.piecenum @ " down",
+                       "/" @ this.piecenum @ " down left",
+                       "/" @ this.piecenum @ " down right",
+                       " ",
+                       "Take control: /master " @ this.piececolor,
+                       "End control: /end",
+                       "Reset all " @ this.piececolor @ " pieces: /reset " @ ((this.piececolor=="white")?"white":"black"),
+                       "Control also ends when the master signs off or leaves the room",
+                       " ",
+                       "Definition:",
+                       "If the pawn is not on its starting square, it can only move 1 square straight ahead.",
+                       "From its starting square, the pawn can move 1 or 2 squares straight ahead.",
+                       "Although pawns MOVE only forward, they can CAPTURE ONLY SIDEWAYS 1 square diagonally forward.",
+                       "Once a pawn reaches the opposite side of the board, it may be exchanged for any captured piece."};
+    if (this.piececolor == "white")
+      this.image = this.imgwpawn;
+    else
+      this.image = this.imgbpawn; 
+    break;
+    case "rook":
+    this.definition = {"Piece: The Rook AKA Castle.",
+                       "Point value: 5",
+                       "Commands:",
+                       "/" @ this.piecenum @ " left side",
+                       "/" @ this.piecenum @ " right side",
+                       "/" @ this.piecenum @ " up",
+                       "/" @ this.piecenum @ " down",
+                       "/" @ this.piecenum @ " left",
+                       "/" @ this.piecenum @ " right",
+                       " ",
+                       "The Rook can move any number of squares in horizontal and vertical directions.",
+                       "The Rook, however, cannot jump over any pieces.",
+                       " ",
+                       "Take control: /master " @ this.piececolor,
+                       "End control: /end",
+                       "Control also ends when the master signs off or leaves the room",
+                       " ",
+                       "CASTLING:",
+                       "The king moves TWO squares toward the rook he intends to castle with (this may be either rook).",
+                       "The rook then moves to the square the king passed THROUGH (This is the first square the king stepped on).",
+                       "RULES FOR CASTLING:",
+                       "1. It can only occur if there are no pieces standing between the king and the rook.",
+                       "2. Neither king nor rook may have moved from its original position. ",
+                       "3. There can be no opposing piece that could possibly capture the king in his original square, the square he moves through or the square that he ends up in. "};
+    if (this.piececolor == "white")
+      this.image = this.imgwrook;
+    else
+      this.image = this.imgbrook; 
+    break;
+    case "knight":
+    this.definition = {"Piece: The Knight",
+                       "Point value: 3",
+                       "Commands:",
+                       "/" @ this.piecenum @ " left side",
+                       "/" @ this.piecenum @ " right side",
+                       "/" @ this.piecenum @ " up left",
+                       "/" @ this.piecenum @ " up  right",
+                       "/" @ this.piecenum @ " down left",
+                       "/" @ this.piecenum @ " down right",
+                       "/" @ this.piecenum @ " left up",
+                       "/" @ this.piecenum @ " left down",
+                       "/" @ this.piecenum @ " right up",
+                       "/" @ this.piecenum @ " right down",
+                       " ",
+                       "Take control: /master " @ this.piececolor,
+                       "End control: /end",
+                       "Control also ends when the master signs off or leaves the room",
+                       " ",
+                       "Definition:",
+                       "The Knight can move from one corner to the other of any 2x3 rectangle of squares (Typically an L shaped move.)",
+                       "The Knight is also the only piece that can jump over any other chess pieces."};
+    if (this.piececolor == "white")
+      this.image = this.imgwknight;
+    else
+      this.image = this.imgbknight; 
+    break;
+    case "bishop":
+    this.definition = {"Piece: The Bishop",
+                       "Point value: 3",
+                       "Commands:",
+                       "/" @ this.piecenum @ " left side",
+                       "/" @ this.piecenum @ " right side",
+                       "/" @ this.piecenum @ " up left",
+                       "/" @ this.piecenum @ " up right",
+                       "/" @ this.piecenum @ " down left",
+                       "/" @ this.piecenum @ " down right",
+                       "/" @ this.piecenum @ " left up",
+                       "/" @ this.piecenum @ " left down",
+                       "/" @ this.piecenum @ " right up",
+                       "/" @ this.piecenum @ " right down",
+                       " ",
+                       "Take control: /master " @ this.piececolor,
+                       "End control: /end",
+                       "Control also ends when the master signs off or leaves the room",
+                       " ",
+                       "Definition:",
+                       "The Bishop can move any number of squares diagonally only.",
+                       "The Bishop, however, cannot jump over any pieces."};
+    if (this.piececolor == "white")
+      this.image = this.imgwbishop;
+    else
+      this.image = this.imgbbishop; 
+    break;
+    case "king":
+    this.definition = {"Piece: The King",
+                       "Point value: 200",
+                       "Commands:",
+                       "/" @ this.piecenum @ " left side",
+                       "/" @ this.piecenum @ " right side",
+                       "/" @ this.piecenum @ " up",
+                       "/" @ this.piecenum @ " up left",
+                       "/" @ this.piecenum @ " up right",
+                       "/" @ this.piecenum @ " down",
+                       "/" @ this.piecenum @ " down left",
+                       "/" @ this.piecenum @ " down right",
+                       "/" @ this.piecenum @ " left",
+                       "/" @ this.piecenum @ " left up",
+                       "/" @ this.piecenum @ " left down",
+                       "/" @ this.piecenum @ " right",
+                       "/" @ this.piecenum @ " right up",
+                       "/" @ this.piecenum @ " right down",
+                       " ",
+                       "Take control: /master " @ this.piececolor,
+                       "End control: /end",
+                       "Control also ends when the master signs off or leaves the room",
+                       " ",
+                       "Definition:",
+                       "The king is the main chess piece.",
+                       "The side whose king is captured loses.",
+                       "This capture is called 'checkmate'.",
+                       "Checkmate happens once the king is under attack, cannot move and cannot be helped by its own army of chessmen."};
+    if (this.piececolor == "white")
+      this.image = this.imgwking;
+    else
+      this.image = this.imgbking; 
+    break;
+    case "queen":
+    this.definition = {"Piece: The Queen",
+                       "Point value: 9",
+                       "Commands:",
+                       "/" @ this.piecenum @ " left side",
+                       "/" @ this.piecenum @ " right side",
+                       "/" @ this.piecenum @ " up",
+                       "/" @ this.piecenum @ " up left",
+                       "/" @ this.piecenum @ " up right",
+                       "/" @ this.piecenum @ " down",
+                       "/" @ this.piecenum @ " down left",
+                       "/" @ this.piecenum @ " down right",
+                       "/" @ this.piecenum @ " left",
+                       "/" @ this.piecenum @ " left up",
+                       "/" @ this.piecenum @ " left down",
+                       "/" @ this.piecenum @ " right",
+                       "/" @ this.piecenum @ " right up",
+                       "/" @ this.piecenum @ " right down",
+                       " ",
+                       "Take control: /master " @ this.piececolor,
+                       "End control: /end",
+                       "Control also ends when the master signs off or leaves the room",
+                       " ",
+                       "Definition:",
+                       "The Queen can move any number of squares diagonally and also in horizontal and vertical directions.",
+                       "The Queen, however, cannot jump over any pieces. "};
+    if (this.piececolor == "white")
+      this.image = this.imgwqueen;
+    else
+      this.image = this.imgbqueen; 
+    break;
+  }
+}
+
+function onActionLeftMouse()
+{
+  Sign.Display(player.account,{"Solid",this.definition[0]},this.definition);
+}
+
+function onActionRightMouse()
+{
+
+}
+
+function onPlayerchats()
+{
+    if (player.chat == "/master white" && this.piececolor == "white")
+    {
+      temp.ACC = player.account;
+      if (this.owner == null)
+      {
+        this.owner = temp.ACC;
+        message(this.owner);
+        sleep2(0.2);
+        message(this.piecenum);
+        setTimer(this.loopSpeed);
+      }
+      else
+      {
+        player.chat = "//Someone else already has control of white!\\";
+      }
+    }
+    else if (player.chat == "/master black" && this.piececolor == "black")
+    {
+      temp.ACC = player.account;
+      if (this.owner == null)
+      {
+        this.owner = temp.ACC;
+        message(this.owner);
+        sleep2(0.2);
+        message(this.piecenum);
+        setTimer(this.loopSpeed);
+      }
+      else
+      {
+        player.chat = "//Someone else already has control of black!\\";
+      }
+    }
+    else if (player.chat == "/reset white" && this.piececolor == "white")
+    {
+      temp.ACC = player.account;
+      if (this.owner == temp.ACC)
+      {
+        this.x = this.defaultXY[0];
+        this.y = this.defaultXY[1];
+      }
+      else
+      {
+        player.chat = "//I have no control over white!\\";
+      }
+    }
+    else if (player.chat == "/reset black" && this.piececolor == "black")
+    {
+      temp.ACC = player.account;
+      if (this.owner == temp.ACC)
+      {
+        this.x = this.defaultXY[0];
+        this.y = this.defaultXY[1];
+      }
+      else
+      {
+        player.chat = "//I have no control over black!\\";
+      }
+    }
+    else if (player.chat == "/end")
+    {
+      temp.ACC = player.account;
+      if (this.owner == temp.ACC)
+      {
+        NullOwner();
+      }
+    }
+  if (player.chat.starts("/"))
+  {
+    temp.tokens = player.chat.tokenize();
+    
+    if (temp.tokens[0].substring(1) != this.piecenum)
+      return;
+      
+    temp.ACC = player.account;
+      
+    if (this.owner != temp.ACC)
+    {
+      player.chat = "//I have no control over that piece!\\";
+      return;
+    }
+    
+    if (temp.tokens[1] == "left" && temp.tokens[2] == "side")
+    {
+      this.x = this.left_border - this.stepsize;
+    }
+    else if (temp.tokens[1] == "right" && temp.tokens[2] == "side")
+    {
+      this.x = this.right_border + this.stepsize;
+    }
+    else if (temp.tokens[1] == "up")
+    {
+      switch (this.piece)
+      {
+        case "pawn":
+          if (this.y - this.stepsize >= this.top_border)
+          {
+            if (temp.tokens[2] == "left")
+            {
+              if (this.x - this.stepsize >= this.left_border)
+              {
+                this.y -= this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "right")
+            {
+              if (this.x + this.stepsize <= this.right_border)
+              {
+                this.y -= this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else
+            {
+              this.y -= this.stepsize;
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "rook":
+          if (this.y - this.stepsize >= this.top_border)
+          {
+            this.y -= this.stepsize;
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "knight":
+          if (this.y - this.stepsize*2 >= this.top_border)
+          {
+            if (temp.tokens[2] == "left")
+            {
+              if (this.x - this.stepsize >= this.left_border)
+              {
+                this.y -= this.stepsize*2;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "right")
+            {
+              if (this.x + this.stepsize <= this.right_border)
+              {
+                this.y -= this.stepsize*2;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "bishop":
+          if (this.y - this.stepsize >= this.top_border)
+          {
+            if (temp.tokens[2] == "left")
+            {
+              if (this.x - this.stepsize >= this.left_border)
+              {
+                this.y -= this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "right")
+            {
+              if (this.x + this.stepsize <= this.right_border)
+              {
+                this.y -= this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "king":
+          if (this.y - this.stepsize >= this.top_border)
+          {
+            if (temp.tokens[2] == "left")
+            {
+              if (this.x - this.stepsize >= this.left_border)
+              {
+                this.y -= this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "right")
+            {
+              if (this.x + this.stepsize <= this.right_border)
+              {
+                this.y -= this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else
+            {
+              this.y -= this.stepsize;
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "queen":
+          if (this.y - this.stepsize >= this.top_border)
+          {
+            if (temp.tokens[2] == "left")
+            {
+              if (this.x - this.stepsize >= this.left_border)
+              {
+                this.y -= this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "right")
+            {
+              if (this.x + this.stepsize <= this.right_border)
+              {
+                this.y -= this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else
+            {
+              this.y -= this.stepsize;
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+      }
+    }
+    else if (temp.tokens[1] == "down")
+    {
+      switch (this.piece)
+      {
+        case "pawn":
+          if (this.y + this.stepsize <= this.bottom_border)
+          {
+            if (temp.tokens[2] == "left")
+            {
+              if (this.x - this.stepsize >= this.left_border)
+              {
+                this.y += this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "right")
+            {
+              if (this.x + this.stepsize <= this.right_border)
+              {
+                this.y += this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else
+            {
+              this.y += this.stepsize;
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "rook":
+          if (this.y + this.stepsize <= this.bottom_border)
+          {
+            this.y += this.stepsize;
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "knight":
+          if (this.y + this.stepsize*2 <= this.bottom_border)
+          {
+            if (temp.tokens[2] == "left")
+            {
+              if (this.x - this.stepsize >= this.left_border)
+              {
+                this.y += this.stepsize*2;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "right")
+            {
+              if (this.x + this.stepsize <= this.right_border)
+              {
+                this.y += this.stepsize*2;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "bishop":
+          if (this.y + this.stepsize <= this.bottom_border)
+          {
+            if (temp.tokens[2] == "left")
+            {
+              if (this.x - this.stepsize >= this.left_border)
+              {
+                this.y += this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "right")
+            {
+              if (this.x + this.stepsize <= this.right_border)
+              {
+                this.y += this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "king":
+          if (this.y + this.stepsize <= this.bottom_border)
+          {
+            if (temp.tokens[2] == "left")
+            {
+              if (this.x - this.stepsize >= this.left_border)
+              {
+                this.y += this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "right")
+            {
+              if (this.x + this.stepsize <= this.right_border)
+              {
+                this.y += this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else
+            {
+              this.y += this.stepsize;
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "queen":
+          if (this.y + this.stepsize <= this.bottom_border)
+          {
+            if (temp.tokens[2] == "left")
+            {
+              if (this.x - this.stepsize >= this.left_border)
+              {
+                this.y += this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "right")
+            {
+              if (this.x + this.stepsize <= this.right_border)
+              {
+                this.y += this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else
+            {
+              this.y += this.stepsize;
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+      }
+    }
+    else if (temp.tokens[1] == "left")
+    {
+      switch (this.piece)
+      {
+        case "pawn":
+          if (this.x - this.stepsize >= this.left_border)
+          {
+            if (temp.tokens[2] == "up")
+            {
+              if (this.y - this.stepsize >= this.top_border)
+              {
+                this.y -= this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "down")
+            {
+              if (this.y + this.stepsize <= this.bottom_border)
+              {
+                this.y += this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "rook":
+          if (this.x - this.stepsize >= this.left_border)
+          {
+            this.x -= this.stepsize;
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "knight":
+          if (this.x - this.stepsize*2 >= this.left_border)
+          {
+            if (temp.tokens[2] == "up")
+            {
+              if (this.y - this.stepsize >= this.top_border)
+              {
+                this.y -= this.stepsize;
+                this.x -= this.stepsize*2;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "down")
+            {
+              if (this.y + this.stepsize <= this.bottom_border)
+              {
+                this.y += this.stepsize;
+                this.x -= this.stepsize*2;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "bishop":
+        if (this.x - this.stepsize >= this.left_border)
+          {
+            if (temp.tokens[2] == "up")
+            {
+              if (this.y - this.stepsize >= this.top_border)
+              {
+                this.y -= this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "down")
+            {
+              if (this.y + this.stepsize <= this.bottom_border)
+              {
+                this.y += this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "king":
+          if (this.x - this.stepsize >= this.left_border)
+          {
+            if (temp.tokens[2] == "up")
+            {
+              if (this.y - this.stepsize >= this.top_border)
+              {
+                this.y -= this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "down")
+            {
+              if (this.y + this.stepsize <= this.bottom_border)
+              {
+                this.y += this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else
+            {
+              this.x -= this.stepsize;
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "queen":
+          if (this.x - this.stepsize >= this.left_border)
+          {
+            if (temp.tokens[2] == "up")
+            {
+              if (this.y - this.stepsize >= this.top_border)
+              {
+                this.y -= this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "down")
+            {
+              if (this.y + this.stepsize <= this.bottom_border)
+              {
+                this.y += this.stepsize;
+                this.x -= this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else
+            {
+              this.x -= this.stepsize;
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+      }
+    }
+    else if (temp.tokens[1] == "right")
+    {
+      switch (this.piece)
+      {
+        case "pawn":
+          if (this.x + this.stepsize <= this.right_border)
+          {
+            if (temp.tokens[2] == "up")
+            {
+              if (this.y - this.stepsize >= this.top_border)
+              {
+                this.y -= this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "down")
+            {
+              if (this.y + this.stepsize <= this.bottom_border)
+              {
+                this.y += this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "rook":
+          if (this.x + this.stepsize <= this.right_border)
+          {
+            this.x += this.stepsize;
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "knight":
+          if (this.x + this.stepsize*2 <= this.right_border)
+          {
+            if (temp.tokens[2] == "up")
+            {
+              if (this.y - this.stepsize >= this.top_border)
+              {
+                this.y -= this.stepsize;
+                this.x += this.stepsize*2;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "down")
+            {
+              if (this.y + this.stepsize <= this.bottom_border)
+              {
+                this.y += this.stepsize;
+                this.x += this.stepsize*2;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "bishop":
+          if (this.x + this.stepsize <= this.right_border)
+          {
+            if (temp.tokens[2] == "up")
+            {
+              if (this.y - this.stepsize >= this.top_border)
+              {
+                this.y -= this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "down")
+            {
+              if (this.y + this.stepsize <= this.bottom_border)
+              {
+                this.y += this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "king":
+          if (this.x + this.stepsize <= this.right_border)
+          {
+            if (temp.tokens[2] == "up")
+            {
+              if (this.y - this.stepsize >= this.top_border)
+              {
+                this.y -= this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "down")
+            {
+              if (this.y + this.stepsize <= this.bottom_border)
+              {
+                this.y += this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else
+            {
+              this.x += this.stepsize;
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+        case "queen":
+          if (this.x + this.stepsize <= this.right_border)
+          {
+            if (temp.tokens[2] == "up")
+            {
+              if (this.y - this.stepsize >= this.top_border)
+              {
+                this.y -= this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else if (temp.tokens[2] == "down")
+            {
+              if (this.y + this.stepsize <= this.bottom_border)
+              {
+                this.y += this.stepsize;
+                this.x += this.stepsize;
+              }
+              else
+              {
+                Messages.addmsg(5,this.offboardmsg);
+              }
+            }
+            else
+            {
+              this.x += this.stepsize;
+            }
+          }
+          else
+          {
+            Messages.addmsg(5,this.offboardmsg);
+          }
+        break;
+      }
+    }
+  }
+}
+
+function NullOwner()
+{
+  this.owner = null;
+  message(this.owner);
+  sleep2(0.2);
+  message(this.piecenum);
+}
+
+function onTimeout()
+{
+  if (this.owner != null)
+  {
+    temp.target = findplayer(this.owner);
+    if (temp.target == null)
+    {
+      NullOwner();
+      return;
+    }
+    else if (temp.target.level != this.level)
+    {
+      NullOwner();
+      return;
+    }
+    setTimer(this.loopSpeed);
+  }
+}

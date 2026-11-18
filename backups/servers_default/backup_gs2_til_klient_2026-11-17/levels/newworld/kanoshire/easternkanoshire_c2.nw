@@ -1,0 +1,604 @@
+GLEVNW01
+BOARD 0 0 64 0 C6C5C6C5C6C5C6C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5GXvSvTvQp8p9waxzxwxxxyxzxw
+BOARD 0 1 64 0 F5F4F5F4F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F5F4F5F5F4F5F5F4F5F5F5F5F5F4F5F5F5F4F5F5F4F5F4F5F4F5F4F5Fpuiujugp8p9waxzxwxxwHwIxw
+BOARD 0 2 64 0 uxuyuzABuhuhvDABuwAAvQvRvSvTvQvRABvBAAuzAAABAAABAAABAAABuzvTAAAAABvCAAAAABvCvCAAABvBAAABvQvRABvBAAuzAAABAAABAAp8p9wayDyAyBwFwGyA
+BOARD 0 3 64 0 FnFmFnFmFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFnFmFnFnFmFnFnFmFnFnFnFnFnFmFnFnFnFmFnFnFmFnFmFnFmFnFmFnF3uwAAvTp8p9waxzxwwFwYwXwG
+BOARD 0 4 64 0 C6C5C6C5C6C5C6C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5GXuhvDABp8p9wayDyAwZxyxzwa
+BOARD 0 5 64 0 F5F4F5F4F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F5F4F5F5F4F5F5F4F5F5F5F5F5F4F5F5F5F4F5F5F4F5F4F5F4F5F4F5Fpuxuyuzp8p9waxzwFwKwKwKwK
+BOARD 0 6 64 0 uwAAuzuguhABuwuxuyuzABuhuiuiuzvTAAABvCvCAAABvBAAABvQvRvRABvCvSvQvRuwAAvTuguhuguhuiujAAABuzvTAAABvCvCAAABvBAAABp8p9wayDwVwJwJwJwJ
+BOARD 0 7 64 0 FnFmFnFmFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFnFmFnFnFmFnFnFmFnFnFnFnFnFmFnFnFnFmFnFnFmFnFmFnFmFnFmFnF3AAABvTp8p9waxzxwwVwJwJwW
+BOARD 0 8 64 0 C6C5C6C5C6C5C6C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5GXABuwuxp8p9wayDyAyBwVwWyA
+BOARD 0 9 64 0 F5F4F5F4F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F5F4F5F5F4F5F5F4F5F5F5F5F5F4F5F5F5F4F5F5F4F5F4F5F4F5F4F5Fpuguhuip8p9wayDyAyBwZwayA
+BOARD 0 10 64 0 uwuxuyuzAAvDvRuwAAuzuguhuiAAvSvTvTuguhuguhuiujAAABuzvTABAAABvSvTvQAAABvTvQvRvQvRvSvTvQvRvSvTvTuguhuguhuiujAAABp8p9waxzxwxxwZwaxw
+BOARD 0 11 64 0 FnFmFnFmFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFnFmFnFnFmFnFnFmFnFnFnFnFnFmFnFnFnFmFnFnFmFnFmFnFmFnFmFnF3uzvBvCp8p9wayDyAyBwFwGyA
+BOARD 0 12 64 0 C6C5C6C5C6C5C6C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5GXvDvRuwp8p9waxzxwwFwVwFwG
+BOARD 0 13 64 0 F5F4F5F4F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F5F4F5F5F4F5F5F4F5F5F5F5F5F4F5F5F5F4F5F5F4F5F4F5F4F5F4F5FpAAAAABp8p9wayDwFwVwWwVwF
+BOARD 0 14 64 0 vRuwAAuzuwAAABuzuwAAABvSvTvQAAABvTvQvRvQvRvSvTvQvRvSvTABABuxuyuxuyu2u3uxuyABuhuxuyuzuwuxuyn4nmuxuyuzuwvAvCvDvRp8p9wayDwVwWwGwFwG
+BOARD 0 15 64 0 u2uyuzuwu2uyuzvTvQvRvCuxuyuzAAABuyuzAAnonpnmu2uhuiujugvBAAuzAAnonptAtBnmnnvDABvBAAvDu2unvRnZnHvTAAuguhuiAAABuhp8p9waxzxwwVwWwGwW
+BOARD 0 16 64 0 tBnmu2nptBnmnnujuguhvSvQvRvSvTvQvRvSvQn4tAtAtBnmuyuzujAAugujvDn4tBtAtAn2n3umunvRnonptAtBnmvRvQuwuxuyu2uwuxuyuhp8p9wayDyAyBwVwWyA
+BOARD 0 17 64 0 tBtBtBtBnHnIn3u2uwuxvRABuhuhuiAAABuzvTnInHnItAtBvnvDuzvBuwuzvTtRtRtAtAtBtAtAtBnmn4n5tQtRn2nmugnou2n4tAnmu2vCAAp8p9wayDyAyBwZwayA
+BOARD 0 18 64 0 tBtAtBtBnmn4tBtBnmvBuzuwAAnou3n4nmvDAAvUnmn4tAtBvXvTvDvRvAvDAAnInJnGtQtRtAnWnItBtAtBtAtBnGnHuwn4tAnHnItAtBnmvBp8p9waxzxwxxwZwaxw
+BOARD 0 19 64 0 tBtBtBtAtBtAtBtBnHvRAAAAABn4tQtAnHAAuzuhnItAtBtAnmujAAAAvQAAuznYnZnWvFnItQnmn4tAtQtRtQtRnWnXvAnItQnmn4tQtRnHvRp8p9wayDyAyBwFwGyA
+BOARD 0 20 64 0 tBtAtBnHvEvFnInHuguhvTvQvRnZnHvGujvCAAuxvUtQtAtAtBnmvTn4nmvCAAvRvSvTvQnYvFvFnItQtRnWvEvFvSvTvQuhnZnHnInHvGuyvRp8p9waxxxywFwKwKwG
+BOARD 0 21 64 0 tBnHvEvQvRvSnYuzuwuxvRvSvTvQvRvSvQvRuwuwuxnZtAtAtBnWvTnZnHvTvQugAAABvBAAuzAAABvCvDvAvBvCvDvAvBvAvBnXnYvAvBvCujp8p9wayBwFwKwKwKwK
+BOARD 0 22 64 0 vEuiujuguhuiujvDvAvBuhuiAAuguhuiAAABuhuwAAABvFvFvFvDAAABABujuguwuxuyvRvSvSvQvRABuhuiAAuguhuiAAABuhvDABuwAAABuzp8p9waxzwVwJwJwJwJ
+BOARD 0 23 64 0 AAABuzuzvDvRuwAAuzuwAAABuzuwAAABuzuwuxuyuzAAvBvCvDvRuwAAuzuwAAABuzuzvDvRuwAAuzuwAAABuzuwAAABuzuwuxuyuzAAvBvCvDp8p9waxzxwwZxyxzwa
+BOARD 0 24 64 0 AAvTuguhuiujAAvCAAAAABvCAAABvBAAuhuiujugAAABujuguhuiujuguhuiujugABuhvDABujuguhuiujuguhuiujuguhuiujugAAABujugAAp8p9waxzxwwVwIwHwW
+BOARD 0 25 64 0 FnFmFnFmFnFmFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFnFmFnFnFmFnFnFmFnFnFnFnFnFmFnFnFnFmFnFnFmFnFmFnFmFnFmFnF3vTp8p9wayDyAyBwVwWyA
+BOARD 0 26 64 0 C6C5C6C5C6C5C6C5C6C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5GXujp8p9waxzxwxxwXwYxw
+BOARD 0 27 64 0 F5F4F5F4F5F4F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F5F4F5F5F4F5F5F4F5F5F5F5F5F4F5F5F5F4F5F5F4F5F4F5F4F5F4F5Fpuzp8p9wayDyAyBxwxxyA
+BOARD 0 28 64 0 uhvDABuwAAvQvRAAvTuguhuiujAAABuzvBvCvDvRuwAAuzuwAAABABuzuwuxuyuzuzuwAAABuzuwAAABuzuwuxuyuzAAvBvCvDvRuwAAuzuwvSp8p9waxxxyxzyAyBxy
+BOARD 0 29 64 0 FnFmFnFmFnFmFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFnFmFnFnFmFnFnFmFnFnFnFnFnFmFnFnFnFmFnFnFmFnFmFnFmFnFmFnF3uip8p9wayByCyDxyxzyC
+BOARD 0 30 64 0 C6C5C6C5C6C5C6C5C6C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5GXABp8p9waxzxwxxxyxzxw
+BOARD 0 31 64 0 F5F4F5F4F5F4F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F5F4F5F5F4F5F5F4F5F5F5F5F5F4F5F5F5F4F5F5F4F5F4F5F4F5F4F5FpvCp8p9waxzxwxxxyxzxw
+BOARD 0 32 64 0 ABuwuxuyuzABuhuhvDABuwAAvQvRvSvTvQvRABvBAAuzAAABAAABAAABAAABuzvTAAAAABvCAAAAABvCvCAAABvBAAABvQvRABvBAAuzAAABvQp8p9wayDyAyByCyDyA
+BOARD 0 33 64 0 FnFmFnFmFnFmFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFnFmFnFnFmFnFnFmFnFnFnFnFnFmFnFnFnFmFnFnFmFnFmFnFmFnFmFnF3ugp8p9waxzxwxxxyxzxw
+BOARD 0 34 64 0 C6C5C6C5C6C5C6C5C6C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5GXAAp8p9wayDyAyByCyDyA
+BOARD 0 35 64 0 F5F4F5F4F5F4F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F5F4F5F5F4F5F5F4F5F5F5F5F5F4F5F5F5F4F5F5F4F5F4F5F4F5F4F5FpvTp8p9waxxxyxzxwxxxy
+BOARD 0 36 64 0 vDvRuwAAuzuguhABuwuxuyuzABuhuiuiuzvTAAABvCvCAAABvBAAABvQvRvRABvCvSvQvRuwAAvTuguhuguhuiujAAABuzvTAAABvCvCAAABABp8p9wayByCyDyAyByC
+BOARD 0 37 64 0 FnFmFnFmFnFmFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFnFmFnFnFmFnFnFmFnFnFnFnFnFmFnFnFnFmFnFnFmFnFmFnFmFnFmFnF3uzp8p9waxzxwxxxyxzxw
+BOARD 0 38 64 0 C6C5C6C5C6C5C6C5C6C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5GXABp8p9waxzxwxxxyxzxw
+BOARD 0 39 64 0 F5F4F5F4F5F4F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F5F4F5F5F4F5F5F4F5F5F5F5F5F4F5F5F5F4F5F5F4F5F4F5F4F5F4F5FpvTp8p9waxzxwxxxyxzxw
+BOARD 0 40 64 0 ABuzuwuxuyuzAAvDvRuwAAuzuguhuiAAvSvTvTuguhuguhuiujAAABuzvTABAAABvSvTvQAAABvTvQvRvQvRvSvTvQvRvSvTvTuguhuguhuiuxp8p9wayDyAyBwHwIyA
+BOARD 0 41 64 0 FnFmFnFmFnFmFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFmFnFnFnFmFnFnFmFnFnFmFnFnFnFnFnFmFnFnFnFmFnFnFmFnFmFnFmFnFmFnF3uip8p9waxzxwxxwXwYxw
+BOARD 0 42 64 0 C6C5C6C5C6C5C6C5C6C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5C6C5GXABp8p9wayDyAyBxwxxyA
+BOARD 0 43 64 0 F5F4F5F4F5F4F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F4F5F5F5F4F5F5F4F5F5F4F5F5F5F5F5F4F5F5F5F4F5F5F4F5F4F5F4F5F4F5FpvCp8p9waxxxyxzyAyBxy
+BOARD 0 44 64 0 vDvRuwAAuzuwAAABuzuwAAABuzuwuxuyuzAAvBAAvBvCvDvRuwAAuzABvRuwvDvRuwAAuzuwAAABuzuwAAABuzuwuxuyuzAAvBAAvBvCvDvRuwp8p9wayByCyDxyxzyC
+BOARD 0 45 64 0 AAAAABvCAAAAABvCvSvTvQvRvSvTvQAAABcKcLvRKnOLuhuiujugAAABujuwvRvSvTHHf/f/AAABvDK1K2AAABvAH4H5vDvAvBvCvDvAvBvCvDp8p9waxzxwxxxyxzxw
+BOARD 0 46 64 0 uwuxvCvSvTvQvRvSuiujugOLAAABuguhZvcacbuhAAABcsuyuzAAABuyuzABuhuiujf/AAABcKcLvTvQvRvSvTvQvRvSvTvQvRvSvTvQcKcLvTp8p9waxzxwxxxyxzxw
+BOARD 0 47 64 0 CpCpCpDnAAABAAABuyuzcsf/f/f/AAABf/AAABuxKncqcrvCvDOLvBvCvDvRvBAAuzAAABKncacbABcKcLuiujuguhuiujuguhuiujAAcacbujp8p9wayDyAyByCyDyA
+BOARD 0 48 64 0 DJDKC4D3DnAAujAAvCvDvAAAABAAABf/AAABvAvBKnc6c7csvTvQvRKnvTuhvRvSvSK4KnAAABf/cscacbuyuzuwuxuyuzuwuxuyuzcsuxuyuzp8p9waxzxwxxxyxzxw
+BOARD 0 49 64 0 DZDaDIC4D3DnAAvBvSvTAAABcKcLAAABOLvTvQvRAAuguhuiujugAAuiujABuhuiuiABK4K4KnAAABvAABABvDvAvBvCvDvAvBAAABOLAAf/Knp8p9wayDyAyByCyDyA
+BOARD 0 50 64 0 IuIvGADIC4D3DnAAcsAAABAAcacbAAABuiujuguhABuwuxuyAAABuxuyuzvRAAABABKnKlKmOLf/BwvQvRvSvTvQvRvSvTvQAAABcKcLvRKnOLp8p9waxxxyxzxwxxxy
+BOARD 0 51 64 0 I+I/I2GADIC4D3Dnf/f/f/f/f/ZvuwuxcsuzuwuxKnvAAAOLvDvAcsvCvDABABvCvCABK1K2AAABOLAAuhuiujugOLAAABuguhZvcacbuhAAABp8p9waxzxwxxyAyBxw
+BOARD 0 52 64 0 JOJPI1I2GADIC4DVf/f/K3Knf/f/OLvBvCvDvAvBKnAAABAAABvQvRvSvTuwvRvSvSK4ACADf/f/f/cKcLuyuzcsf/f/f/AAABf/AAABuxKncqp8p9waxzxwxxxyxzxw
+BOARD 0 53 64 0 FCFCHNHOHPDTDUDVf/f/KnKnf/csvQvRcKcLvQvRABf/ZvuiujAAABuiujABuhuiAAAAASATKlKmAAcacbvCvDvAAAABAAABf/AAABvAvBKnc6p8p9wayDyAyBxyxzyA
+BOARD 0 54 64 0 FCFCHdHeHfDjDkDVuhuiuiAAABuhvDABuwAAvQvRvSvTvQvRvSvTvQvRvSAAABAAvAHpAAABK1K2OLvQvRvSvTAAABcKcLAAABOLvTvQvRAAugp8p9waxzxwxxxyxzxw
+BOARD 0 55 64 0 FCFCHNHOHPDTDUDVAAABABuzuwuxuyuzAAvBuguhuiujuguhuiujuguhuivTuguhugH5K4K4AAABf/AAABcsAAABAAcacbAAABuiujuguhABuwp8p9wayDyAyBwHwIyA
+BOARD 0 56 64 0 FCFCHdHeHfDjDkDVABvCvCAAABvBAAABvQvRABvBAAuzAAABAAABAAABAAABuwAAuwACADKlKmcsAAABZvf/f/f/f/f/ZvuwuxcsuzuwuxKnvAp8p9waxxxyxzwXwYxy
+BOARD 0 57 64 0 FCFCHNHOHPDTDUDVvRvSvSvTvQAAABvTvQvRvQvRvSvSvQvRuwAAvTuguhuzAAvBAAASATK1K2AAABK4f/f/f/K3Knf/f/OLvBvCvDvAvBKnAAp8p9wayByCyDxwxxyC
+BOARD 0 58 64 0 FCFCHdHeHfDjDkDVuhuiAAABABABuwuxuyuzABuhuiuiAAABuhvDABuwAAABvQvRACADKlKmACADKlKmf/f/f/KnKnf/csvQvRcKcLvQvRABf/p8p9waxzxwxxyAyBxw
+BOARD 0 59 64 0 FCFCHNHOHPDTDUDVABAAvAvBvCuguhuiujvDuwAAABABuzuwuxuyuzAAvBvTvQvRASATK1K2ASATK1K2f/AAKnK3K3K3ujuguhcacbuguhKnABp8p9waxzxwxxxyxzxw
+BOARD 0 60 64 0 FCFCHdHeHfDjDkDVugH4G1G0G1AAABuguhuiujuguhuiujKnAAABvCvDvRuwAAAAKlKmACADf/KlKmcsACADK3KnK3uyAAABuxuyuzuwAAE/Ebp8p9wayDyAyBxyxzyA
+BOARD 0 61 64 0 FCFCHNHOHPDTDUDVuwf/K3H4GkHpuzuwuxuyuzuwuxuyuzAAABAAuwAAAAABvCvQK1K2ASATf/K1K2f/ASATvDvAvBvCvDvAvBvCvDKnK3AAABp8p9waxzxwxxxyxzxw
+BOARD 0 62 64 0 FCFCHdHeHfDjDkDVAAAAABvAH4H5vDvAvBvCvDvAvBvCvDK3AAABAAvQvRvSvTAAABuhvDABuwAAuwAAABuzvBuwvQvRvSvTvQuzvBvCvDAAABp8p9wayDyAyByCyDyA
+BOARD 0 63 64 0 FCFCHNHOHPDTDUDVvQvSvTvQvRvSvTvQvRvSvTvQcKcLvTvQK4KlKmuguhuiujuzuwuxuyuzAAuguhuiujugAAABK3ugAAABujuguhuiAAf/f/p8p9waxxxyxzxyxzxy
+NPC val_wheat2.gif 6 2
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 15 2
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 24 2
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 33 2
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 42 2
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 6 6
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 15 6
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 24 6
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 33 6
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 42 6
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 6 10
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 15 10
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 24 10
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 33 10
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 42 10
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 8 24
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 17 24
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 26 24
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 35 24
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 44 24
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 44 28
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 35 28
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 26 28
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 17 28
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 8 28
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 8 32
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 17 32
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 26 32
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 44 32
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 35 32
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 44 36
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 35 36
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 26 36
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 17 36
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 8 36
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 8 40
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 17 40
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 26 40
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 35 40
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wheat2.gif 44 40
+//#CLIENTSIDE
+// NPC made by Prince Xanthos Straton of The Last Battalion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-newtreething.gif 46 18
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 40 17
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 25 10
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 8 17
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 11 10
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 29 18
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 0 39
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 6 43
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 8 50
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 16 46
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 22 42
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 25 45
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 30 41
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 35 46
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 37 43
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 39 40
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 48 42
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 51 39
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 11 59
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 23 56
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 39 61
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 48 54
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-newtreething.gif 28 53
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-zetatreetest3.gif 13 52
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 14,18,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC val-zetatreetest3.gif 22 63
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 14,18,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC val-zetatreetest3.gif 40 39
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 14,18,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND
+NPC val-zetatreetest3.gif 7 34
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 14,18,{
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,22,00,00,00,00,00,00,00,
+    00,00,00,00,00,00,00,00,00,00,00,00,00,00,
+
+  };
+}
+NPCEND

@@ -1,0 +1,30 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  showtext(1, this.x+1.78, "y+.55", "Comic Sans MS", "bc", "Fancy Dress");
+  changeimgzoom(1, .75);
+  changeimgvis(2, 2);
+}
+
+function onPlayerChats() {
+  gs1_always();
+  if ((player.chat == "Fancy Dress")) {
+    player.body = "kelgownbody.gif";
+    player.shield = "no-shield.gif";
+  }
+}
+
+function gs1_always() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "head1567.gif";
+  this.body = "kelgownbody.gif";
+  this.colors[0] = "orange";
+  this.colors[1] = "red";
+  this.colors[2] = "red";
+  this.colors[3] = "darkred";
+  this.colors[4] = "red";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 2;
+}

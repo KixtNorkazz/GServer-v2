@@ -1,0 +1,47 @@
+function onCreated() {
+  this.setshape(1,32,64);
+}
+//#CLIENTSIDE
+function onCreated() {
+  this.setimg("val_valcastle-torch2.png");
+  this.setshape2(2,4,{
+    0,0,
+    0,0,
+    0,0,
+    22,22
+  });
+  with (findimg(0)) {
+    this.image = "fire.gif";
+    this.x = thiso.x + 0.1;
+    this.y = thiso.y - 1.9;
+    if (lighteffectsenabled) {
+      this.red = 0.2;
+      this.green = 0;
+      this.blue = 1;
+      this.alpha = 0.8;
+      this.zoom = 0.5;
+    }
+  }
+  if (lighteffectsenabled) {
+    with (findimg(1)) {
+      this.image = "light2.png";
+      this.x = thiso.x - 3.1;
+      this.y = thiso.y - 3.2;
+      this.red = 0.2;
+      this.green = 0;
+      this.blue = 1;
+      this.alpha = 0.8;
+      this.zoom = 0.75;
+    }
+  }
+  //with (showimg(0, "fire.gif", this.x + 0.1, this.y - 1.9))
+  //showimg 1,light2.png,x-3.1,y-3.2;
+}
+/*
+if (lighteffectsenabled){
+   changeimgcolors 0,.2,0,1,.8;
+   changeimgcolors 1,.2,0,1,.8;
+   changeimgzoom 0,.5;
+   changeimgzoom 1,.75;
+}
+*/

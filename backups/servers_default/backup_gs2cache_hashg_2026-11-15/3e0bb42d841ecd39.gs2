@@ -1,0 +1,11 @@
+//#CLIENTSIDE
+function onCreated() {
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "Valikorlia")) {
+    hide();
+    sleep(1);
+    show();
+  }
+}

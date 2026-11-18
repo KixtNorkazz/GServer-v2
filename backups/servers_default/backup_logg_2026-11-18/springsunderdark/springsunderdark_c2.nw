@@ -1,0 +1,491 @@
+GLEVNW01
+BOARD 0 0 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1YkA0j0T0j0j0j0D1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0S
+BOARD 0 1 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1YkQ1D0j0T0T0T0j0D1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0S0i
+BOARD 0 2 64 0 1Y1Y1Y1Y1Y1Y1Y1Y1Ykgze1D0j0j0j0T0j0D1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0S0i0S
+BOARD 0 3 64 0 1Y1Y1Y1Y1Y1Y1Y1Y0CkwzOzP1D0T0j0j0T0j0D1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0S0i0S0i
+BOARD 0 4 64 0 0S0l0l0l0l0l0D0C0SlA0d8Q0f1D0T0j0j0T0j0D1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0S0i0S0i0S
+BOARD 0 5 64 0 0i0Q0Q0R0Q0Q0j0S0ilQz/7wzOzP1D0T0T0j0TvO0l0D1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0l0l0l0l0S0i0S7xT7T7
+BOARD 0 6 64 0 0S0d0P0d0P0d0Q0i0SlQ8A0P0d8Q0f1D0T0j0j000TvO0l0l0l0l0l0l0D1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0S0i0S0Q0i0i0S0i8BT7T7
+BOARD 0 7 64 0 0i8Q0f8Q0f8Q0g0S0ilQ8Q0f8Q0O0Pze1D0T0j000j0T0Q0R0Q0R0Q0R0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0C0D1Y1Y1Y1Y0C0S0i0S0i0g0S0S0i0S0b0O0P
+BOARD 0 8 64 0 0S0f8Q0f8Q0f0Q0i0SlQ8A0P0KkAkBzOzP1D0T000T0j0g0h0g0h0g0h0U1Y0C0l0l0l0l0D1Y1Y1Y1Y1Y1Y1Y0C0l0SvO0D1Y0C0l0S0i0S0i0S0Qz/7w8A0P0KkAkB
+BOARD 0 9 64 0 0izO7wzO7wzO0g0S0ilQ8Q0f0akQkR0d8Q0f1D000j0T0Q0R0Q0R0Q0R0U0C0S0R0Q0R0QvO0l0D1Y1Y1Y1Y0C0S0Q0i0TvO0l0S0Q0i0S0i0S0iz/0P8A8Q0f0akQkR
+BOARD 0 10 64 0 z+0d0P0d0P0d0Q0iz+lQ8A0P0qkgkh0t8A0P0qz/7w0j0g0h0g0h0g0h0k0S0i0h0g0h0g0T0QvO0l0l0l0l0S0i0g0S0j0T0Q0i0g0S0i0Sz/7w0P8Az/8A0P0qkgkh
+BOARD 0 11 64 0 0O8Q0f8Q0f8QsOz+z+lQ8Q0f0akwkx0d8Q0f0a0P8A0T0Q0Rz/7w0Q0R000i0S0R0Q0R0Q0j0g0T0Q0Q0R0Q0i0S0Q0i0T0j0g0S0Q0i0S8Q0f0akwkx0d8Q0f0akwkx
+BOARD 0 12 64 0 0O0f8Q0f8Q0f8Q0N0OlQ8A0P0qlAlB0t8A0P0qz+z/1DsOz/0P8A7wsP000S0i0h0g0h0g0T0Q0j0g0g0h0g0S0i0g0S0j0T0Q0i0g0S0i8A0P0qlAlB0t8A0P0qlAlB
+BOARD 0 13 64 0 z+zO7wkAkBzO7wzO7wlQ8Q0f0alQlR0d8Q0f0akAkB0N8A0P0KkAkB0N000i0Sz/7w0R0Q0j0g0T0Q0Q0R0Q0i0S0Q0i0T0j0g0S0Q0i1C8Q0f0alQlR0d8Q0f0alQlR
+BOARD 0 14 64 0 0O0d0PkQkRz/0P8A7wlg8A0P0qlglh0t8A0P0qkQkR0d8Q0f0akQkR0d000Sz/0P8A7wsO0T0Q0j0g0g0h0g0S0isO1C1D0T0Q0isO1C0N8A0P0qlglh0t8A0P0qlglh
+BOARD 0 15 64 0 0N0O0Okgkh0P8A0P8Alw8Q0f8Qlwlx0O0P8A8Bkgkh0t8A0P0qkgkh0t000i0P8A0P8AzPz/7w0T0Q0Q0R0Q0i1C7w7xzu1DsO1C7w7x0d0P8A8Blwlx0O0P8A8Blwlx
+BOARD 0 16 64 0 0O0Q0jkwkx7Q7w7xze2wUsUrUsmAmBUrUsUrcBkwkx0d8Q0f0akwkx0d101C7Q7w7xzezf0P8A1DsOsOsPsO1C7xkwkx0d8Q0f0dkwkxcAUsUrUsmAmBUrUsUrUsmAmB
+BOARD 0 17 64 0 0R0Qz+mAmB0S0i0S0i0Wu+cQcQcQcQcQcQcQcBlAlB0t8A0P0qlAlB0t8A0P0q1K1L1M1L1M1L1L1M1N0t8A0P0qlAlB0t8A0P0tlAlBcAcQcQcQcQcQcQcQcQcQcQcQ
+BOARD 0 18 64 0 0h0g0O8A0Pz+0S0i0S02vOvPvPvPvPvPvPu/cBlQlR0d8Q0f0alQlR0d8Q0f0N8A0P0Kkwkx0N8A0P0K0d8Q0f0alQlR0d8Q0f0dlQlRcA2wu+u/u/u/u/u/u/u/u/u/
+BOARD 0 19 64 0 0R0Q0R8Q0f0O0i0S0i020T0Q0Q0Q0Q0Q0Qu+cBlglh0t8A0P0qlglh0t8A0P0d8Q0f0alAlB0d8Q0f0a0t8A0P0qlglh0t8A0P0tlglhcA3AvOvPvPvPvPvPvPvPvPvP
+BOARD 0 20 64 0 0h0g0h0g0S0i0S0i0S020j0g0g0g0g0g0gu+cBlwlx0O0P8A8Blwlx0O0P8A0t8A0P0qlQlR0t8A0P0qkwkx8A8Blwlx0O0P8A8BlwlxcA0W0T0Q0Q0Q0Q0Q0Q0Q0Q0Q
+BOARD 0 21 64 0 0R0Q0R0Q0i0S0i0S0i020T0Q0Q0Q0Q0Q0Q0UcBmAmBUrUsu+u/u/u/u/u/UY0d8Q0f0akwkx0d8Q0f0alAlBUrUsmAmBUrUsUrUsmAmBcA0W0j0g0g0g0g0g0g0g0g0g
+BOARD 0 22 64 0 0h0g0h0g0S0i0S0i0S020j0g0g0g0g0g0g1K1L1M1LkAkBvOvPvPvPvPvPUY0t8A0P0qlAlB0t8A0P0qlQlRcQcQcQcQcQcQcQcQcQcQcx0W0T0Q0Q0Q0Q0Q0Q0Q0Q0Q
+BOARD 0 23 64 0 0R0Q0R0Q0i0S0i0S0i020T0Q0Q0Q0Q0Q0QkAkBfHfHkQkR0i0T0Q0Q0Q0QUY0d8Q0f0alQlR0d8Q0f0alglhvOu+u/u/u/u/u/u/u/u/u/2w0j0g0g0g0g1C1U0g0g0g
+BOARD 0 24 64 0 0h0g0h0g0S0i0S0i0S020j0g0g0g0g0g0gkQkRfHfHkgkh0S0j0g0g0g0gUp0t8A0P0qlglh0t8A0P0qlwlx00vOvPvPvPvPvPvPvPvPvP0m0T0Q0Q0QvOvPvP020Q0Q
+BOARD 0 25 64 0 0R0Q0R0Q0i0S0i0S0i020T0Q0Q0Q0Q0Q0QkgkhUIUIkwkx0i0T0Q0Q0Q0Q0U0O0P8A8Blwlx0O0P8A8B1Y0W00000Q0Q0Q0Q0Q0Q0Q0Q0Q020T0Q0Q0Q000Q0Q020Q0Q
+BOARD 0 26 64 0 0h0g0h0g0S0i0S0i0S020j0g0g0g0g0g0gkwkxT3T4lAlB0S0j0g0g0g0g0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0W00000g0g0g0g0g0g0g0g0g020osOsOsO000Q0R02sOsO
+BOARD 0 27 64 0 0R0Q0R0Q0i0S0i0S0i0n0o0Q0Q0Q0Q0Q0QlAlBUIUIz/7w0i0T0Q0Q0Q0Q0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0W10000Q0Q0Q0Q0Q0Q0Q0Q0Q02TTTUTTTU10sOsP0n2E0F
+BOARD 0 28 64 0 0g0g0R0Q0S0i0S0i0nTUTk0osOsOsOsOsO00z/z/7w0P8A0S0j0g0g0g0g0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0WTT0osOsOsOsOsOsOsOsOsO0nb1TTTjTk2E0F0F0F0Y1Y
+BOARD 0 29 64 0 0Q0Q0h0g0i0S0i0nbVTkTjTkTjZOZPgQYf000Pz/8A0g0S0i0T0Q0Q0Q0Q0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0WTTTUTTYCYFaqT7T7T7arTTTU2E0F0F0F0Y1Y1Y1Y1Y1Y
+BOARD 0 30 64 0 0g0g0R0Q0S0i0natb12E2FTUTTTkZOhAhA000T0P0Q0Q0i0S0j0g0g0g0g0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0WS12E0F0F0F0F0F0F2FTUTT2E0Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 31 64 0 0Q0Q0Q0Q0i0nTjTkTj1011TkTjTkTjTkTj000j0g0g0g0S0i0T0Q0Q0Q0Q0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0W170Y1Y1Y1Y1Y1Y1Y0X16170Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 32 64 0 sOsOsOsO0nTUTTTUTTTUTTTUTTTUTTTUTT100T0Q0Q0Q0i0n0osOsOsOsO0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y0X2L1Y1Y1Y1Y1Y1Y1Y1Y2K2L1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 33 64 0 Q5R9TUTTTUTkTjTkTjTkTjTkTjTkTjTkTjTk0osOsOsO0nTkTjTja8acac0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 34 64 0 SMSNTTTUTTTUTTTkiDatTTTUTTTUTTTUTTTUa3T7T7arTUasata8acacat0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 35 64 0 TjTkTjTkTjTkTjiRhTiSTjTkTjTkTjTkTja3T7T7arTkS0aca9TUTTa9Yv0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 36 64 0 TTTkTjYvhQggTjTkiTTUTTTUTTTUTTTUa3T7T7T7T7ara9acTjTkasYvY/0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 37 64 0 TjTUYvY/YfgwggTjTkTjRaRbRbRcRda3a5Tka3T7ara8a9ata9TUa8ZOZP0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 38 64 0 TTYvY/gAYfYfgwTTQ7RaYGQLQMQNR7RdTTTUTTTUa3a5TTTUTTTUTTa8ZO0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 39 64 0 YvY/YfYfYOYOZeRaQKQLYvhQhQggYJRtTjTkTjTkTjTkTjTkTjTka3a5Tj0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 40 64 0 Y+YfYPYPYOYPYuRqYmYvY/YfYfgwQdR9TTTUTTTUTTTUa3a5TTTUTTTUaq0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 41 64 0 ZOZPYfYfYfZeZf2E2FZOZPgQYfZeQtR9TjTkTjTka3T7T7arYCYDYEYFbV0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 42 64 0 TkZOhAhAhAZfTk1011TkZOhAhAZfQ9SNTTTUTTa3a5atb1YCYkZTZSYjYD0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 43 64 0 ac2E2FTkTjYvhQhQggTjTkY3Y5SNTkYoTjTkTjTkTj2E2FYkZCZDZCZDZC0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 44 64 0 Tk1011S0YvY/YfYfgwggS1SNTUTTTUTTTkasatR/TT1011ZTZSZTZSZTZS0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 45 64 0 TjTTTUYvY/gAYfYfYfgwTkTkTjTkTjTkasacacReR/blTjYiZSZTYlYyZC0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 46 64 0 TTTUYvY/YPYPYPYPYfZeTUTUTTTUTTTUaca8a9TUTTTUTTYyYzY0Y1b12E0Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 47 64 0 TjTkY/YPYPYfYfgQYeYuTkTkTjTkTTTUacatTjTka9TkTkTTTUTTTU170Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 48 64 0 TTTUYfYfYfYfYOYOYPYuTUTUTTTUTjTkYvggTjTkb1TUTUTjTk2E0F2L1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 49 64 0 TUTkZPYfYPgAYPYPYeYuS0TkTTTUYv2E0F0F2FTkTjTkTk2E0F0Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 50 64 0 TkTUTjZOZPYOYfYfYfYuTjYvhQhQY/0U1Y1Y0X2FYvhQgg0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 51 64 0 TU2E2FYvY/YfYOYOZeZfYvY/YfYfYP0U1Y1Y1Y0X0F0F0F0Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 52 64 0 2F1011Y+YfYPgAYPYuTjZOZPgQYPYf0k0l0D1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 53 64 0 0WggTTZOZPYfYfZeZfTTTkZOhAZPYf000Q0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 54 64 0 0WZfTjTkZOhAhAZfYvhQggTjTUTjZO000g0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 55 64 0 0mS0TjTkTjTkTjYvY/YfgwggblbVS0000Q0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 56 64 0 02atb1TUTTTTTUZOZPgQZeZf2E0F2F10sO0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 57 64 0 02blbVTkTjTjTkTTZOhAZf2E0Y1Y0X16170Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 58 64 0 02atb1TUasa9TUTjTk2E0F0Y1Y1Y1Y2K2L1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 59 64 0 11TkTjTka8a9Tk2E0F0Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 60 64 0 S1TUTTTUTTasat0U1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 61 64 0 TjTkTjTk2E0F0F0Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 62 64 0 TTTUTT170Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+BOARD 0 63 64 0 TjS0172L1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y
+NPC val_stalagmiteblack2.gif 59 21
+NPCEND
+NPC longfellow-shadow-webgif-bigsquare.gif 19 23
+
+//#CLIENTSIDE
+// NPC made by Count Steven Buxton, Knight Commander of
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC draack_bottomoceantest1.gif 0 29
+// NPC made by Stefan Knorr
+if (created) {
+  setimg draack_bottomoceantest1.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0,0,1,0.1;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC draack_bottomoceantest1.gif 33 1
+// NPC made by Stefan Knorr
+if (created) {
+  setimg draack_bottomoceantest1.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0,0,1,0.1;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_coralgroup1.gif 23 31
+NPCEND
+NPC val_stalagmiteblack.gif 17 39
+NPCEND
+NPC val_stalagmiteblack2.gif 7 29
+NPCEND
+NPC val_stalagmiteblack2.gif 0 58
+NPCEND
+NPC val_fog.png 25 32
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 42 28
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC draack_underwaterbubble2.gif 2 55
+//#CLIENTSIDE
+if (created)
+{
+  setzoomeffect((.6));
+  this.my = .1; //distance per loop(movement y)
+  this.steptillflip = 0; //step counter
+  this.msteptillflip = 5; //max steps
+  this.loopspeed = 1; //pause between loops
+  this.dpause = 0; //pause between direction change
+
+  drawoverplayer;
+  dontblock;
+
+  x-=.0;
+  y+=.2;
+  setshape2 1,2,{
+  0,
+  22
+  };
+  timeout = this.loopspeed;
+}
+if (timeout)
+{
+  x-=this.my;
+  this.steptillflip += 1;
+  if (this.steptillflip >= this.msteptillflip)
+  {
+    this.my *= -1;
+    this.steptillflip = 0;
+    sleep this.dpause;
+  }
+  timeout = this.loopspeed;
+}
+NPCEND
+NPC - 18 22
+//#CLIENTSIDE
+
+function onCreated() {
+  with(findimg(10)) {
+    emitter.attachposition=false;
+    emitter.delaymin=.6;
+    emitter.delaymax=.6;
+    emitter.emit();
+    emitter.cliptoscreen=true;
+    emitter.maxparticles=5;
+    emitter.nrofparticles=1;
+
+
+    emitter.particle.image="g4_particle_bubble.png";
+    emitter.particle.speed=1;
+    emitter.emit();
+    emitter.particle.zoom = 0.1;
+    emitter.particle.mode=1;
+    emitter.particle.lifetime=3;
+    emitter.particle.angle = pi / 2;
+
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -1.5, 1.5);
+    emitter.addlocalmodifier("once", 0, 0, "y", "add", -0.5, 0.5);
+    emitter.addglobalmodifier("impulse", 0.2, 0.2, "spin", "multiply", 0.9, 0.9);
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.2, 0.2);
+    emitter.addlocalmodifier("once", 0, 0, "rotation", "replace", 0, 2*pi);
+    emitter.addlocalmodifier("range", 1, 3, "alpha", "replace", 0.8, 0);
+    emitter.addlocalmodifier("range", 0, 3, "zoom", "add", 0.2, 0.2);
+    emitter.addlocalmodifier("range", 0, 0.5, "speed", "replace", 12, 4);
+    emitter.addlocalmodifier("range", 0.5, 3, "speed", "replace", 4, 1.5);
+  }
+}
+NPCEND
+NPC draack_generalstatue.gif 14 30
+// Created by -_-Lakitu-_-
+NPCEND
+NPC draack_underwaterbubble2.gif 17 43
+//#CLIENTSIDE
+if (created)
+{
+  setzoomeffect((.6));
+  this.my = .1; //distance per loop(movement y)
+  this.steptillflip = 0; //step counter
+  this.msteptillflip = 5; //max steps
+  this.loopspeed = 1; //pause between loops
+  this.dpause = 0; //pause between direction change
+
+  drawoverplayer;
+  dontblock;
+
+  x-=.0;
+  y+=.2;
+  setshape2 1,2,{
+  0,
+  22
+  };
+  timeout = this.loopspeed;
+}
+if (timeout)
+{
+  x-=this.my;
+  this.steptillflip += 1;
+  if (this.steptillflip >= this.msteptillflip)
+  {
+    this.my *= -1;
+    this.steptillflip = 0;
+    sleep this.dpause;
+  }
+  timeout = this.loopspeed;
+}
+NPCEND
+NPC draack_underwaterbubble2.gif 13 46
+//#CLIENTSIDE
+if (created)
+{
+  setzoomeffect((.6));
+  this.my = .1; //distance per loop(movement y)
+  this.steptillflip = 0; //step counter
+  this.msteptillflip = 5; //max steps
+  this.loopspeed = 1; //pause between loops
+  this.dpause = 0; //pause between direction change
+
+  drawoverplayer;
+  dontblock;
+
+  x-=.0;
+  y+=.2;
+  setshape2 1,2,{
+  0,
+  22
+  };
+  timeout = this.loopspeed;
+}
+if (timeout)
+{
+  x-=this.my;
+  this.steptillflip += 1;
+  if (this.steptillflip >= this.msteptillflip)
+  {
+    this.my *= -1;
+    this.steptillflip = 0;
+    sleep this.dpause;
+  }
+  timeout = this.loopspeed;
+}
+NPCEND
+NPC val_fog.png 2 53
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 20 43
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC draack_bottomoceantest1.gif 0 0
+// NPC made by Stefan Knorr
+if (created) {
+  setimg draack_bottomoceantest1.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 0,0,1,0.1;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_fog.png 9 29
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(.2,.3,.7,.99);
+  setzoomeffect(random(5,7));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_tempshell.png 9 27
+// Created by fireball1000
+NPCEND
+NPC val_tempshell.png 26 36
+// Created by fireball1000
+NPCEND
+NPC - 17 33
+join("akiltest1");
+this.setupInfo = {"Swim into the tunnel.", "springsunderdark_tunnel2.nw", 7.5, 43, 0 };
+//#CLIENTSIDE
+this.setupInfo = {"Swim into the tunnel.", "springsunderdark_tunnel2.nw", 7.5, 43, 0 };
+this.warpArea = { 2, 2 };
+NPCEND
+NPC - 16 24
+this.setupInfo = { "perception", 6, "Passageway", "There appears to be another passageway going back into the temple here." };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+this.setupInfo = { "perception", 6, "Passageway", "There appears to be another passageway going back into the temple here." };
+;
+NPCEND

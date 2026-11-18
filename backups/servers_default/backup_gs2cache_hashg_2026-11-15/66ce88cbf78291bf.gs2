@@ -1,0 +1,34 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "moneypouch-shield.gif";
+  this.head = "theblindone-garrett-head2.gif";
+  this.body = "moto-bridgetonbody100.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.nick = "Bridgeton Guard";
+  setcharani("idle", NULL);
+  this.dir = 2;
+  this.ap = 100;
+}
+
+function onPlayerChats() {
+  if (("#g" == "Bridgeton")) {
+    if ((player.chat == "Get this armor outta here!")) {
+      this.chat = "Yes Sir!";
+      sleep(3);
+      this.chat = "";
+    }
+  }
+  if (("#g" == "Bridgeton")) {
+    if ((player.chat == "Bring in the armor!")) {
+      this.chat = "Yes Sir!";
+      sleep(3);
+      this.chat = "";
+    }
+  }
+}

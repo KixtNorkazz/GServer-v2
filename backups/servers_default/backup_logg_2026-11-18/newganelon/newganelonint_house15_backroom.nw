@@ -1,0 +1,795 @@
+GLEVNW01
+BOARD 0 0 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 1 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 2 64 0 J4J4J4J4J4J4J4J4jVi0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0jljVi0i0i0i0i0i0i0jljVi0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0jlJ4J4J4J4J4J4J4J4J4
+BOARD 0 3 64 0 J4J4J4J4J4J4J4J4jEhghjW3W3W3W3W3W3hghjW3W3W3W3W3hghji1jEhghjW3W3W3hghji1jEhghjW3W3W3W3W3W3W3W3W3W3W3W3W3hghji1J4J4J4J4J4J4J4J4J4
+BOARD 0 4 64 0 J4J4J4J4J4J4J4J4jEhwhzW3W3W3W3W3W3hwhzW3W3W3W3W3hwhzi1jEhwhzW3W3W3hwhzi1jEhwhzW3W3W3W3W3W3W3W3W3W3W3W3W3hwhzi1J4J4J4J4J4J4J4J4J4
+BOARD 0 5 64 0 J4J4J4J4J4J4J4J4jEiAiDW3W3W3W3W3W3iAiDW3W3W3W3W3iAiDi1jEiAiDW3W3W3iAiDi1jEiAiDjmjnjojmjnjolElFlGjmjnjoW3iAiDi1J4J4J4J4J4J4J4J4J4
+BOARD 0 6 64 0 J4J4J4J4J4J4J4J4jEiQiTW3W3W3W3W3W3iQiTW3W3W3W3W3iQiTi1jEiQiTW3W3W3iQiTi1jEiQiTiAiAiAiAiAiAlUlVlWiAiAiAiAiAiTi1J4J4J4J4J4J4J4J4J4
+BOARD 0 7 64 0 J4J4J4J4J4J4J4J4jEiQiTW3W3J4J4J4J4iQiTW3W3W3W3W3iQiTi1jEiQiTW3W3W3iQiTi1jEiQiTj2j3j4j2j3j4lklllmj2j3j4W3iQiTi1J4J4J4J4J4J4J4J4J4
+BOARD 0 8 64 0 J4J4J4J4J4J4J4J4jEiwizW3W3J4J4J4J4iwizW3W3W3XHXHiwizi1jEiwizW3XHXHiwizi1jEiwizkGkHkIkGkHkIl0l1l2kGkHkIXHiwizi1J4J4J4J4J4J4J4J4J4
+BOARD 0 9 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHOGOWOXOXOHOGOWOXOHOGOXOHOHi1jEOGOGOWOXOHOGOWi1jEOGOWkWkXkYkWkXkYmEmFmGkWkXkYOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 10 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXOHOGOWOWOXOHOGOWOXOHOGOXjHjkjUjGOGOWOGOXOHjHjkjUjGOWOXOXOHOGOWOXOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 11 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHOGOWOXOXOHOGOWOXOHOGOXOHi1J4J4jEOGOWOXOHOGi1J4J4jEOWOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 12 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXOHOGOWOWOXOHOGOWOXOHOWOXi1J4J4jEOGOWOGOXOHi1J4J4jEOWOXOXOHOGOWOXOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 13 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHOGOWOXOXOHOGOXOHOGOWOXOHi1J4J4jEOGOWOXOHOGi1J4J4jEOWOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 14 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXOHOGOWOWOXOHOGOWOXOHOGOXi3jljVi2OGOWOGOXOHi3jljVi2OWOXOXOHOGOWOXOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 15 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHOGOWOXOXOHOGOWOXOHOGOWughgi1jEhjuiOWOXOHughgi1jEhjuiOXOHOGOWkCkDkEkDkEkFOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 16 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXOHOGOWOWOXOHOGOWOXOHOGuwhwi1jEhzuyOWOGOXuwhwi1jEhzuyOWOXOHOGkikjkkkjkkkljCjDOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 17 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHOGOWOXOXOHOGOWOXOHOGOWuwiAi1jEiDuyOWOXOHuwiAi1jEiDuyOXOHOGOWkykzk0kzk0k1jSjTOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 18 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHOGOWOXOXOXOHOGOWOXOHOGuwiQi1jEiTuyOWOGOXuwiQi1jEiTuyOWOXOHOGjijjixixjijjjijjOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 19 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXOHOGOWOWOHOGOWOXOHOGOWvAiwi1jEizvCOWOXOHvAiwi1jEizvCOWOXOHOGOWOXOHOGOWOXOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 20 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHOGOWOXOXOXOHOGOWOXOHOGOWOXi1jEOHOGOWOXOHOHOHi1jEOHOGOWOXOHOGOWOXOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 21 64 0 J4J4J4J4J4J4J4J4jUjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjkjUjFjGOXOHOGjHjFjkjUjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjkJ4J4J4J4J4J4J4J4J4
+BOARD 0 22 64 0 J4J4J4J4J4J4J4J4jVi0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0jljVi0i2OWOXOHi3i0jljVi0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0jlJ4J4J4J4J4J4J4J4J4
+BOARD 0 23 64 0 J4J4J4J4J4J4J4J4jEhghjhghjW3W3W3W3W3W3hghjW3W3W3hghji1jEhghjOXOHOGhghji1jEhghjW3W3W3hghghjhghjW3W3W3hghjhghji1J4J4J4J4J4J4J4J4J4
+BOARD 0 24 64 0 J4J4J4J4J4J4J4J4jEhwhzhwhzW3W3W3W3W3W3hwhzW3W3W3hwhzi1jEhwhzOWOXOHhwhzi1jEhwhzW3W3W3hwhwhzhwhzW3W3W3hwhzhwhzi1J4J4J4J4J4J4J4J4J4
+BOARD 0 25 64 0 J4J4J4J4J4J4J4J4jEiAiDiAiDW3W3W3W3W3W3iAiDW3W3W3iAiDi1jEiAiDOXOHOGiAiDi1jEiAiDW3W3W3iAiAiDiAiDW3W3W3iAiDiAiDi1J4J4J4J4J4J4J4J4J4
+BOARD 0 26 64 0 J4J4J4J4J4J4J4J4jEiQiTiQiTW3W3W3W3W3W3iQiTW3W3W3iQiTi1jEiQiTOWOXOHiQiTi1jEiQiTW3W3W3iQiQiTiQiTW3W3W3iQiTiQiTi1J4J4J4J4J4J4J4J4J4
+BOARD 0 27 64 0 J4J4J4J4J4J4J4J4jEiwiziwizXHXHXHXHXHXHiwizXHXHXHiwizi1jEiwizOXOHOGiwizi1jEiwizXHXHXHiwiwiziwizXHXHXHiwiziwizi1J4J4J4J4J4J4J4J4J4
+BOARD 0 28 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXOHOGOWOWOXOHOGOWOXOHOGOWOXi1jEOHOGOWOXOHOGOWi1jEOHOGOWOXOHOGOWOWOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 29 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1jEOGOWOXOHOGOWOXi1jEOGOWOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 30 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXOHOGOWOWOXOHOGOWOXOHOGOWOXi1jEOHOGOWOXOHOGOWi1jEOHOGOWOXOHOGOWOWOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 31 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHkCkDkEkEkDkEkFOXOHOGOWOXOHi1jEOGOWOXOHOGOWOXi1jEOGOWOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 32 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXkSkTkkkkkTkkklOWOXOHOGOWOXi1jEOHOGOWOXOHOGOWi1jEOHOGOWOXOHOGOWOWOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 33 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHkikjkkkkkjkkklOXOHOGOWOXjHjkjUjGOWOXOHOGOWjHjkjUjGOWOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 34 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXkSkTkkkkkTkkklOWOXOHOGOWi1J4J4jEOGOWOXOHOHi1J4J4jEOGOWOXOHOGOWOWOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 35 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHkSkTkkkkkTkkklOXOHOGOWOXi1J4J4jEOWOXOHOGOWi1J4J4jEOWOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 36 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXkSkTkkkkkTkkklOWOXOHOGOWi1J4J4jEOGOWOXOHOHi1J4J4jEOGOWOXOHOGOWOWOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 37 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHkSkTkkkkkTkkklOXOHOGOWOXi3jljVi2OWOXOHOGOWi3jljVi2OWOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 38 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXkSkTkkkkkTkkklOWOXOHOGughgi1jEhjuiOWOXOHughgi1jEhjuiOWOXOHOGOWOWOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 39 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHkSkTkkkkkTkkklOXOHOGOWuwhwi1jEhzuyOXOHOGuwhwi1jEhzuyOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 40 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXkSkTkkkkkTkkklOWOXOHOGuwiAi1jEiDuyOWOXOHuwiAi1jEiDuyOWOXOHOGOWOWOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 41 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHkSkTkkkkkTkkklOXOHOGOWuwiQi1jEiTuyOXOHOGuwiQi1jEiTuyOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 42 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXkSkTkkkkkTkkklOWOXOHOGvAiwi1jEizvCOWOXOHvAiwi1jEizvCOWOXOHOGOWOWOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 43 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHkSkTkkkkkTkkklOXOHOGOWOXOHi1jEOGOWOXOHOGOWOXi1jEOGOWOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 44 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXkikjkkkkkjkkklOWOXOHOGOWOXi1jEOHOGOWOXOHOGOWi1jEOHOGOWOXOHOGOWOWOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 45 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHkykzk0k0k0k0k1OXOHOGOWOXOHi1jEOGOWOXOHOGOWOXi1jEOGOWOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 46 64 0 J4J4J4J4J4J4J4J4jEOHOGOWOXiwmTmTmTmTmTizOWOXOHOGOWOXi1jEOHOGOWOXOHOGOWi1jEOHOGOWOXOHOGOWOWOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 47 64 0 J4J4J4J4J4J4J4J4jEOGOWOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1jEOGOWjHjFjGOGOWi1jEOGOWOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 48 64 0 J4J4J4J4J4J4J4J4jEkDkEkFOXOHOGOWOWOXOHOGOWOXOHkCkDkEi1jEOHOGi1J4jEOHOXi1jEOHOGOWOXOHOGOWOWOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 49 64 0 J4J4J4J4J4J4J4J4jEkTkUkVOHOGOWOXOXOHOGOWOXOHOGkSkTkUi1jEuguii1J4jEvAvCi1jEOGOWOXOHOGOWOXOXOHOGOWOXOHOGOWOXOHi1J4J4J4J4J4J4J4J4J4
+BOARD 0 50 64 0 J4J4J4J4J4J4J4J4jEkjkkklOXOHOGOWOWOXOHOGOWOXOHkikjkki1jEuguii1J4jEvAvCi1jEOHOGOWOXOHOGOWOWOXOHOGOWOXOHOGOWOXi1J4J4J4J4J4J4J4J4J4
+BOARD 0 51 64 0 J4J4J4J4J4J4J4J4jUjFjFjFjFjFjGOXOXOHOGjHjFjFjFjFjFjFjkjUjFjFjkJ4jUjFjFjkjUjFjFjFjFjFjGOXOXOHOGjHjFjFjFjFjFjFjkJ4J4J4J4J4J4J4J4J4
+BOARD 0 52 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEOWOWOXOHi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEOWOWOXOHi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 53 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4jUjFjFjFjFjkJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jUjFjFjFjFjkJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 54 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 55 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 56 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 57 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 58 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 59 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 60 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 61 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 62 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 63 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+LINK newganelonint_house15.nw 15 52 4 1 19 7
+LINK newganelonint_house15.nw 43 52 4 1 39 7
+LINK newganelonint_house15_backroom.nw 24 38 1 4 30 39
+LINK newganelonint_house15_backroom.nw 29 38 1 4 22 39
+LINK newganelonint_house15_backroom.nw 33 38 1 4 40 39
+LINK newganelonint_house15_backroom.nw 38 38 1 4 31 39
+LINK newganelonint_house15_backroom.nw 29 15 1 4 22 16
+LINK newganelonint_house15_backroom.nw 24 15 1 4 30 15
+LINK newganelonint_house15_backroom.nw 33 15 1 4 40 16
+LINK newganelonint_house15_backroom.nw 38 15 1 4 31 16
+LINK newganelonint_house15_upstairs.nw 28 49 2 1 28 50
+NPC ky-anvil.gif 12 10
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-danvil.gif 18 10
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dalmar-battlehammer-rack.gif 14 17
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC j-knightdummy.png 38 28
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC darsellusarcherytarget.png 38 23
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-pitchfork.gif 9 10
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC j-knightdummy.png 50 28
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC darsellusarcherytarget.png 44 23
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC darsellusarcherytarget.png 50 23
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-hammerforge-forgegrate1-bysam.gif 13 7
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-hammerforge-forgegrate1-bysam.gif 15 7
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC durandal-steelbarrel.gif 9 17
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC durandal-steelbarrel.gif 11 18
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC durandal-steelbarrel.gif 9 18
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC durandal-steelbarrel.gif 11 17
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-hammerforge-ironmolds-bysam-darkerlonger.gif 17 7
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-ammo.gif 11 13
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-ammo.gif 9 13
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-gunpowder.gif 11 14
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-gunpowder.gif 9 14
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ky-val-crate-gunpowder.gif 10 15
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-moto-woodendummy.gif 40 33
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-moto-woodendummy.gif 47 33
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-newtrainingdummy.gif 39 43
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-newtrainingdummy.gif 50 43
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-wine1.gif 18 32
+//#CLIENTSIDE
+dontblock;
+drawoverplayer;
+NPCEND
+NPC dbi-wine1.gif 15 36
+//#CLIENTSIDE
+dontblock;
+drawoverplayer;
+NPCEND
+NPC val_dragaeris-airshipchair.png 45 19
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC alogrest-book.gif 44 15
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+NPCEND
+NPC val_rp-bookstack13.gif 49 15
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC book16.gif 43 16
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC stefanbook.gif 45 16
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_candle.gif 47 14
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+  timeout=.1;
+  drawoverplayer;
+}
+if (timeout) {
+  showimg 1,light2.png,x-4,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC val_candle.gif 16 33
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+  timeout=.1;
+  drawoverplayer;
+}
+if (timeout) {
+  showimg 1,light2.png,x-4,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC dbicrate4.gif 9 49
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbicrate4.gif 9 48
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC apple3.gif 17 36
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC apple3.gif 15 32
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-itemslot-bread.png 14 43
+//#CLIENTSIDE
+// NPC made by Areican Aeron, Baker of (Bridgeton)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC applepie.png 17 39
+// NPC made by Zangus OOC
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-torch2.png 22 25
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+0,0,
+0,0,
+0,0,
+22,22
+}
+  showimg 0,fire.gif,x+.1,y-1.9;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC val_dragaeris-airshipbookshelf1.png 39 4
+// NPC made by Roy Valentine, Flight Lieutenant of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragaeris-airshipbookshelf2.png 48 4
+// NPC made by Roy Valentine, Flight Lieutenant of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragaeris-airshipbookshelf1.png 42 4
+// NPC made by Roy Valentine, Flight Lieutenant of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC scroll.gif 47 16
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-hammerforge-forgegrate1-bysam.gif 13 6
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+  setimgpart val-hammerforge-forgegrate1-bysam.gif,0,0,1,1
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-haste-clock.gif 21 4
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+
+    }
+if (playertouchsme) {
+}
+NPCEND
+NPC val_longfellowwindow2.gif 30 3
+//#CLIENTSIDE
+if (created) {
+  x+=.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC doorlight-down.gif 13 7
+// NPC made by Sam OOC
+if (created) {
+  setimg doorlight-down.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,0.5,0,0.40;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC longfellow-windowlight1.gif 30 4
+// NPC made by Sam OOC
+if (created) {
+  x+=.5;
+  setimg longfellow-windowlight1.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.60;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC firepit.mng 15 7
+//#CLIENTSIDE
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC firepit.mng 13 7
+//#CLIENTSIDE
+// NPC made by Samuel Longfellow, Squire of the Eagle (Valikorlia)
+if (created) {drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC doorlight-down.gif 11 7
+// NPC made by Sam OOC
+if (created) {
+  setimg doorlight-down.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,0.5,0,0.40;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_caverndoorlightleft.gif 9 13
+// NPC made by Justin
+if (created) {
+  setimg val_caverndoorlightleft.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.60;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_caverndoorlightright.gif 48 13
+// NPC made by Justin
+if (created) {
+  setimg val_caverndoorlightright.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.60;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_caverndoorlightright.gif 48 34
+// NPC made by Justin
+if (created) {
+  setimg val_caverndoorlightright.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.60;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_caverndoorlightleft.gif 9 33
+// NPC made by Justin
+if (created) {
+  setimg val_caverndoorlightleft.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.60;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_caverndoorlightleft.gif 9 13
+// NPC made by Justin
+if (created) {
+  setimg val_caverndoorlightleft.gif;
+  dontblock;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,1,1,0.60;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_dragaeris-airshipchair.png 20 32
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipchair.png 20 35
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipchair.png 20 38
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipchair.png 20 41
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipchair.png 20 44
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipchair.png 11 32
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipchair.png 11 35
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipchair.png 11 38
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipchair.png 11 41
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipchair.png 11 44
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipchair.png 14 29
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipchair.png 17 29
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipchair.png 14 47
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipchair.png 17 47
+//#CLIENTSIDE
+if (created) {
+  setshape2 2,2,{
+    3,3,
+    3,3,
+};
+    drawunderplayer;
+}
+NPCEND
+NPC val_candle.gif 16 37
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+  timeout=.1;
+  drawoverplayer;
+}
+if (timeout) {
+  showimg 1,light2.png,x-4,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC val_candle.gif 16 41
+if (created)
+//#CLIENTSIDE
+if (playerenters||created) {
+  setimgpart val_candle.gif,0,0,100,100;
+  dontblock;
+  timeout=.1;
+  drawoverplayer;
+}
+if (timeout) {
+  showimg 1,light2.png,x-4,y-3;
+  changeimgcolors 1,1,0.6,0,0.4;
+  changeimgzoom 1,random(1,1.2);
+changeimgvis 1,3;
+  timeout=.1;
+}
+NPCEND
+NPC j-knightdummy.png 44 28
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_valcastle-torch2.png 11 25
+setshape 1,32,64;
+//#CLIENTSIDE
+if(created || playerenters){
+  setshape2 2,4,{
+0,0,
+0,0,
+0,0,
+22,22
+}
+  showimg 0,fire.gif,x+.1,y-1.9;
+  showimg 1,light2.png,x-3.1,y-3.2;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,1,.5,0,.8;
+  changeimgcolors 1,1,.5,0,.8;
+  changeimgzoom 0,.5;
+  changeimgzoom 1,.75;
+}
+NPCEND
+NPC dbi-steak.gif 17 43
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC dbi-steak.gif 14 39
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dentedfurnace.gif 10 6
+// NPC made by Roy Valentine, Squadron Leader of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-cb_banner5.png 15 23
+// NPC made by Roy Valentine, Flight Lieutenant of (Durandal)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND

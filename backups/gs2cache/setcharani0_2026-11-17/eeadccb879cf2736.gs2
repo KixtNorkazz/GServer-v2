@@ -1,0 +1,18 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.nick = "Julea, Harkins Lovely Assistant";
+  this.shield = "no-shield.gif";
+  this.head = "val-bandithead.gif";
+  this.body = "gwahahaha_gwendolynmarkusbody.gif";
+  this.colors[0] = "orange";
+  this.colors[1] = "blue";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.sprite = 67;
+  this.dir = 2;
+  this.ap = 100;
+  this.x = this.x-.5;
+}

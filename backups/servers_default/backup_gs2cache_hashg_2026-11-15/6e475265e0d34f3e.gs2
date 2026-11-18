@@ -1,0 +1,9 @@
+//#CLIENTSIDE
+function onPlayerChats() {
+  if ((player.chat == "open 1")&&(("#g" == "Athedia"))) {
+    hide();
+  }
+  if ((player.chat == "close 1")&&(("#g" == "Athedia"))) {
+    show();
+  }
+}

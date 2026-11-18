@@ -1,0 +1,671 @@
+GLEVNW01
+BOARD 0 0 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 1 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 2 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 3 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 4 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 5 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 6 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 7 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 8 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81t1u1u1u1u1u1u1u1u1u1u1u1u1u1u1u1u1u1u1u1u1u1u19u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 9 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+V6V6V6V6V6V6V6V6V6V6V6V6V6V6V6V6V6V6V6V6V6V61vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 10 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+tbV6tc2829tbV6tcV6V6tbtcV6V6tbV6tc2829tbV6tc1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 11 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+1y+R1z+F+E1y+R1zWKWK1y1zWKWK1y+R1z+F+E1y+R1z1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 12 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+1y+R1z+F+E1y+R1z28291y1z28291y+R1z+F+E1y+R1z1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 13 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+trWKts+F+EtrWKtsf5f5trtsf5f5trWKts+F+EtrWKts1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 14 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+tbV6tctbtctbV6tcf5f5tbtcf5f5tbV6tctbtctbV6tc1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 15 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+trWKtstrtstrWKtsU4U4trtsU4U4trWKtstrtstrWKts1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 16 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+ZYZZu8u8u8u8ZaZZZaZZZaZZZaZZZaZZu8u8u8u8ZaZb1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 17 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+ZoZpu8u8u8u8ZqZpZqZpZqZpZqZpZqZpu8u8u8u8ZqZr1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 18 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+Z4Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z71vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 19 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+ZoZpZqZpZqSPaAaAaAaAaAaAaAaAaAaAaBZpZqZpZqZr1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 20 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+Z4Z5Z6Z5Z6SfTWT2SdSeSdSeSdSeT2TVaRZ5Z6Z5Z6Z71vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 21 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+ZoZpZqZpZqSfaQSdSuStSuStSuStSeaQaRZpZqZpZqZr1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 22 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+Z4Z5Z6Z5Z6SfTGStSeSdSeSdSeSdSuTFaRZ5Z6Z5Z6Z71vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 23 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+u8u8u8u8ZqSfaQSdSuStSuStSuStSeaQaRZpu8u8u8u81vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 24 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+u8u8u8u8Z6SfTGStSeSdSeSdSeSdSuTFaRZ5u8u8u8u81vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 25 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+ZoZpZqZpZqSfTFTWStSuStSuStSuTVTGaRZpZqZpZqZr1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 26 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+Z4Z5Z6Z5Z6SvagagagagagagagagagagahZ5Z6Z5Z6Z71vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 27 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+ZoZpZqZpZqZpZqZpZqu8u8u8u8ZpZqZpZqZpZqZpZqZr1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 28 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+Z4Z5Z6Z5Z6Z5Z6Z5Z6u8u8u8u8Z5Z6Z5Z6Z5Z6Z5Z6Z71vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 29 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+ZoZpZqZpZqZpZqZpZqZpZqZpZqZpZqZpZqZpZqZpZqZr1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 30 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+Z4Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z5Z6Z71vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 31 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+ZoZpZqZpZqZpZqSPaAaAaAaAaAaAaBZpZqZpZqZpZqZr1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 32 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+V6V6V6V6V6WWZ6SfTWT2SdSeT2TVaRZ5WWV6V6V6V6V61vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 33 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+rxrxrxrxrVrWZqSfaQSdSuStSeaQaRZpfE+R+R+R+R+R1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 34 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+WKWKWKWKrkrmZ6SfTGStSeSdSuTFaRZ5fFWKWKWKWKWK1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 35 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+ZoZpZqZprkrmZqSfaQSdSuStSeaQaRZpZqZpZqZpZqZr1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 36 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+Z4Z5Z6Z5rkrmZ6SfTGStSeSdSuTFaRZ5Z6Z5Z6Z5Z6Z71vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 37 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+ZoZpZqZprkrmZqSfaQSdSuStSeaQaRZpZqZpZqZpZqZr1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 38 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+Z4Z5Z6Z5rkrmZ6SfTGStSeSdSuTFaRZ5Z6Z5Z6Z5Z6Z71vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 39 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+ZoZpZqZprkrmZqSfaQSdSuStSeaQaRZpZqZpZqZpZqZr1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 40 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+Z4Z5Z6Z5rkrmZ6SfTGStSeSdSuTFaRZ5SPaAaAaBZ6Z71vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 41 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+ZoZpZqZpr0r2ZqSfTFTWStSuTVTGaRZpSfaQaQaRZqZr1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 42 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+Z4Z5Z6Z5trtsZ6SvagagagagagagahZ5SfaQaQaRZ6Z71vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 43 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+ZoZpZqZpZqZpZqZpZqZpZqZpZqZpZqZpSfaQaQaRZqZr1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 44 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+Z4Z5Z6Z5Z6Z5Z6Z5Z6u8u8u8u8Z5Z6Z5SvagagahZ6Z71vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 45 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81+aIaJaKaJaKaJaKaJaKu8u8u8u8aJaKaJaKaJaKaJaKaL1vu8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 46 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81s1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/9wbjbj9x1/1/18u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 47 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u81s1/1/18u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 48 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 49 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 50 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 51 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 52 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 53 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 54 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 55 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 56 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 57 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 58 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 59 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 60 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 61 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 62 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+BOARD 0 63 64 0 u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8u8
+LINK val_greendale_mainstreet_w01.nw 38 47 2 1 61.5 23
+LINK val_int_greendale_clover_02.nw 33 14 2 1 26.5 39
+LINK val_int_greendale_clover_03.nw 29 14 2 1 41.5 39
+NPC val_lionel-altar.gif 22 15
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+}
+NPCEND
+NPC val_lionel-altar.gif 36 15
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+}
+NPCEND
+NPC val_lionel-altar.gif 29 26
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+}
+NPCEND
+NPC val_dragaeris-airshippottedtree.png 21 41
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_dragaeris-airshippottedtree.png",16,0,48,80);
+}
+NPCEND
+NPC val_dragaeris-airshippottedtree.png 21 30
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_dragaeris-airshippottedtree.png",16,0,48,32);
+}
+NPCEND
+NPC val_lionel-altar.gif 38 22
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_lionel-altar.gif",0,0,80,64);
+dontblock();
+}
+NPCEND
+NPC val_lionel-altar.gif 21 22
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_lionel-altar.gif",16,0,80,64);
+dontblock();
+}
+NPCEND
+NPC val_lionel-altar.gif 29 43
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_lionel-altar.gif",0,0,96,48);
+dontblock();
+}
+NPCEND
+NPC rw-coatrack2.gif 38 33
+NPCEND
+NPC rw-coatrack2.gif 39 32
+NPCEND
+NPC rw-coatrack.gif 37 32
+NPCEND
+NPC rw-coatrack.gif 40 33
+NPCEND
+NPC val_dragaeris-airshippottedtree.png 40 30
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_dragaeris-airshippottedtree.png",0,0,48,32);
+}
+NPCEND
+NPC rw-coatrack2.gif 41 32
+NPCEND
+NPC val_dragaeris-woodenchair-right.png 37 22
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-right.png 28 43
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-right.png 35 15
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-right.png 21 15
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 40 25
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-down.png 40 20
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 22 25
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-down.png 22 20
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-left.png 27 15
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-left.png 34 43
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-left.png 41 15
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-left.png 25 22
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 31 29
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-down.png 31 24
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 27 33
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 27 36
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 27 39
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-left.png 34 26
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_dragaeris-woodenchair-right.png 28 26
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC - 25 33
+//#CLIENTSIDE
+function onCreated() {
+setshape 1,32,144;
+}
+NPCEND
+NPC doorlight.gif 29 41
+// NPC made by Sam OOC
+if (created) {
+  setimgpart("doorlight.gif",0,0,96,80);
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.4,0.8;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_caverndoorlightright.gif 37 27
+// NPC made by Sam OOC
+if (created) {
+  setimg val_caverndoorlightright.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.4,0.99;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC doorlight.gif 36 41
+// NPC made by Sam OOC
+if (created) {
+  setimg doorlight.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.4,0.8;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_dragaeris-woodenchair-up1.png 27 33
+// NPC made by Dart
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_caverndoorlightright.gif 37 16
+// NPC made by Sam OOC
+if (created) {
+  setimg val_caverndoorlightright.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.4,0.99;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_caverndoorlightright.gif 37 38
+// NPC made by Sam OOC
+if (created) {
+  setimg val_caverndoorlightright.gif;
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.4,0.99;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC doorlight.gif 22 41
+// NPC made by Sam OOC
+if (created) {
+  setimgpart("doorlight.gif",0,0,96,80);
+  dontblock;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect .2,.2,.4,0.8;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC dalmar-laboratorylamp.gif 22 11
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.7,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.35;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1
+NPCEND
+NPC dalmar-laboratorylamp.gif 41 11
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.7,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.35;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1
+NPCEND
+NPC dalmar-laboratorylamp.gif 36 11
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.7,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.35;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1
+NPCEND
+NPC dalmar-laboratorylamp.gif 27 11
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.7,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.35;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1
+NPCEND
+NPC - 17 37
+//#CLIENTSIDE
+function onCreated()
+{
+  this.loopSpeed=0.05;
+  setTimer(this.loopSpeed);
+}
+
+function onTimeout()
+{
+  if (this.night==true)
+    seteffect(0,0,0,.25);
+  else
+    seteffect(0,0,0,0);
+
+  setTimer(this.loopSpeed);
+}
+
+function onPlayerchats()
+{
+  if (player.chat=="Day")
+      this.night=false;
+  else if(player.chat=="Night")
+      this.night=true;
+}
+NPCEND

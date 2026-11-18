@@ -1,0 +1,415 @@
+GLEVNW01
+BOARD 0 0 64 0 VvdhdCdCdBdgdhdiVvdgdlTUctc90IVuVvdgVvdgdBdwdhdVj5u0u1unvZvZvZu2QAQBQASISJTEcuQBctWOdSdTdzdwe0WkW/WOdSdTdQdFTWQBQAQBQQazQBQBQAQB
+BOARD 0 1 64 0 V/dwdxdyV/dwdxdyV/dwdxdBdCdDdCdydxe0W/ewexexewe0u0vVvPvP3g3Av+vGSISJTEQRQQTUZjZ1ZmV+didjdgeVZjZ1ZmV+didjdgdVQQQRQQQRQQazQBQRQQQR
+BOARD 0 2 64 0 WPeAeBeCWPeAeBeCWPeAeBeCWPeAeBeCelu0u1u1vZu1u2jpvEvPv7v+vevOv7vJbTbWTUUCUDZjmzlwaFWOdydzdweVaTaEaWV+dydzdwdlTEQBQAQBQQazQBSISJQB
+BOARD 0 3 64 0 WfeQeReSWfeQeReSWfeQeReSWfeQeReSWfvEQGQG3AvOvGj5v5v/v+3gvLvuvfvJbTbWQQUSUTZ0lwmiaWV+eCeDeAeBdAdAdBeBeCeDeAd1TUTGSISJQQazQBQRQQQR
+BOARD 0 4 64 0 VvdgdhdiVvdgdhdiVvdgdhdiVvdgdhdiVvv5vPQGvvvvvJbTv5v+vsvOvPQGvPvWbTbWQQTGQAaTaEaWVPdRdSdTdQdRdSdTewexewexdQdlQATWQAQBQQazQBQBQAQg
+BOARD 0 5 64 0 V/dwdxdyV/dwdxdyV/dwdxdyV/dwdxdyV/v5vsvOQGvfvJWkvkvfvqvd3wvfv/vJSISJQQTWVOVPdAdBdgdhdidjdgdheCelQQctTFQRW/e0QQQRQQQRQQazQBQRQQQw
+BOARD 0 6 64 0 WPeAeBeCWPeAeBeCWPeAeBeCWPeAeBeCWPvkvLvuvvveu5dFv0u73wvNvtvP3gvmQAcvSISJVedxdydzdwdxdydzdwdxe0e1QAQBTVTEQAQBSISJQAQBQQazTEQBQAQw
+BOARD 0 7 64 0 WfeQeReSWfeQeRdxexeweReSWfeQeReSdVv0u1u1u1u1v2VudFv5v/vrvM3gvFv2VPdFQQTEVueBeCeDeAeBeCeDeAeVUCUDc/QRQQTUfFQRTGQRQQQRQQazTUQRQQRQ
+BOARD 0 8 64 0 VvdgdhdiVvdgdhelcuW/dhdiVvdgdhdiVvdgdAdBdBdBdhdidVvpvtQGQGvFv2VPdQdVQATUV+dRdSdTdQdRdSdTdQeFUSUTQAQBQAfFfVQBTWQBQAQBQQazQBQBQBct
+BOARD 0 9 64 0 V/dwdxdyV/dwdxdVWkVedxdyV/e0e10IVudwdxdyV/dwdxdydlv0u1unu1v2VedjdgdhdAdBdgdhdidjdgdhdidjdgeVWkWkQQQRQQfVQQQRQQQRQQQRQQazQBQRQQSS
+BOARD 0 10 64 0 WPeAeBeCWPeAeBdhdCWOeBeCeFXm0W0HV+eAeBeCWPeAeBeCd1u1u1unu1u1WOdzdwdxdydzdwdxdydzdwdxdydzeCelQAQBQAQBUiUjQAQBQASISJQBQQazQBQAQARh
+BOARD 0 11 64 0 WfeQeReSWfeQeReSWfeQeReSeVc/0IctWOeQeReSWfeQeReSdlQRQBazQBQRV+eDeAeBeCeDeAeBeCeDeAeBeCeDe0e1QQQRQQQRUyUzQQQRQQQgQiQjQBazSISJQQQR
+BOARD 0 12 64 0 VvdgdhdiVvdgdhdiVvdgdhdieFQT0IXmWuWvdhdiVvdgdhdid1QBQRazQRQBWOdTdQdRdSdTdQdRdSdTdQdRe0e1TEQBQAQBQAQBQAQBQAQBQARQQxRDTEazQBQBQAQB
+BOARD 0 13 64 0 V/dwdxdyV/dwdxdyV/dwdxdyeVct0ITFW+W/dxdyV/dwdxdyeFQRQBazQBQRV+djdgewexewexdhdidjeCelTFQRTUQRQQTEQQQRQQQRQQQRQQQgRBRDTUazQBQRQQTE
+BOARD 0 14 64 0 WPeAeBeCWPeAeBeCWPe0WueCWPdF0ITVTEQBV+eCewexeBeCelQBQRazQBQBW/exe0UCUDQBQAWudydze0e1TVQBQAQBQATUQAQBQAQBQgQjTGQwQxRTQQazQBQBQATU
+BOARD 0 15 64 0 WfeQeReSWfeQeReSelQRW+W/WfdV0ITGTUTEW/e0TETGW/e0e1QRQBazQRTEQRQRQQUSUTQRQQW+W/e0QQQRUCUDQQTEQRQRQQTETGQRRQRTTWRQRTQRQQazQBQRQQQR
+BOARD 0 16 64 0 VvdgdhdiVvdgdhe0e1QBQAQBW/e00ITWceTUQBQBTUTWQgQjQAQBQRazQBTUQBQRQQQRQRQQSISJQRQQQRQQUSUTQQTUQQQRQRTUTWQQQRQQQRQQQQQQQQazQBTEQAQB
+BOARD 0 17 64 0 V/dwdxdyV/dwd1QRQQTEQQQRQQQR0YAEAj0G0JQBQgQiTkTmQjQRbEbUbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbFQQTUQQQR
+BOARD 0 18 64 0 WPeAeBeCWPeAeFQBTGTUfjfkUCUDQAcdQgQj0IRzQxTkTlTmRTQAazQQQQQRQRQQQRQRQQQQQRQQQRTETGSlSmQRQQQRQQQRQRQQTETGQRQQQRQRQQQQQQQBQAQBQAAC
+BOARD 0 19 64 0 WfeQeReSWfeQeVQRTWSSfzf0USUTQgQhRBRT0Y0JRQRRRRRTQQQAazQAQQSSQQQRTFRzSAQRQgQiQjTUTWSlSmQRTEQRQQQRQQQRTUTWQQQRQQQRQgQjQQQRQQQRQQQR
+BOARD 0 20 64 0 VvdgdhdiVvdgdhdVQARQQhQjctTERQRRRSSATF0Y0G0G0JQBTFQAazQARzRTQAQBTVQBQAQgQxRSRTQBQASlSmQBTUQBQAQBQQQBQBQBQgQiQjQBRQRTQAQBQAQBQAQB
+BOARD 0 21 64 0 exewexewV/dwexe0QQcuRARCSATUQQWkWkQRTVQRQQQR0IcvTVQAazQAQQQRQQQRQQQRQQRQRTQRTEQRQQSlSmSISJQRQQQRQQTETGQRRQTkTmQjQQQRQQSISJQRQQQR
+BOARD 0 22 64 0 QAfFWkWkWeeVWkfGQAQBQwRTQAQBQAQBQAQBQAQBQAQBzhQAQAQAazQAQAQBQASISJQBQAQBQAQBTUTETGSlSmTEQATGQATFQATUTWQBQARQRRRTQAQBQAQBACQBQAQB
+BOARD 0 23 64 0 fFfVTEQRW/e0QQfWfGQRRhbEbTbTbTbTbTbTbTbTbTbTUxbTbTbTbFQRQQQRQQQRQQQRQQQRTEQRQQTUTWSlSmTUTFTWTETVTESISJQRQQQRQQQRQQQRQQQRQQQRQoQr
+BOARD 0 24 64 0 fVQBTUQBQAQBQAQBfWTGQAazQAQBQAQBQAQBQAQBQAQBzwQQQQQQQAQBQATGQAQgQjQBQAQBTUSISJQBQASlSmQBTVQBTUQBTUQBQATETGQBQAQBQAQBQAQBQAQBRYRb
+BOARD 0 25 64 0 QQUiUjQRTEQRQQTFQQTWQQazQQQRQQTFQQQRTGQRcuSS0Y0JctSSQQQRQQTWQQRQRTQRQQQRQQQRQQQRQQSlSmQRQQQRQQQRQQQRQQTUTWQRSISJQQQRQQQRQQQRQQQR
+BOARD 0 26 64 0 QAUyUzQBTUQBQATVQAQBQAazQAQBTFTVQAQBTWfFRzRSQj0IRzQzQAWkWkQBQAQBQATGQATFQAQBQARzSASlSmQBTESISJQBTEQBTEQBQAQBQAQBQAQBQAQBQAQBQAQB
+BOARD 0 27 64 0 RzSAQQTGQQQRTFQRQQTEQQazQQQRTVTGQgQjQQfVQQc/Rh0Ic+RhTGQRQQSSUCUDTFTWTETVTEQRQQTEQQSlSmQRTUQRQQQRTUQRTUQRTFQRQQQRQQQRQQQRQQQRQQQR
+BOARD 0 28 64 0 QATGQATWQATETVUCUDTUQAazQAUiUjTWQwRDUCUDQgQiQj0ITEQBTWTFTERhUSUTTVQBTUQBTUTGQATUQASlSmQBQAQBQAQBQAQBQAQBTVQBQAQBQAQBQATFQASISJQB
+BOARD 0 29 64 0 QQTWQQQRQQTUQQUSUTQRQQazQQUyUzQgRBQzUSUTQwRCRT0ITUQRQQTVTUTFQQTEQQQRUiUjQQTWQQQRQQSlSmTETGQRTEQgQjQRTEQRWkWkWkfGQQQRTETVQQQRQQQR
+BOARD 0 30 64 0 QAQBQAQBQAQBQAQBQAQBQAazQAQBRzRRRSQyQiQiQxRDTE1nzqQBQgQjQATVQATUTGQBUyUzQAQBQAQBQASlSmTUTWQBTURQRTQBTU03QAQBTEfWQAQBTUQBQAQBQAQB
+BOARD 0 31 64 0 bTbTbTbTbTbTbTbTbTbTbTbFQQTGQQQRTGRQTkTmRRRTTUz51G0JQwRCQiQjQQQRTWfFWkWkWkTFQQTGQQSlSmQRQQQRQQQRQQQRQQz3QQQRTUQRQQQRQQQRQQQRQQQR
+BOARD 0 32 64 0 QAQBQATEQAQBQAQBQAQBQAQBQATWUiUjTWQBRQRTTFRzQjQgSA0IQwTkTmRTQgSAfFfVfjfkQATVTETWTFTwTxQBQgQiQjQBQgQjQAz3QBQgQiQjQBQBQAQBQAQBQAQB
+BOARD 0 33 64 0 UjQRQQTUQQTEQQQRTFQRTGQRTEQRUyUzQQTFQQQRTVQRRQRDzp1mRQRRRTQRRhfFfVQRfzf0TFQRTUQRTVQgQiQjRQRCRDQgTkTmQjz4zoRQRBQzc/QRRzSAQQQRTFQR
+BOARD 0 34 64 0 UzQBQARzSATUTGQBTVQBTWQBTUQBQAQBQATVTFSSQAQBc+Rh1Xz6WkWkWkWkWkfVcuRzSAACTVQBQAQBQgTkTlTmQjRQRTRQTkSYSZQjz3RzTkTmSAUCUDQBQAQBTVQB
+BOARD 0 35 64 0 TEQRQQTGQQQRTWfFWkWkWkWkWkWkWkWkfGQRTVRh0W0G0G0G0HQgQiSActQgQiSAQgQiQjQRQgQiQiQjRQSYSZTmRTQgQiQjRQRCRRRTz3cvRQRTQRUSUTQRQQQRQQlm
+BOARD 0 36 64 0 TUQBQATWQATFWkfVcvQBQAQBQAQBQAQBfWWkQA0W0HQgQiQjRzQyRDQgQiQyRTQgTkTmRDRzRRRRTkTmQjRQQxRTQgTkSYSZQjRhz2zmznQgQiQjQAQgQjQBQAQBlmuj
+BOARD 0 37 64 0 QQTGQQQRQQTVc/QRQQQRQQctQQTFUCUDTEQRQQ0IQQRQTkTmQjQwRDRQRRRTTERQTkTlTmSAQgQjRQSYSZSARhRzTkTmRRRRRTz2znQgQjTkTmRTAiRQRTTEQQlmujuk
+BOARD 0 38 64 0 UDTWQAQBQAQBQgQjQAQBcvQBQATVUSUTTUQBQA0Y0G0JQwQyRTRQRTQBQgQjTUc+RQQyRTQgTkTmQjRQRTQgQiQjRQRTQgQhQjz3RzQyQzRQRTQBQAQBQATUlmujukS6
+BOARD 0 39 64 0 UTQRQQTFQQQgRBRDQQQRQQUiUjQRQQTFQQQRTFQRQQ0IRQRRSASISJQgTkTmQiQiQjRhcuRQTkTlTmQjQgTkSYSZQjQgTkTmRDz4zoRQRRSATGQRQQSISJQRlHt1TJtr
+BOARD 0 40 64 0 QAQBQATVQgTkTmRTQAfjfkUyUzTGQATVQATETVTGQA0Y0G0G0JTFACRQQxTkTlTmRTQgQjQBQwSYSZRTRQRRTkTmRTRQSYSZRTz2znQgQjTGTWfFWkQBQAQBlXuFtrts
+BOARD 0 41 64 0 TDQRQQQRRQRSRTQRTEfzf0TFQQTWTEQRQQTUQQTWQQQRQQTGQKTVQQQRRQRRRRRTQgTkTmQjRQRRRTQgQiQjRQRTQQQRRQRTz2znQgTkTmTWfFfVQQlml0l1ujTKs7s8
+BOARD 0 42 64 0 TxQBQAQBQAUCUDQBTUQBTFTVQATETUTGUCUDQAQBTEQBQATWQaQBSSQBQgQiQjRzTkTlTmRTQAQBQgTkTmRTQAQBRzSAQAcuz3RzTkTmRTQBfVQBlmujuxuyS5trtsmH
+BOARD 0 43 64 0 VedAdBdEdFUSUTTEQQQRTVTEQQTUQQTWUSUTTGQRTUTGQQQR0Y0JRhRzTkTlTmQjRQRRRTSISJQRRQRRRTQRQQQRQQQRz2zmznQRRQRTQRlml0l1ujukTJtrtatsmHkA
+BOARD 0 44 64 0 WOdxdydzdVQBQATUQAXXXYTUQAQBQAQBQAQBTWUiUjTWQAQBQA0Y0JTERQSYSZRTQgQiQiSAQAQBQAQBSISJQAQBQAQBz3lml0uRaAuSl1ujuxuyukS6trtstqmHkAkA
+BOARD 0 45 64 0 eAeBeCeDelQRXXXYXXVAVBXYXXXYQQQRQQUCUDUyUzQRQQQRUiUj0ITUQQRQRTRzTkTmRTWkWkWkWkWkQQQRlml0l1lk0ZujuxuhTJuiuytrt5t6t5t6tsmHkAkAkAkA
+BOARD 0 46 64 0 eQeReSdle1XXVAVBVAVBVAVBVAVBXYXXXYUSUTQBQAQBQAQBUyUz0IQBSISJACQBRQRTQAQBQAQBQAQBQAlmlnmEmFtZ1YtXS5S6trt5t6tsmUmVmUmVmHkAkAkAkAkA
+BOARD 0 47 64 0 W/exexe0QQXnVBVAVBVAVBVAVBVAVBVAVBXYXXXYXXXYQQQsQtQv1nzqQQQRQQQRQQQRQQlml0l1ljQRlml2mzlwlwlwtbtnt5t6tsmUmVmHkAkAkAkAkAkAkAkAkAkA
+BOARD 0 48 64 0 QAQBQAQBQAXXVAXgXhVBVAXgXhVBVAVBVAVBVAVBVAVBXYQcQ9Qdz51WQAQBQAlmlklllkl2mEmFlzlll2mzlwlwlwlwsrmlmUmVmHkAkAkAkAkAkAkAkAldkAkAkAkA
+BOARD 0 49 64 0 X3XYXXXYXXVAVBVAVBVAWhWiVBVAVBVAVBVAVBVAVBVAVBXaRNROl00ZljQRlml2mEmFtZl3mUmVlytZmzlwlwlwsqlwlwlJkAkAkAkAkAkAkAkAkAkAlsltkAkAkAkA
+BOARD 0 50 64 0 X5VBVAVBVAVBVAVBVAWwWxWyWzXgXhVBVAVBVAVBVAXqXpXqQ9d/nA1Ylzlkl2l3tqmUmVmWkAkAmCmUmVtYlwlwtZlwlwlZkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 51 64 0 8JX5VBVAVBVA0D0VVBXAXBXCXDVAVBVAXgXhVBVAVBXaRNRORNmBlIlJlytZl3mWkAkAkAkAkAkAkAkAkAlgtYlwlwlwtbmHkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 52 64 0 95X3VAVBVAVB0i00VAVBXRXSVAXgXhXgXhVBVAVBVAXqQ9Q+Q9mRlYlZlxtqmWkAkAkAkAkAkAkAkAkAkAkAlxtYlwtbmHkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 53 64 0 RFX5XoXnVBVAVBVAVBVAVBVAVBVAVBVAVBVAVBVAVBXaRNROd/mxmGmHkBkCkAkAkAkAkAkAkAkAkAkAkAkAkAmTtqmWkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 54 64 0 8D8JQnXXVAVBs+s/VAVBVAVBVAVBVAVBVAVBVAVBVAVBXaQ+mBlIlJkgkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 55 64 0 9y95RXXnVBVAVBVAVBVA0D0E0FVAXgXhWpWqXgXhVBVAXqROmRlYlZkAkAkAlUkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 56 64 0 RUX3XYXXVAVBVAVBVAVB0i0j0VVBVAW4W5W6W7VBVAVBXaQ+mgmhknk5kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 57 64 0 XXVAVBVA0D0VVBVAWhWiVB0i00VAVBXAXBXCXDVAXqXpXqRORNmgmhknk5kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 58 64 0 VAVBVA0D0k00VAWwWxWyWzVBVAVBVAVBXRXSVAVBXaQ+Q9Q+Q9d/mxl3mHkAkCkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 59 64 0 VBVA0S0k0j0VVBXAXBXC0w0xVB0C0D0E0FVAXgXhVBXaRNRORNmRtLs8kBkCkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 60 64 0 VAVB0z000i00VAVBXRXS0Q0RWz0S0T0U0VVBVAVBVAVBXaQ+d/mxl3mHkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 61 64 0 VBVAVBVAVB0C0D0E0FVAVBVA0S0T0U0k0lVAVBVAVBVAXqROmBlIs8kAkCkQkRkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 62 64 0 VAVBVAVBVA0S0T0U0T0FVAVB0i0j0T0U0VVBs+s/VAXqQ9Q+mRlYsrk5kAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+BOARD 0 63 64 0 VBVAVB0C0D0k0j0k0j0VVBVAVB0i0j0k0lVAVBVAVBXaRNROmgmhsqknk5kCkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkAkA
+NPC overworldhill2.gif 22 38
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 51 38
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 35 38
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 36 36
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 45 33
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 29 39
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 31 41
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 25 35
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 28 36
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC overworldhill2.gif 53 32
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_fog.png 10 54
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(2);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 3;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 7 62
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(3);
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + 4;
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_mapicon_citytower.png 28 8
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_mapicon_citytower.png",0,4,16,16);
+  dontblock();
+}
+NPCEND
+NPC val_mapicon_citytower.png 26 8
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_mapicon_citytower.png",0,4,16,16);
+  dontblock();
+}
+NPCEND
+NPC val_mapicon_citytower.png 26 9
+//#CLIENTSIDE
+function onCreated() {
+  y += 0.25;
+  dontblock();
+}
+NPCEND
+NPC val_mapicon_citytower.png 28 9
+//#CLIENTSIDE
+function onCreated() {
+  y += 0.25;
+  dontblock();
+}
+NPCEND
+NPC val_eisenfactory_center2.gif 20 4
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x-1.5;
+    y=y-2;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,3,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,4,"speed","replace",3,4);
+    emitter.addlocalmodifier("range",0,3,"zoom","replace",.1,.5);
+    emitter.addlocalmodifier("range",0,4,"alpha","replace",.2,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val_eisenfactory_left3.gif 18 2
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x-1.8125;
+    y=y-2;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,3,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,4,"speed","replace",3,4);
+    emitter.addlocalmodifier("range",0,3,"zoom","replace",.1,.5);
+    emitter.addlocalmodifier("range",0,4,"alpha","replace",.2,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val_eisenfactory_right1.gif 19 2
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x-2.0625;
+    y=y-2;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,3,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,4,"speed","replace",3,4);
+    emitter.addlocalmodifier("range",0,3,"zoom","replace",.1,.5);
+    emitter.addlocalmodifier("range",0,4,"alpha","replace",.2,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val_eisenfactory_center2.gif 21 2
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x-1.5;
+    y=y-2;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,3,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,4,"speed","replace",3,4);
+    emitter.addlocalmodifier("range",0,3,"zoom","replace",.1,.5);
+    emitter.addlocalmodifier("range",0,4,"alpha","replace",.2,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val_mapicon_citytower.png 21 6
+//#CLIENTSIDE
+function onCreated() {
+  y += 0.25;
+  dontblock();
+  setimgpart("val_mapicon_citytower.png",0,0,16,30);
+}
+NPCEND
+NPC val_mapicon_citytower.png 18 6
+//#CLIENTSIDE
+function onCreated() {
+  y += 0.25;
+  dontblock();
+  setimgpart("val_mapicon_citytower.png",0,0,16,30);
+}
+NPCEND
+NPC val_mapicon_citytower.png 21 1
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_mapicon_citytower.png",0,4,16,16);
+  dontblock();
+}
+NPCEND
+NPC val_mapicon_citytower.png 18 1
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val_mapicon_citytower.png",0,4,16,16);
+  dontblock();
+}
+NPCEND
+NPC val_eisenfactory_right1.gif 20 7
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_eisenfactory_right1.gif",0,0,16,27);
+}
+NPCEND
+NPC val_eisenfactory_left1.gif 16 4
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_eisenfactory_left1.gif",0,0,16,27);
+}
+NPCEND
+NPC val_eisenfactory_left1.gif 19 7
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_eisenfactory_right1.gif",0,0,16,27);
+}
+NPCEND
+NPC val_worldmap_airship1.gif 32 1
+//#CLIENTSIDE
+function onCreated() {
+  y += 0.25;
+  dontblock();
+}
+NPCEND
+NPC val_worldmap_airship1.gif 32 3
+//#CLIENTSIDE
+function onCreated() {
+  y += 0.25;
+  dontblock();
+}
+NPCEND
+NPC val_eisenfactory_right1.gif 33 2
+NPCEND
+NPC val_eisenfactory_left1.gif 32 2
+NPCEND

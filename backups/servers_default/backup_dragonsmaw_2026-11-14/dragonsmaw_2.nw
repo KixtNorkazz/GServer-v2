@@ -1,0 +1,294 @@
+GLEVNW01
+BOARD 0 0 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 1 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 2 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 3 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 4 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 5 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 6 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 7 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0C0l0DAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 8 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0H0S010T0DAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 9 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W0i010j0T0l0DAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 10 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0C0DAgAgAgAgAgAg0W0i010j0j010T0DAgAgAgAgAgAgAgAgAgAg
+BOARD 0 11 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0C0l0l0DAgAgAgAgAg0C0l0l0S0T0DAgAg0C0D0C0m0i1F0j0j010j0T0IAgAgAgAgAgAgAgAgAg
+BOARD 0 12 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0C0S0Q0R0T0DAgAgAg0C0S0Q0R0i0j0T0l0l0S0T0S020nQt1D0j010j0T0UAgAgAgAgAgAgAgAgAg
+BOARD 0 13 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0H0l0S0i0g0h0j0UAgAg0C0S0i0g0h0S0T0j0Q0R0i0j0S02QHQdQp1D1F0j0j0UAgAgAgAgAgAgAgAgAg
+BOARD 0 14 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W0Q0i0S0Q0R0j0UAg0C0S0i0S0Q0R0i0j0T0g0h0S0T0S02QWQXQNQ4Q51D0j0UAgAgAgAgAgAgAgAgAg
+BOARD 0 15 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0H0m0g0S0isOsP0j0k0l0S0i0S0isOsP0n0o0j0Q0R0i0j0S11QmQnQrQNQpQ51D0UAgAgAgAgAgAgAgAgAg
+BOARD 0 16 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W020Q0i1CQ5Q41D000R0i0S0i1CQpQ4Q6Q91DsOsP0n0o0nTTTUTTS0QrQNQ41k0YAgAgAgAgAgAgAgAgAg
+BOARD 0 17 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W02sO1CQpQpQoQ5000h0S0i1CQ4Q5Q4Q5QoQpQoR9TkTjTkTjTkTj2E2FQtQo0UAgAgAgAgAgAgAgAgAgAg
+BOARD 0 18 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W02Q4Q5Q4Q5Q4Q5000R0i0nSLRsRrRsQ5Q4RrSMSNTUTTTUTTTUTT100nQtQ40k0IAgAgAgAgAgAgAgAgAg
+BOARD 0 19 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0H0m1VQo1k1lQpQoQp1UsP0nTkTjR6R7R8QpQoR9TkTjTkTjTkTjTkTjTkTjQ9Qo000UAgAgAgAgAgAgAgAgAg
+BOARD 0 20 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W02Q5Q41D1CQ5Q4Q5Q4Q5Q6TUTTSKSLSMSLSMSNTUTTTUTTTUTTTUQbQ8Q9Q5Q4000UAgAgAgAgAgAgAgAgAg
+BOARD 0 21 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W02QpQoQpQoQpQoQpQoQKQNQaTjTkTjTkTjTk141I1I1I1JTkTjTkQtQpQoQpQo000UAgAgAgAgAgAgAgAgAg
+BOARD 0 22 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W02Q5Q4Q5Q4Q5Q4Q5Q4Q6Q9Q6TTTUTTTU141IQBQhZgZhud1JTTTUQtQ5Q4Q5Q41U0UAgAgAgAgAgAgAgAgAg
+BOARD 0 23 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W1VQpQoQpQoQpQoQpQoQpQoQKTjTkTj1HQBQUQVQSZwZxRI1ZTjQbQ9QpQoQpQoQp0UAgAgAgAgAgAgAgAgAg
+BOARD 0 24 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0WQ4Q5Q4Q5Q4Q5Q4Q5Q4Q5QKQsTTTUTT1XQSQkQlRIQSQRQSud1JQtQ4Q5Q4Q5Q41k0YAgAgAgAgAgAgAgAgAg
+BOARD 0 25 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0WQoQpQoQpQoQpQoQpQpQpQqTkTjTkTj1n12QjQTSSQSQTQhQG1ZQtQoQpQoQp1k0YAgAgAgAgAgAgAgAgAgAg
+BOARD 0 26 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0X1lQ5Q4Q5Q4Q5Q4Q5Q4Q5QaTUS1TUTT0o2GRxRjUwRgQzQhQT1ZQ9RrRsQ4Q50UAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 27 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0X1lQoQpQoQpQoQpQpQpQ6Q7Q7QcTjTk0oRuRfRfRf12QR1302QpR7R8QoQp0k0DAgAgAgAgAgAgAgAgAgAg
+BOARD 0 28 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0WQ4Q5Q4Q5Q4Q5Q5Q5Q4Q5Q4Q6QcTUTTReRfRfRf2G1o2H1VQ5Q4Q5Q4Q5000T0IAgAgAgAgAgAgAgAgAg
+BOARD 0 29 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0WQoQpQoQpQoQpQoQpQoQpQoQpR9TkTjTkTjTkTj0o1F1CQoQpQoQpQoQp000T0UAgAgAgAgAgAgAgAgAg
+BOARD 0 30 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0X0F1lQ4Q5Q4Q5QoQpQpQpQoQ5RtTUTTTUTTTUTTTUTTR6QpQ5Q4Q5Q4Q5000T0UAgAgAgAgAgAgAgAgAg
+BOARD 0 31 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0X1lQpQoQ5Q4Q5QoQ5Q4QpR9TkasatbVTkTjTkTjSKRsQpQoQpQoQp1U0T0UAgAgAgAgAgAgAgAgAg
+BOARD 0 32 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0WQ5Q4QpQoQpQoQ5RrSMSNasaca9TTTUTTTUTTTUR6Q5Q4Q5Q4Q5Qp1D0UAgAgAgAgAgAgAgAgAg
+BOARD 0 33 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0X1lQoQ5Q4Q5Q4QpRtTkTja8a9blTjTkTjTkRaR8QoQ4QoRrSMSLRsQo0UAgAgAgAgAgAgAgAgAg
+BOARD 0 34 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0WQ4Q5Q4Q5Q4Q5R9TUTTTUTTTUTTTUTTTURqQpQpQoRrSNS0TER6Q40UAgAgAgAgAgAgAgAgAg
+BOARD 0 35 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0X1lQpQoQp1k0F0F2FTjTkTjTkTj170F0F0F0F0F1lSNTETETESKSL0UAgAgAgAgAgAgAgAgAg
+BOARD 0 36 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0WQ5Q4Q50UAgAg0X2FTUTTTU2E2LAgAgAgAgAg0X2FTETETETE2E0YAgAgAgAgAgAgAgAgAg
+BOARD 0 37 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0H0mQpQoQp0k0DAgAg0WTkTjTk0UAgAgAgAgAgAgAg0X0F0F0F0F0YAgAgAgAgAgAgAgAgAgAg
+BOARD 0 38 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W02Q5Q4Q5000T0l0l0mTUTTTU0k0DAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 39 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W02QpQoQp000T0Q0R02TkTjTk000T0IAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 40 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W02Q5Q4Q5000T0g0h02TUTTTU000T0UAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 41 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W1VQpQoRr100T0Q0R02TkTjTk000T0UAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 42 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0H0mQpQoQpR9TT0osOsP0nTUTTTU100T0UAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 43 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W02Q5Q4Q5R9TjTkTjTkTjTkTjS0Ra1D0UAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 44 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W02QpRrSMSNTTTUTTTUTTTURaRbR8Q50k0DAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 45 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W02Q5R9S1TkTjTkTjTkTjTkRqQpQoQp000T0IAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 46 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0W1VQpR7RbRcRdTURaRbRcRbR8QpQoQp000T0UAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 47 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0WQ4Q5Q4Q5Q4RtTkRqQ4Q5Q4Q5Q5Q4Q5000T0UAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 48 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0WQoQpQoQpQoR7RbR8QoQpQoQpQpQoQp1U0T0UAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 49 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0X1lQ5Q4Q5Q4Q5Q4Q5Q4Q5Q4Q5Q5Q4Q5Qp1D0UAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 50 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0X0F0F0F1lQpQoQpQoQpQoQpQpQoQpQoQp0UAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 51 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0X1lQ4Q5Q4Q5Q41k0F0F0F0F0F0YAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 52 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg0X0F0F0F0F0F0YAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 53 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 54 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 55 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 56 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 57 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 58 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 59 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 60 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 61 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 62 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+BOARD 0 63 64 0 AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg
+LINK dragonsmaw_1.nw 50 37 3 1 11.5 32
+NPC val_stalagmitebrown.gif 28 16
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_stalagmitebrown.gif 39 46
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_stalagmitebrown.gif 51 13
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_deepfissureshadow2.png 18 6
+dontblock;drawoverplayer;
+NPCEND
+NPC val_mushroomglow.png 41 21
+dontblock;drawunderplayer;
+NPCEND
+NPC val_mushroomglow3.png 46 12
+dontblock;drawunderplayer;
+NPCEND
+NPC val_mushroomglow3.png 40 23
+dontblock;drawunderplayer;
+NPCEND
+NPC val_mushroomglow3.png 43 22
+dontblock;drawunderplayer;
+NPCEND
+NPC val_mushroomglow.png 46 13
+dontblock;drawunderplayer;
+NPCEND
+NPC val_leybell3.png 32 43
+drawunderplayer;dontblock;
+NPCEND
+NPC val_leybell1.png 34 42
+drawunderplayer;dontblock;
+NPCEND
+NPC val_leybell2.png 33 42
+drawunderplayer;dontblock;
+NPCEND
+NPC val_leybell5.png 35 43
+drawunderplayer;dontblock;
+NPCEND
+NPC val_leybell4.png 34 44
+drawunderplayer;dontblock;
+NPCEND
+NPC val_fog.png 34 36
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.39);
+  setzoomeffect(random(5,10));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 31 18
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.39);
+  setzoomeffect(random(5,10));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_caverndoorlight.gif 47 31
+// NPC made by Sam OOC
+if (created) {
+  setimg val_caverndoorlight.gif;
+  dontblock;
+x=x+.5;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,4,2,0.25;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_stalagmitebrown2.gif 36 14
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_stalagmitebrown2.gif 49 11
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_stalagmitebrown2.gif 27 14
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_stalagmitebrown2.gif 41 47
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_stalagmitebrown2.gif 40 44
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_stalagmitebrown2.gif 27 45
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 34 39
+this.setupInfo = { "nature", 0, "Ley Bells", "Ley Bells can be found growing here. Considered by most people to be an invasive weed, the Ley Bell is notable for sustaining itself on mana. This process produces light, which makes the Ley Bell easy to spot in dark caverns, although it is capable of growing just about anywhere. Mana continues to be drawn into the Ley Bell's seedpod until the seedpod explodes, scattering the seeds and propogating the plant in the process. Seedpods near to bursting are often harvested for many reasons, including the simple act of throwing them upon a hard surface to force an explosion with blinding results." };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+
+this.setupInfo = { "nature", 0, "Ley Bells", "Ley Bells can be found growing here. Considered by most people to be an invasive weed, the Ley Bell is notable for sustaining itself on mana. This process produces light, which makes the Ley Bell easy to spot in dark caverns, although it is capable of growing just about anywhere. Mana continues to be drawn into the Ley Bell's seedpod until the seedpod explodes, scattering the seeds and propogating the plant in the process. Seedpods near to bursting are often harvested for many reasons, including the simple act of throwing them upon a hard surface to force an explosion with blinding results." };
+NPCEND
+NPC - 29 25
+//#CLIENTSIDE
+if (created){x=x-.5;
+  {
+    showcharacter;
+    setcharprop #P1,hat.png;
+    setcharprop #3,val_culthead.gif;
+    setcharprop #8,val_arwind-racoonbody2.gif;
+    setcharprop #C0,gray;
+    setcharprop #C1,gray;
+    setcharprop #C2,white;
+    setcharprop #C3,lightgray;
+    setcharprop #C4,gray;
+    setcharprop #m,0;
+    setcharani val_kneel,;
+    swordpower = 1;
+    setcharprop #2,no-shield.gif;
+    shieldpower = 1;
+    ap = 100;
+    setcharprop #n,???;
+    dir = 3;}
+}
+if (playertouchsme) {message "It's so dark in here that I can hardly see my hand in front of my face. I bet there are lots of strange and interesting things to find in other dark places like this..." ; sleep 8; message ;;
+}
+NPCEND
+NPC val_deepfissureshadow2.png 18 6
+dontblock;drawoverplayer;
+NPCEND

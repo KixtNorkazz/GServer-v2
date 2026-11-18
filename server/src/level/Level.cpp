@@ -1454,7 +1454,15 @@ void Level::sendNPCsToPlayer(const std::shared_ptr<Player>& player, const std::o
 		if (!npc) continue;
 
 		// If this NPC belongs on a different level, tell the client to change the active level.
-		if (auto npcLevel = npc->getLevel(); currentLevel != npcLevel.get())
+		auto npcLevel = npc->getLevel();
+		if (!npcLevel)
+		{
+			// Kixt, 18 Nov 2026: an NPC still listed for this area whose level is gone crashed the server here (npcLevel->levelName on null).
+			static int warned = 0;
+			if (warned++ < 20) printf("[Level] sendNPCsToPlayer: NPC %u has no level, not sent (player entering %s)\n", static_cast<unsigned int>(npc->id), levelName.c_str());
+			continue;
+		}
+		if (currentLevel != npcLevel.get())
 		{
 			player->sendPacket(CString() >> (char)PLO_SETACTIVELEVEL << npcLevel->levelName);
 			currentLevel = npcLevel.get();

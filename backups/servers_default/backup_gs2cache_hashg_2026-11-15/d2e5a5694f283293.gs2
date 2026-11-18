@@ -1,0 +1,22 @@
+//#CLIENTSIDE
+function onCreated() {
+  setimg("valcascourtgate.gif");
+  setshape(1, 200, 200);
+}
+
+function onPlayerChats() {
+  if (("#g" == "Imperial Dalmar")) {
+    if (this.playerchats && (player.chat == "Open Castle")) {
+      hide();
+    }
+    if (this.playerchats && (player.chat == "Close Castle")) {
+      show();
+    }
+  }
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "Imperial Dalmar")) {
+    dontblock();
+  }
+}

@@ -1,0 +1,20 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "black-scabbard-shield.gif";
+  this.head = "head155.png";
+  this.body = "arwind-racoonbody2.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("idle", NULL);
+  this.dir = 1;
+  this.ap = 100;
+}
+
+function onPlayerTouchsMe() {
+  say2("\"Yeah, I got this new spear#bin town.  It's light as hell.\"#b#b\"It looks great!  Did it come with#bthose leather wrappings?\"#b#b\"Sure did.  Only cost me 110g#btoo.\"#b#b\"Awesome.\"");
+}

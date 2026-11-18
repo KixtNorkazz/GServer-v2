@@ -1,0 +1,23 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "";
+  this.head = "theblindone-william-head2.gif";
+  this.body = "moto-bridgetonbody100.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.nick = "Sir Rolphius, of Northlark";
+  setcharani("sit", NULL);
+  this.dir = 2;
+  this.ap = 100;
+  this.x = this.x+.5;
+  this.y = this.y+.3;
+}
+
+function onPlayerTouchsMe() {
+  say2("Are you here for recruiting#bbusiness?  Go around to the#bfront, please.");
+}

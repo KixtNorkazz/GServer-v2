@@ -1,0 +1,18 @@
+//#CLIENTSIDE
+function onCreated() {
+  setshape2(4, 4, {
+00,00,00,00
+00,22,22,00
+22,00,00,22
+00,22,22,00
+  });
+}
+
+function onPlayerEnters() {
+  setshape2(4, 4, {
+00,00,00,00
+00,22,22,00
+22,00,00,22
+00,22,22,00
+  });
+}

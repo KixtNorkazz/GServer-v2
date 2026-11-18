@@ -1,0 +1,113 @@
+GRAWP001
+REALNAME -TileDefs
+IMAGE 
+SCRIPT
+//#CLIENTSIDE
+// TileDefs: part 1 of 7 of the GS2 version of the TileDefs weapon: the former GS1 part (a GS1 weapon is never run by a v6 client, so its tile definitions - highesthras for esthras_hightown_ among them - never applied).
+function onCreated() {
+  addtiledef("valtiles_underdark.png", "springsunderdark_", 1);
+  addtiledef("valtiles_redrocknew.png", "kingsplains_cavern", 1);
+  addtiledef("valtiles_hellreach.png", "val_templeruins", 1);
+  addtiledef("valtiles_bartlett.png", "val_hellsreach_", 1);
+  addtiledef("valtiles_bartlett2.png", "val_hellsreach_bartlettout_04", 1);
+  addtiledef("valtiles_brookhurst.png", "newnewbrookhurst_", 1);
+  addtiledef("valtiles_brookhurst2.png", "brookhurst_", 1);
+  addtiledef2("valtiles_diagonalwalls2.png", "newnewbrookhurst_", 1760, 352);
+  addtiledef("valtiles_brookhurst.png", "poorknights_", 1);
+  addtiledef2("valtiles_diagonalwalls2.png", "poorknights_", 1760, 352);
+  addtiledef("valtiles_osengrad.png", "val_archewoodfarmint_", 1);
+  addtiledef("valtiles_osengradold.png", "val_test_city", 1);
+  addtiledef("valtiles_tilesetnew.png", "val_archewoodfarm_", 1);
+  addtiledef("valtiles_brookhurst.png", "val_test_latschool", 1);
+  addtiledef("valtiles_brookhurst.png", "val_test_mansion", 1);
+  addtiledef("valtiles_newgreendale2.png", "val_ballroom", 1);
+  addtiledef2("valtiles_racilpaneltest.png", "val_test_latschool_raciloffice", 400, 0);
+  addtiledef2("valtiles_panels.png", "val_test_mansion", 256, 0);
+  addtiledef2("valtiles_panels.png", "val_ballroom", 256, 0);
+  addtiledef("valtiles_lumin.png", "tim_val_luccansea_lostisland1.nw", 1);
+  addtiledef("valtiles_bullscall.png", "val_bullscall", 1);
+  addtiledef("valtiles_brookhurst.png", "val_steerback_", 1);
+  addtiledef("valtiles_opal.png", "echopsi_", 1);
+  addtiledef("valtiles_swamptiles.png", "swamptest", 1);
+  addtiledef("valtiles_picso-editbyzetta.png", "zeta-testmap", 5);
+  addtiledef("valtiles_osengradold.png", "iron_canyon_", 1);
+  addtiledef2("val_frost-insides.png", "milahousefloor_", 1024, 0);
+  addtiledef2("sighisoara-tiles.png", "milahousefloor_", 0, 0);
+  addtiledef2("sighisoara-tiles.png", "sulukra-sammountain", 0, 0);
+  addtiledef2("tirvien_floor_1.png", "sulukra-sammountain", 1280, 416);
+  addtiledef2("val_sidescrollltest_tiles1.gif", "zectratest_ss", 0, 0);
+  addtiledef2("valtiles_inside1.png", "valint_gallow", 1024, 0);
+  addtiledef2("sighisoara-tiles.png", "valint_gallow", 0, 0);
+  addtiledef("valtiles_elven.png", "valelfruins_", 1);
+  addtiledef("valtiles_underdark.png", "springsunderdark", 1);
+  addtiledef("valtiles_elven.png", "val_whitespring_", 1);
+  addtiledef2("valtiles_alaerontilredrocknewes.gif", "val_festive_alaero.nw", 0, 0);
+  addtiledef2("valtiles_alaerontiles.gif", "val_festive_alaero_tent.nw", 0, 0);
+  addtiledef("valtiles_main.png", "val_farms", 0);
+  addtiledef2("val_alaerontiles.gif", "val_festive_alaero_tent", 0, 0);
+  addtiledef2("valtiles_ganelon-editbyzero.png", "val_farms", 1024, 0);
+  addtiledef2("valtiles_ignisoutside.gif", "cedric_fort1.nw", 0, 0);
+  addtiledef2("valtiles_ignisoutside.gif", "cedricint_", 0, 0);
+  addtiledef("valtiles_main.png", "val_guild-", 0);
+  addtiledef("valtiles_main.png", "val_tradeoffice", 0);
+  addtiledef2("valtiles_maingrass.png", "val_tradeoffice", 1120, 448);
+  addtiledef2("valtiles_generalinside-byzero.png", "val_tradeoffice", 1024, 0);
+  addtiledef2("valtiles_ganelon.gif", "kathelestate_", 1024, 0);
+  addtiledef2("valtiles_ganelon2.gif", "kathelestate_", 128, 0);
+  addtiledef2("valtiles_greendale.png", "riverton", 1024, 0);
+  addtiledef2("valtiles_maingrass.png", "val_alaeron_field.nw", 1120, 448);
+  addtiledef2("valtiles_ganelon-editbyzero.png", "val_alaeron_field.nw", 1024, 0);
+  addtiledef2("valikorlia-newtilessuiriku3.gif", "val_alaeron_field.nw", 0, 0);
+  addtiledef("valtiles_main.png", "protoroute_", 0);
+  addtiledef2("valtiles_greendale.png", "protoroute_", 1024, 0);
+  addtiledef("valtiles_main.png", "gantrail_", 0);
+  addtiledef2("valtiles_ignisoutside.gif", "tutorial_1.nw", 0, 0);
+  addtiledef2("valtiles_ignistilesairdock2.gif", "tutorial_1.nw", 1024, 0);
+  addtiledef2("valtiles_ignisoutside.gif", "tutorial_3.nw", 0, 0);
+  addtiledef2("valtiles_ignistilesairdock2.gif", "tutorial_3.nw", 1024, 0);
+  addtiledef2("valtiles_ignisoutside.gif", "tutorial_4", 0, 0);
+  addtiledef2("valtiles_ignistilesairdock2.gif", "tutorial_4", 1024, 0);
+  addtiledef2("val_frost-insides.png", "vertigoi", 1024, 0);
+  addtiledef2("val_tiles-frost1.png", "vertigoi", 0, 352);
+  addtiledef2("val_tiles-frost2.png", "vertigoi", 640, 416);
+  addtiledef2("val_tiles-frost3.png", "vertigoi", 1856, 0);
+  addtiledef2("val_tiles-frost4.png", "vertigoi", 1152, 48);
+  addtiledef2("valtiles_inside1.png", "playerhouseint_esthrastemplate_", 1024, 0);
+  addtiledef2("valtiles_inside2.png", "playerhouseint_esthrastemplate_", 0, 0);
+  addtiledef("valtiles_ruinsnew.png", "val_tributary", 1);
+  addtiledef2("valtiles_valcapital.gif", "esthras_trade2.nw", 1024, 0);
+  addtiledef("valtiles_main.gif", "esthras_slums1.nw", 0);
+  addtiledef2("valtiles_valcapital.gif", "esthras_slums1.nw", 1024, 0);
+  addtiledef("valtiles_main.png", "esthras_housing", 0);
+  addtiledef2("valtiles_valcapital.gif", "esthras_housing", 1024, 0);
+  addtiledef("valtiles_brookhurst.png", "newesthras_", 1);
+  addtiledef("valtiles_highesthras.png", "esthras_hightown_", 1);
+  addtiledef2("valtiles_valcapital.gif", "newesthras_", 1024, 0);
+  addtiledef("valtiles_darktemple.png", "esthrasundercity_", 1);
+  addtiledef("valtiles_darktemple.png", "esthrassewers_", 1);
+  addtiledef("valtiles_underdark.png", "esthrassewers_underdark", 1);
+  addtiledef("valtiles_darktemple.png", "esthrasfleshpit", 1);
+  addtiledef2("valtiles_fleshpit_small.png", "esthrassewers_03", 1344, 64);
+  addtiledef2("valtiles_fleshpit_small.png", "esthrasfleshpit", 1344, 64);
+  addtiledef2("valtiles_fleshpit_small2.png", "esthrasfleshpit", 256, 160);
+  addtiledef2("valtiles_fleshpit_small3.png", "esthrasfleshpit", 1312, 464);
+  addtiledef("valtiles_desert.png", "val_hardhopeoasis_", 1);
+  addtiledef("valtiles_desert.png", "val_mindorapass_", 1);
+  addtiledef("valtiles_desert.png", "val_newlerhyn_", 1);
+  addtiledef("valtiles_desert.png", "val_nomadsrespite_", 1);
+  addtiledef("valtiles_southern.png", "moose_test.nw", 1);
+  addtiledef("valtiles_tilesetnew.png", "ironcap_", 1);
+  addtiledef("valtiles_brookhurst.png", "ironcaps_", 1);
+  addtiledef("valtiles_fleshpittest.png", "tileset2test", 1);
+  addtiledef("valtiles_osengrad.png", "tileset2test-airship", 1);
+  addtiledef("valtiles_southern.png", "noeltest.nw", 1);
+  addtiledef("valtiles_osengrad.png", "caves_osengrad", 1);
+  addtiledef("valtiles_osengrad.png", "osengrad_", 1);
+  addtiledef("valtiles_osengrad.png", "osengradint", 1);
+  addtiledef("valtiles_osengrad.png", "koscheim_", 1);
+  addtiledef("valtiles_elven.png", "ironcaptower_", 1);
+  addtiledef("valtiles_ruinsnew.png", "val_portvermaakshire", 1);
+  echo("TileDefs: 102 tile definitions applied");
+}
+
+SCRIPTEND

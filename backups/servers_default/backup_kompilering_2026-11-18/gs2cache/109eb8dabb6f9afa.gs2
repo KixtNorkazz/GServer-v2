@@ -1,0 +1,161 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  setshape(1, 32, 48);
+  this.menux = this.screenwidth/3;
+  this.menuy = this.screenheight/3.5;
+  this.ok = 0;
+}
+
+function onPlayerEnters() {
+  gs1_always();
+  setshape(1, 32, 48);
+  this.menux = this.screenwidth/3;
+  this.menuy = this.screenheight/3.5;
+  this.ok = 0;
+}
+
+function onPlayerTouchsMe() {
+  gs1_always();
+  if (float((clientr.int))>=1) {
+    setani("sit", NULL);
+    showpoly(0, {this.menux+7,this.menuy+7,this.menux+217,this.menuy+7,this.menux+217,this.menuy+82,this.menux+7,this.menuy+82});
+    changeimgvis(this.i, 6);
+    changeimgcolors(this.i, .35, .35, .35, 1);
+    showpoly(1, {this.menux+7,this.menuy+92,this.menux+107,this.menuy+92,this.menux+107,this.menuy+132,this.menux+7,this.menuy+132});
+    showpoly(2, {this.menux+117,this.menuy+92,this.menux+217,this.menuy+92,this.menux+217,this.menuy+132,this.menux+117,this.menuy+132});
+    showpoly(3, {this.menux+7,this.menuy+142,this.menux+107,this.menuy+142,this.menux+107,this.menuy+182,this.menux+7,this.menuy+182});
+    showpoly(4, {this.menux+117,this.menuy+142,this.menux+217,this.menuy+142,this.menux+217,this.menuy+182,this.menux+117,this.menuy+182});
+    showpoly(5, {this.menux+7,this.menuy+192,this.menux+107,this.menuy+192,this.menux+107,this.menuy+232,this.menux+7,this.menuy+232});
+    showpoly(6, {this.menux+117,this.menuy+192,this.menux+162,this.menuy+192,this.menux+162,this.menuy+232,this.menux+117,this.menuy+232});
+    showpoly(7, {this.menux+172,this.menuy+192,this.menux+217,this.menuy+192,this.menux+217,this.menuy+232,this.menux+172,this.menuy+232});
+    for (this.i = 1; this.i<10; this.i++) {
+      changeimgvis(this.i, 6);
+      changeimgcolors(this.i, 0, 0, 1, 1);
+    }
+    showpoly(10, {this.menux+8,this.menuy+8,this.menux+216,this.menuy+8,this.menux+216,this.menuy+81,this.menux+8,this.menuy+81});
+    changeimgvis(this.i, 7);
+    changeimgcolors(this.i, .75, .75, .75, 1);
+    showpoly(11, {this.menux+8,this.menuy+93,this.menux+106,this.menuy+93,this.menux+106,this.menuy+131,this.menux+8,this.menuy+131});
+    showpoly(12, {this.menux+118,this.menuy+93,this.menux+216,this.menuy+93,this.menux+216,this.menuy+131,this.menux+118,this.menuy+131});
+    showpoly(13, {this.menux+8,this.menuy+143,this.menux+106,this.menuy+143,this.menux+106,this.menuy+181,this.menux+8,this.menuy+181});
+    showpoly(14, {this.menux+118,this.menuy+143,this.menux+216,this.menuy+143,this.menux+216,this.menuy+181,this.menux+118,this.menuy+181});
+    showpoly(15, {this.menux+8,this.menuy+193,this.menux+106,this.menuy+193,this.menux+106,this.menuy+231,this.menux+8,this.menuy+231});
+    showpoly(16, {this.menux+118,this.menuy+193,this.menux+161,this.menuy+193,this.menux+161,this.menuy+231,this.menux+118,this.menuy+231});
+    showpoly(17, {this.menux+173,this.menuy+193,this.menux+216,this.menuy+193,this.menux+216,this.menuy+231,this.menux+173,this.menuy+231});
+    for (this.j = 11; this.j<20; this.j++) {
+      changeimgvis(this.j, 7);
+      changeimgcolors(this.j, 0, 0, .5, 1);
+    }
+    showtext(20, this.menux+12, "this.menuy+12", "arial", 0, "Welcome Scroll Master");
+    changeimgcolors(20, 0, 0, 0, 1);
+    showtext(21, this.menux+57, "this.menuy+112", "arial", "bc", "#I(this.items,0)");
+    showtext(22, this.menux+167, "this.menuy+112", "arial", "bc", "#I(this.items,1)");
+    showtext(23, this.menux+57, "this.menuy+162", "arial", "bc", "#I(this.items,2)");
+    showtext(24, this.menux+167, "this.menuy+162", "arial", "bc", "#I(this.items,3)");
+    showtext(25, this.menux+57, "this.menuy+212", "arial", "bc", "#I(this.items,4)");
+    showtext(26, this.menux+139.5, "this.menuy+212", "arial", "bc", "Okay");
+    showtext(27, this.menux+195, "this.menuy+212", "arial", "bc", "Cancel");
+    for (this.k = 20; this.k<30; this.k++) {
+      changeimgvis(this.k, 8);
+      changeimgzoom(this.k, .6);
+    }
+    changeimgcolors(26, .5, .5, .5, 1);
+    showpoly(30, {this.menux,this.menuy,this.menux+226,this.menuy,this.menux+226,this.menuy+241,this.menux,this.menuy+241});
+    changeimgvis(30, 4);
+    changeimgcolors(30, 0, .7, 0, 1);
+    showpoly(31, {this.menux+1,this.menuy+1,this.menux+225,this.menuy+1,this.menux+225,this.menuy+240,this.menux+1,this.menuy+240});
+    changeimgvis(31, 5);
+    changeimgcolors(31, 0, .5, 0, 1);
+    this.mode = 1;
+  }
+}
+
+function gs1_always() {
+  if (leftmousebutton && mousescreenx in |this.menux+7,this.menux+107| && mousescreeny in |this.menuy+92,this.menuy+132| && this.mode==1) {
+    showtext(20, this.menux+12, "this.menuy+12", "arial", 0, "#I(this.definition,0)");
+    changeimgvis(20, 8);
+    changeimgzoom(20, .5);
+    changeimgcolors(1, 0, 0, .4, 1);
+    changeimgcolors(2, 0, 0, 1, 1);
+    changeimgcolors(3, 0, 0, 1, 1);
+    changeimgcolors(4, 0, 0, 1, 1);
+    changeimgcolors(5, 0, 0, 1, 1);
+    changeimgcolors(6, 0, 0, 1, 1);
+    changeimgcolors(26, 1, 1, 1, 1);
+    this.choice = 0;
+    this.ok = 1;
+  }
+  if (leftmousebutton && mousescreenx in |this.menux+117,this.menux+217| && mousescreeny in |this.menuy+92,this.menuy+132| && this.mode==1) {
+    showtext(20, this.menux+12, "this.menuy+12", "arial", 0, "#I(this.definition,1)");
+    changeimgvis(20, 8);
+    changeimgzoom(20, .5);
+    changeimgcolors(1, 0, 0, 1, 1);
+    changeimgcolors(2, 0, 0, .4, 1);
+    changeimgcolors(3, 0, 0, 1, 1);
+    changeimgcolors(4, 0, 0, 1, 1);
+    changeimgcolors(5, 0, 0, 1, 1);
+    changeimgcolors(6, 0, 0, 1, 1);
+    changeimgcolors(26, 1, 1, 1, 1);
+    this.choice = 1;
+    this.ok = 1;
+  }
+  if (leftmousebutton && mousescreenx in |this.menux+7,this.menux+107| && mousescreeny in |this.menuy+142,this.menuy+182| && this.mode==1) {
+    showtext(20, this.menux+12, "this.menuy+12", "arial", 0, "#I(this.definition,2)");
+    changeimgvis(20, 8);
+    changeimgzoom(20, .5);
+    changeimgcolors(1, 0, 0, 1, 1);
+    changeimgcolors(2, 0, 0, 1, 1);
+    changeimgcolors(3, 0, 0, .4, 1);
+    changeimgcolors(4, 0, 0, 1, 1);
+    changeimgcolors(5, 0, 0, 1, 1);
+    changeimgcolors(6, 0, 0, 1, 1);
+    changeimgcolors(26, 1, 1, 1, 1);
+    this.choice = 2;
+    this.ok = 1;
+  }
+  if (leftmousebutton && mousescreenx in |this.menux+117,this.menux+217| && mousescreeny in |this.menuy+142,this.menuy+182| && this.mode==1) {
+    showtext(20, this.menux+12, "this.menuy+12", "arial", 0, "#I(this.definition,3)");
+    changeimgvis(20, 8);
+    changeimgzoom(20, .5);
+    changeimgcolors(1, 0, 0, 1, 1);
+    changeimgcolors(2, 0, 0, 1, 1);
+    changeimgcolors(3, 0, 0, 1, 1);
+    changeimgcolors(4, 0, 0, .4, 1);
+    changeimgcolors(5, 0, 0, 1, 1);
+    changeimgcolors(6, 0, 0, 1, 1);
+    changeimgcolors(26, 1, 1, 1, 1);
+    this.choice = 3;
+    this.ok = 1;
+  }
+  if (leftmousebutton && mousescreenx in |this.menux+7,this.menux+107| && mousescreeny in |this.menuy+192,this.menuy+232| && this.mode==1) {
+    showtext(20, this.menux+12, "this.menuy+12", "arial", 0, "#I(this.definition,4)");
+    changeimgvis(20, 8);
+    changeimgzoom(20, .5);
+    changeimgcolors(1, 0, 0, 1, 1);
+    changeimgcolors(2, 0, 0, 1, 1);
+    changeimgcolors(3, 0, 0, 1, 1);
+    changeimgcolors(4, 0, 0, 1, 1);
+    changeimgcolors(5, 0, 0, .4, 1);
+    changeimgcolors(6, 0, 0, 1, 1);
+    changeimgcolors(26, 1, 1, 1, 1);
+    this.ok = 1;
+  }
+  if (leftmousebutton && this.mousedown && mousescreenx in |this.menux+172,this.menux+217| && mousescreeny in |this.menuy+192,this.menuy+232| && this.mode==1) {
+    hidepics();
+  }
+}
+
+function noway() {
+  showtext(20, this.menux+12, "this.menuy+12", "arial", 0, "You don't meet one or more requirements!");
+  changeimgvis(20, 8);
+  changeimgzoom(20, .5);
+}
+
+function hidepics() {
+  for (this.i = 0; this.i<40; this.i++) {
+    hideimg(this.i);
+  }
+  this.mode = 0;
+  this.ok = 0;
+}

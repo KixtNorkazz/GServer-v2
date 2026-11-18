@@ -1,0 +1,16 @@
+//#CLIENTSIDE
+function onCreated() {
+  setshape(1, 16*4, 16*1);
+  dontblock();
+}
+
+function onPlayerChats() {
+  if (("#g" == "The Free City of Esthras")) {
+    if ((player.chat == "Close Gate")) {
+      blockagain();
+    }
+  }
+  if ((player.chat == "Open Gate")) {
+    dontblock();
+  }
+}

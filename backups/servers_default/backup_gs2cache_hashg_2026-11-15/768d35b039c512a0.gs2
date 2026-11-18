@@ -1,0 +1,18 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+}
+
+function onPlayerChats() {
+  gs1_always();
+  if (("#g".pos("Valikorlian Empire") > -1)&&(player.chat == "/fix")) {
+    drawunderplayer();
+  }
+}
+
+function gs1_always() {
+  if (("#g" == "Valikorlian Empire")&&this.playertouchsme) {
+    dontblock();
+    drawoverplayer();
+  }
+}

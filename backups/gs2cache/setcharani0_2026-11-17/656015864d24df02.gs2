@@ -1,0 +1,27 @@
+//#CLIENTSIDE
+function onCreated() {
+  this.x = this.x-.5;
+  showcharacter();
+  this.attr[1] = "hat.png";
+  this.head = "val_culthead.gif";
+  this.body = "val_arwind-racoonbody2.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "gray";
+  this.colors[2] = "white";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "gray";
+  setcharani("0", NULL);
+  setcharani("val_kneel", NULL);
+  this.swordpower = 1;
+  this.shield = "no-shield.gif";
+  this.shieldpower = 1;
+  this.ap = 100;
+  this.nick = "???";
+  this.dir = 2;
+}
+
+function onPlayerTouchsMe() {
+  message("Hey, you found me! You must like to explore a lot. Wanna know something neat? There are around twenty three Gods in our pantheon. I wonder if they're all watching us right now?");
+  sleep(6);
+  message();
+}

@@ -1,0 +1,17 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "jacobbpeters-adventurerhead.gif";
+  this.body = "body.png";
+  this.colors[0] = "orange";
+  this.colors[1] = "white";
+  this.colors[2] = "white";
+  this.colors[3] = "black";
+  this.colors[4] = "white";
+  setcharani("0", NULL);
+  this.nick = "Johnny the Chef";
+  setcharani("idle", NULL);
+  this.dir = 2;
+  this.ap = 100;
+}

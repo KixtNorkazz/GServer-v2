@@ -1,0 +1,157 @@
+//#CLIENTSIDE
+function onCreated() {
+  dontblock();
+  this.owner = null;
+  this.loopSpeed = 1;
+  this.stepsize = 2;
+  this.offboardmsg = "#x You can not move off the edge of the board!";
+  this.defaultXY = {this.x,this.y};
+  this.imgwpawn = "val_chesspiece_whitepawn.png";
+  this.imgwrook = "val_chesspiece_whiterook.png";
+  this.imgwknight = "val_chesspiece_whiteknight.png";
+  this.imgwbishop = "val_chesspiece_whitebishop.png";
+  this.imgwking = "val_chesspiece_whiteking.png";
+  this.imgwqueen = "val_chesspiece_whitequeen.png";
+  this.imgbpawn = "val_chesspiece_blackpawn.png";
+  this.imgbrook = "val_chesspiece_blackrook.png";
+  this.imgbknight = "val_chesspiece_blackknight.png";
+  this.imgbbishop = "val_chesspiece_blackbishop.png";
+  this.imgbking = "val_chesspiece_blackking.png";
+  this.imgbqueen = "val_chesspiece_blackqueen.png";
+  ChessConfig();
+}
+
+function ChessConfig() {
+  this.piece = this.piece.lower();
+  this.piececolor = this.piececolor.lower();
+  if (this.piece == null ||
+     !(this.piece in {"pawn", "rook", "knight", "bishop", "king", "queen"})) {
+    this.piece = "pawn";
+  }
+  if (this.piecenum == null) {
+    echo("Chess piece at " @ this.level @ " " @ this.x @ " " @ this.y @ " destroyed. No this.piecenum.");
+  }
+  if (this.piececolor.lower() != "white" && this.piececolor.lower() != "black") {
+    echo("Chess piece at " @ this.level @ " " @ this.x @ " " @ this.y @ " destroyed. this.piececolor not set to \"this.white\" or \"this.black\".");
+  }
+  if (this.left_border == null) {
+    echo("Chess piece at " @ this.level @ " " @ this.x @ " " @ this.y @ " destroyed. No this.left_border.");
+  }
+  if (this.right_border == null) {
+    echo("Chess piece at " @ this.level @ " " @ this.x @ " " @ this.y @ " destroyed. No this.right_border.");
+  }
+  if (this.top_border == null) {
+    echo("Chess piece at " @ this.level @ " " @ this.x @ " " @ this.y @ " destroyed. No this.up_border.");
+  }
+  if (this.bottom_border == null) {
+    echo("Chess piece at " @ this.level @ " " @ this.x @ " " @ this.y @ " destroyed. No this.down_border.");
+  }
+  this.bottom_border -= 2;
+  this.right_border -= 2;
+  setshape(1, 16*this.stepsize, 16*this.stepsize);
+  PieceConfig();
+}
+
+function PieceConfig() {
+  this.x = this.defaultXY[0];
+  this.y = this.defaultXY[1];
+  message("this.piecenum");
+}
+
+function onActionLeftMouse() {
+}
+
+function onActionRightMouse() {
+}
+
+function onPlayerchats() {
+  if (player.chat == "/master white" && this.piececolor == "white") {
+    temp.ACC = player.account;
+    if (this.owner == null) {
+      this.owner = temp.ACC;
+      message("this.owner");
+      sleep2(0.2);
+      message("this.piecenum");
+      setTimer(this.loopSpeed);
+    } else {
+      player.chat = "//Someone else already has control of white!\\";
+    }
+  } else if (player.chat == "/master black" && this.piececolor == "black") {
+    temp.ACC = player.account;
+    if (this.owner == null) {
+      this.owner = temp.ACC;
+      message("this.owner");
+      sleep2(0.2);
+      message("this.piecenum");
+      setTimer(this.loopSpeed);
+    } else {
+      player.chat = "//Someone else already has control of black!\\";
+    }
+  } else if (player.chat == "/reset white" && this.piececolor == "white") {
+    temp.ACC = player.account;
+    if (this.owner == temp.ACC) {
+      this.x = this.defaultXY[0];
+      this.y = this.defaultXY[1];
+    } else {
+      player.chat = "//I have no control over white!\\";
+    }
+  } else if (player.chat == "/reset black" && this.piececolor == "black") {
+    temp.ACC = player.account;
+    if (this.owner == temp.ACC) {
+      this.x = this.defaultXY[0];
+      this.y = this.defaultXY[1];
+    } else {
+      player.chat = "//I have no control over black!\\";
+    }
+  } else if (player.chat == "/end") {
+    temp.ACC = player.account;
+    if (this.owner == temp.ACC) {
+      NullOwner();
+    }
+  }
+  if (player.chat.starts("/")) {
+    temp.tokens = player.chat.tokenize();
+    if (temp.tokens[0].substring(1) != this.piecenum) {
+      return;
+    }
+    temp.ACC = player.account;
+    if (this.owner != temp.ACC) {
+      player.chat = "//I have no control over that piece!\\";
+      return;
+    }
+    if (temp.tokens[1] == "left" && temp.tokens[2] == "side") {
+      this.x = this.left_border - this.stepsize;
+    } else if (temp.tokens[1] == "right" && temp.tokens[2] == "side") {
+      this.x = this.right_border + this.stepsize;
+    } else if (temp.tokens[1] == "up") {
+    } else if (temp.tokens[1] == "down") {
+    } else if (temp.tokens[1] == "left") {
+    } else if (temp.tokens[1] == "right") {
+    }
+  }
+}
+
+function NullOwner() {
+  this.owner = null;
+  message("this.owner");
+  sleep2(0.2);
+  message("this.piecenum");
+}
+
+function onTimeout() {
+  if (this.owner != null) {
+    temp.target = findplayer(this.owner);
+    if (temp.target == null) {
+      NullOwner();
+      return;
+    } else if (temp.target.level != this.level) {
+      NullOwner();
+      return;
+    }
+    setTimer(this.loopSpeed);
+  }
+}
+
+function sleep2(time) {
+  waitfor(this, "noevent", time);
+}

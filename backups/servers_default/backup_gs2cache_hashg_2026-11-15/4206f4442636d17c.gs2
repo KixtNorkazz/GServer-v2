@@ -1,0 +1,18 @@
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val-hammerforge-smallgate-bysam.gif", 0, 32, 32, 96);
+  drawunderplayer();
+}
+
+function onPlayerChats() {
+  if ((("#g" == "Hammerforge"))&&(player.chat == "open3")) {
+    setimgpart("val-hammerforge-smallgate-bysam.gif", 16, 32, 16, 96);
+    sleep(0.2);
+    hide();
+    sleep(3);
+    show();
+    setimgpart("val-hammerforge-smallgate-bysam.gif", 16, 32, 16, 96);
+    sleep(0.1);
+    setimgpart("val-hammerforge-smallgate-bysam.gif", 0, 32, 32, 96);
+  }
+}

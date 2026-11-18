@@ -1,0 +1,43 @@
+// Spring trap, server-side so every player sees it (guild The Wayward is spared and can reset).
+if (created) {
+  setimgpart val-springtrap.gif,0,0,48,2;
+  setshape 1,48,16;
+  this.cy = y;
+  this.trapset = 0;
+  this.busy = 0;
+}
+if (actionspring && this.trapset == 0 && this.busy == 0) {
+  this.trapset = 1;
+  this.busy = 1;
+  for (this.i = 1; this.i < 96; this.i += 16) {
+    y -= .5;
+    setimgpart val-springtrap.gif,0,0,48,this.i;
+    sleep .05;
+  }
+  this.busy = 0;
+}
+if (playerchats && this.trapset == 1 && this.busy == 0 && strequals(#c,reset traps) && strequals(#g,The Wayward)) {
+  this.busy = 1;
+  for (this.i = 0; this.i < 64; this.i++) {
+    setimgpart val-springtrap.gif,0,0,48,64-this.i;
+    y += .05;
+    sleep .05;
+  }
+  setimgpart val-springtrap.gif,0,0,48,2;
+  y = this.cy;
+  this.trapset = 0;
+  this.busy = 0;
+}
+//#CLIENTSIDE
+if (playerenters) {
+  this.sent = 0;
+  timeout = .1;
+}
+if (timeout) {
+  if (playerx <= 17 && this.sent == 0 && !strequals(#g,The Wayward)) {
+    this.sent = 1;
+    triggeraction x+1,y+.1,spring,;
+  }
+  if (playerx > 17) this.sent = 0;
+  timeout = .1;
+}

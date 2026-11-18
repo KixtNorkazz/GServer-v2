@@ -1,0 +1,429 @@
+GLEVNW01
+BOARD 0 0 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 1 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 2 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 3 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 4 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 5 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 6 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 7 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0H0l0l0l0l0Ifcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 8 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W0Q0R0Q0R0Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 9 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W02fcfc000Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 10 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W02fcfc000k0Ifcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 11 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W02fcfc00000Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 12 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0WQoQpQoQp000Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 13 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0C0mQ4Q5Q4Q5000Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 14 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0C0S02QoQpQoQp1U0Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 15 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W0i02RsQ5Q4Q51k0Yfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 16 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0C0m0S02SKRsQoQp0Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 17 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0H0S020i0nTjSKRsQ50Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 18 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W0i020nTkTjRaR81k0Yfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 19 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W0S02TkS0TkSKSL0Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 20 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W0i0nTjTjTkTE170Yfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 21 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W0nRzTUb1Tj2E2Lfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 22 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0WRzTjasatbV0Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 23 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0H0mTkbla8a9Tj0Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 24 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W02RdTjb1bVTT0k0l0Dfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 25 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W02Rtb1TjTjTj000Q0T0Ifcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 26 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0C0m02R7RbRcRdTk000g0j0Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 27 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0H0l0l0S021CQ4Q5QoR7Rd000Q0T0k0Ifcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 28 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0C0l0Dfcfcfcfcfcfc0W0Q0R0i02QpQoQpQoQpR71DsO0j000Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 29 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0H0l0l0S0Q0T0l0Dfcfcfcfc0W0g0h0S02Q5Q4Q5Q4Q5Q4Q5Q41D000Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 30 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W0Q0R0i0g0j0Q0T0Dfcfc0C0m0Q0R0i1CQpQo1k0F0F1lQ4QoQp000Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 31 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W0g0h0S0Q0T0g0j0T0l0l0S02sOsP1CQ4Q5Q40k0Ifc0X1lQ4Q51U0Ufcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 32 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0H0m0Q0R0isO0j0Q0T0j0Q0R0i02QpQoQpQoQpQo000Ufc0C0mQ5Qp1k0Yfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 33 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W02sOsP1CQp1DsO0j0T0g0h0S02SKSLQ5Q4Q5Q4000k0l0S02Q4Q50k0Dfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 34 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W02S1SKSLSMSNTj0o0j0Q0R0i0nTjTjR6QoQpQo00000Q0i02Q5Qp000T0l0Ifcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 35 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W02TkTkTjTkTjTjTk0osOsP0nTkTjTjSKSLRsQ41D000g0S02Q4Q5000j0Q0Ufcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 36 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W0nTkblTTTkTkTkTjTjTjTkTETES0TETUTUR6QoQ4000Q0i1CQ5Qp000T0g0k0Dfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 37 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0WatbVTjbVTjTkTjTkTjTjTkasatasatTkRaQoQ4Qo1DsO1CQoQ4Q51U0j0Q000T0Ifcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 38 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0Wa9blTkTjTjTkTjTjbVTkTja8acacacatRqQpQoQpQoQpQoQpQ5SMSN0osO000j0Ufcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 39 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0X1lTETETE170F2FasatTjTjTja8acaca9RsQ5Q4Q5Q4Q5Q4Q5SMSNTETjTk000T0Ufcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 40 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0X0F0F0F2LAg0X0F0F16TTTjTja8a9b1R61k0F0F0F1lQoSMSNTETjTjTk100j0k0l0l0Dfcfcfcfcfcfcfcfcfc
+BOARD 0 41 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcAgAgAgfcfcfcAgAg2K0F0F16TjTkRaR80UAgAgAg0X0F16TkTjTkTjTjTj0o000Q0R0T0l0l0l0l0Ifcfcfcfc
+BOARD 0 42 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcAgAg2K16RaR81k0YfcfcfcfcAg2K2FTkTjbVTjTjS1000g0h0j0Q0Q0R0Q0Ufcfcfcfc
+BOARD 0 43 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc2K0F0F0Yfcfcfcfcfcfcfc0X2FasatbVTjTj000Q0R0T0g0g0h0g0Ufcfcfcfc
+BOARD 0 44 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcAgAgfcfcfcfcfcfcfcfcfc0Wa8a9blTjTj0osOsP0j0Q0Q0R0Q0Ufcfcfcfc
+BOARD 0 45 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0X2Fb1TjTjTjTkTkTj0osOsOsPsO0Ufcfcfcfc
+BOARD 0 46 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0WatbVTkTjblTTRaQoQpQoQpQo0k0Dfcfcfc
+BOARD 0 47 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0X0F0F16TjTjbVRqQ4Q5Q4Q5Q4000T0Ifcfc
+BOARD 0 48 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcAgfc2K2FTkRaR8QoQpQoQpQo000j0Ufcfc
+BOARD 0 49 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0C0mTjRqQ5Q4Q5Q4Q5Q4000T0UfcAg
+BOARD 0 50 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0H0l0S02RaR8QpQoQpQoQpQo1U0j0k0IAg
+BOARD 0 51 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W0R0i02R8Q4Q5Q4Q5Q4Q5Q4Q51D000UAg
+BOARD 0 52 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0H0m0h0S02QpQoQpQoQpQoQpQoQpQo000UAg
+BOARD 0 53 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W020R0i1CQ5Q4Q50g0hQ4Q5Q4Q5Q4000UAg
+BOARD 0 54 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W02sP1CQoQpQoQp0Q0RQoQpQoQp1k0F0YAg
+BOARD 0 55 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W02Q4Q5Q4Q5Q4Q5Q4Q5Q4Q5Q4Q50UAgfcfc
+BOARD 0 56 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0W1CQoQpQo1k0F0F0F0F1lQp1k0F0Yfcfcfc
+BOARD 0 57 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0X1lQ41k0F0YAgAgAgAg0X1l0UfcAgfcfcfc
+BOARD 0 58 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc0X0F0YAgfcfcfcfcAgfc0X0Yfcfcfcfcfc
+BOARD 0 59 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcAgfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 60 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 61 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 62 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+BOARD 0 63 64 0 fcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfc
+LINK caves_osengrad-3.nw 43 11 2 1 36.5 56
+LINK caves_osengrad-7.nw 19 37 1 2 57.5 28
+NPC val_caverndoorlightdown.gif 41 9
+// NPC made by Sam OOC
+if (created) {
+  setimg val_caverndoorlightdown.gif;
+  dontblock;
+
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,.6,.4,0.35;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_caverndoorlightleft.gif 20 35
+// NPC made by Sam OOC
+if (created) {
+  setimg val_caverndoorlightleft.gif;
+  dontblock;
+
+}
+//#CLIENTSIDE
+if (playerenters) {
+  setcoloreffect 1,.6,.4,0.35;
+  drawaslight;
+  setzoomeffect 1;
+}
+NPCEND
+NPC val_stalagmitebrown.gif 48 53
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_stalagmitebrown2.gif 59 51
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_stalagmitebrown2.gif 47 54
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_stalagmitebrown2.gif 23 31
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_floorcandle1.gif 50 54
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,fire.gif,x+.1,y-1.5;
+  showimg 1,light2.png,x-3,y-3.7;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,.6,.3,0,.4;
+  changeimgcolors 1,.6,.3,0,.4;
+changeimgzoom 1,random(.4,.3);
+  changeimgzoom 0,.3;
+changeimgvis 1,3;
+  timeout=.1;
+
+}
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_floorcandle1.gif 44 29
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,fire.gif,x+.1,y-1.5;
+  showimg 1,light2.png,x-3,y-3.7;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,.6,.3,0,.4;
+  changeimgcolors 1,.6,.3,0,.4;
+changeimgzoom 1,random(.4,.3);
+  changeimgzoom 0,.3;
+changeimgvis 1,3;
+  timeout=.1;
+
+}
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_floorcandle1.gif 22 33
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,fire.gif,x+.1,y-1.5;
+  showimg 1,light2.png,x-3,y-3.7;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,.6,.3,0,.4;
+  changeimgcolors 1,.6,.3,0,.4;
+changeimgzoom 1,random(.4,.3);
+  changeimgzoom 0,.3;
+changeimgvis 1,3;
+  timeout=.1;
+
+}
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_floorcandle3.gif 38 21
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,fire.gif,x+.1,y-1.5;
+  showimg 1,light2.png,x-3,y-3.7;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,.6,.3,0,.4;
+  changeimgcolors 1,.6,.3,0,.4;
+changeimgzoom 1,random(.4,.3);
+  changeimgzoom 0,.3;
+changeimgvis 1,3;
+  timeout=.1;
+
+}
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_rockcandle1.gif 33 31
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,fire.gif,x+.1,y-1.5;
+  showimg 1,light2.png,x-3,y-3.7;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,.6,.3,0,.4;
+  changeimgcolors 1,.6,.3,0,.4;
+changeimgzoom 1,random(.4,.3);
+  changeimgzoom 0,.3;
+changeimgvis 1,3;
+  timeout=.1;
+
+}
+
+drawunderplayer;
+NPCEND
+NPC val_floorcandle2.gif 49 55
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,fire.gif,x+.1,y-1.5;
+  showimg 1,light2.png,x-3,y-3.7;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,.6,.3,0,.4;
+  changeimgcolors 1,.6,.3,0,.4;
+changeimgzoom 1,random(.4,.3);
+  changeimgzoom 0,.3;
+changeimgvis 1,3;
+  timeout=.1;
+
+}
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_rockcandle1.gif 47 38
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,fire.gif,x+.1,y-1.5;
+  showimg 1,light2.png,x-3,y-3.7;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,.6,.3,0,.4;
+  changeimgcolors 1,.6,.3,0,.4;
+changeimgzoom 1,random(.4,.3);
+  changeimgzoom 0,.3;
+changeimgvis 1,3;
+  timeout=.1;
+
+}
+
+drawunderplayer;
+NPCEND
+NPC val_floorcandle2.gif 26 34
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,fire.gif,x+.1,y-1.5;
+  showimg 1,light2.png,x-3,y-3.7;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,.6,.3,0,.4;
+  changeimgcolors 1,.6,.3,0,.4;
+changeimgzoom 1,random(.4,.3);
+  changeimgzoom 0,.3;
+changeimgvis 1,3;
+  timeout=.1;
+
+}
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-stonepillarbottom.gif 54 53
+//#CLIENTSIDE
+dontblock;drawunderplayer;
+NPCEND
+NPC val_floorcandle2.gif 52 53
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,fire.gif,x+.1,y-1.5;
+  showimg 1,light2.png,x-3,y-3.7;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,.6,.3,0,.4;
+  changeimgcolors 1,.6,.3,0,.4;
+changeimgzoom 1,random(.4,.3);
+  changeimgzoom 0,.3;
+changeimgvis 1,3;
+  timeout=.1;
+
+}
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_floorcandle2.gif 56 53
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,fire.gif,x+.1,y-1.5;
+  showimg 1,light2.png,x-3,y-3.7;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,.6,.3,0,.4;
+  changeimgcolors 1,.6,.3,0,.4;
+changeimgzoom 1,random(.4,.3);
+  changeimgzoom 0,.3;
+changeimgvis 1,3;
+  timeout=.1;
+
+}
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val-itemslot-stefanbook.png 54 53
+dontblock;
+NPCEND
+NPC val-web-topleft1.gif 21 30
+//#CLIENTSIDE
+
+dontblock;
+NPCEND
+NPC val-web-bottomright.gif 59 55
+//#CLIENTSIDE
+
+dontblock;
+NPCEND
+NPC val_rp-bookshelfinwall.gif 55 40
+//#CLIENTSIDE
+if (created) {
+dontblock;drawunderplayer;
+x=x+.8;y=y+.5;}
+NPCEND
+NPC val_floorcandle3.gif 52 44
+//#CLIENTSIDE
+if(created || playerenters){
+  showimg 0,fire.gif,x+.1,y-1.5;
+  showimg 1,light2.png,x-3,y-3.7;
+}
+if(lighteffectsenabled){
+  changeimgcolors 0,.6,.3,0,.4;
+  changeimgcolors 1,.6,.3,0,.4;
+changeimgzoom 1,random(.4,.3);
+  changeimgzoom 0,.3;
+changeimgvis 1,3;
+  timeout=.1;
+
+}
+
+dontblock;
+drawunderplayer;
+NPCEND
+NPC val_stalagmitebrown.gif 54 44
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 56 43
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 3,3,{
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  };
+}
+	function onCreated()
+	{
+	  this.nick = "The Illusion of Sanctity";
+	}
+	function onPlayertouchsme()
+	{
+	Sign.Display(this.nick,
+
+          " \"There, in the dark, we remember our oldest fear. We remember that which haunted our earliest thoughts, when all we could do was scream. In knowing it, we return forever to that state. Make yourself to be seen, and they will show you that the boundaries of this world are weak, waiting to be exploited.\" "
+	  );
+	}
+NPCEND
+NPC - 54 53
+//#CLIENTSIDE
+if (created||playerenters) {
+  setshape2 3,3,{
+  22,22,22,
+  22,22,22,
+  22,22,22,
+  };
+}
+	function onCreated()
+	{
+	  this.nick = "The Damning Rites";
+	}
+	function onPlayertouchsme()
+	{
+	Sign.Display(this.nick,
+
+          " \"We are never alone. The ones who watch from beyond lurk behind the walls, in the thickness of our delusions. They seek appeasement. If you don't allow yourself to see, they will make you blind. Call them, bow beneath their mantles, and give praise. Speak loudly where they might hear you, 'Arga Anoth', to the Eyes in the Deep.\" "
+	  );
+	}
+NPCEND
+NPC val_stalagmitebrown2.gif 58 50
+// NPC made by Zazenon the Worldshaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 56 40
+this.setupInfo = { "lore", 0, "The Illusion of Sanctity", "A series of shelves has been carved directly into the stone wall. It houses several books, but one in particular catches your eye. It is labeled 'The Illusion of Sanctity'." };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+
+this.setupInfo = { "lore", 0, "The Illusion of Sanctity", "A series of shelves has been carved directly into the stone wall. It houses several books, but one in particular catches your eye. It is labeled 'The Illusion of Sanctity'." };
+ function onCreated()
+{x=x+.5;}
+NPCEND
+NPC - 54 51
+this.setupInfo = { "lore", 0, "The Damning Rites", "A book has been left here, propped open on a small altar. It is labeled 'The Damning Rites'." };
+join("rp_skillicon");
+
+//#CLIENTSIDE
+
+this.setupInfo = { "lore", 0, "The Damning Rites", "A book has been left here, propped open on a small altar. It is labeled 'The Damning Rites'." };
+ function onCreated()
+{x=x+.5;}
+NPCEND

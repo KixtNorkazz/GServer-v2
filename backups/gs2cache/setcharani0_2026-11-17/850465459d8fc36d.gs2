@@ -1,0 +1,24 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.ap = 100;
+  this.shield = "no-shield.gif";
+  this.attr[1] = "hat.gif";
+  this.head = "val-legionhelm2.gif";
+  this.body = "zarhyn_the_1337-alliancebody105.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  this.nick = "Sir John St. Clair, Northpoint Commissioner of (The Legion of Steel)";
+  setcharani("0", NULL);
+  setcharani("dead4", NULL);
+  this.dir = 2;
+}
+
+function onPlayerTouchsMe() {
+  message("Greetings, fellow. Welcome to the Legion's Northpoint Station.");
+  sleep(5);
+  message();
+}

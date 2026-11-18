@@ -1,0 +1,40 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  this.canmove = 0;
+  this.gate1 = 0;
+}
+
+function onMovementFinished() {
+  gs1_always();
+  this.canmove = 0;
+}
+
+function onPlayerChats() {
+  gs1_always();
+  if ((("#g" == "Hammerforge"))) {
+    if (this.canmove==0) {
+      if ((player.chat == "close gate")&&this.gate1==0) {
+        this.gate1 = 1;
+        this.movtime = 7;
+        this.dx = (this.x+4)-this.x;
+        move();
+      }
+      if ((player.chat == "open gate")&&this.gate1==1) {
+        this.gate1 = 0;
+        this.movetime = 1;
+        this.dx = (this.x-4)-this.x;
+        move();
+      }
+    }
+  }
+}
+
+function gs1_always() {
+  setimgpart("lerhyn-gates.gif", 0, 0, 80, 48);
+}
+
+function move() {
+  this.canmove = 1;
+  move(this.dx, 0, this.movtime, 8);
+}

@@ -1,0 +1,17 @@
+//#CLIENTSIDE
+function onCreated() {
+  setimgpart("val-motoxbowa.gif", 0, 0, 64, 64);
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "Bridgeton")) {
+    say2("It's the Darden Bolt-Action.#b
+Looks like somebody forgot#b
+to put it in a crate.");
+  }
+  if (!("#g" == "Bridgeton")) {
+    say2("Strange.  The design is#b
+incredibly intricate.  It confuses#b
+you just looking at it!");
+  }
+}

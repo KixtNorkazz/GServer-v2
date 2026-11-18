@@ -1,0 +1,23 @@
+//#CLIENTSIDE
+function onCreated() {
+  setshape(this.longfellow-this.bookshelf3.gif, 200, 200);
+}
+
+function onPlayerChats() {
+  if (("#g" == "Imperial Dalmar")) {
+    if (this.playerchats && (player.chat == "Fire Off")) {
+      hide();
+      drawunderplayer();
+    }
+    sleep(4);
+    show();
+  }
+  if ((player.account == "ninjafox")) {
+    if (this.playerchats && (player.chat == "Fire Off")) {
+      hide();
+      drawunderplayer();
+    }
+    sleep(4);
+    show();
+  }
+}

@@ -1,0 +1,415 @@
+GLEVNW01
+BOARD 0 0 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 1 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 2 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 3 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 4 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 5 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 6 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 7 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 8 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 9 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 10 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 11 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 12 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 13 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 14 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 15 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 16 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 17 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3t3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u3u39fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 18 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+INIZIJIJIZJvINIZIJIJIZJvINIZIJIJIZJv3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 19 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+IdIpIbIbIpIdIcIpIbIbIpIaIdIpIbIbIpId3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 20 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+ItI5IrIrI5ItIsI5IrIrI5IqItI5IrIrI5It3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 21 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+I9I5IrIrI5I9I8I5IrIrI5I6I9I5IrIrI5I93vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 22 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+JNJJIrIrJJJNJMJJIrIrJJJKJNJJIrIrJJJN3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 23 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+JdJZJbJbJZJdJcJZEwExJZJaJdJZJbJpJZJq3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 24 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+6Y6X6Y6X6Y6X6Y6X6Y6X6Y6X6Y6X6YKJKKKK3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 25 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+6o6n6o6n6o6o6n6X6Y6X6Y6o6n6n6o6n6o6n3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 26 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+6Y6X6Y6X6YJpJqJqJqJqJqJqJr6X6Y6X6Y6X3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 27 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3t/g6o6n6o6n6oKJKKKKKKKKKKKKKL6n6o6n6o6n3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 28 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+IZ6Y6X6Y6X6Y82838383848484856X6Y6X6Y6X3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 29 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+Id6o6n6o6n6o6X6Y6X6Y6X6Y6X6Y6X6Y6X6Y6n3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 30 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+It6Y6X6Y6X6Y6n6o6n6o6n6o6n6o6X6Y6X6Y6X3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 31 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+I96o6n6naFaGaGaGaGaGaGaGaGaGaGaH6n6o6n3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 32 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3s/wQB6X6XaVaWaWaWaWaWaWaWaWaWaWaX6XJpJq3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 33 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+Qg6n6naVaWaWaWaWaWaWaWaWaWaWaX6XJ5J63vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 34 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+Qg6X6XaVaWaWaWaWaWaWaWaWaWaWaX6nKJKK3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 35 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+QR6n6naVaWaWaWaWaWaWaWaWaWaWaX6X6o6n3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 36 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+6Y6X6Xalamamamamamamamamamaman6X6Y6X3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 37 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+6o6n6o6n6o6n6o6n6o6n6n6n6o6n6o6n6o6n3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 38 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3+6YQAQhQhQB6X6Y6X6Y6X6Y6X6Y6X6Y6X6Y6X3vfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 39 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd3s3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/38fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 40 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 41 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 42 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 43 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 44 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 45 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 46 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 47 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 48 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 49 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 50 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 51 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 52 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 53 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 54 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 55 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 56 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 57 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 58 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 59 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 60 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 61 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 62 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+BOARD 0 63 64 0 fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+LINK dardier_int_okibi8.nw 22 32 1 4 41 34
+LINK dardier_int_okibi7.nw 24 39 4 1 45.5 24
+NPC val_estate_window_tall1_white.png 25 19
+NPCEND
+NPC val_estate_window_tall1_white.png 31 19
+drawunderplayer;
+NPCEND
+NPC val_estate_window_tall1_white.png 37 19
+NPCEND
+NPC ignislamp1lor.gif 28 25
+// Created by giok87
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+
+dontblock;
+NPCEND
+NPC - 34 24
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2.5,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,1,0,.25;
+  changeimgzoom .8,random(.7,1.9);
+}
+
+timeout=.1;
+NPCEND
+NPC - 27 24
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2.5,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,1,0,.25;
+  changeimgzoom .8,random(.7,1.9);
+}
+
+timeout=.1;
+NPCEND
+NPC val-runicwall2.gif 28 29
+// Created by giok87
+drawunderplayer;
+dontblock;
+NPCEND
+NPC val-runicwall2.gif 31 29
+// Created by giok87
+drawunderplayer;
+dontblock;
+setimgpart val-runicwall2.gif,16,0,80,32;
+NPCEND
+NPC val-runicwall1.gif 36 26
+// Created by giok87
+drawunderplayer;
+dontblock;
+setimgpart val-runicwall1.gif,0,0,16,64;
+NPCEND
+NPC val-runicwall1.gif 27 28
+// Created by giok87
+drawunderplayer;
+dontblock;
+setimgpart val-runicwall1.gif,0,64,16,64;
+NPCEND
+NPC val-runicwall1.gif 27 26
+// Created by giok87
+drawunderplayer;
+dontblock;
+setimgpart val-runicwall1.gif,0,0,16,64;
+NPCEND
+NPC val-runicwall1.gif 36 28
+// Created by giok87
+drawunderplayer;
+dontblock;
+setimgpart val-runicwall1.gif,0,64,16,64;
+NPCEND
+NPC ignislamp1lor.gif 35 25
+// Created by giok87
+//#CLIENTSIDE
+if (created) {
+}
+if (playertouchsme) {
+}
+
+dontblock;
+NPCEND
+NPC - 35 27
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,0,.25,.4,.25;
+  changeimgzoom 1,random(1.2,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 32 27
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,0,.25,.4,.25;
+  changeimgzoom 1,random(1.2,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 29 27
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,0,.25,.4,.25;
+  changeimgzoom 1,random(1.2,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 26 27
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,0,.25,.4,.25;
+  changeimgzoom 1,random(1.2,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 26 25
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,0,.25,.4,.25;
+  changeimgzoom 1,random(1.2,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 35 25
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light3.png,x-2,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,0,.25,.4,.25;
+  changeimgzoom 1,random(1.2,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC - 35 19
+// NPC made by Minomato
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_doorlighttop.png, 0,32,96,64;
+  dontblock;
+  setcoloreffect 1,.6,.4,0.65;
+  drawaslight;
+  setzoomeffect 1;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+NPCEND
+NPC - 23 19
+// NPC made by Minomato
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_doorlighttop.png, 0,32,96,64;
+  dontblock;
+  setcoloreffect 1,.6,.4,0.65;
+  drawaslight;
+  setzoomeffect 1;
+}
+if(playerchats){
+  if(strequals(#c,Day)){
+    show;
+  }else if(strequals(#c,Night)){
+    hide;
+  }
+}
+NPCEND
+NPC val_rp-bookshelflonginwallfix2.gif 29 18
+// Created by giok87
+drawover;
+dontblock;
+NPCEND
+NPC val_rp-bookshelflonginwallfix2.gif 29 21
+// Created by giok87
+drawunderplayer;
+dontblock;
+NPCEND
+NPC racilarmchairtest3.png 30 21
+//#CLIENTSIDE
+function onCreated() {
+  drawunderplayer();
+  setshape2 4,5,{
+    0,0,0,0,
+    0,22,22,0,
+    22,3,3,22,
+    0,3,3,0,
+    0,3,3,0,
+   };
+}
+NPCEND
+NPC val-caedrilbook.gif 31 26
+// Created by giok87
+drawover;
+dontblock;
+NPCEND
+NPC val_crystalidol.gif 29 25
+// Created by giok87
+//#CLIENTSIDE
+drawover;
+dontblock;
+
+settimer(1);
+function onTimeout()
+{
+y=y-.10;
+sleep(.5);
+y=y-.10;
+sleep(.5);
+y=y+.10;
+sleep(.5);
+y=y+.10;
+settimer(0.5);
+
+}
+NPCEND
+NPC racilchairuptest3.png 29 29
+// Created by giok87
+//#CLIENTSIDE
+function onCreated() {
+  drawunderplayer();
+  setshape2 2,2,{
+    3,3,
+    3,3,
+   };
+}
+NPCEND
+NPC racilchairuptest3.png 33 29
+// Created by giok87
+//#CLIENTSIDE
+function onCreated() {
+  drawunderplayer();
+  setshape2 2,2,{
+    3,3,
+    3,3,
+   };
+}
+NPCEND
+NPC racilchairup2test3.png 29 29
+// Created by giok87
+dontblock;
+drawover;
+NPCEND
+NPC racilchairup2test3.png 33 29
+// Created by giok87
+dontblock;
+drawover;
+NPCEND
+NPC val_planarmap.gif 38 22
+// Created by giok87
+drawover;
+dontblock;
+NPCEND
+NPC val_estate_consoletable_01.png 23 23
+// Created by giok87
+drawunderplayer;
+
+
+NPCEND
+NPC val_flower6.png 23 22
+// Created by giok87
+
+
+
+NPCEND
+NPC val_femalebust.gif 39 31
+// Created by giok87
+
+
+
+NPCEND
+NPC racilcommodetest.png 39 35
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_estate_tablebottom_01.png",0,0,32,16);
+dontblock();
+drawunderplayer();
+}
+
+NPCEND
+NPC racilcommodetest.png 38 25
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_estate_tablebottom_01.png",0,0,32,16);
+dontblock();
+drawunderplayer();
+}
+
+NPCEND
+NPC racilcommodetest.png 40 25
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_estate_tablebottom_01.png",30,0,32,16);
+dontblock();
+drawunderplayer();
+}
+
+NPCEND

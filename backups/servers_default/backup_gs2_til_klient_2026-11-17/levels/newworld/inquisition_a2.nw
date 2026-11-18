@@ -1,0 +1,415 @@
+GLEVNW01
+BOARD 0 0 64 0 p8/Cxwxzxxxyxzxw/Buhuiujuguhuimsmtuhuiujuguhuiujuguhuiujuguhuiujuguhuiujuguhuiujuguhuiujuguhuiujuguhuiujuguhuiujuguhuiujuguhuiuj
+BOARD 0 1 64 0 p8/CyAxzyByCyDyA/Buxuyuzuwuxuym8m9uxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwmsmtuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuz
+BOARD 0 2 64 0 p8/CxwyDxxxyxzxw/BvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAm8m9vDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvD
+BOARD 0 3 64 0 p8/CyAxzyByCyDyA/Bp6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6
+BOARD 0 4 64 0 p8/CxwyDxxxyxzxw/BwKwKwKwKwKwKwKwKwKwKwKwFwGwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwFwGwKwKwKwKwKwKwKwKwKwK
+BOARD 0 5 64 0 p8/CyAxzyByCyDyA/BwJwJwJwJwJwJwJwJwJwJwJwVwWwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwVwWwJwJwJwJwJwJwJwJwJwJ
+BOARD 0 6 64 0 p8/CxwyDxxxyxzxw/Bxxxyxzxwxxxyxyxzxwxxxyxzxxxyxzxwxxxyxyxyxzxxxyxzxwxxxyxyxzxwxxxyxzxyxzxwxxxyxyxzxwxxxyxyxzxwxxxyxzxxxyxzxwxxxy
+BOARD 0 7 64 0 p8/CyAxzyByCyDyA/ByByCyDyAyByCyCyDyAyByCyDyByCyDyAyByCyCyCyDyByCyDyAyByCyCyDyAyByCyDyCyDyAyByCyCyDyAyByCyCyDyAyByCyDyByCyDyAyByC
+BOARD 0 8 64 0 p8/CxwyDxxxyxzxw/BxxxyxzxwxxxyxyxzxwxxxyyBxxxyxzxwxxxyxyxyyBxxxyxzxwxxxyxyxzxwxxxyyBxyxzxwxxxyxyxzxwxxxyxyxzxwxxxyyBxxxyxzxwxxxy
+BOARD 0 9 64 0 p8/CxwyDxxxyxzxw/ByByCyDyAyByCyCyDyAyByCyDyByCyDyAyByCyCyCyDyByCyDyAyByCyCyDyAyByCyDyCyDyAyByCyCyDyAyByCyCyDyAyByCyDyByCyDyAyByC
+BOARD 0 10 64 0 p8/CyAxxyByCyDyA/BwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwFwGwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwK
+BOARD 0 11 64 0 p8/CxwyBxxxyxzxw/BwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwVwWwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJ
+BOARD 0 12 64 0 p8/CyAxzyByCyDyA/Bp7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7
+BOARD 0 13 64 0 p8/Cxwxzxxxyxzxw/Buxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuz
+BOARD 0 14 64 0 p8/CyAyDyByCyDyA/BvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvD
+BOARD 0 15 64 0 p8/Cxwxzxxxyxzxw/BvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvTvQ3l3l3k3I3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3k3E3EvTvQvQvRvSvT
+BOARD 0 16 64 0 p8/CyAyDyByCyDyA/BuhuiujuguhuimumvuhuiujuguhuiujuguhuiujuguhuiujvTvQ3l3l3l3k3W3S3S3S3S3S3S3S3S3S3S3S3S3S3S3S3F3k3E3E3EvTvQuhuiuj
+BOARD 0 17 64 0 p8/Cxwxzxxxyxzxw/Buxuyuzuwuxuym+m/uxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwmK3l3l3l3k3m3G3S3S3S3S3S3S3S3S3S3S3S3S3S3S3V3k3E3E3EuCuwuxuyuz
+BOARD 0 18 64 0 p8/CyAyDyByCyDyA/BvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAmK3l3l3l3k3m3W3S3S3S3S3S3S3S3S3S3S3S3S3S3F3D3k3E3E3EuCvAvBvCvD
+BOARD 0 19 64 0 p8/Cxwxzxxxyxzxw/BvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQmumvvTvQvRvSvTvQmK2F2G3l3k3m3m3G3S3S3S3S3S3S3S3S3S3S3S3S3V3D3k3E3E3EuCvQvRvSvT
+BOARD 0 20 64 0 p8/CxwyDxxxyxzxw/Buhuiujuguhuiujuguhuiujuguhuiujugm+m/ujuguhuiujugmK2V2W3l3k3I3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3H3k3E3E3EuCuguhuiuj
+BOARD 0 21 64 0 p8/CyAyDyByCyDyA/BuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwmK2l2m3l3k3W3S3S3S3S3S3S3S3S3S3S3S3S3S3S3S3V3k3E3E3EuCuwmsmtuz
+BOARD 0 22 64 0 p8/CyAxxyByCyDyA/BvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBmsmtvAmK213l3l3k3m3G3S3S3S3S3S3S3S3S3S3S3S3S3S3F3D3k3E3m3EuCvAm8m9vD
+BOARD 0 23 64 0 p8/CxwyBxxxyxzxw/BvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRm8m9vQmK3l3l3l3k3m3W3S3S3S3S3S3S3S3S3S3S3S3S3S3V3D3k3E3E3EuCvQvRvSvT
+BOARD 0 24 64 0 p8/CyAxzyByCyDyA/BuhuiujuguhuiujuguhuiujuguhuiujuguhuiujuguhuiujugmK3l3l3l3k3m3m3G3S3S3S3S3S3S3S3S3S3S3S3F3D3D3k3E3E3EuCuguhuiuj
+BOARD 0 25 64 0 p8/Cxwxzxxxyxzxw/BuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwmK3l3l3lls3m3m3W3S3S3S3S3S3S3S3S3S3S3S3V3D3Dls3E3E3EuCuwuxuyuz
+BOARD 0 26 64 0 p8/CyAyDyByCyDyA/BvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAmK3l3lltlulv3m3m3G3S3S3S3S3S3S3S3S3S3F3D3Dltlulv3m3EuCvAvBvCvD
+BOARD 0 27 64 0 p8/Cxwxzxxxyxzxw/BvRvSvTmsmtvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQmK3ll8l9l+l/tw3m3W3i3i3i3i3i3i3i3i3i3V3Dl8l9l+l/tw3EuCvQvRvSvT
+BOARD 0 28 64 0 p8/CyAyDyByCyDyA/Buhuiujm8m9uiujuguhuiujuguhuiujuguhuiujuguhuiujugmKmLmMmNmOmPuAuBuCjhjijjjkhBjljmjnjomKmLmMmNmOmPuAuBuCuguhuiuj
+BOARD 0 29 64 0 p8/Cxwxzxxxyxzxw/BuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwmambmcmdmemfuQuRuSjxjyjzj0hRj1j2j3j4mambmcmdmemfuQuRuSuwuxuyuz
+BOARD 0 30 64 0 p8/CxwyDxxxyxzxw/BvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAhAiQiRiShBiTiUiVhCkBkCkDkEhhkFkGkHkIhAiQiRiShBiTiUiVhCvAvBvCvD
+BOARD 0 31 64 0 p8/CyAxzyByCyDyA/BvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQhQigihwRwRwRikilhSkRkSkTkUhxkVkWkXkYhQigihiihRijikilhSvQvRvSvT
+BOARD 0 32 64 0 p8/CxwyDxxxyxzxw/BuhuiujuguhuiujuguhuimumvuhuiujuguhuiujuguhuiujughgiwixwRwRwRi0i1hijRjQjRjSjRjSjSjRjRhgiwixiyhhizi0i1hiuguhuiuj
+BOARD 0 33 64 0 p8/CyAyDyByCyDyA/Buxuyuzuwuxuyuzuwuxuym+m/uxuyuzuwuxuyuzuwuxuyuzuwhwjAjBwRwRwRjEjFhykhkikjkkhxlwlxlylzhwjAjBjChxjDjEjFhyuwuxuyuz
+BOARD 0 34 64 0 p8/Cxwxxxxxyxzxw/BvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAiAjQjQjSiDjRjQjSiCkxkykzk0hTmAmBmCmDiAjQjRjSiBjQjRjSiCvAvBvCvD
+BOARD 0 35 64 0 p8/CyAyByByCyDyA/BvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvThDlFlGlHlIlJhDlAlBlClDlEhjmQmRmSmTmUhDlFlGlHlIlJhDvQvQvRvSvT
+BOARD 0 36 64 0 p8/Cxwxzxxxyxzxw3//S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/S/ivDvA
+BOARD 0 37 64 0 p8/CyAxzyByCyDyAxsxsxswvxsxsxsxsxsxsxswvxsxsxsxsxsxsxswvxsxsxsxsxsxswvxsxsxsxsxsxsxswvxsxsxsxsxsxsxsxsxsxsxswvxsxsxsxsxsw/iDvTvQ
+BOARD 0 38 64 0 p8/CyAyDyByCyDyAyByCyDyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyAyByCyD
+BOARD 0 39 64 0 p8/Cxyxzxzxwxxxyxzxwxxxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxyxzxwxx
+BOARD 0 40 64 0 p8/CyCyDyDyAyByCyDyAyByByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyB
+BOARD 0 41 64 0 p8/x/Rxyxyxz/R/Rxyxz/R/Rxyxz/R/Rxyxz/R/Rxyxz/R/Rxyxz/R/Rxyxz/R/Rxyxz/R/Rxyxz/R/Rxyxz/R/Rxyxz/R/Rxyxz/R/Rxyxz/R/Rxyxz/R/Rxyxz/R/R
+BOARD 0 42 64 0 p8x7x9yCyCyDx7x9yCyDx7x9yCyDx7x9yCyDx7x9yCyDx7x9yCyDx7x9yCyDx7x9yCyDx7x9yCyDx7x9yCyDx7x9yCyDx7x9yCyDx7x9yCyDx7x9yCyDx7x9yCyDx7x9
+BOARD 0 43 64 0 p8x7x9/R/R/Rx7x9/R/Rx7x9/R/Rx7x9/R/Rx7x9/R/Rx7x9/R/Rx7x9/R/Rx7x9/R/Rx7x9/R/Rx7x9/R/Rx7x9/R/Rx7x9/R/Rx7x9/R/Rx7x9/R/Rx7x9/R/Rx7x9
+BOARD 0 44 64 0 p85gx8x8x8x/xv5w5g5w5gx8x8x/xv5w5g5w5gx8x8x/xv5w5g5w5gx8x8x/xv5w5g5w5gx8x8x/xv5w5g5w5gx8x8x/xv5w5g5w5gx8x8x8x8x85w5gx8x/xsxsxsxs
+BOARD 0 45 64 0 p8x8x85w5w+X+a5gx8x8x8x85w+X+a5gx8x8x8x85w+X+a5gx8x8x8x85w+X+a5gx8x8x8x85w+X+a5gx8x8x8x85w+X+a5gx8x8x8x8x/+X+a5gx8x8xux/xs+X+axs
+BOARD 0 46 64 0 p8x8x8x8x8+n+qx8x8x8x8x8x8+n+qx8x8x8x8x8x8+n+qx8x8x8x8x8x8+n+qx8x8x8x8x8x8+n+qx8x8x8x8x8x8+n+qx8x8x8x8x8x8+n+qx8x8x8xuxux8+n+qx8
+BOARD 0 47 64 0 p8x85gx8x8+3+6x8x8x8x85gx8+3+6x8x8x8x85gx8+3+6x8x8x8x85gx8+3+6x8x8x8x85gx8+3+6x8x8x8x85gx8+3+6x8x8x8x8x8x8+3+6x8x8x8x8x8xv+3+6x8
+BOARD 0 48 64 0 p8x8x8x8x8xuxux8x8x8x8x8x8xuxux8x8x8x8x8x8xuxux8x8x8x8x8x8xuxux8x8x8x8x8x8xuxux8x8x8x8x8x8xuxux8x8x8x8x8x8xux8x8x8x8x/5g5w5gx/5g
+BOARD 0 49 64 0 p8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x/xvx8x8x8x8x8x8x8xu
+BOARD 0 50 64 0 p8x8x8x8x8x8x/xv5w5gx8x8x8x8x/xv5w5gx8x8x8x8x/xv5w5gx8x8x8x8x/xv5w5gx8x8x8x8x/xv5w5gx8x8x8x8x/xv5w5gx8x8x8x8xuxux8x8x8x85w5gx8x8
+BOARD 0 51 64 0 p8x8x/xvxv5w5gxux8x8x8x/xv5w5gxux8x8x8x/xv5w5gxux8x8x8x/xv5w5gxux8x8x8x/xv5w5gxux8x8x8x/xv5w5gxux8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8
+BOARD 0 52 64 0 p8x85gxuxux8x/5gx8x8x85gxux8x/5gx8x8x85gxux8x/5gx8x8x85gxux8x/5gx8x8x85gxux8x/5gx8x8x85gxux8x/5gx8x8x8x8x8x8x8x85w5gx8x8x8x8x8x8
+BOARD 0 53 64 0 p8x8x/5g5gx8x8xux8x8x8x/5gx8x8xux8x8x8x/5gx8x8xux8x8x8x/5gx8x8xux8x8x8x/5gx8x8xux8x8x8x/5gx8x8xux8x8x8x8x8x8x8x8x8x8x8x8x8x8x/xv
+BOARD 0 54 64 0 p8x8x8xuxux8x8x8x8x8x8x8xux8x8x8x8x8x8x8xux8x8x8x8x8x8x8xux8x8x8x8x8x8x8xux8x8x8x8x8x8x8xux8x8x8x8x8x8x8x8x8x8x8x8x/xvx8x8x85w5g
+BOARD 0 55 64 0 p8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8x8xuxuxux8x8x8x8
+BOARD 0 56 64 0 p8/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R/R
+BOARD 0 57 64 0 p8wJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJ
+BOARD 0 58 64 0 qcp7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7
+BOARD 0 59 64 0 vQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvT
+BOARD 0 60 64 0 uguhuiujuguhuiujuguhuiujuguhuiujuguhuiujuguhuiujuguhuiujuguhuiujuguhuiujuguhuiujuguhuiuxuguhuiujuguhuiujuguhuiujuguhuiujuguhuiuj
+BOARD 0 61 64 0 uwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuz
+BOARD 0 62 64 0 vAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvDvAvBvCvD
+BOARD 0 63 64 0 vQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvTvQvRvSvT
+LINK inquisition_b2.nw 63 0 1 64 0 playery
+LINK inquisition_a1.nw 0 0 64 1 playerx 61
+NPC seg_balcony2.gif 34 31
+// NPC made by Drakken_2001
+if (created) {
+drawoverplayer;dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony1.gif 34 31
+// NPC made by Drakken_2001
+if (created) {
+drawunderplayer;dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_housetop2.png 35 12
+//#CLIENTSIDE
+function onCreated(){
+  dontblock();
+  drawoverplayer();
+}
+NPCEND
+NPC seg_housetop2.png 53 12
+//#CLIENTSIDE
+function onCreated(){
+  dontblock();
+  drawoverplayer();
+}
+NPCEND
+NPC seg_housetop.png 59 16
+//#CLIENTSIDE
+function onCreated(){
+  setimgpart("seg_housetop.png", 16, 0, 16, 16);
+  dontblock();
+  drawoverplayer();
+}
+NPCEND
+NPC seg_housetop.png 58 15
+//#CLIENTSIDE
+function onCreated(){
+  setimgpart("seg_housetop.png", 16, 0, 16, 16);
+  dontblock();
+  drawoverplayer();
+}
+NPCEND
+NPC seg_housetop.png 33 16
+//#CLIENTSIDE
+function onCreated(){
+  setimgpart("seg_housetop.png", 0, 0, 16, 16);
+  dontblock();
+  drawoverplayer();
+}
+NPCEND
+NPC seg_housetop.png 34 15
+//#CLIENTSIDE
+function onCreated(){
+  setimgpart("seg_housetop.png", 0, 0, 16, 16);
+  dontblock();
+  drawoverplayer();
+}
+NPCEND
+NPC seg_window.png 42 29
+
+NPCEND
+NPC seg_window.png 54 31
+//#CLIENTSIDE
+function onCreated(){
+  x-=.5;
+}
+NPCEND
+NPC seg_window.png 47 29
+
+NPCEND
+NPC val-pinetree-single.gif 10 9
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 17 11
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 13 9
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 27 14
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 28 10
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 22 11
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 10 15
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 15 16
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 21 18
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 20 16
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 9 20
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 9 28
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 14 28
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 13 24
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 16 20
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 26 21
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 21 23
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 27 28
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 21 27
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 17 24
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 24 29
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 28 23
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 61 14
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 62 10
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 62 18
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 60 27
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 60 22
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 58 55
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 61 57
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 44 55
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 8 55
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 11 58
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 14 55
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 2 54
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 1 55
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 20 57
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 16 55
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 17 57
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 27 57
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 25 55
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 24 56
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 51 55
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 54 55
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 54 56
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 49 57
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 36 55
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 32 56
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC val-pinetree-single.gif 40 58
+function onCreated() {
+  join("world_pinetree");
+}
+NPCEND
+NPC - 33 17
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .2;
+    emitter.particle.lifetime=4;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .3;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC valikorlia_ironstreetlamp.gif 36 4
+join("world_streetlamp");
+NPCEND

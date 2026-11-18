@@ -1,0 +1,30 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "head13.png";
+  this.body = "moto-bridgetonbody100.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  setcharani("valikorlia_motoxbow2-passive-idle", NULL);
+  this.dir = 3;
+  this.ap = 100;
+  this.nick = "Joshua Greenhill";
+}
+
+function onPlayerTouchsMe() {
+  if (("#g" == "Bridgeton")) {
+    say2("Nothing to report, as usual.");
+  }
+  if (!("#g" == "Bridgeton")) {
+    say2("Howdy stranger.  You can't#b
+get in unless you're an#b
+engineer.  I think you have#b
+to ask the Chief Engineer #b
+to actually become one though.");
+  }
+}

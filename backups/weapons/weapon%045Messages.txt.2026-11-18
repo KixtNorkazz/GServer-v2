@@ -1,0 +1,351 @@
+GRAWP001
+REALNAME -Messages
+IMAGE 0
+SCRIPT
+/* Screen Message System
+   Original by Loriel from Graal 2001,
+   modified and converted by Inverness and Napo.
+   Public Script
+   
+   There are 4 message display modes:
+   Normal, Alert, PM, Error
+   Prefix message text with #! for alert mode,
+   #. for PM mode, #x for Error mode.
+   'Normal Text'
+   '#!Alert Text'
+   '#.Message Text'
+   '#xError Text'
+*/
+public function onActionPlayerOnline() {
+    this.addmsg(serveroptions.loginmessagetime, serveroptions.loginmessagetext);
+    //this.addmsg(serveroptions.loginmessagetime+1, serveroptions.loginmessagetext2);
+    this.addmsg(serveroptions.loginmessagetime+3, serveroptions.loginmessagetext3);
+}
+public function addmsgto(account, msgtime, msgtext) {
+  with (findplayer(account)) {
+    this.addmsg(msgtime, msgtext);
+  }
+}
+public function addmsg(msgtime, msgtext) {
+  if (player != null)
+    System.clientFunction2(this.name, "addmsg", msgtime, msgtext);
+}
+public function clearmsgs() {
+  if (player != null)
+    System.clientFunction2(this.name, "clearmsgs");
+}
+public function addmsgall(msgtime, msgtext) {
+  temp.i = 0;
+  for (i: allplayers) {
+    with (i) {
+      this.addmsg(msgtime, msgtext);
+    }
+  }
+}
+public function addstaffmsg(msgtext, senderAccount) {
+  temp.i = 0;
+  for (i: allplayers) {
+    with (i) {
+      if (clientr.staff == 1)
+      {
+        i.sendrpgmessage("#." @ senderAccount @ "(Staff Only): " @ msgtext);
+        this.addmsg(60,"#." @ senderAccount @ "(Staff Only): " @ msgtext);
+      }
+    }
+  }
+}
+public function toallmsg(msgtext) {
+  temp.i = 0;
+  for (i: allplayers) {
+    with (i) {
+      if (!client.toallsoff)
+      {
+        this.addmsg(5,msgtext);
+      }
+    }
+  }
+}
+public function addmsglevel( msgtime, msgtext) {
+  for(temp.i: players) {
+    with(i) {
+      this.addmsg(msgtime, msgtext);
+    }
+  }
+}
+//#CLIENTSIDE
+function onCreated() {
+  this.config();
+  this.settimer(0.1);
+}
+function onPlayerChats() {
+  if (player.chat.starts("/t ")) {
+    temp.tokens = player.chat.tokenize();
+    System.serverFunction2(this.name, "addmsgto", tokens[1], 8, "#."@player.account @ ": " @ tokens[2]);
+  }
+}
+public function addmsg(msgtime, msgtext) {
+  player.msgtext.add(temp.msgtext);
+  player.msgtime.add(temp.msgtime);
+  //player.msgupdate = true;
+}
+public function clearmsgs() {
+
+  player.msgtext = null;
+  player.msgtime = null;
+  //player.msgupdate = true;
+}
+public function addmsgto(acc, msgtime, msgtext) {
+  System.serverfunction2(this.name, "addmsgto", acc, msgtime, msgtext);
+}
+public function addmsgall(msgtime, msgtext) {
+  System.serverfunction2(this.name, "addmsgall", msgtime, msgtext);
+}
+public function addmsglevel(msgtime, msgtext) {
+  System.serverfunction2(this.name, "addmsglevel", msgtime, msgtext);
+}
+
+/*function onPlayerLogin(obj) {
+  if (obj.isexternal) return;
+  addmsg(3, obj.account @ " has logged in.");
+}
+function onPlayerLogout(obj) {
+  if (obj.isexternal) return;
+  addmsg(3, obj.account @ " has logged out.");
+}*/
+
+function onTimeout() {
+  fixStrings();
+  updateTime();
+  updateText();
+  setTimer(this.timer);
+}
+function updateTime() {
+  temp.i = 0;
+  
+  for (i = 0; i < player.msgtext.size(); i ++) {
+    if (player.msgtime[i] > 0) {
+      player.msgtime[i] -= this.timer;
+    }
+    else if (player.msgtime[i] != -1 && player.msgtime.size() == player.msgtext.size()) {
+      player.msgtime.delete(i);
+      player.msgtext.delete(i);
+      player.msgupdate = true;
+    }
+  }
+}  
+function updateText() {
+  hideimgs(702,899);
+  temp.ms = player.msgtext.size();
+  if (player.msgtext.size() > 0) {
+    if (player.msgtext.size() >= this.overflow) {
+      player.msgtime = 5;
+      player.msgtext = "< Message Overflow >";
+      player.msgupdate = true;
+      return;
+    }
+    else {
+      player.msgupdate = false;
+    }
+    temp.i = 0;
+    temp.j = 0;
+    temp.mod = this.mod;
+    
+    this.visible = true;
+    // August 01, 2008, 4:43 AM
+    // changing the layer to be higher so that it is above all else
+    // its getting put under some effects I have set up
+    // - Mido
+    with (findimg(699)) {
+      layer = 8; // originally at 4
+      
+      if (client.toalldisabled)
+      {
+        polygon = {
+          thiso.offsetx, thiso.offset,
+          screenwidth - thiso.offsetx2, thiso.offset,
+          screenwidth - thiso.offsetx2, thiso.offset + 2 + (20 * ms),
+          thiso.offsetx, thiso.offset + 2 + (20 * ms),
+        };
+      }
+      else
+      {
+        polygon = {
+          thiso.offsetx, thiso.offset + client.toallsize,
+          screenwidth - thiso.offsetx2, thiso.offset + client.toallsize,
+          screenwidth - thiso.offsetx2, thiso.offset + 2 + (20 * ms) + client.toallsize,
+          thiso.offsetx, thiso.offset + 2 + (20 * ms) + client.toallsize,
+        };
+      }
+      dimension = 2;
+      red = 0;
+      green = 0;
+      blue = 0;
+      alpha = 0.5;
+    }
+    for (i = 0; i < ms; i ++) {
+      if (this.img != null) {
+        with (findimg(702 + i)) {
+          x = 2 + thiso.offsetx;
+          
+          if (client.toalldisabled)
+            y = thiso.offset + 2 + (20 * i);
+          else
+            y = thiso.offset + 2 + (20 * i) + client.toallsize;
+          
+          image = thiso.img;
+          layer = 9; // originally at 5
+        }
+      }
+      with (findimg(752 + i)) {
+        x = 20 + thiso.offsetx;
+        
+          if (client.toalldisabled)
+            y = thiso.offset + 2 + (20 * i);
+          else
+            y = thiso.offset + 2 + (20 * i) + client.toallsize;
+            
+        if (player.msgtext[i].starts("@#")) {
+          Console.msg("Testing console");
+          player.msgtext[i] = player.msgtext[i].substring(1);
+          ChatHistoryOld.addText(player.msgtext[i].substring(2));
+        }
+            
+        if (player.msgtext[i].starts("#!")) {
+          font = thiso.font1;
+          style = "b";
+          text = player.msgtext[i].substring(2);
+          red = 1;
+          green = 1;
+          blue = 0;
+          with (findimg(702 + i)) {
+            partx = 0;
+            party = 16;
+            partw = 16;
+            parth = 16;
+          }          
+        }
+        else if (player.msgtext[i].starts("#.")) {
+          font = thiso.font2;
+          style = "b";
+          text = player.msgtext[i].substring(2);
+          red = 1;
+          green = 1;
+          blue = 1;
+          with (findimg(702 + i)) {
+            partx = 0;
+            party = 32;
+            partw = 16;
+            parth = 16;
+          }
+        }
+        else if (player.msgtext[i].starts("#x")) {
+          font = thiso.font3;
+          style = "b";
+          text = player.msgtext[i].substring(2);
+          red = 1;
+          green = 0.5;
+          blue = 0.5;
+          with (findimg(702 + i)) {
+            partx = 0;
+            party = 48;
+            partw = 16;
+            parth = 16;
+          }
+        }
+        else {
+          font = thiso.font0;
+          style = "";
+          text = player.msgtext[i];
+          red = 1;
+          green = 1;
+          blue = 1;
+          with (findimg(702 + i)) {
+            partx = 0;
+            party = 0;
+            partw = 16;
+            parth = 16;
+          }
+        }
+        textshadow = true;
+        shadowcolor = {0, 0, 0};
+        zoom = 0.7;
+        layer = 9; // at 5
+      }
+    }
+  }
+  else {
+    this.visible = false;
+    hideimgs(699,899);
+    player.msgupdate = false;
+  }
+}
+          if (client.toalldisabled)
+            y = thiso.offset + 2 + (20 * i);
+          else
+            y = thiso.offset + 2 + (20 * i) + client.toallsize;
+
+function onMouseDown()
+{
+  if (this.visible == true)
+  {
+    temp.ms = player.msgtext.size();
+    if (mousescreenx in |this.offsetx, screenwidth - this.offsetx2|)
+    {
+      if (!client.toalldisabled)
+      {
+        if (mousescreeny in |this.offset, this.offset + 2 + (20 * temp.ms) + client.toallsize|)
+        {
+          RemoveMessages();
+        }
+      }
+      else
+      {
+        if (mousescreeny in |this.offset, this.offset + 2 + (20 * temp.ms)|)
+        {
+          RemoveMessages();
+        }
+      }
+    }
+  }
+}
+
+public function RemoveMessages()
+{
+  player.msgtime = null;
+  player.msgtext = null;
+  player.msgupdate = true;  
+}
+
+function fixStrings() {
+  temp.i = 0;
+  
+  if (player.msgtime.size() < player.msgtext.size()) {
+    player.msgtime.add(5);
+  }
+  if (player.msgtime.size() > player.msgtext.size()) {
+    player.msgtime = null;
+    for (i = 0; i < player.msgtext.size(); i ++) {
+      player.msgtime.add(5);
+    }
+  }
+  for (i = 0; i < player.msgtext.size(); i ++) {
+    if (player.msgtime[i].type() != 0) {
+      player.msgtime[i] = 5;
+    }
+  }
+}
+public function config() {
+  this.overflow = 20;
+  this.timer = 0.05;
+  this.font0 = "Verdana"; // Normal
+  this.font1 = "Verdana"; // Alert
+  this.font2 = "Verdana"; // PM
+  this.font3 = "Verdana"; // Error
+  this.offset = 24;
+  this.offsetx = 2; //screenwidth / 4;
+  this.offsetx2 = screenwidth / 3;
+  this.img = "val_messageicon3.png";
+  this.maxeventmessages = 5;
+  this.cx = 34;
+}
+SCRIPTEND

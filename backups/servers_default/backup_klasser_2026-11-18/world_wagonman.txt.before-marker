@@ -1,0 +1,154 @@
+// The Wagon Man (travel): GS1 server version written by travel_gen.py (17 Nov 2026). The 2017 class was GS2 server code, which
+// this server does not run, so nobody could travel. Say ~<place> next to the NPC; touching it shows the places.
+// The NPC may set before the join: this.newdir = <0-3>; setstring this.newheadimg,<img>; setstring this.newbodyimg,<img>;
+// Left out (level not on the server): Tut (tutorial_1.nw), Minigames (val_minigames.nw), Buxton (buxton_b3.nw), Oakburn (oakburn_a2.nw), Staghorn Lake (stagforest_e3.nw)
+if (created) {
+  showcharacter;
+  setcharprop #n,The Wagon Man;
+  if (strlen(#s(this.newheadimg)) > 0) {
+    setcharprop #3,#s(this.newheadimg);
+  } else {
+    setcharprop #3,val_peasanthead.gif;
+  }
+  if (strlen(#s(this.newbodyimg)) > 0) {
+    setcharprop #8,#s(this.newbodyimg);
+  } else {
+    setcharprop #8,val_body5.png;
+  }
+  setcharprop #2,no-shield.gif;
+  if (this.newdir > 0) {
+    dir = this.newdir;
+  } else {
+    dir = 2;
+  }
+  setcharani merchantcart-idle,;
+  setcharprop #c,With wagonmen like me around why bother walking?;
+  this.msgon = 1;
+  timeout = 10;
+}
+if (playertouchsme && timevar > this.lasttouch + 2) {
+  this.lasttouch = timevar;
+  setcharprop #c,Can I help you?;
+  this.msgon = 1;
+  say2 Ello Stranger. Where to?#bJust say the place and we will be on our way.#bSay (with the ~):#b~Lerhyn#b~Brookhurst#b~Dragon's Meet#b~Durandal#b~Esthras#b~Ganelon#b~Greendale#b~Ignis#b~Opal Harbor#b~Osengrad#b~Laboo#b~Red Rock#b~Tower Town#b~Troll's Pub#b~Troivah#b~Thistletop;
+  timeout = 10;
+}
+if (playerchats) {
+  if (strequals(#c,~Lerhyn)) {
+    setlevel2 aerow_dockcliff.nw,28.5,45;
+  }
+  if (strequals(#c,~lerhyn)) {
+    setlevel2 aerow_dockcliff.nw,28.5,45;
+  }
+  if (strequals(#c,~Brookhurst)) {
+    setlevel2 newbrookhurst_b1.nw,44.5,60.5;
+  }
+  if (strequals(#c,~brookhurst)) {
+    setlevel2 newbrookhurst_b1.nw,44.5,60.5;
+  }
+  if (strequals(#c,~Dragon's Meet)) {
+    setlevel2 dragonsmeet_c2.nw,47,16;
+  }
+  if (strequals(#c,~dragon's meet)) {
+    setlevel2 dragonsmeet_c2.nw,47,16;
+  }
+  if (strequals(#c,~Durandal)) {
+    setlevel2 durandal_houstonave.nw,42,32;
+  }
+  if (strequals(#c,~durandal)) {
+    setlevel2 durandal_houstonave.nw,42,32;
+  }
+  if (strequals(#c,~Esthras)) {
+    setlevel2 newesthras_entrance.nw,45.5,28;
+  }
+  if (strequals(#c,~esthras)) {
+    setlevel2 newesthras_entrance.nw,45.5,28;
+  }
+  if (strequals(#c,~Ganelon)) {
+    setlevel2 newganelon_entrance.nw,47,26;
+  }
+  if (strequals(#c,~ganelon)) {
+    setlevel2 newganelon_entrance.nw,47,26;
+  }
+  if (strequals(#c,~Greendale)) {
+    setlevel2 val_greendale_gate_02.nw,30.5,55.5;
+  }
+  if (strequals(#c,~greendale)) {
+    setlevel2 val_greendale_gate_02.nw,30.5,55.5;
+  }
+  if (strequals(#c,~Ignis)) {
+    setlevel2 val_laboo_1d.nw,18,18;
+  }
+  if (strequals(#c,~ignis)) {
+    setlevel2 val_laboo_1d.nw,18,18;
+  }
+  if (strequals(#c,~Opal Harbor)) {
+    setlevel2 opalharbor_a2.nw,3,22.5;
+  }
+  if (strequals(#c,~opal harbor)) {
+    setlevel2 opalharbor_a2.nw,3,22.5;
+  }
+  if (strequals(#c,~Osengrad)) {
+    setlevel2 osengrad_b3.nw,23.5,43.5;
+  }
+  if (strequals(#c,~osengrad)) {
+    setlevel2 osengrad_b3.nw,23.5,43.5;
+  }
+  if (strequals(#c,~Laboo)) {
+    setlevel2 val_laboo_4d.nw,7.5,53.5;
+  }
+  if (strequals(#c,~laboo)) {
+    setlevel2 val_laboo_4d.nw,7.5,53.5;
+  }
+  if (strequals(#c,~Red Rock)) {
+    setlevel2 redrockmountains_b6.nw,24,51;
+  }
+  if (strequals(#c,~red rock)) {
+    setlevel2 redrockmountains_b6.nw,24,51;
+  }
+  if (strequals(#c,~Tower Town)) {
+    setlevel2 towertown_1.nw,32.5,22;
+  }
+  if (strequals(#c,~tower town)) {
+    setlevel2 towertown_1.nw,32.5,22;
+  }
+  if (strequals(#c,~Troll's Pub)) {
+    setlevel2 eonos-bridge1.nw,5,31;
+  }
+  if (strequals(#c,~troll's pub)) {
+    setlevel2 eonos-bridge1.nw,5,31;
+  }
+  if (strequals(#c,~Troivah)) {
+    setlevel2 val_troivah_05.nw,30,56;
+  }
+  if (strequals(#c,~troivah)) {
+    setlevel2 val_troivah_05.nw,30,56;
+  }
+  if (strequals(#c,~Thistletop)) {
+    setlevel2 thistletop_b2.nw,21,27.5;
+  }
+  if (strequals(#c,~thistletop)) {
+    setlevel2 thistletop_b2.nw,21,27.5;
+  }
+}
+if (timeout) {
+  if (this.msgon == 1) {
+    setcharprop #c,;
+    this.msgon = 0;
+  } else {
+    this.r = int(random(0,6));
+    if (this.r == 0) {
+      setcharprop #c,Need a ride some place? Just talk to me!;
+      this.msgon = 1;
+    }
+    if (this.r == 1) {
+      setcharprop #c,Hum de dum..;
+      this.msgon = 1;
+    }
+    if (this.r == 2) {
+      setcharprop #c,Does anyone need a ride?;
+      this.msgon = 1;
+    }
+  }
+  timeout = 10;
+}

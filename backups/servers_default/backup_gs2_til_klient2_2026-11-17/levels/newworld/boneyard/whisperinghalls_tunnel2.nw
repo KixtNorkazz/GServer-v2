@@ -1,0 +1,1255 @@
+GLEVNW01
+BOARD 0 0 64 0 DqDpDqDpDqDpDqDpDYDIDYDItGtVmrmrtGtWtWtWnCnDtWtWtWnCnDtWtWtWtWtWtEwCwDwEwBwCwDwEwBtDtWtWtWtWtWnCnDtWtWtWnCnDtWtWtWtVmrmrtGtVDLDb
+BOARD 0 1 64 0 DaDZDaDZDaDZDaDZDIDYDIDYtTtUmrmrtGmrmqmrnCnDmqmrmqnCnDmqmrmqmrmrtVwSwTwUwRwSwTwUwRtGmqmqmrmrmrnCnDmrmqmrnCnDmqmrmqtVmrmrtTtUDbDL
+BOARD 0 2 64 0 DqDpDqDpDqDpDqDpDYDIDYDInCnDmrmrtGnlnknlninjnknlnkninjnlnknlnknltVwSwTwUwRwSwTwUwRtGnknlnknlnkninjnlnknlninjnknlnktVmrnLnCnDDLDb
+BOARD 0 3 64 0 BGBFBGBFBGBFBGBFDIDYDIDYnCnDmrnLtGn1n0n1mSmTn0n1n0mSmTn1n0n1n0n1tVtWtWtWtWtWtWtWtWtGn0n1n0n1n0mSmTn1n0n1mSmTn0n1n0tVmrmrnCnDDbDL
+BOARD 0 4 64 0 CqCqCqCqCqCqCqCqBhDIDYDInCnDmrmrtGnlnknlnknlnknlnknlnknlnknlnknltVJ4J4J4J4J4J4J4J4tGnknlnknlnknlnknlnknlnknlnknlnktVmrnLnCnDDLM4
+BOARD 0 5 64 0 CqCqCqCqCqCqCqCqCqBhDIDYnCnDmrnLtGtHtFtFtFtItHtFtFtFtItHtFtFtFtItVJ4J4J4J4J4J4J4J4tGtHtFtFtFtItHtFtFtFtItHtFtFtFtItVnLnKnCnDM4Cq
+BOARD 0 6 64 0 CqCqCqCqCqCqCqCqCqCqBhDInCnDnLnKtTtUmqmrmrtTtUmrmrmqtTtUmrmrmqtGtVtFtFtFtFtFtFtFtFtGtVmqmrmrtTtUmrmrmqtTtUmrmrmqtTtUmUmUnCnDCqCq
+BOARD 0 7 64 0 CqCqCqCqCqCqCqCqCqCqCqBhninjmUmUnCnDmqtgtjnCnDmqtgtjnCnDmrtgtjtGtVnCnDwEwBwCwDnCnDtGtVtgtjmqnCnDtgtjmqnCnDtgtjmqnCnDCqCqninjCqCq
+BOARD 0 8 64 0 CqCqCqCqCqCqCqCqCqCqCqCqmSmTCqCqnCnDmqtwtznCnDmqtwtznCnDmrtwtztGtVnCnDwEwBwCwDnCnDtGtVtwtzmqnCnDtwtzmqnCnDtwtzmqnCnDCqCqmSmTCqCq
+BOARD 0 9 64 0 CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqnCnDnLuAuDnCnDmquAuDnCnDmruAuDtGtVnCnDwUwRwSwTnCnDtGtVuAuDnLnCnDuAuDmqnCnDuAuDnKnCnDCqCqCqCqCqCq
+BOARD 0 10 64 0 CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqnCnDnKuQuTnCnDnLuQuTnCnDnLuQuTtTtUninjwEwBwCwDninjtTtUuQuTnKnCnDuQuTnLnCnDuQuTnKnCnDCqCqCqCqCqCq
+BOARD 0 11 64 0 CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqnCnDmUmUmUnCnDmUmUmUnCnDmUmUmUnCnDmSmTwUwRwSwTmSmTnCnDmUmUmUnCnDmUmUmUnCnDmUmUmUnCnDCqCqCqCqCqCq
+BOARD 0 12 64 0 CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqninjCqCqCqninjCqCqCqninjCqCqCqnCnDqfqfwEwBwCwDwEwBnCnDCqCqCqninjCqCqCqninjCqCqCqninjCqCqCqCqCqCq
+BOARD 0 13 64 0 CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqmSmTCqCqCqmSmTCqCqCqmSmTCqCqCqnCnDqfqfqfwRwSwTwUwRnCnDCqCqCqmSmTCqCqCqmSmTCqCqCqmSmTCqCqCqCqCqCq
+BOARD 0 14 64 0 CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqnCnDqfwDwEwBwCwDwEwBnCnDCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCq
+BOARD 0 15 64 0 CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqnCnDwSwTwUqfqfwTwUwRnCnDCqCqCqCqCqCqCqC7DKDJDKDJC4CqCqCqCqCqCqCqCq
+BOARD 0 16 64 0 DKDJDKDJC4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqninjwCwDwEqfqfqfwEwBninjCqCqCqCqCqCqC7DLDaDZDaDZDIC4CqCqCqCqCqCqCq
+BOARD 0 17 64 0 DaDZDaDZDIC4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqmSmTwEwUwRqfqfwTwUwEmSmTCqCqCqCqCqC7DLDbDqDpDqDpDYDIC4CqCqCqCqCqCq
+BOARD 0 18 64 0 DqDpDqDpDYDIC4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqC7DKDJwUwEqfqfwDwDwEwUDJDKDJDKDJDKDJDLDbDLDaDZDaDZDIDYDIC4CqCqCqCqCq
+BOARD 0 19 64 0 DaDZDaDZDIDYDIC4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqC7DLDaDZwEwUwRqfwTwTwUwEDZDaDZDaDZDaDZDbDLDbDqDpDqDpDYDIDYDIC4CqCqCqCq
+BOARD 0 20 64 0 DqDpDqDpDYDIDYDIC4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqC7DLDbDqDpwUwEwBwCwDwDwEwEDpDqDpDqDpDqDpDLDbDLDaDZDaDZDIDYDIDYDIC4CqCqCq
+BOARD 0 21 64 0 DaDZDaDZDIDYDIDYDIC4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqC7DLDbDLDaDZwEwUwRwSwTwTwUwUDZDaDZDaDZDaDZDbDLDbDqDpDqDpDYDIDYDIDYDIC4DJDK
+BOARD 0 22 64 0 DqDpDqDpDYDIDYDIDYDIC4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqC7DLDbDLDbDqDpwUwEwBwCwDwDwEwEDpDqDpDqDpDqDpDLDbDLDaDZDaDZDIDYDIDYDIDYDIDZDa
+BOARD 0 23 64 0 DaDZDaDZDIDYDIDYDIDYDIC4CqCqCqCqCqCqCqCqCqCqCqCqCqC7DLDbDLDbDLDaDZwEwUwRwSqfwTwUwUDZDaDZDaDZDaDZDbDLDbDqDpDqDpDYDIDYDIDYDIDYDpDq
+BOARD 0 24 64 0 DqDpDqDpDYDIDYDIDYDIDYDIDKDJDKDJDKDJDKDJDKDJDKDJDKDLDbDLDbDLDbDqDpwUwEwBwCqfqfwEwEDpDqDpDqDpDqDpDLDbDLDaDZDaDZDIDYDIDYDIDYDIDZDa
+BOARD 0 25 64 0 BGBFBGBFDIDYDIDYDIDYDIDYDaDZDaDZDaDZDaDZDaDZDaDZDaDbDLDbDLDbDLDaDZwEqfwRwSqfqfwUwUDZDaDZDaDZDaDZDbDLM4CqCqCqCqBhDIDYDIDYDIDYDpDq
+BOARD 0 26 64 0 CqCqCqCqBhDIDYDIDYDIDYDIDqDpDqDpDqDpDqDpDqDpDqDpDqDLDbDLDbDLDbDqDpwUqfqfwCwDqfwEwEDpDqDpDqDpDqDpDLM4CqCqCqCqCqCqBhDIDYDIDYDIDZDa
+BOARD 0 27 64 0 CqCqCqCqCqBhDIDYDIDYDIDYDaDZDaDZDaDZDaDZDaDZDaDZDaDbDLDbDLDbDLBGBFwEqfwRwSwTwTwUwUBFBGBFBGBFBGBFM4CqCqCqCqCqCqCqCqBhDIDYDIDYDpDq
+BOARD 0 28 64 0 CqCqCqCqCqCqBhDIDYDIDYDIDqDpDqDpDqDpDqDpDqDpDqDpDqDLDbDLDbDLM4CqCqwUqfqfwCwDwDwEwECqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqBhDIDYDIDZDa
+BOARD 0 29 64 0 CqCqCqCqCqCqCqBhDIDYDIDYDaDZDaDZDaDZDaDZDaDZDaDZDaDbDLDbDLM4CqCqCqwEqfqfqfwTwTwUwUCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqBhDIDYDpDq
+BOARD 0 30 64 0 CqCqCqCqCqCqCqCqBhDIDYDIDqDpDqDpDqDpDqDpDqDpDqDpDqDLDbDLM4CqCqCqCqwUqfqfqfwDwDwEwECqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqBhDIDZDa
+BOARD 0 31 64 0 CqCqCqCqCqCqCqCqCqBhDIDYDaDZDaDZDaDZDaDZDaDZDaDZDaDbDLM4CqCqCqCqCqwEqfqfwSwTwTwUwUCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqBhBFBG
+BOARD 0 32 64 0 CqCqCqCqCqCqCqCqCqCqBhDIDqDpDqDpDqDpDqDpDqDpDqDpDqDLM4CqCqCqCqCqCqwUwEwBwCqfqfqfwECqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCq
+BOARD 0 33 64 0 CqCqCqCqCqCqCqCqCqCqCqBhBGBFBGBFBGBFBGBFBGBFBGBFBGM4CqCqCqCqCqCqJ4wUwUwRwSwTqfqfwUJ4J4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCq
+BOARD 0 34 64 0 CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqJ4J4wEwEqfwCwDqfwEwEJ4J4J4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCq
+BOARD 0 35 64 0 CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqJ4J4J4wUqfqfwSwTwTwUwUJ4J4J4J4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCq
+BOARD 0 36 64 0 CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqJ4J4J4J4wTqcp7p7p7p7qdwTJ4J4J4J4J4J4J4J4J4J4CqCqCqCqCqCqCqCqCqJ4J4J4J4
+BOARD 0 37 64 0 CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqJ4J4J4J4C7qcp7p7p7p7qdC4J4J4J4J4J4J4J4J4J4J4J4CqCqCqCqCqCqJ4J4J4J4J4J4
+BOARD 0 38 64 0 CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqJ4J4J4C7DLqcp7p7p7p7qdDIC4J4J4J4J4J4J4J4J4J4J4J4CqCqCqJ4J4J4J4J4J4J4J4
+BOARD 0 39 64 0 J4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqJ4J4J4DLDbqcp7p7p7p7qdDYDIC4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 40 64 0 J4J4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqJ4J4J4J4DbDbqcp7p7p7p7qdDIDYDIJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 41 64 0 J4J4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqJ4J4J4J4J4DbDLqcp7p7p7p7qdDYDIDYJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 42 64 0 J4J4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqJ4J4J4J4J4J4DLM4qcp7p7p7p7qdDIDYDIJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 43 64 0 J4J4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqJ4J4J4J4J4J4J4M4Cqqcp7p7p7p7qdBhDIDYJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 44 64 0 J4J4J4CqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqCqJ4J4J4J4J4J4J4CqCqqcp7p7p7p7qdCqBhDIJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 45 64 0 J4J4J4J4CqCqCqCqCqJ4J4J4J4J4J4CqCqCqCqCqCqCqCqCqCqJ4J4J4J4J4J4J4CqCqCqpqCqpapbCqCqCqBhJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 46 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CqCqCqCqCqCqCqCqCqJ4J4J4J4J4J4J4CqCqCqCqCqCqptCqCqCqCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 47 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CqCqCqCqCqCqCqJ4J4J4J4J4J4J4J4CqCqCqCqpcCqCqCqCqCqCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 48 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CqCqCqCqCqCqCqCqCqCqCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 49 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CqCqCqCqCqCqCqCqCqCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 50 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CqCqCqCqCqCqCqCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 51 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4CqCqCqCqCqCqJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 52 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 53 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 54 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 55 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 56 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 57 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 58 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 59 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 60 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 61 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 62 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 63 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+LINK whisperinghall_entrance.nw 35 5 4 2 28.5 46
+NPC valnmd_blackangle.gif 40 37
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 63 35
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 53 38
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_redrock01.gif 59 31
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 40 43
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_fog.png 18 4
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(random(5,10));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC - 3 23
+// NPC made by Saeyn Kushiro, of (Suiriku)
+//#CLIENTSIDE
+if (playerenters) {level.inside=1;}
+if (timeout) {seteffect 0,0,0,.5;}
+timeout=0.05;
+NPCEND
+NPC val_fog.png 50 50
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(random(5,10));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_ganelon_housetop.gif 0 38
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 44 34
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 32 49
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 51 36
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 52 37
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 42 48
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 57 37
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 59 36
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 42 39
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 31 33
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 40 50
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 39 51
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 32 38
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 45 35
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 34 51
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 43 33
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 17 47
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 15 45
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 16 46
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 4 45
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 3 44
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 2 43
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 1 39
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 55 38
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 8 45
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 23 47
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 24 46
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 25 42
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 26 41
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 27 40
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 28 39
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 29 35
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 30 34
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_redrock01.gif 2 26
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 0 33
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 2 30
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 11 38
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 12 37
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 17 40
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 47 12
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 21 35
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 30 30
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 46 30
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 48 31
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 53 25
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 39 44
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 4 28
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 2 32
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 1 27
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 4 40
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 6 39
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 5 35
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 13 39
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 17 37
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 20 43
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 23 37
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 27 30
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 23 33
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 44 26
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 62 30
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 41 29
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 52 26
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 54 29
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 2 0
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 51 29
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 61 32
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 54 27
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 33 45
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 45 29
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_fog.png 52 22
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(random(5,10));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC val_fog.png 5 34
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(random(5,10));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC - 34 51
+if (created) {
+  setshape 1,16*6,16*2;
+}
+if (actionwarp) {
+  setlevel2 whisperinghalls_tunnel.nw,32.5,24;
+}
+//#CLIENTSIDE
+if (created) {
+  setshape 1,16*6,16*2;
+}
+if (playertouchsme) {
+  disabledefmovement;
+  setani idle,;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.05;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.15;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.25;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.35;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.45;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.55;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.65;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.75;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],.95;
+  sleep 0.05;
+  seteffect client.timeeffect[0],client.timeeffect[1],client.timeeffect[2],1;
+  setplayerdir 2;
+  triggeraction x,y,warp,;
+}
+NPCEND
+NPC - 28 48
+//#CLIENTSIDE
+function onPlayerEnters() {
+  temp.effect = client.timeeffect;
+  temp.i = 1;
+  while(temp.i > temp.effect[3]) {
+    temp.i -= 0.05;
+    seteffect(temp.effect[0], temp.effect[1], temp.effect[2], temp.i);
+    sleep(0.05);
+  }
+  enabledefmovement();
+}
+NPCEND
+NPC val_ironfence1.gif 34 34
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 40 16
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 33 32
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 40 20
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 40 22
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 40 24
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 40 26
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 40 28
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 40 30
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 40 18
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 33 16
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 33 18
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 33 20
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 33 22
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 33 24
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 33 26
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 33 28
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 33 30
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 39 43
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*2,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 33 34
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*2,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_blackangle.gif 41 38
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 41 49
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC valnmd_blackangle.gif 33 37
+//#CLIENTSIDE
+if(created || playerenters){setimgpart valnmd_blackangle.gif,0,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ganelon_housetop.gif 33 50
+//#CLIENTSIDE
+if(created || playerenters){setimgpart val_ganelon_housetop.gif,16,0,16,16;dontblock;drawoverplayer;setcoloreffect 0,0,0,1;}
+NPCEND
+NPC val_ironfence1.gif 40 34
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*2,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 34 43
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*2,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 40 32
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 39 41
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 39 39
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 39 37
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 39 34
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 34 41
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 34 39
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 34 37
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*4,48,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 32 42
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 20 33
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 24 12
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 22 14
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 11 9
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 11 18
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 5 4
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 4 5
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 6 6
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 59 8
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 61 15
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 52 31
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 43 14
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 44 12
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 48 10
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 56 12
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 60 7
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 60 13
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 29 13
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 28 11
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 25 14
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 21 18
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 19 16
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 18 18
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock01.gif 14 13
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 15 12
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 12 17
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 9 11
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 11 11
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 8 4
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC valnmd_redrock02.gif 4 7
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC -val_undyingbanner.gif 24 12
+// NPC made by Gyle Cage, Enlistment Officer of (the Leeway Brigade)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 35 10
+function onCreated() {
+  setshape 1,64,16;
+  this.w = 64;
+  showimg(1,"bridgeton-porticullis.gif",x,y-3);
+  changeimgpart(1,0,0,64,64);
+  changeimgvis 1,1;
+}
+function onActionLeftMouse() {
+  if (this.w==64) {
+    dontblock();
+    this.m = 1;
+    this.setTimer(.05);
+  }
+  else {
+    blockagain();
+    this.m = 2;
+    this.setTimer(.05);
+  }
+}
+function onTimeout() {
+  showimg(1,"bridgeton-porticullis.gif",x,y-3);
+  changeimgpart(1,0,64-this.w,64,this.w);
+  if (this.m==1) {
+    if (this.w>=8) {
+      this.w -= 4;
+    }
+    else {
+      hideimg(1);
+      this.m==0;
+    }
+  }
+  else if (this.m==2) {
+    if (this.w<=60) {
+      this.w += 4;
+    }
+    else {
+      this.m==0;
+    }
+  }
+  this.setTimer(.05);
+  changeimgvis 1,1;
+}
+//#CLIENTSIDE
+function onCreated() {
+  setshape 1,64,16;
+}
+NPCEND

@@ -1,0 +1,764 @@
+GLEVNW01
+BOARD 0 0 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 1 64 0 J4J4jVi0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0jlJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 2 64 0 J4J4jEYvh0h1Yvh0h1Yvh0h1Yvh0h1Yvh0h1Yvi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 3 64 0 J4J4jEYviEiFYviEiFYviEiFYviEiFYviEiFYvi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 4 64 0 J4J4jEYviUiVYviUiVYviUiVYviUiVYviUiVYvi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 5 64 0 J4J4jEYvikilYvikilYvikilYvikilYvikilYvi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 6 64 0 J4J4jEkCkDkEkFiyixkCkDkEkFiyixkCkDkEkFi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 7 64 0 J4J4jEkSkTkUkVuhuhkSkTkUkVuhuhkSkTkUkVi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 8 64 0 J4J4jEkikjkkkluxuxkikjkkkluxuxkikjkkkli1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 9 64 0 J4J4jEkykzk0k1uxuxkykzk0k1uxuxkykzk0k1i1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 10 64 0 J4J4jEmSiyixmRuxuxmSiyixmRuxuxmSiyixmRi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 11 64 0 J4J4jEuwuxuxuxuxuxuxuxuxuxuxuxuxuxuxuyi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jVi0i0i0i0i0i0i0i0i0i0i0jlJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 12 64 0 J4J4jEuwuxuxuxuxuxuxuxuxuxuxuxuxuxuxuyi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEYvh0h1Yvh0h1Yvh0h1Yvh0i1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 13 64 0 J4J4jEuwuxuxuxuxuxuxuxuxuxuxuxuxuxuxuyi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEYviEiFYviEiFYviEiFYviEi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 14 64 0 J4J4jEuwuxuxuxuxuxuxuxuxuxuxuxuxuxuxuyi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEYviUiVYviUiVYviUiVYviUi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 15 64 0 J4J4jEvAvBvBvBvBvBvBvBvBvBvBvBvBvBvBvCi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEYvikilYvikilYvikilYviki1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 16 64 0 J4J4jUjFjFjFjFjFjGmmmnjHjFjFjFjFjFjFjFjkJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEkCkDkEkFiyixixkCkDkEkFi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 17 64 0 J4J4J4J4J4J4J4J4jEm2m3i1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jEkSkTkUkVuhuhuhkSkTkUkVi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 18 64 0 J4J4J4J4J4J4J4J4jEmmmni1J4J4jVi0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0jljEkikjkkkluxuxuxkikjkkkli1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 19 64 0 J4J4J4J4J4J4J4J4jEm2m3i1J4J4jEYvh0h1Yvh0h1Yvh0h1Yvh0h1Yvh0h1Yvh0h1Yvi1jEkykzk0k1uxuxuxkykzk0k1i1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 20 64 0 J4J4J4J4J4J4J4J4jEmmmni1J4J4jEYviEiFYviEiFYviEiFYviEiFYviEiFYvFCFCYvi1jEmSiyixmRuxuxuxmSiyixmRi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 21 64 0 J4J4J4J4J4J4J4J4jEm2m3i1J4J4jEYviUiVYviUiVYviUiLiLiUiVYviUiVYvGkGlYvi1jEuwuxuxuxuxuxuxuxuxuxuyi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 22 64 0 J4J4J4J4J4J4J4J4jEmmmni1J4J4jEdldmilYvikilYvikiLiLdldmYvikilYvikilYvi1jEvAvBvBvBvBvBvBvBvBvBvCi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 23 64 0 J4J4J4J4J4J4J4J4jEm2m3i1J4J4jEdldmixixiyixixiyibibdldmixiyixkCkDkEkFi1jUjFjGmnmmmnmmjHjFjFjFjFjkJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 24 64 0 J4J4J4J4J4J4J4J4jEmmmni1J4J4jEdldmm2m3m2m3m2m3m2m3m2m3m2m3ugkSkTkUkVi3i0i0i2m3m2m3m2i1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 25 64 0 J4J4J4J4J4J4J4J4jEmmmni1J4J4jEdldmmmmnmmmnmmmnmmmnmmmnmmmnuwkikjkkklYvh0h1Yvmnmmmnmmi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 26 64 0 J4J4J4J4J4J4J4J4jEm2m3i1J4J4jEdlc/dEdEdEdEdEdEdEdEc/dmm2m3uwkykzk0k1YviEiFYvm3m2m3m2i1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 27 64 0 J4J4J4J4J4J4J4J4jEmmmni3i0i0i2dTdUdUdUdUdUdUdUdUdUdUdWmmmnuwmSiyixmRYviUiVYvmnmmmnmmi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 28 64 0 J4J4J4J4J4J4J4J4jEm2m3Yvh0h1YvmSmTmQmQmQmQmQmQmQmQmQmRmmmnuwuxuxuxuyYvikilYvm3m2m3m2i1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 29 64 0 J4J4J4J4J4J4J4J4jEmmmnYviEiFYvuguhuhuhuhuhuhuhuhuhuhuimmmnvAvBvBvBvCixiyixiymnmmmnmmi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 30 64 0 J4J4J4J4J4J4J4J4jEm2m3YviUiVYvuwuxuxuxuxuxuxuxuxuxuxuym2m3m2m3m2m3m2m3m2m3m2m3m2m3m2i1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 31 64 0 J4J4J4J4J4J4J4J4jEmmmnYvikilYvuwuxuxuxuxuxuxuxuxuxuxuymmmnmmmnmmmnmmmnmmmnmmmnmmmnmmi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 32 64 0 J4J4J4J4J4J4J4J4jEm2m3ixiyixiyvAvBvBvBvBvBvBvBvBvBvBvCmmmnuguhuhuhuijHjFjFjFjFjFjFjFjkJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 33 64 0 J4J4J4J4J4J4J4J4jEmmmnmmmnmmmnmmmnmmmnmmmnmmmnmmmnmmmnmmmnuwkCkDkEkFi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 34 64 0 J4J4J4J4J4J4J4J4jEm2m3m2m3m2m3m2m3m2m3m2m3m2m3m2m3m2m3m2m3uwkSkTkUkVi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 35 64 0 J4J4J4J4J4J4J4J4jEmmmnmmmnmmmnmmmnmmmnmmmnmmmnmmmnmmmnmmmnuwkikjkkkli1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 36 64 0 J4J4J4J4J4J4J4J4jEmmmnmmmnmmmnmmmnmmmnmmmnmmmnmmmnmmmnmmmnuwkykzk0k1i1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 37 64 0 J4J4J4J4J4J4J4J4jUjFjFjFjFjFjFjFjFjFjFjFjFjFjGTfbQbRjHjFjFjFjFjFjFjFjkJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 38 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jETvbgbhi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 39 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jET/bwbxi1J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 40 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4jUjFjFjFjkJ4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 41 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 42 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 43 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 44 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 45 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 46 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 47 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 48 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 49 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 50 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 51 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 52 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 53 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 54 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 55 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 56 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 57 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 58 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 59 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 60 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 61 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 62 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+BOARD 0 63 64 0 J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4J4
+LINK valcapitolint_house9a.nw 23 21 2 1 23 34
+LINK newganelon_junction.nw 23 39 3 1 18.5 58.5
+NPC val_barpass.gif 25 24
+if (playertouchsme&&strequals(#a,j0rd1e1)) {
+  hide;
+  sleep .5;
+  show;
+}
+
+if (playertouchsme&&!strequals(#a,j0rd1e1)) {
+  say2
+This is locked.;
+}
+
+if (playerchats && strequals(#a,j0rd1e1)) {
+if (playerchats && strequals(#c,open)) {
+  hide;
+}
+if (playerchats && strequals(#c,close)) {
+  show;
+}
+}
+NPCEND
+NPC val_bottle-06.png 37 16
+// NPC made by Jean 'Oleashea' Uchima, Student of the (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_grisgolcloak1.gif 45 17
+// NPC made by Jean 'Oleashea' Uchima, Student of the (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_item-cake.png 30 23
+// NPC made by Jean 'Oleashea' Uchima, Student of the (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_wine.gif 11 5
+// NPC made by Jean 'Oleashea' Uchima, Student of the (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rucksack.png 10 6
+// NPC made by Jean 'Oleashea' Uchima, Student of the (OOC)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_fog.png 16 14
+//FORWARD >
+//#CLIENTSIDE
+function onCreated()
+{
+  setcoloreffect(1,1,1,.99);
+  setzoomeffect(random(5,10));
+  drawaslight();
+  dontblock();
+
+  this.maxMove = this.x + random(10,30);
+
+  this.defaultX = this.x;
+  this.moveInc = .1;
+  this.loopSpeed = .05;
+
+  setTimer(random(.05,.25));
+}
+
+function onTimeout()
+{
+  if (this.CountDown <= 0)
+  {
+    this.CountDown = 0;
+    this.x += this.moveInc;
+
+
+    if (this.x > this.maxMove || this.x < this.defaultX)
+    {
+      this.moveInc*=-1;
+      this.CountDown = random(0,3);
+    }
+  }
+  else
+  {
+    this.CountDown -= this.loopSpeed;
+  }
+
+  setTimer(this.loopSpeed);
+}
+NPCEND
+NPC - 40 0
+// NPC made by Saeyn Kushiro, of (Suiriku)
+//#CLIENTSIDE
+if (playerenters) {level.inside=1;}
+if (timeout) {seteffect 0,0,0,.5;}
+timeout=0.05;
+NPCEND
+NPC val_bottle-08.png 36 15
+
+NPCEND
+NPC alchemybottlered.gif 37 15
+}
+NPCEND
+NPC val-itemslot-potionwhite.png 38 16
+// NPC made by Palanor Novar, Consantoir of (Athedia)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC scroll.gif 38 18
+//#CLIENTSIDE
+NPCEND
+NPC val-labtools2.gif 39 12
+
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-plans2.gif 44 16
+// NPC made by Palanor Novar, Consantoir of Athedia to (Imperial Dalmar)
+if (created) {dontblock;drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-plans2.gif 16 19
+// NPC made by Palanor Novar, Consantoir of Athedia to (Imperial Dalmar)
+if (created) {dontblock;drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC map_small.gif 43 17
+drawunderplayer;dontblock;
+NPCEND
+NPC val_rp-crate.png 17 21
+//#CLIENTSIDE
+{drawunderplayer;}
+NPCEND
+NPC bocks2.gif 15 24
+// NPC made by Kerbelu SkullSplitter, Ally of the Rogue Legion
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-workrack1.gif 27 20
+//#CLIENTSIDE
+if (created) {x=x-.5;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_weapongraphic_spear.gif 22 19
+//#CLIENTSIDE
+if (created) {
+y-=.6;
+setimgpart val_weapongraphic_spear.gif,119,78,79,25;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-labtools.gif 37 12
+//#CLIENTSIDE
+if (created) {
+setimgpart val-labtools.gif,0,0,19,100;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ghost-shelf.gif 36 12
+// NPC made by Midas Antilles
+if (created) {dontblock;drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-labtools2.gif 36 17
+
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bottle-07.png 38 13
+// NPC made by Palanor Novar, Consantoir of Athedia to (Imperial Dalmar)
+if (created) {drawoverplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_bottle-09.png 39 13
+//#CLIENTSIDE
+if (created) {
+drawoverplayer;
+dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_beartrap.gif 15 21
+// NPC made by Charles Kalendin, General of (Celdin)
+if (created) {
+setimgpart val_beartrap.gif,55,0,30,50;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ashevalcrossbow.gif 16 4
+//#CLIENTSIDE
+// NPC made by Garrett Church, Regent of (Bridgeton)
+if (created) {
+  setimgpart ashevalcrossbow.gif,42,108,48,18;
+}
+//#CLIENTSIDE
+if (created) {drawoverplayer;
+}
+NPCEND
+NPC val_rp-crate.png 17 23
+//#CLIENTSIDE
+{drawunderplayer;dontblock;}
+NPCEND
+NPC val_candle.gif 16 23
+//#CLIENTSIDE
+if (created) {
+  dontblock;drawoverplayer
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3.8,y-3.1;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.63,0,.65;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+NPCEND
+NPC val-weaponrackcolab.gif 3 2
+
+NPCEND
+NPC gal-redchairright-remake.gif 17 23
+// NPC made by Pompadour Hammertoes, Artist of
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawunderplayer;
+}
+
+if (created){
+  setshape2 2,3,{
+    0,0,
+    3,3,
+    3,3,
+      };
+}
+NPCEND
+NPC val_weapongraphic_suirikuchinese2.gif 12 2
+
+//#CLIENTSIDE
+if (created) {
+
+setimgpart val_weapongraphic_suirikuchinese2.gif,45,76,28,58;
+if (playertouchsme) {
+}
+
+
+}
+NPCEND
+NPC val-celticwarsword-bymoto.gif 13 2
+
+//#CLIENTSIDE
+if (created) {
+  setimgpart val-celticwarsword-bymoto.gif,45,76,28,48;
+  if (playertouchsme) {
+  }
+}
+NPCEND
+NPC val_weapongrafic_dwarvenaxe.gif 14 2
+
+//#CLIENTSIDE
+if (created) {
+setimgpart val_weapongrafic_dwarvenaxe.gif,55,86,48,58;
+if (playertouchsme) {
+}
+}
+NPCEND
+NPC val_poisontable.gif 19 21
+// NPC made by Tash
+if (created) {dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ashevalcrossbow.gif 16 2
+//#CLIENTSIDE
+// NPC made by Garrett Church, Regent of (Bridgeton)
+if (created) {
+  setimgpart ashevalcrossbow.gif,42,108,48,18;
+}
+//#CLIENTSIDE
+if (created) {drawoverplayer;
+}
+NPCEND
+NPC ashevalcrossbow.gif 16 3
+//#CLIENTSIDE
+// NPC made by Garrett Church, Regent of (Bridgeton)
+if (created) {
+  setimgpart ashevalcrossbow.gif,42,108,48,18;
+}
+//#CLIENTSIDE
+if (created) {drawoverplayer;
+}
+NPCEND
+NPC dalmar-heartjar.gif 10 6
+//#CLIENTSIDE
+NPCEND
+NPC val-rp-bigskullchestclosed.gif 15 10
+// NPC made by Avaran, of (The Wayward)
+if (created) {x+=0.2;dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ganelon_paperwork-stack1.png 25 22
+//Sasha
+NPCEND
+NPC sorcbookstack.gif 3 10
+
+NPCEND
+NPC sorcbookstack.gif 3 9
+
+NPCEND
+NPC stefanbook.png 18 26
+// NPC made by Palanor Novar, Consantoir of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_dragaeris-airshipbook1.png 5 7
+if (created) {
+dontblock;
+drawoverplayer;
+y=y+0.25;
+}
+NPCEND
+NPC neorice_coins.png 17 22
+
+NPCEND
+NPC val_archery-target1.png 13 5
+//#CLIENTSIDE
+if (created){
+setimgpart val_archery-target1.png,0,3,32,45;}
+NPCEND
+NPC seuagen-redpotion.gif 36 13
+drawoverplayer;
+NPCEND
+NPC val_dragaeris-airshipbookshelf1.png 20 35
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_dragaeris-airshipbookshelf1.png,0,0,48,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipbookshelf1.png 9 35
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_dragaeris-airshipbookshelf1.png,0,0,48,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val-newtrainingdummy.gif 7 5
+//#CLIENTSIDE
+if (created)
+{y -= 0.5;dontblock;
+
+}
+NPCEND
+NPC val_dragaeris-airshipbookshelf2.png 14 14
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_dragaeris-airshipbookshelf2.png,0,0,99,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipbookshelf1.png 3 14
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_dragaeris-airshipbookshelf1.png,0,0,48,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipbookshelf2.png 15 35
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_dragaeris-airshipbookshelf2.png,0,0,99,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipbookshelf1.png 12 35
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_dragaeris-airshipbookshelf1.png,0,0,48,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipbookshelf1.png 11 14
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_dragaeris-airshipbookshelf1.png,0,0,48,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC val_dragaeris-airshipbookshelf1.png 6 14
+//#CLIENTSIDE
+if (created) {
+  setimgpart val_dragaeris-airshipbookshelf1.png,0,0,48,32;
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC light2.png 31 20
+//#CLIENTSIDE
+if (created) {
+  setimgpart light2.png,48,64,32,64;
+  drawaslight;
+  dontblock;
+  setcoloreffect 1,1,1,0.25;
+}
+NPCEND
+NPC val_item-pastry.png 32 22
+drawoverplayer;
+NPCEND
+NPC basket_huru.gif 31 25
+// NPC made by I'lego Nyatuulnm
+if (created) {}
+//#CLIENTSIDE
+if (created) {
+  setimgpart basket_huru.gif,26,0,32,32;
+  dontblock;
+}
+NPCEND
+NPC count_bottle.gif 32 23
+
+NPCEND
+NPC count_bottle2.gif 33 24
+
+NPCEND
+NPC val_bow-quiver.gif 5 9
+//#CLIENTSIDE
+drawunderplayer;
+NPCEND
+NPC val_bow-quiver.gif 4 9
+//#CLIENTSIDE
+drawunderplayer;
+NPCEND
+NPC ashevalcrossbow.gif 15 6
+
+//#CLIENTSIDE
+if (created) {
+setimgpart ashevalcrossbow.gif,50,125,35,100;
+if (playertouchsme) {
+}
+
+}
+NPCEND
+NPC ashevalcrossbow.gif 17 6
+
+//#CLIENTSIDE
+if (created) {
+setimgpart ashevalcrossbow.gif,50,125,35,100;
+if (playertouchsme) {
+}
+
+}
+NPCEND
+NPC asca-door.gif 23 21
+if (playertouchsme&&strequals(#a,j0rd1e1)) {
+  hide;
+  sleep .5;
+  show;
+}
+
+if (playertouchsme&&!strequals(#a,j0rd1e1)) {
+  say2
+This is locked.;
+}
+
+if (playerchats && strequals(#a,j0rd1e1)) {
+if (playerchats && strequals(#c,Unlock)) {
+  hide;
+}
+if (playerchats && strequals(#c,Lock)) {
+  show;
+}
+}
+NPCEND
+NPC claws-sword.png 16 9
+//#CLIENTSIDE
+if (created) {setimgpart claws-sword.png,94,24,100,10;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC gaz-purpleorbthingy.gif 33 34
+//#CLIENTSIDE
+NPCEND
+NPC dalmar-blackoozejar.gif 11 8
+//#CLIENTSIDE
+NPCEND
+NPC dalmar-eyeballjar.gif 10 8
+//#CLIENTSIDE
+NPCEND
+NPC book3.png 3 6
+//#CLIENTSIDE
+NPCEND
+NPC sorcflier1.gif 43 13
+drawunderplayer;
+NPCEND
+NPC sorcbook1.gif 4 8
+
+NPCEND
+NPC ghostlamp.gif 5 4
+if (created) {
+dontblock;
+drawoverplayer;
+}
+NPCEND
+NPC val-emeraldeye.gif 32 33
+//Sasha
+NPCEND
+NPC archforge-scrapmetal1.gif 31 35
+// NPC made by Palanor Novar, Consantoir of Athedia to (Imperial Dalmar)
+if (created) {dontblock;drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-runicwelder.gif 30 33
+
+NPCEND
+NPC val-xeleye.gif 32 35
+// NPC made by Illvious the Shaper
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC map_small.gif 18 19
+drawunderplayer;dontblock;
+NPCEND
+NPC longfellow-plans2.gif 43 17
+// NPC made by Palanor Novar, Consantoir of Athedia to (Imperial Dalmar)
+if (created) {dontblock;drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC longfellow-plans1.gif 43 16
+// NPC made by Palanor Novar, Consantoir of Athedia to (Imperial Dalmar)
+if (created) {dontblock;drawunderplayer;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC ganelon_paperwork-stack1.png 44 16
+//Sasha
+NPCEND
+NPC val_valcastle-torch2.png 17 12
+// NPC made by Alejandro Hopkins, Mayor of (Ganelon)
+//#CLIENTSIDE
+if (created) {
+setshape2 2,4,{
+  0, 0,
+  0, 0,
+  0, 0,
+ 22,22,
+    };
+}
+NPCEND
+NPC fire.mng 17 10
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.7,0,.75;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+
+//#CLIENTSIDE
+if (created) {
+  setzoomeffect 0.5;
+}
+NPCEND
+NPC fire.mng 12 28
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.7,0,.75;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+
+//#CLIENTSIDE
+if (created) {
+  setzoomeffect 0.5;
+}
+NPCEND
+NPC val_valcastle-torch2.png 45 18
+// NPC made by Alejandro Hopkins, Mayor of (Ganelon)
+//#CLIENTSIDE
+if (created) {
+setshape2 2,4,{
+  0, 0,
+  0, 0,
+  0, 0,
+ 22,22,
+    };
+}
+NPCEND
+NPC val_valcastle-torch2.png 12 30
+// NPC made by Alejandro Hopkins, Mayor of (Ganelon)
+//#CLIENTSIDE
+if (created) {
+setshape2 2,4,{
+  0, 0,
+  0, 0,
+  0, 0,
+ 22,22,
+    };
+}
+NPCEND
+NPC fire.mng 45 16
+// NPC made by Yeashie Falkor
+if (created) {
+  dontblock;
+drawoverplayer;
+}
+
+if (timeout) {
+  showimg 1,light2.png,x-3,y-2;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.7,0,.75;
+  changeimgzoom 1,random(1.3,1.5);
+}
+
+timeout=.1;
+
+//#CLIENTSIDE
+if (created) {
+  setzoomeffect 0.5;
+}
+NPCEND
+NPC val_cardstack1.gif 24 26
+// NPC made by Tash
+if (created) {x+=0.5;y+=0.2;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_cardhand2.gif 23 26
+// NPC made by Tash
+if (created) {x+=0.5;y+=0.2;
+}
+if (playertouchsme) {
+}
+NPCEND

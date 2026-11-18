@@ -1,0 +1,44 @@
+//#CLIENTSIDE
+function onCreated() {
+  gs1_always();
+  setimgpart((this.image), 0, 0, 32, 32);
+  setshape(1, 32, 32);
+  this.minerhit = 45;
+  this.x = 0;
+  if (this.rarity<0) {
+    this.rarity = 10;
+  } else if (this.rarity>30) {
+    this.rarity = 10;
+  }
+}
+
+function gs1_always() {
+  if (this.actionminerhit) {
+    setimgpart((this.image), this.x, 0, 32, 32);
+    if (this.minerhit==40) {
+      this.x = 32;
+    } else if (this.minerhit==35) {
+      this.x = 64;
+    } else if (this.minerhit==30) {
+      this.x = 96;
+    } else if (this.minerhit==25) {
+      this.x = 128;
+    } else if (this.minerhit==20) {
+      this.x = 160;
+    } else if (this.minerhit==15) {
+      this.x = 192;
+    } else if (this.minerhit==10) {
+      this.x = 224;
+    } else if (this.minerhit==5) {
+      this.x = 256;
+    }
+    this.chance = random(0, 100);
+    if (this.chance<this.rarity) {
+      player.chat = "::Found " @ (this.mineral) @ "!::";
+      triggeraction(0, 0, "serverside", *this.Tools/this.Miners this.Pick, (this.mineral));
+    }
+    this.minerhit -= 1;
+    if (this.minerhit<=0) {
+    }
+  }
+}

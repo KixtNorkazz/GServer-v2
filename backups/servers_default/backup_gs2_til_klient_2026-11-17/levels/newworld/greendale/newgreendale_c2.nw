@@ -1,0 +1,745 @@
+GLEVNW01
+BOARD 0 0 64 0 3R3S3S3S3SmambmcmdmemfuQmcmdmemfuQuRuSj4j5hTijikilhTp8p9waxxxywZp8p9uyuzvQvRvSp8papbpcpdpapbpcpdpapbp9uzuwuxuyuz/C5W5V5W5V5W5V/B
+BOARD 0 1 64 0 3R3S3S3S3ShAjgjhhBjjjkhBhBjljmhBjojphCkIkJhjizi0i1hjp8p9wayByCwZp8p9vCvDuguhuip8pqprpsptpqprpsptpqprp9vDvAvBmsmt/C5G5F5G5F5G5F/B
+BOARD 0 2 64 0 3R3S3S3S3ShTjwjxhTjzj0hThTj1j2hTj4j5hTkYkZhzjDjEjFhzp8p9waxzxwwZp8p9vSvTuwuxuyp8papbpcpdpapbpcpdpapbp9mumvvRm8m9/C5W5V5W5V5W5V/B
+BOARD 0 3 64 0 3h3i3i3i3ihjkAkBhjkDkEhjhjkFkGhjkIkJhjjQjRiDjQjRjSiDp8p9wayDyAwZp8p9vBvCvDuyuzp8pqprpsptpqprpsptpqprp9m+m/uhuiuj/C5G5F5G5F5G5F/B
+BOARD 0 4 64 0 hDkgkhkikjhzkQkRhzkTkUhzhzkVkWhzkYkZhzlxlylzl0hDuguhp8p9waxxxywZp8qap6p6p6p6p6qbpapbpcpdpapbpcpdpapbqap6p6p6qNuz/C5W5V5W5V5W5V/B
+BOARD 0 5 64 0 hTkwkxkykziDjQjRiDjSjQiDiDjRjQiDjRjSiDmBmCmDmEhTvCvDp8p9wayByCwZqcp7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7qLqaqN/C5G5F5G5F5G5F/B
+BOARD 0 6 64 0 hjlAlBlClDlEhDkgkhkikjkklwlxlylzl0hDmQmRmSmTmUhjmsmtp8p9waxzxwwVwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwIqcqLp9/C5W5V5W5V5W5V/B
+BOARD 0 7 64 0 hzlQlRlSlTlUhTkwkxkykzk0mAmBmCmDmEhTmgmhmimjmkhzm8m9p8p9wayDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyBwFwGp8p9/C5G5F5G5F5G5F/B
+BOARD 0 8 64 0 iDlglhlimqmrhjlAlBlClDlEmQmRmSmTmUhjmqmrmqmrm0iDuguhp8p9waxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzwVwWp8p9/C5W5V5W5V5W5V/B
+BOARD 0 9 64 0 mumvvAvBm6m7hzlQlRlSlTlUmgmhmimjmkhzm6mqmrm7uzujuwuxp8p9wayByCwFwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwYqMqbp9/C5G5F5G5F5G5F/B
+BOARD 0 10 64 0 m+m/vCvDvAvBiDlglhliljpapbmxmymzm0iDvDm6m7uzujuzvQvBp8p9waxzxwwZqMp6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6qbqKqd/C5W5V5W5V5W5V/B
+BOARD 0 11 64 0 p6p6p6p6p6p6p6p6qbpqpqpqprpsptqap6p6p6p6p6p6p6p6p6p6qbp9wayDyAwZp8qKp7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7qduj/C5G5F5G5F5G5F/B
+BOARD 0 12 64 0 p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7qdwaxxxywZp8qaqNuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuzuwuxuyuz/C5W5V5W5V5W5V/B
+BOARD 0 13 64 0 wJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwWyByCwZqcqLp9vDvAuyuzuwuxuyvCvDvAvBvCvDvAvBvCvDvAvBvCvD/C5G5F5G5F5G5F/B
+BOARD 0 14 64 0 xyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwwFwGp8p9vTuyvCvDvAvBvCvSvTvQvRvSvTvQvRvSvTvQvRvSvT/C5W5V5W5V5W5V/B
+BOARD 0 15 64 0 yCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAwVwWp8p9ujvCvSvTvQvRvSuiujuguhuiujuguhuiujuguhuiuj/C5G5F5G5F5G5F/B
+BOARD 0 16 64 0 wKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwFwGwKwKwKwKwKwKwKwKwKwKwKwGxxxywZqMqbp9msmtujuguhuiuyuzuwuxuyuzuwuxuyuzuwuxuyuzuh/C5W5V5W5V5W5V/B
+BOARD 0 17 64 0 p6p6p6p6p6p63D3D3k3m3m3D3D3k3m3mwWqMp6p6p6p6p6p6p6p6p6qNwayByCwZp8qKqdm8m9uzuwuxuy3D3D3k3m3mvDvA3D3D3k3m3mvDuwuh/C5G5F5G5F5G5F/B
+BOARD 0 18 64 0 p7p7p7p7p73D3D3D3k3m3m3D3D3k3m3m3mqbp7p7p7p7p7p7p7p7qLp9waxzxwwZp8p9vSuyuzuwuxuy2F2G3D3k3m3m3m3D3D3D3k3m3m3mvAuh/C5W5V5W5V5W5V/B
+BOARD 0 19 64 0 uyuzuwuxmK3D3D3D3k3m3m3D3D3k3I3C3C3C3C3C3C3C3C3C3Cuhp8p9wayDyAwZp8p9uiujuguhuimK2V2W3D3k3m3m3m3D3D3D3k3m3m3muCuh/C5G5F5G5F5G5F/B
+BOARD 0 20 64 0 uyuzuwuxmK3D3D3D3k3m3m3D3D3k3W3S3S3S3S3S3S3S3S3S3Suxp8p9waxxxywZp8p9uyuzuwuxuymK2l2m3D3k3m3m3m3D3D3D3k3m3m3muCuh/C5W5V5W5V5W5V/B
+BOARD 0 21 64 0 vCvDvAvBmK3D3D3D3k3m3m3D3D3k3m3G3S3S3S3S3SvLvM3S3SvBp8p9wayByCwZp8p9vCvDvAvBvCmK213D3D3k3m3m3m3D3D3D3k3m3m3muCuh/C5G5F5G5F5G5F/B
+BOARD 0 22 64 0 vSvTmumvmK3D3D3D3k3m3m3D3D3k3m3W3S3S3S3S3Svbvc3S3SvRp8p9waxzxwwZp8p9vSvTvQvRvSmK3D3D3D3k3m3m3m3D3D3D3k3m3m3muCuh/C5W5V5W5V5W5V/B
+BOARD 0 23 64 0 msmtm+m/mK3D3D3D3k3m3m3D3D3k3m3m3G3S3S3S3Svrvs3S3Suhp8p9wayDyAwZp8p9uiujuguhuimK3D3D3D3k3m3m3m3D3D3D3k3m3m3muCuh/C5G5F5G5F5G5F/B
+BOARD 0 24 64 0 m8m9vCvDmK3D3D3Dls3m3m3D3Dls3m3m3W3S3S3S3Sv7v83S3Suxp8p9waxxxywZp8p9uyuzuwuxuymK3D3D3Dls3m3m3m3D3D3Dls3m3m3muCuh/C5W5V5W5V5W5V/B
+BOARD 0 25 64 0 vCvDvAvBmK3D3Dltlulv3m3Dltlulv3m3m3G3S3S3S3S3S3S3SvBp8p9wayByCwZp8p9uyuzuwuxuymK3D3Dltlulv3m3m3D3Dltlulv3m3muCuh/C5G5F5G5F5G5F/B
+BOARD 0 26 64 0 3C3C3C3CmK3Dl8l9l+l/twl8l9l+l/tw3m3W3i3i3i3i3i3i3ivRp8p9waxzxwwZp8p93B3C3C3C3CmK3Dl8l9l+l/tw3m3Dl8l9l+l/tw3muCuh/C5W5V5W5V5W5V/B
+BOARD 0 27 64 0 3S3S3S3SmKmLmMmNmOmPuAmMmNmOmPuAuBuCjojphDiTiUiVhDuhp8p9wayDyAwZp8p93R3S3S3S3SmKmLmMmNmOmPuAuBmLmMmNmOmPuAuBuCuh/C5G5F5G5F5G5F/B
+BOARD 0 28 64 0 3S3S3S3SmambmcmdmemfuQmcmdmemfuQuRuSj4j5hTijikilhTuxp8p9waxxxywZp8p93R3S3S3S3SmambmcmdmemfuQuRmbmcmdmemfuQuRuSuh/C5W5V5W5V5W5V/B
+BOARD 0 29 64 0 3S3S3S3ShAjgjhhBjjjkhBhBjljmhBjojphCkIkJhjizi0i1hjuxp8p9wayByCwZp8p93R3S3S3S3ShAjgjhhBjjjkhBiQiVhBjljmhBjojphCuh/C5G5F5G5F5G5F/B
+BOARD 0 30 64 0 3S3S3S3ShTjwjxhTjzj0hThTj1j2hTj4j5hTkYkZhzjDjEjFhzvBp8p9waxzxwwZp8p93R3S3S3S3ShTjwjxhTjzj0hTigilhTj1j2hTj4j5hTuh/C5W5V5W5V5W5V/B
+BOARD 0 31 64 0 3i3i3i3ihjkAkBhjkDkEhjhjkFkGhjkIkJhjjQjRiDjQjRjQiDvRp8p9wayDyAwZp8p93h3i3i3i3ihjkAwRwSwTkEhjiwi1hjkFkGhjkIkJhjuh/C5G5F5G5F5G5F/B
+BOARD 0 32 64 0 kgkhkikjhzkQkRhzkTkUhzhzkVkWhzkYkZhzlxlylzl0hDuzuwuhp8p9waxxxywZp8p9hDkgkhkikjhzkQwBwCwDkUhzjAjFhzkVkWhzkYkZhzuh/C5W5V5W5V5W5V/B
+BOARD 0 33 64 0 kwkxkykziDjQjRiDjSjQiDiDjRjQiDjRjSiDmBmCmDmEhTvDvAuxp8p9wayByCwZp8p9hTkwkxkykziDjQwBwCwDjQiDjSjQiDjRjQiDjRjSiDuh/C5G5F5G5F5G5F/B
+BOARD 0 34 64 0 lAlBlClDlEhDlFlGlHlGlGlHlIlHlIlJhDmQmRmSmTmUhjvTvQvBp8p9waxzxwwZp8p9hjlAlBlClDlEhDkgkhkikjkkhDlwlxlylzl0kghDujuh/C5W5V5W5V5W5V/B
+BOARD 0 35 64 0 lQlRlSlTlUhTlVlWlXlWlWlXlYlXlYlZhTmgmhmimjmkhzujugvRp8p9wayDyAwZp8p9hzlQlRlSlTlUhTkwkxkykzk0hTmAmBmCmDmEkwhTuzuh/C5G5F5G5F5G5F/B
+BOARD 0 36 64 0 lglhliljlkhjlllmlnlmlmlnlolnlolphjmwmymymzm0iDuzuwuhp8p9waxxxywZp8p9iDlglhliljlkhjlAlBlClDlEhjmQmRmSmTmUlAhjvDuh/C5W5V5W5V5W5V/B
+BOARD 0 37 64 0 uguhuiujughzl1l2l3l2l2l3l4l3l4l5hzuxuyuzuwmumvvDvAuxp8p9wayByCwZp8p9ujuguhuiujughzlQlRlSlTlUhzmgmglSlTmklQhzvTuh/C5G5F5G5F5G5F/B
+BOARD 0 38 64 0 uwuxuyuzuwiDmFmGmHmGmGmHmImHmImJiDujuguhuim+m/vTvQvBp8p9waxzxwwZp8p9uzuwuxuyuzuwiDlglhliljlkiDmwmwpapbm0lgiDujuh/C5W5V5W5V5W5V/B
+BOARD 0 39 64 0 vTvSvTvTuxuxuxp8papapbpcpdp9uxuxuxuxuxuxuxuxuxuxuxvRp8p9wayDyAwZp8p9qMp6p6p6p6qNuxuxuxuxuxuxp8paptpqprpdp9uxuxuh/C5G5F5G5F5G5F/B
+BOARD 0 40 64 0 p6p6p6p6p6p6p6qbpqpqprpsptqap6p6p6p6p6p6p6p6p6p6p6p6qbp9waxxxywZp8qaqbqKp7p7qLqap6p6p6p6p6p6qbpqpqprpsptqaqNmsmt/C5W5V5W5V5W5V/B
+BOARD 0 41 64 0 p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7qdwayByCwZqcp7p7qdwFwGqcp7p7p7p7p7p7p7p7p7p7p7p7p7qLp9m8m9/C5G5F5G5F5G5F/B
+BOARD 0 42 64 0 wJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwJwWxzxwwVwJwJwJwJwVwWwJwJwJwJwJwJwJwJwJwJwJwJwJwIp8p9vTux/C5W5V5W5V5W5V/B
+BOARD 0 43 64 0 yCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAyByCyDyAwZp8p9ujux/C5G5F5G5F5G5F/B
+BOARD 0 44 64 0 xwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxyxzxwxxxywZp8p9uiuj/C5W5V5W5V5W5V/B
+BOARD 0 45 64 0 wKwKwKwKwKwKwKwKwKwKwKwKwFwGwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwKwGyAyBwFwKwKwKwKwKwKwKwKwKwKwKwKwYp8p9uyuz/C5G5F5G5F5G5F/B
+BOARD 0 46 64 0 p6p6p6p6p6p6p6p6p6p6p6qNwVwWqMp6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6p6qNwaxyxzwZqMp6p6p6p6p6p6p6p6p6p6p6p6qbp9vCvD/C5W5V5W5V5W5V/B
+BOARD 0 47 64 0 p7p7p7p7p7p7p7p7p7p7qLqap6p6qbqKp7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7p7qLp9wayCyDwZp8qKp7p7p7p7p7p7p7p7p7p7p7p7qdvSvT/C5G5F5G5F5G5F/B
+BOARD 0 48 64 0 ujuguiujuguhuiujuguhqcp7p7p7p7qduguhuiujuguhuiujuguhvRvGnItBtAtBtAp8p9waxwxxwZp8p9uhuiujuguhuiujuguhuiujuguhuiuj/C5W5V5W5V5W5V/B
+BOARD 0 49 64 0 uy3D3D3k3E3EuwuxuyuzuwuxuyuzuwuxuyvLvMuxuy3D3D3k3E3EuhvRnYvGvHnInJp8p9wayAyBwZp8p9uxuyuzuwuxuyuzuwuxuyuzuwuxuyuz/C5G5F5G5F5G5F/B
+BOARD 0 50 64 0 mK3D3D3k3E3EuC3C3C3C3C3C3C3C3C3C3Cvbvc3CmK3D3D3k3E3EuCuhuimumvnYnZp8p9waxyxzwZp8p9vBvCvDvAvB2F2G3k3m3mvDvAvBvCvD/C5W5V5W5V5W5V/B
+BOARD 0 51 64 0 mK3D3D3k3E3EuC3R3S3S3S3S3S3S3S3S3Svrvs3TmK3D3D3k3E3EuCuxuym+m/uxvUp8p9wayCyDwZp8p9vRvSvTvR3l2V2W3k3m3m3mvRvSvSvT/C5G5F5G5F5G5F/B
+BOARD 0 52 64 0 mK3D3D3k3E3EuC3S3S3S3S3S3S3S3S3S3Sv7v83TmK3D3D3k3E3EuCvBvCvDvAnonpp8p9waxwxxwZp8p9uhuiujmK3l2l2m3k3m3m3m3muiuiuj/C5W5V5W5V5W5V/B
+BOARD 0 53 64 0 mK3D3D3k3E3EuC3S3S3S3S3S3S3S3S3S3S3S3S3SmK3D3D3k3E3EuCvRvSvTvQn4n5p8p9wayAyBwZp8qaqNuyuzmK3l213l3k3m3m3m3muyuyuz/C5G5F5G5F5G5F/B
+BOARD 0 54 64 0 mK3D3D3k3E3EuC3S3S3S3S3S3S3S3S3S3S3S3S3SmK3D3D3k3E3EuCuhuiujvUtBtAp8p9waxyxzwZqcqLp9vCvDmK3l3l3lls3m3m3muCvCvCvD/C5W5V5W5V5W5V/B
+BOARD 0 55 64 0 mK3D3D3k3E3EuC3S3S3S3S3S3S3S3S3S3S3S3S3SmK3D3D3k3E3EuCuxuyuzvktRtAp8p9wayCyDwFwGp8p9vSvTmK3l3lltlulv3m3muCvSvSvT/C5G5F5G5F5G5F/B
+BOARD 0 56 64 0 mK3D3D3k3E3EuC3S3S3S3S3S3S3S3S3S3S3S3S3SmK3D3D3k3E3EuCvBvCvDvAnItRp8p9waxwxxwVwWp8p9uiujmK3ll8l9l+l/tw3muCuiuiuj/C5W5V5W5V5W5V/B
+BOARD 0 57 64 0 3C3C3C3C3C3C3C3C3S3S3S3S3S3S3S3S3S3S3S3B3C3C3C3C3C3C3C3CvRvSvTvQnZp8p9wayAyBwZqMqbp9uyuzmKmLmMmNmOmPuAuBuCuyuymq/C5G5F5G5F5G5F/B
+BOARD 0 58 64 0 3S3S3S3S3S3S3S3T3S3S3S3S3S3S3S3S3S3S3S3R3S3S3S3S3S3S3S3TvCvDvCvDvAp8p9waxyxzwZp8qKqdmumvmambmcmdmemfuQuRuSmqmrmq/C5W5V5W5V5W5V/B
+BOARD 0 59 64 0 3S3S3S3S3S3S3S3T3C3C3C3C3C3C3C3C3C3C3C3R3S3S3S3S3S3S3S3TvSvTvSvTvQp8p9wayCyDwZp8p9vAm+m/hgkahhuxuxuxhikfhjmqmrm6/C5G5F5G5F5G5F/B
+BOARD 0 60 64 0 3S3S3S3S3S3S3S3T3S3S3S3S3S3S3S3S3S3S3S3R3S3S3S3S3S3S3S3Tuiujuiujugp8p9waxwxxwZp8p9vQuiujhwkqhxuxuxuxhykvhzm6m7mq/C5W5V5W5V5W5V/B
+BOARD 0 61 64 0 3S3S3S3S3S3S3S3T3S3S3S3S3S3S3S3S3S3S3S3R3S3S3S3S3S3S3S3Tuyuzuyuzuwp8p9wayAyBwZp8p9uxuyuzhzk6iBujuguhiCk/hzmqmrmq/C5G5F5G5F5G5F/B
+BOARD 0 62 64 0 3S3S3S3S3S3S3S3T3S3S3S3S3S3S3S3S3S3S3S3R3S3S3S3S3S3S3S3TvCvDvCvDvAp8p9waxyxzwZp8p9vBvCvDiAp9papbpcpdpdp9iAm6m7mq/C5W5V5W5V5W5V/B
+BOARD 0 63 64 0 3i3i3i3i3i3i3i3j3S3S3S3S3S3S3S3S3S3S3S3h3i3i3i3i3i3i3i3jvSvTvSvTvQp8p9wayCyDwZp8qap6p6p6p6qbpqprpsptptqap6qNvSm6/C5G5F5G5F5G5F/B
+LINK newgreendale_b2.nw 0 0 1 64 61 playery
+LINK newgreendale_c1.nw 0 0 64 1 playerx 61
+LINK newgreendale_c3.nw 0 63 64 1 playerx 0
+LINK newgreendaleint_house-school.nw 9 39 3 1 30.5 43
+LINK newgreendaleint_house-b2a.nw 10 9 3 1 23.5 50
+LINK newgreendaleint_house-c1a.nw 48 37 3 1 23.5 50
+LINK newgreendaleint_housebakery.nw 47 61 3 1 24 29
+NPC seg_housetop.png 54 18
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_housetop.png 6 49
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC - 39 17
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val_rp-crate.png 17 35
+// NPC made by General Nikolous Schestok, of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 35 34
+// NPC made by General Nikolous Schestok, of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 35 36
+// NPC made by General Nikolous Schestok, of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_housetop2.png 21 46
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC seg_housetop.png 16 17
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_housetop.png 53 17
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_housetop.png 20 49
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_housetop.png 39 18
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_housetop.png 40 17
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_window.png 41 35
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x += .5;
+}
+NPCEND
+NPC seg_housetop2.png 41 14
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC seg_housetop.png 5 17
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_housetop.png 46 17
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_door.png 47 35
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {x+=0.5;
+   drawunderplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_window.png 49 30
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x += .5;
+}
+NPCEND
+NPC seg_window.png 12 30
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x += .5;
+}
+NPCEND
+NPC seg_window-plant1.png 41 36
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x += 1;
+  drawoverplayer;
+}
+NPCEND
+NPC val_rp-crate.png 37 35
+// NPC made by General Nikolous Schestok, of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 19 37
+// NPC made by General Nikolous Schestok, of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_door.png 46 58
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {}
+NPCEND
+NPC seg_housetop2.png 48 14
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC seg_housetop.png 51 50
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_housetop.png 47 17
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_housetop.png 45 50
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC - 45 49
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC seg_housetop2.png 46 47
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC seg_housetop.png 52 51
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_housetop.png 44 51
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_housetop2.png 6 14
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC seg_housetop2.png 1 46
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC seg_housetop.png 0 49
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_housetop.png 26 49
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC - 16 48
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND
+NPC val_rp-crate.png 17 37
+// NPC made by General Nikolous Schestok, of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 36 37
+// NPC made by General Nikolous Schestok, of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_rp-crate.png 38 37
+// NPC made by General Nikolous Schestok, of
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val-newtreething.gif 52 10
+join("world_pinetree");
+//#CLIENTSIDE
+NPCEND
+NPC val-newtreething.gif 44 43
+join("world_pinetree");
+//#CLIENTSIDE
+NPCEND
+NPC valikorlia_ironstreetlamp-off.gif 12 40
+function onCreated() {
+  y-=0.8;
+  join("world_streetlamp");
+}
+NPCEND
+NPC valikorlia_ironstreetlamp-off.gif 38 49
+join("world_streetlamp");
+NPCEND
+NPC val-newtreething.gif 28 61
+join("world_pinetree");
+//#CLIENTSIDE
+NPCEND
+NPC val-newtreething.gif 27 48
+join("world_pinetree");
+//#CLIENTSIDE
+NPCEND
+NPC val-newtreething.gif 22 42
+join("world_pinetree");
+//#CLIENTSIDE
+NPCEND
+NPC seg_housetop2.png 11 14
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  dontblock;
+  drawoverplayer;
+}
+NPCEND
+NPC seg_housetop.png 17 18
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,16,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_housetop.png 4 18
+//NPC made by Glaecyn
+//#CLIENTSIDE
+if(created){
+  setimgpart seg_housetop.png,0,0,16,16;
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_door.png 8 35
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {x+=0.5;
+   drawunderplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_window.png 5 30
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x += .5;
+}
+NPCEND
+NPC seg_window-plant1.png 12 31
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x += 1;
+  drawoverplayer;
+}
+NPCEND
+NPC val_rp-barrel.png 5 37
+//#CLIENTSIDE
+if (created||playerenters)
+{
+dontblock;
+}
+NPCEND
+NPC val_rp-barrel.png 18 6
+//#CLIENTSIDE
+if (created||playerenters)
+{
+dontblock;
+}
+NPCEND
+NPC seg_balcony1.gif 39 30
+// NPC made by Drakken_2001
+if (created) {
+drawunderplayer;dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_balcony2.gif 39 30
+// NPC made by Drakken_2001
+if (created) {
+drawoverplayer;dontblock;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC seg_window.png 6 2
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x += .5;
+}
+NPCEND
+NPC valikorlia_ironstreetlamp-off.gif 15 10
+join("world_streetlamp");
+NPCEND
+NPC valikorlia_ironstreetlamp-off.gif 36 35
+join("world_streetlamp");
+NPCEND
+NPC valikorlia_ironstreetlamp-off.gif 36 35
+join("world_streetlamp");
+NPCEND
+NPC seg_windfall-flag2.png 25 25
+// NPC made by Wyand OOC
+//#CLIENTSIDE
+if (created) {
+  drawoverplayer;
+  dontblock;
+}
+NPCEND
+NPC seg_door.png 9 7
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {x+=0.5;
+   drawunderplayer;
+  dontblock;
+}
+NPCEND
+NPC val_rp-barrel.png 21 8
+//#CLIENTSIDE
+if (created||playerenters)
+{
+dontblock;
+}
+NPCEND
+NPC valikorlia_ironstreetlamp-off.gif 31 8
+join("world_streetlamp");
+NPCEND
+NPC seg_window.png 19 0
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x += .5;
+}
+NPCEND
+NPC seg_window-plant1.png 19 1
+// NPC made by Glaecyn
+//#CLIENTSIDE
+if (created) {
+  x += 1;
+  drawoverplayer;
+}
+NPCEND
+NPC val-newtreething.gif 35 16
+join("world_pinetree");
+//#CLIENTSIDE
+NPCEND
+NPC val-newtreething.gif 38 8
+join("world_pinetree");
+//#CLIENTSIDE
+NPCEND
+NPC val-newtreething.gif 45 9
+join("world_pinetree");
+//#CLIENTSIDE
+NPCEND
+NPC val-newtreething.gif 34 -3
+join("world_pinetree");
+//#CLIENTSIDE
+NPCEND
+NPC valikorlia_ironstreetlamp-off.gif 52 1
+join("world_streetlamp");
+NPCEND
+NPC val_rp-goodcastledoor.gif 48 35
+if (playerchats){
+  if (strequals(#c,Unlock)){
+    if (strequals(#a,Mutaira)){
+      hide;
+    }
+  }
+}
+if (playerchats){
+  if (strequals(#c,lock)){
+    if (strequals(#a,Mutaira)){
+      show;
+    }
+  }
+}drawunderplayer;
+NPCEND
+NPC val_ironfence2.gif 1 18
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 0 18
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 3 18
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 0 36
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence2.gif 1 36
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 3 36
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC val_ironfence1.gif 4 36
+//#CLIENTSIDE
+// NPC made by Dame Eleanor Fay Garside, the Oakburn Knight of (Greendale)
+if (created) {
+setimgpart val_ironfence1.gif,16*3,0,16,48;
+}
+if (playertouchsme) {
+}
+NPCEND
+NPC - 20 20
+//#CLIENTSIDE
+function onCreated()
+  {
+  with(findimg(10))
+    {
+    x=x;
+    y=y;
+    emitter.autorotation=false;
+    emitter.nrofparticles = 1;
+    emitter.isfrozen = false;
+    emitter.delaymin=.1;
+    emitter.delaymax=.1;
+    emitter.maxparticles=50;
+    emitter.particle.image = "g4_particle_cloud.png";
+    emitter.particle.spin = 1;
+    emitter.particle.alpha = .1;
+    emitter.particle.lifetime=2;
+    emitter.particle.speed = 1;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 0;
+    emitter.particle.angle = degtorad(80);;
+    emitter.addlocalmodifier("once",0,0,"spin","replace",-1,1);
+    emitter.addlocalmodifier("range",0,5,"angle","replace",degtorad(80),0);
+    emitter.addlocalmodifier("range",0,6,"speed","replace",3,7);
+    emitter.addlocalmodifier("range",0,5,"zoom","replace",.2,3);
+    emitter.addlocalmodifier("range",0,6,"alpha","replace",.1,0);
+    emitter.emit();
+  }
+}
+NPCEND

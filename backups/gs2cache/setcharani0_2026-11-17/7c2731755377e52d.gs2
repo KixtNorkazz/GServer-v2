@@ -1,0 +1,54 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "suirikuhalberdshield.gif";
+  this.head = "jacobbpeters-adventurerhead2.gif";
+  this.body = "arwind-marseillesbody2.gif";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  setcharani("0", NULL);
+  this.nick = "";
+  setcharani("val-weapon-crossbow_idle", NULL);
+  this.dir = 3;
+  this.ap = 100;
+}
+
+function onPlayerChats() {
+  if ((player.guild == "Bridgeton")) {
+    if ((player.chat == "Open Gate3")) {
+      this.chat = "Right away Sir!";
+      this.dir = 2;
+      sleep(0.5);
+      this.sprite = 14;
+      sleep(0.3);
+      sleep(0.4);
+      setcharani("val-weapon-crossbow_idle", NULL);
+      sleep(0.1);
+      this.dir = 3;
+      sleep(0.5);
+      this.chat = "";
+    }
+  }
+  if ((player.guild == "Bridgeton")) {
+    if ((player.chat == "Close Gate3")) {
+      this.chat = "Right away Sir!";
+      this.dir = 2;
+      sleep(0.5);
+      this.sprite = 14;
+      sleep(0.3);
+      sleep(0.4);
+      setcharani("val-weapon-crossbow_idle", NULL);
+      sleep(0.1);
+      this.dir = 3;
+      sleep(0.5);
+      this.chat = "";
+    }
+  }
+}
+
+function onPlayerTouchsMe() {
+  say2("My daughter is so smart that#bit blows me away sometimes.#bShe'll probably end up in#bthe Engineer's Guild when she's#bgrown up.");
+}

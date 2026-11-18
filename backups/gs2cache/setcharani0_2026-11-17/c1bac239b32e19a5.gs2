@@ -1,0 +1,17 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "head34.png";
+  this.body = "eingard-scoutbody2.gif";
+  this.colors[0] = "gray";
+  this.colors[1] = "yellow";
+  this.colors[2] = "lightgray";
+  this.colors[3] = "lightgray";
+  this.colors[4] = "lightgray";
+  setcharani("0", NULL);
+  this.nick = "Kenneth Rogers, Armorer of Staghorn";
+  this.ap = 100;
+  setcharani("idle", NULL);
+  this.dir = 2;
+}

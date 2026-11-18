@@ -1,0 +1,23 @@
+//#CLIENTSIDE
+function onCreated() {
+  showcharacter();
+  this.shield = "no-shield.gif";
+  this.head = "head5.png";
+  this.body = "arwind-smeewnedit-body100.png";
+  this.colors[0] = "lightgray";
+  this.colors[1] = "orange";
+  this.colors[2] = "white";
+  this.colors[3] = "gray";
+  this.colors[4] = "black";
+  this.nick = "Drunken Off-Duty Guard Bilby";
+  setcharani("0", NULL);
+  setcharani("sit", NULL);
+  this.dir = 2;
+  this.ap = 100;
+  this.x = this.x+.3;
+}
+
+function onPlayerTouchsMe() {
+  say2("Hic! 'Ey there...man!  ..Howsh#b
+it goin'?...");
+}

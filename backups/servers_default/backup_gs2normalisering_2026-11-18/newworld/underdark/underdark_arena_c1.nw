@@ -1,0 +1,439 @@
+GLEVNW01
+BOARD 0 0 64 0 nrnsbobpbobpbonqnrnrnsbpbobpbobpnancbobpbobpbonancbpbobpbobpnqnrnrnsnqnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbncbobpbobpbobpnanccA
+BOARD 0 1 64 0 n7n8b4b5b4b5b4n6n7n7n8b5b4b5b4b5n6n8b4b5b4b5b4n6n8b5b4b5b4b5n6n7n7n8nqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsb4b5b4b5b4b5nqnscA
+BOARD 0 2 64 0 3G3lnanbnbnbnc3h3G3G3lnanbnbnbnc3h3lnanbnbnbnc3h3lnanbnbnbnc3h3G3GnanrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsbobpbobpbobpnqnscA
+BOARD 0 3 64 0 3o9Tn6n7n7n7n89S3o3o9Tn6n7n7n7n89S9Tn6n7n7n7n89S9Tn6n7n7n7n89S3o3onqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsb4b5b4b5b4b5nanccA
+BOARD 0 4 64 0 3F3S3T3T3T3T3T3U3F3F3S3T3T3T3T3T3U3S3T3T3T3T3T3U3S3T3T3T3T3T3U3F3FnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsbobpbobpbobpnqnscA
+BOARD 0 5 64 0 3o9X8k/T8F/S8l9W3o3o9X8k/T8F/S8l9W9X2i2k8F2h2j9W9X8k/T8F/S8l9W3o3onqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsb4b5b4b5b4b5nqnscA
+BOARD 0 6 64 0 3o/W80818V8081/X3o3o/W80818V8081/X2x2y2z212y2z20nanbnbnbnbnbnbnbncnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsbobpbobpbobpn6n8cA
+BOARD 0 7 64 0 3o8z/V/V1B/V/V8y3o3o8z/V/V1B/V/V8y3i3j3j3j3j3j3knqnrnrnrnrnrnrnrnsnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsb4b5b4b5b4b53h3lcA
+BOARD 0 8 64 0 3o9D/V/V1R/V/V9C3o3o9D/V/V1R/V/V9C9DfHfHfHfHfH9Cnqnrnrnrnrnrnrnrnsnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsbobpbobpbobp9S9TcA
+BOARD 0 9 64 0 3o9T8E8E1h8E8E9S3o3o9T8E8E1h8E8E9S9nfHfHfHfHfH9Snqnrnrnrnrnrnrnrnsnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsb4b5b4b5b4b5nanccA
+BOARD 0 10 64 0 3G3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k3lfHfHfHfHfH3hnqnrnrnrnrnrnrnrnsnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnsbobpbobpbobpnqnscA
+BOARD 0 11 64 0 3o9X2i2k8F2h2j9W3o3o9X2i2k8F2h2j9W9DfHfHfHfHfH9Cnqnrnrnrnrnrnrnrnsnqnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrnrn7n8b4b5b4b5b4b5nqnscA
+BOARD 0 12 64 0 3G3i3j3j3j3j3j3k3G3G3i3j3j3j3j3j3k+TU4U4U4U4U4+Snqnrnrnrnrnrnrnrnsn6n7n7n7n7n7n7n7n7n7n7n7n7n7n7n7n7n7n7n8nancbobpbobpbobpnanccA
+BOARD 0 13 64 0 FRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFSTvbkbkbkbkbkbgnqnrnrnrnrnrnrnrns3h3i3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3jnqnsb4b5b4b5b4b5nqnscA
+BOARD 0 14 64 0 FhFhFhFhFhFhFhFhFhFhFhFhFhFhFhFhFibzTrTrTrTrTrb0nqnrnrnrnrnrnrnrns339X9W9X28299W9X28299W9X28299W9X28299W9XnqnsbobpbobpbobpnqnscA
+BOARD 0 15 64 0 zf7Qzf7Qzfzf7Qzf7Qzf7Qzf7Qzfzf7QzfT/bjbjbjbjbjbwnqnrnrnrnrnrnrnrns3R3F3F3S3T3T3U3S3T3T3U3S3T3T3U3S3T3T3U3Fn6n8b4b5b4b5b4b5n6n8cA
+BOARD 0 16 64 0 3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3jcwcQcQcQcQcQcxn6n7n7n7n7n7n7n7n89C3o3o9D/U/U9C9D/U/U9C9D/U/U9C9D/U/U9C3o3h3lbobpbobpbobp3h3lcA
+BOARD 0 17 64 0 FRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFScwcQcQcQcQcQcx3R3F3F3F3F3F3F3F3V9C3o3o9D/U/U9C9D/U/U9C9D/U/U9C9D/U/U9C3o9S9Tb4b5b4b5b4b59S9TcA
+BOARD 0 18 64 0 FhFhFhFhFhFhFhFhFhFhFhFhFhFhFhFhFibzTrTrTrTrTrb03h3G3G3G3G3G3G3G3l9S3o3o9D/U/U9C9D/U/U9C9D/U/U9C9D/U/U9C3onancbobpbobpbobpnanccA
+BOARD 0 19 64 0 zf7Qzf7Qzfzf7Qzf7Qzf7Qzf7Qzfzf7QzfT/bjbjbjbjbjbw9C3W9D9C3W9D9C3W9D3h3G3G3i3j3j3k3i3j3j3k3i3j3j3k3i3j3j3k3Gnqnsb4b5b4b5b4b5nqnscA
+BOARD 0 20 64 0 3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3jcwcQcQcQcQcQcx9C3m9D9C3m9D9C3m9D9C3o3o9D8U8U9C9D8U8U9C9D8U8U9C9D8U8U9C3onqnsbobpbobpbobpnqnscx
+BOARD 0 21 64 0 FRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFScwcQcQcQcQcQcx33328D8C328D8C32349C3o3o9D/V/V9C9D/V/V9C9D/V/V9C9D/V/V9C3onancb4b5b4b5b4b5nancvP
+BOARD 0 22 64 0 FhFhFhFhFhFhFhFhFhFhFhFhFhFhFhFhFibzTrTrTrTrTrb03R3F3F3F3F3F3F3F3V9S3o3o9D8E8E9C9D8E8E9C9D8E8E9C9D8E8E9C3on6n8bobpbobpbobpn6n8sP
+BOARD 0 23 64 0 zf7Qzf7Qzfzf7Qzf7Qzf7Qzf7Qzfzf7QzfT/bjbjbjbjbjbw3h3G3G3G3G3G3G3G3l3h3G3G3i3j3j3k3i3j3j3k3i3j3j3k3i3j3j3k3G3h3lb4b5b4b5b4b53h3lch
+BOARD 0 24 64 0 3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3jcwcQcQcQcQcQcx9C3W9D9C3W9D9C3W9D9C3o3o9D8U8U9C9D8U8U9C9DcQcQ+S+TVU7QFAFB9S9Tbobpbobpbobp9S9TcA
+BOARD 0 25 64 0 FRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFScwcQcQcQcQcQcx9C3m9D9C3m9D9C3m9D9C3o3o9D/V/V9C9DcQcQ+S+TVU7gFAFBWD7gFQFRnancb4b5b4b5b4b5nanccA
+BOARD 0 26 64 0 FhFhFhFhFhFhFhFhFhFhFhFhFhFhFhFhFibzTrTrTrTrTrb09C329D9C329D9C329D9C3o3o9DcQcQ+S+TVU7QFAFBWD7QFQFRWD7QFQFRnqnsbobpbobpbobpnqnscA
+BOARD 0 27 64 0 zf7Qzf7Qzfzf7Qzf7Qzf7Qzf7Qzfzf7QzfT/bjbjbjbjbjbw+S3X+T+S3X+T+S3X+T+S3X3X+TVU7gFAFBWD7gFQFRWD7gFQFRWD7gFQFRnqnsb4b5b4b5b4b5nqnscA
+BOARD 0 28 64 0 3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3jcwcQcQcQcQcQcx3j3j3j3j3j3j3j3j3j3j3jFAFBWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRnancbobpbobpbobpnanccA
+BOARD 0 29 64 0 FRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFScwcQcQcQcQcQcx7gzv7gzv7gzv7gzv7gzv7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRn6n8b4b5b4b5b4b5n6n8cA
+BOARD 0 30 64 0 FhFhFhFhFhFhFhFhFhFhFhFhFhFhFhFhFibzTrTrTrTrTrb07Qzf7Qzf7Qzf7Qzf7Qzf7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFR3h3lbobpbobpbobp3h3lcA
+BOARD 0 31 64 0 zv7gzv7gzvzv7gzv7gzv7gzv7gzvzv7gzvT/bjbjbjbjbjbw7gzv7gzv7gzv7gzv7gzv7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFR9S9Tb4b5b4b5b4b59S9TcA
+BOARD 0 32 64 0 WEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEWEVU7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFgFhnancbobpbobpbobpnanccA
+BOARD 0 33 64 0 3F3S3T3T3T3T3T3T3T3T3T3T3T3T3U3F3F3V8U3R3V8U8U3R3VcQcQ+S+TVU7gFAFBWD7gFQFRWD7gFQFRWD7gFQFRWD7gFgFhcgTvbkbgnqnsb4b5b4b5b4b5nqnscA
+BOARD 0 34 64 0 3o9D8U8U8U8U8U8U8U8U8U8U8U8U9C3o3o9D/V9C9DcQcQ+S+TVU7QFAFBWD7QFQFRWD7QFQFRWD7QFQFRWD7QFgFhcgTvbkcgcBbzTrb0nqnsbobpbobpbobpnqnscA
+BOARD 0 35 64 0 3o9D8E8E8E8E8E8E8E8E8E8E8E8E9C3o3oWWcQ+S+TVU7gFAFBWD7gFQFRWD7gFQFRWD7gFQFRWD7gFgFhcgTvbkcgcBbzTrcBcBbzTrb0nancb4b5b4b5b4b5nanccA
+BOARD 0 36 64 0 3G3i3j3j3j3j3j3j3j3j3j3j3j3j3k3G3GWX7QFAFBWD7QFQFRWD7QFQFRWD7QFQFRWD7QFgFhcgTvbkcgcBbzTrcBcBbzTrcBcBbzTrb0nqnsbobpbobpbobpnqnscA
+BOARD 0 37 64 0 3o9Dd+9D941L1M1L1M1L1M949Cd+9C3o3oWX7gFQFRWD7gFQFRWD7gFQFRWD7gFgFhcgTvbkcgcBbzTrcBcBbzTrcBcBbzTrcBcBbzTrb0nqnsb4b5b4b5b4b5nqnscA
+BOARD 0 38 64 0 3o9nd+9D+IcQcQcQcQcQcQ+I9Cd+9S3o3oWX7QFQFRWD7QFQFRWD7QFgFhcgTvbkcgcBbzTrcBcBbzTrcBcBbzTrcBcBbzTrcBcBbzTrb0n6n8bobpbobpbobpn6n8cA
+BOARD 0 39 64 0 3G3ld+9D7U7T7U7T7U7U7T7U9Cd+3h3G3GWW7gFQFRWD7gFgFhcgTvbkcgcBbzTrcBcBbzTrcBcBbzTrcBcBbzTrcBcBbzTrcBcwT/bjbw3h3lb4b5b4b5b4b53h3lcA
+BOARD 0 40 64 0 3o9Dd+9D7k7j7k7j7k7k7j7k9Cd+9C3o3oWX7QFgFhcgTvbkcgcBbzTrcBcBbzTrcBcBbzTrcBcBbzTrcBcBbzTrcBcwT/bjcwWD7QFAFB9S9Tbobpbobpbobp9S9TcA
+BOARD 0 41 64 0 3o9Dd+9D7U7T7U7T7U7U7T7U9Cd+9C3o3oWXTvbkcgcBbzTrcBcBbzTrcBcBbzTrcBcBbzTrcBcBbzTrcBcwT/bjcwWD7gFAFBWD7gFQFRnancb4b5b4b5b4b5nanccA
+BOARD 0 42 64 0 3o9DW5+T7k7j7k7j7k7k7j7k+SW59C3o3oWXbzTrcBcBbzTrcBcBbzTrcBcBbzTrcBcBbzTrcBcwT/bjcwWD7QFAFBWD7QFQFRWD7QFQFRnqnsbobpbobpbobpnqnscA
+BOARD 0 43 64 0 3X+TcwWEWEWEWEWEWEWEWEWEWEcx+S3X3XWWbzTrcBcBbzTrcBcBbzTrcBcBbzTrcBcwT/bjcwWD7gFAFBWD7gFQFRWD7gFQFRWD7gFQFRnqnsb4b5b4b5b4b5nqnscA
+BOARD 0 44 64 0 3G3G3i3j3j3j3j3j3j3j3j3j3j3k3G3G3GWXbzTrcBcBbzTrcBcBbzTrcBcwT/bjcwWD7QFAFBWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRnancbobpbobpbobpnanccA
+BOARD 0 45 64 0 didT0e8Q0f8Q0f8Q0f0f8Q0f8Q8RdSdidiWXbzTrcBcBbzTrcBcwT/bjcwWD7gFAFBWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRnqnsb4b5b4b5b4b5nqnscA
+BOARD 0 46 64 0 didT0u8g0v8g0v8g0v0v8g0v8g8hdSdidiWXbzTrcBcwT/bjcwWD7QFAFBWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRnqnsbobpbobpbobpnqnscA
+BOARD 0 47 64 0 didT0e8Q0f8Q0f8Q0f0f8Q0f8Q8RdSdidiWWT/bjcwWD7gFAFBWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRn6n8b4b5b4b5b4b5n6n8cA
+BOARD 0 48 64 0 didT0u8g0v8g0v8g0v0v8g0v8g8hdSdidiWX7QFAFBWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFR3h3lbobpbobpbobp3h3lcA
+BOARD 0 49 64 0 didT0e8Q0f8Q0f8Q0f0f8Q0f8Q8RdSdidiWX7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFR9S9Tb4b5b4b5b4b59S9T0F
+BOARD 0 50 64 0 didT0u8g0v8g0v8g0v0v8g0v8g8hdSdidiWX7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRnancbobpbobpbobpnancfc
+BOARD 0 51 64 0 didT0e8Q0f8Q0f8Q0f0f8Q0f8Q8RdSdidiWW7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRnqnsb4b5b4b5b4b5nqnsfc
+BOARD 0 52 64 0 didT0u8h312l0u312l8h312l0u8hdSdidiWX7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRnqnsbobpbobpbobpnqnsfc
+BOARD 0 53 64 0 3G3G3i3j3j3j3j3j3j3j3j3j3j3k3G3G3GWX7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRnancb4b5b4b5b4b5nancfc
+BOARD 0 54 64 0 U4U4cQcQcQcQcQcQcQcQcQcQcQcQU4U4U4WX7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRn6n8bobpbobpbobpn6n8fc
+BOARD 0 55 64 0 TTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTWW7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFR3h3lb4b5b4b5b4b53h3lfc
+BOARD 0 56 64 0 TjTkTjTkTjTkTjTkTjVTWEWEWEWEWEVUTjWX7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFR9S9Tbobpbobpbobp9S9T0l
+BOARD 0 57 64 0 TTTUTTTUTTTUTTTUTTV0/U/U/U/U/UWDTTWX7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRnancb4b5b4b5b4b5nanc0Q
+BOARD 0 58 64 0 TjTkTjTkTjTkTjTkTjV0/U/U/U/U/UWDTjWX7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRnqnsbobpbobpbobpnqns0g
+BOARD 0 59 64 0 TTTUTTTUTTTUTTTUTTV0/U/U/U/U/UWDTTWW7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRnqnsb4b5b4b5b4b5nqns0Q
+BOARD 0 60 64 0 TjTkTjTkTjTkTjTkTjV0/U/U/U/U/UWDTjWX7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRnancbobpbobpbobpnanc0g
+BOARD 0 61 64 0 TTTUTTTUTTTUTTTUTTV0/U/U/U/U/UWDTTWX7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRn6n8b4b5b4b5b4b5n6n80Q
+BOARD 0 62 64 0 TjTkTjTkTjTkTjTkTjVjVzVzVzVzVzVkTjWX7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFRWD7QFQFR3h3lbobpbobpbobp3h3lsO
+BOARD 0 63 64 0 TTTUTTTUTTTUTTTUTTTUTTTUTTTUTTTUTTWW7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFRWD7gFQFR9S9Tb4b5b4b5b4b59S9Tch
+LINK underdark_arena_int_05.nw 53 33 1 7 34 34.5
+LINK underdark_arena_int_16.nw 3 37 10 1 48.5 46
+NPC - 12 41
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_baluster_gothicunderdark.png",5*16,0,16,48);
+dontblock();
+}
+NPCEND
+NPC - 3 41
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_baluster_gothicunderdark.png",5*16,0,16,48);
+dontblock();
+}
+NPCEND
+NPC - 5 41
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_baluster_gothicunderdark.png",0*16,0,16,48);
+dontblock();
+}
+NPCEND
+NPC val_reddrape2.gif 3 37
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_reddrape1.gif 10 37
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_reddrapetop1.gif 3 37
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC - 6 41
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_baluster_gothicunderdark.png",0*16,0,16,48);
+dontblock();
+}
+NPCEND
+NPC - 7 41
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_baluster_gothicunderdark.png",0*16,0,16,48);
+dontblock();
+}
+NPCEND
+NPC - 8 41
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_baluster_gothicunderdark.png",0*16,0,16,48);
+dontblock();
+}
+NPCEND
+NPC - 9 41
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_baluster_gothicunderdark.png",0*16,0,16,48);
+dontblock();
+}
+NPCEND
+NPC - 10 41
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_baluster_gothicunderdark.png",0*16,0,16,48);
+dontblock();
+}
+NPCEND
+NPC - 11 41
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_baluster_gothicunderdark.png",7*16,0,16,48);
+dontblock();
+}
+NPCEND
+NPC - 4 41
+//#CLIENTSIDE
+function onCreated() {
+setimgpart("val_baluster_gothicunderdark.png",6*16,0,16,48);
+dontblock();
+}
+NPCEND
+NPC val_throne_gothic.png 6 37
+//#CLIENTSIDE
+function onCreated() {
+  drawunderplayer();
+  setshape2 4,5,{
+    0,0,0,0,
+    0,22,22,0,
+    0,3,3,0,
+    0,3,3,0,
+    0,3,3,0,
+   };
+}
+NPCEND
+NPC val_reddrapetop1.gif 6 37
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_reddrapetop1.gif 9 37
+//#CLIENTSIDE
+function onCreated() {
+dontblock();
+drawoverplayer();
+}
+NPCEND
+NPC val_valcastle-torch.png 8 6
+//#CLIENTSIDE
+function onCreated() {
+  emit();
+}
+function emit(){
+ with (findimg(200)) {
+    // Shadow
+
+    // Emitter attributes
+    layer = 1;
+    emitter.delaymin = 0.05;
+    emitter.delaymax = 0.05;
+    emitter.nrofparticles = 2;
+    emitter.firstinfront = false;
+    emitter.emissionoffset = {0.1, -.25, 0.3};
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 0.4;
+    emitter.particle.image = "g4_animation_fire.gif";
+
+    // Color
+    emitter.particle.alpha = 0.3;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 2; // subtract
+
+    // Movement
+    emitter.particle.angle = pi / 2;
+    emitter.particle.speed = 4;
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.1, 0.1);
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -0.15, 0.15);
+    emitter.addlocalmodifier("range", 0, 0.6, "alpha", "replace", 0.3, 0);
+    emitter.addlocalmodifier("range", 0, 0.2, "zoom", "replace", .2, .5);
+    emitter.addlocalmodifier("range", 0.2, 0.4, "zoom", "replace", 1, .5);
+    emitter.addlocalmodifier("range", 0, 0.6, "speed", "replace", 4, 8);
+  }
+
+  with (findimg(201)) {
+    // Fire
+
+    // Emitter attributes
+    layer = 2;
+    emitter.delaymin = 0.05;
+    emitter.delaymax = 0.05;
+    emitter.nrofparticles = 4;
+    emitter.firstinfront = false;
+    emitter.emissionoffset = {0.1, -.25, 0};
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 0.4;
+    emitter.particle.image = "g4_animation_fire.gif";
+
+    // Color
+    emitter.particle.red = 1;
+    emitter.particle.green = 0.5;
+    emitter.particle.blue = 0.5;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.zoom = .15;
+    emitter.particle.mode = 0; // add like a light
+
+    // Movement
+    emitter.particle.angle = pi / 2;
+    emitter.particle.speed = 4;
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.1, 0.1);
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -.1, .25);
+    emitter.addlocalmodifier("range", 0, 0.4, "alpha", "replace", 0.4, 0);
+    emitter.addlocalmodifier("range", 0, 0.2, "zoom", "replace", .35, .85);
+    emitter.addlocalmodifier("range", 0.2, 0.4, "zoom", "replace", .15, .5);
+    emitter.addlocalmodifier("range", 0, 0.4, "speed", "replace", 4, 8);
+  }
+}
+if (timeout || playerenters) {
+  showimg 1,light2.png,x-3.1,y-3;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.6;
+  changeimgzoom 1,random(1.3,1.5);
+  timeout=.1;
+}
+NPCEND
+NPC val_underdark_arenalattice.png 2 37
+//#CLIENTSIDE
+function onPlayerenters() {
+dontblock();
+drawoverplayer();
+timeout = 0.05;
+this.mode = 1;
+}
+function onTimeout() {
+  if(playerx in |x,x+10|&&playery in |y,y+7|){
+    this.alpha = 0.5;
+  } else {
+    this.alpha = 1;
+  }
+  timeout = 0.05;
+}
+NPCEND
+NPC val_valcastle-torch.png 15 33
+//#CLIENTSIDE
+function onCreated() {
+  emit();
+}
+function emit(){
+ with (findimg(200)) {
+    // Shadow
+
+    // Emitter attributes
+    layer = 1;
+    emitter.delaymin = 0.05;
+    emitter.delaymax = 0.05;
+    emitter.nrofparticles = 2;
+    emitter.firstinfront = false;
+    emitter.emissionoffset = {0.1, -.25, 0.3};
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 0.4;
+    emitter.particle.image = "g4_animation_fire.gif";
+
+    // Color
+    emitter.particle.alpha = 0.3;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 2; // subtract
+
+    // Movement
+    emitter.particle.angle = pi / 2;
+    emitter.particle.speed = 4;
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.1, 0.1);
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -0.15, 0.15);
+    emitter.addlocalmodifier("range", 0, 0.6, "alpha", "replace", 0.3, 0);
+    emitter.addlocalmodifier("range", 0, 0.2, "zoom", "replace", .2, .5);
+    emitter.addlocalmodifier("range", 0.2, 0.4, "zoom", "replace", 1, .5);
+    emitter.addlocalmodifier("range", 0, 0.6, "speed", "replace", 4, 8);
+  }
+
+  with (findimg(201)) {
+    // Fire
+
+    // Emitter attributes
+    layer = 2;
+    emitter.delaymin = 0.05;
+    emitter.delaymax = 0.05;
+    emitter.nrofparticles = 4;
+    emitter.firstinfront = false;
+    emitter.emissionoffset = {0.1, -.25, 0};
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 0.4;
+    emitter.particle.image = "g4_animation_fire.gif";
+
+    // Color
+    emitter.particle.red = 1;
+    emitter.particle.green = 0.5;
+    emitter.particle.blue = 0.5;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.zoom = .15;
+    emitter.particle.mode = 0; // add like a light
+
+    // Movement
+    emitter.particle.angle = pi / 2;
+    emitter.particle.speed = 4;
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.1, 0.1);
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -.1, .25);
+    emitter.addlocalmodifier("range", 0, 0.4, "alpha", "replace", 0.4, 0);
+    emitter.addlocalmodifier("range", 0, 0.2, "zoom", "replace", .35, .85);
+    emitter.addlocalmodifier("range", 0.2, 0.4, "zoom", "replace", .15, .5);
+    emitter.addlocalmodifier("range", 0, 0.4, "speed", "replace", 4, 8);
+  }
+}
+if (timeout || playerenters) {
+  showimg 1,light2.png,x-3.1,y-3;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.6;
+  changeimgzoom 1,random(1.3,1.5);
+  timeout=.1;
+}
+NPCEND
+NPC val_valcastle-torch.png 34 20
+//#CLIENTSIDE
+function onCreated() {
+  emit();
+}
+function emit(){
+ with (findimg(200)) {
+    // Shadow
+
+    // Emitter attributes
+    layer = 1;
+    emitter.delaymin = 0.05;
+    emitter.delaymax = 0.05;
+    emitter.nrofparticles = 2;
+    emitter.firstinfront = false;
+    emitter.emissionoffset = {0.1, -.25, 0.3};
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 0.4;
+    emitter.particle.image = "g4_animation_fire.gif";
+
+    // Color
+    emitter.particle.alpha = 0.3;
+    emitter.particle.zoom = .2;
+    emitter.particle.mode = 2; // subtract
+
+    // Movement
+    emitter.particle.angle = pi / 2;
+    emitter.particle.speed = 4;
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.1, 0.1);
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -0.15, 0.15);
+    emitter.addlocalmodifier("range", 0, 0.6, "alpha", "replace", 0.3, 0);
+    emitter.addlocalmodifier("range", 0, 0.2, "zoom", "replace", .2, .5);
+    emitter.addlocalmodifier("range", 0.2, 0.4, "zoom", "replace", 1, .5);
+    emitter.addlocalmodifier("range", 0, 0.6, "speed", "replace", 4, 8);
+  }
+
+  with (findimg(201)) {
+    // Fire
+
+    // Emitter attributes
+    layer = 2;
+    emitter.delaymin = 0.05;
+    emitter.delaymax = 0.05;
+    emitter.nrofparticles = 4;
+    emitter.firstinfront = false;
+    emitter.emissionoffset = {0.1, -.25, 0};
+
+    // Basic particle attributes
+    emitter.particle.lifetime = 0.4;
+    emitter.particle.image = "g4_animation_fire.gif";
+
+    // Color
+    emitter.particle.red = 1;
+    emitter.particle.green = 0.5;
+    emitter.particle.blue = 0.5;
+    emitter.particle.alpha = 0.4;
+    emitter.particle.zoom = .15;
+    emitter.particle.mode = 0; // add like a light
+
+    // Movement
+    emitter.particle.angle = pi / 2;
+    emitter.particle.speed = 4;
+    emitter.addlocalmodifier("once", 0, 0, "angle", "add", -0.1, 0.1);
+    emitter.addlocalmodifier("once", 0, 0, "x", "add", -.1, .25);
+    emitter.addlocalmodifier("range", 0, 0.4, "alpha", "replace", 0.4, 0);
+    emitter.addlocalmodifier("range", 0, 0.2, "zoom", "replace", .35, .85);
+    emitter.addlocalmodifier("range", 0.2, 0.4, "zoom", "replace", .15, .5);
+    emitter.addlocalmodifier("range", 0, 0.4, "speed", "replace", 4, 8);
+  }
+}
+if (timeout || playerenters) {
+  showimg 1,light2.png,x-3.1,y-3;
+  changeimgvis 1,3;
+  changeimgcolors 1,1,.5,0,.6;
+  changeimgzoom 1,random(1.3,1.5);
+  timeout=.1;
+}
+NPCEND

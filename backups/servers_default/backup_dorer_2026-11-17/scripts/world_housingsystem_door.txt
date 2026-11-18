@@ -1,0 +1,120 @@
+//this.exit of the door npc that joins this class points to the exit in this format: {level,x,y}
+//this.uniqueDoorIdentifier <- MUST be set. It's used for renting.
+
+function onActionServerSide() {
+  switch(params[0]) {
+    case "toggleOpen":
+    toggleOpen(params[1]);
+    break;
+    case "setOwner":
+    if(findplayer(params[2]).clientr.staff == true) { //params[2] is the account name of the player that said "/rentto"
+      this.ownerAccount = params[1];
+    }
+    break;
+    case "clearOwner":
+    if(findplayer(params[1]).clientr.staff == true || params[1] == this.ownerAccount) {
+      this.ownerAccount = "";
+      this.image = "val_doordark.gif";
+      this.isOpen = false;
+    }
+    break;
+    case "getOwner":
+    Messages.addmsg(3,"The current owner of this house is: "@ this.ownerAccount);
+    if(findplayer(params[1]).clientr.staff == true) {
+      Messages.addmsg(5,"This door was last used " @ getDaysSinceUsed() @" days ago!");
+      Messages.addmsg(5,"USAGE: Use /rentto <account> or /clearowner after clicking the door.");
+    }
+    break;
+  }
+}
+
+function movePlayerInside(player_account) {
+  findplayer(player_account).setlevel2(this.exit[0],this.exit[1],this.exit[2]);
+}
+
+function onCreated() {
+  this.layer = 0;
+  configure();
+}
+
+function setLastUsed() {
+  this.lastUsed = timevar2;
+}
+
+function getLastUsed() {
+  return this.lastUsed;
+}
+
+function onPlayerTouchsMe() {
+  if(this.isOpen) {
+    movePlayerInside(player.account);
+    if(player.account == this.ownerAccount) {
+      setLastUsed();
+      sleep(2);
+      this.image = "val_doordark.gif";
+      this.isOpen = false;
+    }
+  }
+}
+
+function toggleOpen(player_account) {
+  if(player_account == this.ownerAccount || findplayer(player_account).clientr.staff == true) {
+    this.isOpen = !this.isOpen;
+    if(this.isOpen) {
+      this.image = "val_doordarkopen.gif";
+    } else {
+      this.image = "val_doordark.gif";
+    }
+  }
+  else if (this.ownerAccount == "") {
+    Messages.addmsg(10,"#!House is rentable!\n Talk to a RPA about renting it!");
+  }
+}
+
+function serverSideToggleOpen() {
+  this.isOpen = !this.isOpen;
+  if(this.isOpen) {
+    this.image = "val_doordarkopen.gif";
+  } else {
+    this.image = "val_doordark.gif";
+  }
+}
+
+function configure() {
+  setLastUsed();
+  this.image = "val_doordark.gif"; //Door image
+  this.isDoor = true;
+  this.ownerAccount = "";
+  this.isOpen = false;
+}
+
+function getDaysSinceUsed() {
+  return int((getLastUsed()-timevar2)/(3600*24));
+}
+
+//#CLIENTSIDE
+
+function onCreated() {
+  configureClientSide();
+}
+
+function configureClientSide() {
+  this.isDoor = true;
+}
+
+
+public function toggleOpen() {
+  triggerAction(this.x+0.5,this.y+0.5,"ServerSide","toggleOpen",player.account);
+}
+
+public function clearOwner(player_account) {
+  triggerAction(this.x+0.5,this.y+0.5,"ServerSide","clearOwner",player_account);
+}
+
+public function setOwner(player_account,player_who_spoke_command) {
+  triggerAction(this.x+0.5,this.y+0.5,"ServerSide","setOwner",player_account,player_who_spoke_command);
+}
+
+public function getOwner(player_account) {
+  triggerAction(this.x+0.5,this.y+0.5,"ServerSide","getOwner",player_account);
+}
